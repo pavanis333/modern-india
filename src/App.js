@@ -5,6 +5,7 @@ import SubtopicSelector from './components/SubtopicSelector';
 import FlashcardMode from './components/FlashcardMode';
 import QuizMode from './components/QuizMode';
 import europeansData from './data/europeans-in-india.json';
+import portugueseData from './data/portuguese-in-india.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -23,8 +24,13 @@ function App() {
           title: 'Europeans in India - Details at a Glance',
           description: 'Comparative overview of European trading companies',
           data: europeansData
+        },
+        {
+          id: 'portuguese',
+          title: 'Portuguese in India',
+          description: 'Vasco da Gama, Albuquerque, Goa, Blue Water Policy, and Portuguese colonial rule',
+          data: portugueseData
         }
-        // More subtopics can be added here
       ]
     }
   ];
