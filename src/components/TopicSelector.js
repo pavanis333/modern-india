@@ -11,7 +11,10 @@ function TopicSelector({ topics, onSelect }) {
           onClick={() => onSelect(topic)}
         >
           <h3>{topic.title}</h3>
-          <p>{topic.subtitle}</p>
+          <p>{topic.description}</p>
+          <div style={{ marginTop: '10px', fontSize: '0.85rem', color: '#888' }}>
+            📖 {topic.subtopics.length} subtopic{topic.subtopics.length !== 1 ? 's' : ''}
+          </div>
         </div>
       ))}
     </div>
