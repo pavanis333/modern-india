@@ -1,0 +1,416 @@
+{
+  "topic": "Advent of Europeans and Consolidation of British Power",
+  "subtopic": "The English in India",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Key Facts & Dates",
+      "front": "Francis Drake's voyage year?",
+      "back": "1580 - voyage around the world"
+    },
+    {
+      "id": "fc002",
+      "category": "Key Facts & Dates",
+      "front": "English victory over Spanish Armada?",
+      "back": "1588 - fostered British enterprise"
+    },
+    {
+      "id": "fc003",
+      "category": "Key Facts & Dates",
+      "front": "EIC charter date?",
+      "back": "31 December 1600 - Queen Elizabeth I issued charter to Governor and Company of Merchants of London trading into East Indies"
+    },
+    {
+      "id": "fc004",
+      "category": "Key Facts & Dates",
+      "front": "Captain Hawkins arrival?",
+      "back": "1609 - arrived at Jahangir's court seeking permission for factory at Surat"
+    },
+    {
+      "id": "fc005",
+      "category": "Key Facts & Dates",
+      "front": "Masulipatnam trading?",
+      "back": "1611 - trading commenced; factory established 1616"
+    },
+    {
+      "id": "fc006",
+      "category": "Key Facts & Dates",
+      "front": "Captain Thomas Best achievement?",
+      "back": "1612 - defeated Portuguese off Surat; gained permission for English factory in 1613"
+    },
+    {
+      "id": "fc007",
+      "category": "Key Facts & Dates",
+      "front": "Sir Thomas Roe's mission?",
+      "back": "1615 - ambassador of James I, failed commercial treaty but obtained factory privileges at Agra, Ahmedabad, Broach by 1619 [UPSC 2021]"
+    },
+    {
+      "id": "fc008",
+      "category": "Key Facts & Dates",
+      "front": "Golden Farman?",
+      "back": "1632 - Sultan of Golconda granted British trading privileges in Golconda ports for 500 pagodas/year"
+    },
+    {
+      "id": "fc009",
+      "category": "Key Facts & Dates",
+      "front": "Madras establishment?",
+      "back": "1639 - Ruler of Chandragiri permitted Fort St. George, replaced Masulipatnam as South India HQ [UPSC 2022]"
+    },
+    {
+      "id": "fc010",
+      "category": "Key Facts & Dates",
+      "front": "Bombay acquisition?",
+      "back": "1668 - given as dowry to King Charles II; EIC took control for 10 pounds annually"
+    },
+    {
+      "id": "fc011",
+      "category": "Key Facts & Dates",
+      "front": "Hariharpur and Balasore factories?",
+      "back": "1633 - established in Odisha, expansion to Eastern India"
+    },
+    {
+      "id": "fc012",
+      "category": "Key Facts & Dates",
+      "front": "Hooghly factory?",
+      "back": "1651 - set up in Bengal with Shah Shuja's permission for annual payment"
+    },
+    {
+      "id": "fc013",
+      "category": "Key Facts & Dates",
+      "front": "Job Charnock's success?",
+      "back": "1691 - negotiated treaty for factory in Sutanuti"
+    },
+    {
+      "id": "fc014",
+      "category": "Key Facts & Dates",
+      "front": "Calcutta zamindari acquisition?",
+      "back": "1698 - acquired Sutanuti, Gobindapur, Kalikata for Rs 1,200"
+    },
+    {
+      "id": "fc015",
+      "category": "Key Facts & Dates",
+      "front": "Fort William established?",
+      "back": "1700 - eastern presidency seat; Sir Charles Eyre first president"
+    },
+    {
+      "id": "fc016",
+      "category": "Key Facts & Dates",
+      "front": "Bengal export commodities [UPSC 2018]?",
+      "back": "Mid-18th century: Cotton, silk, saltpetre, and opium"
+    },
+    {
+      "id": "fc017",
+      "category": "Key Facts & Dates",
+      "front": "Farrukhsiyar's Farman?",
+      "back": "1715 - John Surman secured three farmans granting privileges in Bengal, Gujarat, Hyderabad"
+    },
+    {
+      "id": "fc018",
+      "category": "Key Facts & Dates",
+      "front": "Company authority to issue commissions?",
+      "back": "1615 - granted authority to issue commissions to captains"
+    },
+    {
+      "id": "fc019",
+      "category": "Key Facts & Dates",
+      "front": "Naval and minting authority?",
+      "back": "1686 - authority to appoint Admirals and mint coins"
+    },
+    {
+      "id": "fc020",
+      "category": "Key Facts & Dates",
+      "front": "Parallel company emergence?",
+      "back": "January 1701-April 1702 - with monopoly license, sent Sir William Norris to Aurangzeb"
+    },
+    {
+      "id": "fc021",
+      "category": "Key Facts & Dates",
+      "front": "Companies merger?",
+      "back": "1708 - merged into United Company of Merchants of England Trading to East Indies"
+    },
+    {
+      "id": "fc022",
+      "category": "Key Facts & Dates",
+      "front": "Old company charter surrender?",
+      "back": "1709 - surrendered charter to Queen Anne"
+    },
+    {
+      "id": "fc023",
+      "category": "Key Facts & Dates",
+      "front": "EIC dominance period?",
+      "back": "1708 to 1873 - after merger as United Company"
+    },
+    {
+      "id": "fc024",
+      "category": "Concepts & Reasons",
+      "front": "What did 1600 charter grant?",
+      "back": "Exclusive trading rights to Governor and Company of Merchants of London trading into East Indies"
+    },
+    {
+      "id": "fc025",
+      "category": "Concepts & Reasons",
+      "front": "What was Golden Farman (1632)?",
+      "back": "Sultan of Golconda granted British free trade in Golconda ports for 500 pagodas per year"
+    },
+    {
+      "id": "fc026",
+      "category": "Concepts & Reasons",
+      "front": "How did EIC get Bombay?",
+      "back": "Given as dowry to King Charles II; Company took control for annual payment of 10 pounds"
+    },
+    {
+      "id": "fc027",
+      "category": "Concepts & Reasons",
+      "front": "What replaced Masulipatnam as South India HQ?",
+      "back": "Fort St. George in Madras (1639) became English headquarters in South India"
+    },
+    {
+      "id": "fc028",
+      "category": "Concepts & Reasons",
+      "front": "Bengal factories established where?",
+      "back": "Hooghly (1651), Kasimbazar, and Patna - with Shah Shuja's permission for annual payment"
+    },
+    {
+      "id": "fc029",
+      "category": "Concepts & Reasons",
+      "front": "William Hedges vs Job Charnock?",
+      "back": "Hedges failed to build fortified settlement; Charnock successfully negotiated treaty for factory in Sutanuti (1691)"
+    },
+    {
+      "id": "fc030",
+      "category": "Concepts & Reasons",
+      "front": "What did 1698 zamindari acquisition include?",
+      "back": "Sutanuti, Gobindapur, and Kalikata (Kalighat) for Rs 1,200"
+    },
+    {
+      "id": "fc031",
+      "category": "Concepts & Reasons",
+      "front": "Fort William significance?",
+      "back": "Established 1700, seat of eastern presidency, Sir Charles Eyre first president"
+    },
+    {
+      "id": "fc032",
+      "category": "Concepts & Reasons",
+      "front": "Farrukhsiyar's Farman privileges (1715)?",
+      "back": "Exemption from customs in Bengal (Rs 3,000/year), authority to issue dastaks, lease lands near Calcutta, duty exemptions in Hyderabad and Surat, Bombay coins recognized in Mughal Empire"
+    },
+    {
+      "id": "fc033",
+      "category": "Concepts & Reasons",
+      "front": "What were dastaks?",
+      "back": "Passes for goods transport - authority granted by Farrukhsiyar's Farman (1715)"
+    },
+    {
+      "id": "fc034",
+      "category": "Concepts & Reasons",
+      "front": "1698-1702 financial difficulties?",
+      "back": "Company unable to provide \u00a32 million to British government"
+    },
+    {
+      "id": "fc035",
+      "category": "Concepts & Reasons",
+      "front": "Why parallel company emerged?",
+      "back": "1701-1702: New company with monopoly trade license sent Sir William Norris as ambassador to Aurangzeb"
+    },
+    {
+      "id": "fc036",
+      "category": "Concepts & Reasons",
+      "front": "1702-1709 company situation?",
+      "back": "Both companies operated together under compromise agreement"
+    },
+    {
+      "id": "fc037",
+      "category": "Concepts & Reasons",
+      "front": "United Company formation?",
+      "back": "1708 merger, 1709 old company surrendered charter to Queen Anne, became United Company of Merchants of England Trading to East Indies"
+    },
+    {
+      "id": "fc038",
+      "category": "UPSC Focus Areas",
+      "front": "Sir Thomas Roe (1615) [UPSC 2021]?",
+      "back": "Ambassador of James I, failed commercial treaty but obtained factory privileges at Agra, Ahmedabad, Broach by 1619"
+    },
+    {
+      "id": "fc039",
+      "category": "UPSC Focus Areas",
+      "front": "Fort St. George [UPSC 2022]?",
+      "back": "Madras establishment (1639), fortified factory replacing Masulipatnam as South India HQ"
+    },
+    {
+      "id": "fc040",
+      "category": "UPSC Focus Areas",
+      "front": "Bengal exports [UPSC 2018]?",
+      "back": "Mid-18th century staple commodities: Cotton, silk, saltpetre, and opium"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "When did Queen Elizabeth I issue the charter to the East India Company?",
+        "options": [
+          "1580",
+          "1588",
+          "31 December 1600",
+          "1609"
+        ],
+        "correct": 2,
+        "explanation": "Queen Elizabeth I issued charter on 31 December 1600 to the Governor and Company of Merchants of London trading into the East Indies with exclusive trading rights."
+      },
+      {
+        "id": "mcq002",
+        "question": "Who defeated the Portuguese off Surat in 1612?",
+        "options": [
+          "Captain Hawkins",
+          "Captain Thomas Best",
+          "Sir Thomas Roe",
+          "Job Charnock"
+        ],
+        "correct": 1,
+        "explanation": "Captain Thomas Best defeated the Portuguese off Surat in 1612, gaining permission for an English factory in 1613."
+      },
+      {
+        "id": "mcq003",
+        "question": "Sir Thomas Roe's achievement by 1619? [UPSC 2021]",
+        "options": [
+          "Secured commercial treaty",
+          "Obtained factory privileges at Agra, Ahmedabad, Broach",
+          "Defeated Portuguese",
+          "Established Fort William"
+        ],
+        "correct": 1,
+        "explanation": "Sir Thomas Roe, ambassador of James I (arrived 1615), failed to secure commercial treaty but obtained privileges for factories at Agra, Ahmedabad, and Broach by 1619 [UPSC 2021]."
+      },
+      {
+        "id": "mcq004",
+        "question": "Golden Farman (1632) was issued by?",
+        "options": [
+          "Mughal Emperor",
+          "Sultan of Golconda",
+          "Ruler of Chandragiri",
+          "Shah Shuja"
+        ],
+        "correct": 1,
+        "explanation": "Golden Farman (1632) issued by Sultan of Golconda, granting British trading privileges in Golconda ports for 500 pagodas per year."
+      },
+      {
+        "id": "mcq005",
+        "question": "When was Fort St. George in Madras established? [UPSC 2022]",
+        "options": [
+          "1613",
+          "1639",
+          "1651",
+          "1668"
+        ],
+        "correct": 1,
+        "explanation": "Madras established in 1639 when Ruler of Chandragiri permitted construction of fortified factory Fort St. George, replacing Masulipatnam as English HQ in South India [UPSC 2022]."
+      },
+      {
+        "id": "mcq006",
+        "question": "How did the English acquire Bombay in 1668?",
+        "options": [
+          "Conquered from Portuguese",
+          "Purchased from Gujarat Sultan",
+          "Given as dowry to King Charles II",
+          "Granted by Mughal Emperor"
+        ],
+        "correct": 2,
+        "explanation": "Bombay was given as dowry to King Charles II in 1668; the East India Company took control for an annual payment of 10 pounds."
+      },
+      {
+        "id": "mcq007",
+        "question": "Who successfully negotiated a treaty for a factory in Sutanuti (1691)?",
+        "options": [
+          "William Hedges",
+          "Job Charnock",
+          "Sir Charles Eyre",
+          "John Surman"
+        ],
+        "correct": 1,
+        "explanation": "Job Charnock successfully negotiated a treaty for a factory in Sutanuti in 1691, while William Hedges had earlier failed to build a fortified settlement."
+      },
+      {
+        "id": "mcq008",
+        "question": "For how much was the zamindari of Sutanuti, Gobindapur, and Kalikata acquired in 1698?",
+        "options": [
+          "Rs 500",
+          "Rs 1,200",
+          "Rs 3,000",
+          "Rs 10,000"
+        ],
+        "correct": 1,
+        "explanation": "In 1698, the Company acquired zamindari of Sutanuti, Gobindapur, and Kalikata (Kalighat) for Rs 1,200."
+      },
+      {
+        "id": "mcq009",
+        "question": "What were the staple export commodities from Bengal in mid-18th century? [UPSC 2018]",
+        "options": [
+          "Spices and gold",
+          "Cotton, silk, saltpetre, and opium",
+          "Tea and coffee",
+          "Textiles only"
+        ],
+        "correct": 1,
+        "explanation": "The staple commodities of export by the English East India Company from Bengal in the middle of the 18th century were Cotton, silk, saltpetre and opium [UPSC 2018]."
+      },
+      {
+        "id": "mcq010",
+        "question": "Who secured Farrukhsiyar's Farman in 1715?",
+        "options": [
+          "Sir Thomas Roe",
+          "Job Charnock",
+          "John Surman",
+          "Sir William Norris"
+        ],
+        "correct": 2,
+        "explanation": "John Surman secured three farmans from Mughal Emperor Farrukhsiyar in 1715, granting Company privileges in Bengal, Gujarat, and Hyderabad."
+      },
+      {
+        "id": "mcq011",
+        "question": "What annual payment did Farrukhsiyar's Farman (1715) require for Bengal customs exemption?",
+        "options": [
+          "Rs 500",
+          "Rs 1,200",
+          "Rs 3,000",
+          "Rs 10,000"
+        ],
+        "correct": 2,
+        "explanation": "Farrukhsiyar's Farman (1715) granted exemption from additional customs duties in Bengal for an annual payment of Rs 3,000."
+      },
+      {
+        "id": "mcq012",
+        "question": "When did the two English companies merge into the United Company?",
+        "options": [
+          "1702",
+          "1708",
+          "1709",
+          "1715"
+        ],
+        "correct": 1,
+        "explanation": "In 1708, two companies merged into the United Company of Merchants of England Trading to the East Indies, marking EIC dominance from 1708 to 1873."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Trace the early ventures and initial trading efforts of the English East India Company from 1580 to 1619, including key personnel and events.",
+        "answer": "Early Ventures: 1580 - Francis Drake's voyage around the world. 1588 - English victory over Spanish Armada fostered British enterprise. 31 December 1600 - Queen Elizabeth I issued charter to the Governor and Company of Merchants of London trading into the East Indies with exclusive trading rights. Initial Trading: 1609 - Captain Hawkins arrived at Jahangir's court seeking permission to establish factory at Surat. 1611 - Trading commenced at Masulipatnam, leading to factory establishment in 1616. 1612 - Captain Thomas Best defeated Portuguese off Surat, gaining permission for English factory in 1613. 1615 - Sir Thomas Roe, ambassador of James I, arrived and though he failed to secure a commercial treaty, obtained privileges for factories at Agra, Ahmedabad, and Broach by 1619 [UPSC 2021]. This period established English presence through diplomatic negotiations and military victories over Portuguese, securing Mughal permissions for trading operations."
+      },
+      {
+        "id": "comp002",
+        "question": "Describe the expansion of English control in Bengal, from initial factories to the establishment of Calcutta and Fort William.",
+        "answer": "Bengal Expansion: Shah Shuja permitted trade for annual payment. Factories set up at Hooghly (1651), Kasimbazar, and Patna. William Hedges attempted to build fortified settlement but failed. Job Charnock successfully negotiated treaty for factory in Sutanuti (1691). 1698 - Acquired zamindari of Sutanuti, Gobindapur, and Kalikata (Kalighat) for Rs 1,200. 1700 - Established Fort William, the eastern presidency's seat, with Sir Charles Eyre as its first president. The staple commodities of export by the English East India Company from Bengal in the middle of the 18th century were Cotton, silk, saltpetre and opium [UPSC 2018]. This systematic expansion from trading permissions to zamindari acquisition to fortified presidency establishment showed transition from purely commercial to territorial-administrative presence."
+      },
+      {
+        "id": "comp003",
+        "question": "Analyze the privileges granted by Farrukhsiyar's Farman (1715) and their significance for English East India Company operations.",
+        "answer": "Farrukhsiyar's Farman (1715): John Surman secured three farmans from Mughal Emperor Farrukhsiyar, granting Company privileges in Bengal, Gujarat, and Hyderabad. Key Privileges: Exemption from additional customs duties in Bengal (annual payment of Rs 3,000). Authority to issue passes (dastaks) for goods transport and lease more lands around Calcutta. Exemption from duties in Hyderabad. Duty exemption in Surat for Rs 10,000. Coins minted in Bombay were recognized throughout the Mughal Empire. Significance: These farmans significantly reduced Company's operational costs through customs exemptions, expanded territorial foothold through land leasing rights, facilitated trade through dastak authority, and provided economic legitimacy through coin recognition. The farmans represented peak of Mughal concessions to Company, enabling extensive commercial operations across multiple regions while paying relatively modest annual sums."
+      },
+      {
+        "id": "comp004",
+        "question": "Explain the company developments from 1615 to 1709, including the emergence of parallel company and eventual merger.",
+        "answer": "Company Developments: 1615 - Company granted authority to issue commissions to captains. 1686 - Authority to appoint Admirals for its navy and mint various coins. 1698-1702 - Faced financial difficulties, unable to provide \u00a32 million to British government. January 1701-April 1702 - A parallel company emerged with monopoly trade licence, sending Sir William Norris as ambassador to Aurangzeb. 1702-1709 - Both companies operated together under compromise agreement. 1709 - The old company surrendered its charter to Queen Anne; United Company of Merchants of England Trading to the East Indies took over. 1708 - Two companies merged into United Company of Merchants of England Trading to the East Indies, marking East India Company's dominance from 1708 to 1873. This period showed Company's evolution from trading entity to quasi-sovereign power (military, diplomatic, minting authorities), financial vulnerabilities creating competition, and ultimate consolidation through merger ensuring monopolistic dominance until 1873."
+      }
+    ]
+  }
+}

@@ -8,6 +8,7 @@ import europeansData from './data/europeans-in-india.json';
 import portugueseData from './data/portuguese-in-india.json';
 import dutchData from './data/dutch-in-india.json';
 import danishData from './data/danish-in-india.json';
+import englishData from './data/english-in-india.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -44,6 +45,12 @@ function App() {
           title: 'Danish (Danes) in India',
           description: 'Tranquebar, Serampore, missionary activities, and sale to British (1845)',
           data: danishData
+        },
+        {
+          id: 'english',
+          title: 'The English in India',
+          description: 'EIC charter, early ventures, Bombay, Madras, Bengal expansion, and Company developments',
+          data: englishData
         }
       ]
     }
