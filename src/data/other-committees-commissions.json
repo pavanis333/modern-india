@@ -1,0 +1,209 @@
+{
+  "topic": "British Policies and their Economic Impacts",
+  "subtopic": "Other Committees and Commissions",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Other Committees and Commissions",
+      "front": "Shore Committee (1914)?",
+      "back": "Objectives: To fight for the rights of the passengers of the Komagata Maru Incident of 1914. Leaders/Members: Hussain Rahim, Sohan Lal Pathak, and Balwant Singh"
+    },
+    {
+      "id": "fc002",
+      "category": "Other Committees and Commissions",
+      "front": "Lottery Committee (1817)?",
+      "back": "Objectives: Assisted the government in the task of town planning in Calcutta. Governor General/Viceroy: Lord Hastings"
+    },
+    {
+      "id": "fc003",
+      "category": "Other Committees and Commissions",
+      "front": "Opium Commission (1893)?",
+      "back": "Objectives: To investigate the effects of opium on health. Governor General/Viceroy: Lord Lansdowne"
+    },
+    {
+      "id": "fc004",
+      "category": "Other Committees and Commissions",
+      "front": "Rowlatt Committee (1917)?",
+      "back": "Chairman: Sydney Rowlatt. Objectives: A Sedition Committee which authorised the arrest, for 2 years without trial, of any person suspected of terrorism living in British India. Governor General/Viceroy: Lord Chelmsford"
+    },
+    {
+      "id": "fc005",
+      "category": "Other Committees and Commissions",
+      "front": "Southborough Committee OR Indian Franchise Committee (1918-19)?",
+      "back": "Chairman: Francis Hopwood. Objectives: To decide on the issue of franchise. Governor General/Viceroy: Lord Chelmsford"
+    },
+    {
+      "id": "fc006",
+      "category": "Other Committees and Commissions",
+      "front": "Feetham Function Committee (1918-19)?",
+      "back": "Chairman: Richard Feetham. Objectives: It proposed a suggested allocation of subjects between the Center and the Provinces, addressing the division of provincial subjects into Reserved and Transferred categories as well. Governor General/Viceroy: Lord Chelmsford"
+    },
+    {
+      "id": "fc007",
+      "category": "Other Committees and Commissions",
+      "front": "Indian Jail Reforms Committee (1919)?",
+      "back": "Chairman: Sir Alexander Cardew. Objectives: To improve the conditions of prisoners. Governor General/Viceroy: Lord Chelmsford"
+    },
+    {
+      "id": "fc008",
+      "category": "Other Committees and Commissions",
+      "front": "Sandhurst Committee (1926)?",
+      "back": "Chairman: Andrew Skeen. Objectives: To suggest Indianization of the Indian Army. Governor General/Viceroy: Lord Reading"
+    },
+    {
+      "id": "fc009",
+      "category": "Other Committees and Commissions",
+      "front": "Indian Franchise Committee OR Lothian Committee (1932)?",
+      "back": "Chairman: Lothian. Objectives: The Communal Award of 1932, rooted in the conclusions of the Lothian Committee, instituted distinct electorates and allocated reserved seats for minorities. Notably, the depressed classes were accorded seventy-eight reserved seats. Governor General/Viceroy: Lord Willingdon"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Shore Committee (1914) related to?",
+        "options": [
+          "Town planning",
+          "Komagata Maru Incident",
+          "Opium effects",
+          "Franchise"
+        ],
+        "correct": 1,
+        "explanation": "Shore Committee (1914) fought for rights of passengers of Komagata Maru Incident; members: Hussain Rahim, Sohan Lal Pathak, Balwant Singh."
+      },
+      {
+        "id": "mcq002",
+        "question": "Lottery Committee (1817) assisted in?",
+        "options": [
+          "Franchise",
+          "Town planning in Calcutta",
+          "Opium investigation",
+          "Jail reforms"
+        ],
+        "correct": 1,
+        "explanation": "Lottery Committee (1817) assisted government in task of town planning in Calcutta during Lord Hastings."
+      },
+      {
+        "id": "mcq003",
+        "question": "Opium Commission (1893) objective?",
+        "options": [
+          "Town planning",
+          "To investigate the effects of opium on health",
+          "Franchise",
+          "Jail reforms"
+        ],
+        "correct": 1,
+        "explanation": "Opium Commission (1893) investigated effects of opium on health during Lord Lansdowne."
+      },
+      {
+        "id": "mcq004",
+        "question": "Rowlatt Committee (1917) chairman?",
+        "options": [
+          "Sydney Rowlatt",
+          "Francis Hopwood",
+          "Richard Feetham",
+          "Andrew Skeen"
+        ],
+        "correct": 0,
+        "explanation": "Rowlatt Committee (1917) chaired by Sydney Rowlatt."
+      },
+      {
+        "id": "mcq005",
+        "question": "Rowlatt Committee (1917) was?",
+        "options": [
+          "Franchise committee",
+          "Sedition Committee authorising arrest for 2 years without trial",
+          "Town planning",
+          "Opium investigation"
+        ],
+        "correct": 1,
+        "explanation": "Rowlatt Committee (1917) was Sedition Committee authorising arrest for 2 years without trial of terrorism suspects."
+      },
+      {
+        "id": "mcq006",
+        "question": "Southborough/Indian Franchise Committee (1918-19) chairman?",
+        "options": [
+          "Sydney Rowlatt",
+          "Francis Hopwood",
+          "Richard Feetham",
+          "Lothian"
+        ],
+        "correct": 1,
+        "explanation": "Southborough/Indian Franchise Committee (1918-19) chaired by Francis Hopwood."
+      },
+      {
+        "id": "mcq007",
+        "question": "Feetham Function Committee (1918-19) addressed?",
+        "options": [
+          "Franchise",
+          "Allocation of subjects between Center and Provinces, Reserved and Transferred categories",
+          "Opium",
+          "Jail reforms"
+        ],
+        "correct": 1,
+        "explanation": "Feetham Function Committee (1918-19) proposed allocation of subjects between Center and Provinces, division into Reserved and Transferred categories."
+      },
+      {
+        "id": "mcq008",
+        "question": "Indian Jail Reforms Committee (1919) chairman?",
+        "options": [
+          "Sydney Rowlatt",
+          "Sir Alexander Cardew",
+          "Andrew Skeen",
+          "Lothian"
+        ],
+        "correct": 1,
+        "explanation": "Indian Jail Reforms Committee (1919) chaired by Sir Alexander Cardew."
+      },
+      {
+        "id": "mcq009",
+        "question": "Sandhurst Committee (1926) objective?",
+        "options": [
+          "Jail reforms",
+          "To suggest Indianization of the Indian Army",
+          "Franchise",
+          "Town planning"
+        ],
+        "correct": 1,
+        "explanation": "Sandhurst Committee (1926) aimed to suggest Indianization of the Indian Army; chairman Andrew Skeen, Lord Reading."
+      },
+      {
+        "id": "mcq010",
+        "question": "Lothian Committee (1932) led to?",
+        "options": [
+          "Jail reforms",
+          "Communal Award of 1932, distinct electorates, reserved seats for minorities",
+          "Army Indianization",
+          "Town planning"
+        ],
+        "correct": 1,
+        "explanation": "Lothian Committee (1932) led to Communal Award of 1932, instituting distinct electorates and reserved seats; depressed classes got 78 reserved seats."
+      },
+      {
+        "id": "mcq011",
+        "question": "Depressed classes reserved seats under Communal Award?",
+        "options": [
+          "50",
+          "68",
+          "Seventy-eight",
+          "100"
+        ],
+        "correct": 2,
+        "explanation": "Communal Award of 1932 (Lothian Committee) accorded depressed classes seventy-eight reserved seats."
+      },
+      {
+        "id": "mcq012",
+        "question": "Which committees were under Lord Chelmsford?",
+        "options": [
+          "Only Rowlatt",
+          "Rowlatt (1917), Southborough (1918-19), Feetham (1918-19), Indian Jail Reforms (1919)",
+          "Only Sandhurst",
+          "Only Lothian"
+        ],
+        "correct": 1,
+        "explanation": "Lord Chelmsford: Rowlatt (1917), Southborough (1918-19), Feetham (1918-19), Indian Jail Reforms (1919)."
+      }
+    ],
+    "comprehensive": []
+  }
+}

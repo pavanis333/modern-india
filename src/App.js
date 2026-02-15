@@ -59,6 +59,7 @@ import famineCommissionsData from './data/famine-commissions.json';
 import lawCommissionsData from './data/law-commissions.json';
 import currencyCommitteesData from './data/currency-committees.json';
 import civilServiceCommissionsData from './data/civil-service-commissions.json';
+import otherCommitteesCommissionsData from './data/other-committees-commissions.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -464,6 +465,12 @@ function App() {
           title: 'Civil Service - Commissions',
           description: 'Aitchison (1886 involve Indians/Dufferin), Fraser (1902 police/Curzon), Royal/Islington (1912 25% posts/Hardinge), Lee (1924 remove defects/Reading)',
           data: civilServiceCommissionsData
+        },
+        {
+          id: 'other-committees-commissions',
+          title: 'Other Committees and Commissions',
+          description: 'Shore (1914 Komagata Maru), Lottery (1817 Calcutta), Opium (1893), Rowlatt (1917 Sedition), Sandhurst (1926 Army), Lothian (1932 Communal Award)',
+          data: otherCommitteesCommissionsData
         }
       ]
     }
