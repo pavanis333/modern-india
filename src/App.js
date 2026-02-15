@@ -45,7 +45,7 @@ function App() {
               <div className="mode-card" onClick={() => setMode('flashcard')}>
                 <div className="mode-icon">🃏</div>
                 <h2>Flashcards</h2>
-                <p>{currentTopic.data.flashcards.length} cards</p>
+                <p>{currentTopic.data.flashcards.length} cards • 5 categories</p>
               </div>
               <div className="mode-card" onClick={() => setMode('quiz')}>
                 <div className="mode-icon">📝</div>

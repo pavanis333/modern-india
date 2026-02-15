@@ -3,11 +3,20 @@ import React, { useState } from 'react';
 function FlashcardMode({ flashcards, onBack }) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
+  const [selectedCategory, setSelectedCategory] = useState('all');
 
-  const currentCard = flashcards[currentIndex];
+  // Get unique categories
+  const categories = ['all', ...new Set(flashcards.map(card => card.category || 'Uncategorized'))];
+  
+  // Filter cards by category
+  const filteredCards = selectedCategory === 'all' 
+    ? flashcards 
+    : flashcards.filter(card => (card.category || 'Uncategorized') === selectedCategory);
+
+  const currentCard = filteredCards[currentIndex];
 
   const nextCard = () => {
-    if (currentIndex < flashcards.length - 1) {
+    if (currentIndex < filteredCards.length - 1) {
       setCurrentIndex(currentIndex + 1);
       setIsFlipped(false);
     }
@@ -24,10 +33,35 @@ function FlashcardMode({ flashcards, onBack }) {
     setIsFlipped(!isFlipped);
   };
 
+  const handleCategoryChange = (category) => {
+    setSelectedCategory(category);
+    setCurrentIndex(0);
+    setIsFlipped(false);
+  };
+
   return (
     <div className="flashcard-container">
+      {/* Category Filter */}
+      <div className="category-filter">
+        {categories.map(cat => (
+          <button
+            key={cat}
+            className={`category-btn ${selectedCategory === cat ? 'active' : ''}`}
+            onClick={() => handleCategoryChange(cat)}
+          >
+            {cat === 'all' ? '📚 All' : cat}
+            {cat !== 'all' && ` (${flashcards.filter(c => c.category === cat).length})`}
+          </button>
+        ))}
+      </div>
+
       <div className="flashcard-progress">
-        <strong>Card {currentIndex + 1} of {flashcards.length}</strong>
+        <strong>Card {currentIndex + 1} of {filteredCards.length}</strong>
+        {currentCard.category && (
+          <span style={{ marginLeft: '15px', color: '#667eea', fontSize: '0.9rem' }}>
+            📂 {currentCard.category}
+          </span>
+        )}
         <div style={{ 
           background: '#ddd', 
           height: '8px', 
@@ -38,7 +72,7 @@ function FlashcardMode({ flashcards, onBack }) {
           <div style={{ 
             background: 'linear-gradient(90deg, #667eea 0%, #764ba2 100%)',
             height: '100%', 
-            width: `${((currentIndex + 1) / flashcards.length) * 100}%`,
+            width: `${((currentIndex + 1) / filteredCards.length) * 100}%`,
             transition: 'width 0.3s ease'
           }} />
         </div>
@@ -67,7 +101,7 @@ function FlashcardMode({ flashcards, onBack }) {
         <button 
           className="nav-btn"
           onClick={nextCard}
-          disabled={currentIndex === flashcards.length - 1}
+          disabled={currentIndex === filteredCards.length - 1}
         >
           Next ➡️
         </button>
