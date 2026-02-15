@@ -1,0 +1,179 @@
+{
+  "topic": "British Policies and their Economic Impacts",
+  "subtopic": "Law - Commissions",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Law Commissions",
+      "front": "First Law Commission (1834)?",
+      "back": "Chairman: Lord Macaulay. Objectives: To recommend the codification of the Penal Code, the Criminal Procedure Code, and other matters. Governor General/Viceroy: Lord William Bentinck"
+    },
+    {
+      "id": "fc002",
+      "category": "Law Commissions",
+      "front": "Second Law Commission (1853)?",
+      "back": "Chairman: Sir John Romilly. Objectives: To recommend the Indian Code of Civil Procedure, the Indian Contract Act, etc. Governor General/Viceroy: Lord Dalhousie"
+    },
+    {
+      "id": "fc003",
+      "category": "Law Commissions",
+      "front": "Third Law Commission (1861)?",
+      "back": "Chairman: Sir John Romilly. Objectives: To recommend the Indian Evidence Act, the Transfer of Property Act, etc. Governor General/Viceroy: Lord Canning"
+    },
+    {
+      "id": "fc004",
+      "category": "Law Commissions",
+      "front": "Fourth Law Commission (1879)?",
+      "back": "Chairman: Dr. Whitley Stokes. Objectives: To recommend codes on Negotiable Instruments, Trusts Law, Transfer of Property, Easements, Criminal Procedure, and Civil Procedure. Governor General/Viceroy: Lord Lytton"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "First Law Commission (1834) chairman?",
+        "options": [
+          "Lord Macaulay",
+          "Sir John Romilly",
+          "Dr. Whitley Stokes",
+          "Lord Canning"
+        ],
+        "correct": 0,
+        "explanation": "First Law Commission (1834) chaired by Lord Macaulay."
+      },
+      {
+        "id": "mcq002",
+        "question": "First Law Commission (1834) objective?",
+        "options": [
+          "Civil Procedure",
+          "To recommend the codification of the Penal Code, the Criminal Procedure Code, and other matters",
+          "Evidence Act",
+          "Trusts Law"
+        ],
+        "correct": 1,
+        "explanation": "First Law Commission (1834) aimed to recommend codification of Penal Code, Criminal Procedure Code, and other matters."
+      },
+      {
+        "id": "mcq003",
+        "question": "First Law Commission (1834) - Governor General?",
+        "options": [
+          "Lord William Bentinck",
+          "Lord Dalhousie",
+          "Lord Canning",
+          "Lord Lytton"
+        ],
+        "correct": 0,
+        "explanation": "First Law Commission (1834) during Lord William Bentinck's tenure."
+      },
+      {
+        "id": "mcq004",
+        "question": "Second Law Commission (1853) chairman?",
+        "options": [
+          "Lord Macaulay",
+          "Sir John Romilly",
+          "Dr. Whitley Stokes",
+          "Lord William Bentinck"
+        ],
+        "correct": 1,
+        "explanation": "Second Law Commission (1853) chaired by Sir John Romilly."
+      },
+      {
+        "id": "mcq005",
+        "question": "Second Law Commission (1853) objective?",
+        "options": [
+          "Penal Code",
+          "To recommend the Indian Code of Civil Procedure, the Indian Contract Act, etc.",
+          "Evidence Act",
+          "Criminal Procedure"
+        ],
+        "correct": 1,
+        "explanation": "Second Law Commission (1853) aimed to recommend Indian Code of Civil Procedure, Indian Contract Act, etc."
+      },
+      {
+        "id": "mcq006",
+        "question": "Second Law Commission (1853) - Governor General?",
+        "options": [
+          "Lord Bentinck",
+          "Lord Dalhousie",
+          "Lord Canning",
+          "Lord Lytton"
+        ],
+        "correct": 1,
+        "explanation": "Second Law Commission (1853) during Lord Dalhousie's tenure."
+      },
+      {
+        "id": "mcq007",
+        "question": "Third Law Commission (1861) chairman?",
+        "options": [
+          "Lord Macaulay",
+          "Sir John Romilly",
+          "Dr. Whitley Stokes",
+          "Lord Canning"
+        ],
+        "correct": 1,
+        "explanation": "Third Law Commission (1861) chaired by Sir John Romilly."
+      },
+      {
+        "id": "mcq008",
+        "question": "Third Law Commission (1861) objective?",
+        "options": [
+          "Penal Code",
+          "Contract Act",
+          "To recommend the Indian Evidence Act, the Transfer of Property Act, etc.",
+          "Trusts Law"
+        ],
+        "correct": 2,
+        "explanation": "Third Law Commission (1861) aimed to recommend Indian Evidence Act, Transfer of Property Act, etc."
+      },
+      {
+        "id": "mcq009",
+        "question": "Fourth Law Commission (1879) chairman?",
+        "options": [
+          "Lord Macaulay",
+          "Sir John Romilly",
+          "Dr. Whitley Stokes",
+          "Lord Lytton"
+        ],
+        "correct": 2,
+        "explanation": "Fourth Law Commission (1879) chaired by Dr. Whitley Stokes."
+      },
+      {
+        "id": "mcq010",
+        "question": "Fourth Law Commission (1879) comprehensive objectives?",
+        "options": [
+          "Only Penal Code",
+          "Only Civil Procedure",
+          "To recommend codes on Negotiable Instruments, Trusts Law, Transfer of Property, Easements, Criminal Procedure, and Civil Procedure",
+          "Only Contract Act"
+        ],
+        "correct": 2,
+        "explanation": "Fourth Law Commission (1879) recommended codes on Negotiable Instruments, Trusts Law, Transfer of Property, Easements, Criminal Procedure, and Civil Procedure."
+      },
+      {
+        "id": "mcq011",
+        "question": "Fourth Law Commission (1879) - Governor General?",
+        "options": [
+          "Lord Bentinck",
+          "Lord Dalhousie",
+          "Lord Canning",
+          "Lord Lytton"
+        ],
+        "correct": 3,
+        "explanation": "Fourth Law Commission (1879) during Lord Lytton's tenure."
+      },
+      {
+        "id": "mcq012",
+        "question": "Sir John Romilly chaired which commissions?",
+        "options": [
+          "First only",
+          "Second and Third Law Commissions (1853 and 1861)",
+          "Fourth only",
+          "All commissions"
+        ],
+        "correct": 1,
+        "explanation": "Sir John Romilly chaired both Second Law Commission (1853) and Third Law Commission (1861)."
+      }
+    ],
+    "comprehensive": []
+  }
+}

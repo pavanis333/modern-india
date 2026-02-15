@@ -56,6 +56,7 @@ import educationCommitteesData from './data/education-committees.json';
 import governanceCommitteesData from './data/governance-committees.json';
 import economicCommissionsData from './data/economic-commissions.json';
 import famineCommissionsData from './data/famine-commissions.json';
+import lawCommissionsData from './data/law-commissions.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -443,6 +444,12 @@ function App() {
           title: 'Famine - Commissions',
           description: 'Campbell (1866 Odisha), Strachey (1880 Famine Code), Lyall (1897 irrigation), MacDonnell (1900 year-round), Woodhead (1943-44 Bengal)',
           data: famineCommissionsData
+        },
+        {
+          id: 'law-commissions',
+          title: 'Law - Commissions',
+          description: 'Macaulay (1834 Penal/Criminal Procedure), Romilly (1853 Civil Procedure/Contract, 1861 Evidence/Transfer), Stokes (1879 Negotiable Instruments/Trusts)',
+          data: lawCommissionsData
         }
       ]
     }
