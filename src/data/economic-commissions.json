@@ -1,0 +1,185 @@
+{
+  "topic": "British Policies and their Economic Impacts",
+  "subtopic": "Economic Commissions and Committees",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Economic Commissions and Committees",
+      "front": "Whitley Commission (1929)?",
+      "back": "Chairman: JH Whitley. Objectives: To study the condition of labour in Industries and gardens. Governor General/Viceroy: Lord Irwin"
+    },
+    {
+      "id": "fc002",
+      "category": "Economic Commissions and Committees",
+      "front": "Sapru Commission (Unemployment) (1935)?",
+      "back": "Chairman: Tej Bahdur Sapru. Objectives: To address unemployment issues in the United Provinces. Governor General/Viceroy: Lord Linlithgow"
+    },
+    {
+      "id": "fc003",
+      "category": "Economic Commissions and Committees",
+      "front": "National Planning Committee (1938)?",
+      "back": "Chairman: Jawaharlal Nehru. Objectives: To prepare an economic plan. Governor General/Viceroy: Congress committee"
+    },
+    {
+      "id": "fc004",
+      "category": "Economic Commissions and Committees",
+      "front": "Chatfield Commission (Army) (1939)?",
+      "back": "Lord Chatfield. Objectives: To assess the army's needs and reforms. Governor General/Viceroy: Lord Linlithgow"
+    },
+    {
+      "id": "fc005",
+      "category": "Economic Commissions and Committees",
+      "front": "Floud Commission (Tenancy Issues) (1940)?",
+      "back": "Chairman: Francis Floud. Objectives: To investigate tenancy issues in Bengal. Governor General/Viceroy: Lord Linlithgow"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Whitley Commission (1929) chairman?",
+        "options": [
+          "JH Whitley",
+          "Tej Bahdur Sapru",
+          "Jawaharlal Nehru",
+          "Francis Floud"
+        ],
+        "correct": 0,
+        "explanation": "Whitley Commission (1929) chaired by JH Whitley."
+      },
+      {
+        "id": "mcq002",
+        "question": "Whitley Commission (1929) objective?",
+        "options": [
+          "Address unemployment",
+          "To study the condition of labour in Industries and gardens",
+          "Prepare economic plan",
+          "Assess army needs"
+        ],
+        "correct": 1,
+        "explanation": "Whitley Commission (1929) aimed to study the condition of labour in Industries and gardens."
+      },
+      {
+        "id": "mcq003",
+        "question": "Whitley Commission (1929) - Viceroy?",
+        "options": [
+          "Lord Chelmsford",
+          "Lord Irwin",
+          "Lord Linlithgow",
+          "Lord Reading"
+        ],
+        "correct": 1,
+        "explanation": "Whitley Commission (1929) during Lord Irwin's tenure."
+      },
+      {
+        "id": "mcq004",
+        "question": "Sapru Commission (1935) chairman?",
+        "options": [
+          "JH Whitley",
+          "Tej Bahdur Sapru",
+          "Jawaharlal Nehru",
+          "Francis Floud"
+        ],
+        "correct": 1,
+        "explanation": "Sapru Commission (Unemployment, 1935) chaired by Tej Bahdur Sapru."
+      },
+      {
+        "id": "mcq005",
+        "question": "Sapru Commission (1935) objective?",
+        "options": [
+          "Study labour",
+          "To address unemployment issues in the United Provinces",
+          "Prepare economic plan",
+          "Investigate tenancy"
+        ],
+        "correct": 1,
+        "explanation": "Sapru Commission (1935) aimed to address unemployment issues in the United Provinces."
+      },
+      {
+        "id": "mcq006",
+        "question": "National Planning Committee (1938) chairman?",
+        "options": [
+          "JH Whitley",
+          "Tej Bahdur Sapru",
+          "Jawaharlal Nehru",
+          "Lord Chatfield"
+        ],
+        "correct": 2,
+        "explanation": "National Planning Committee (1938) chaired by Jawaharlal Nehru."
+      },
+      {
+        "id": "mcq007",
+        "question": "National Planning Committee (1938) objective?",
+        "options": [
+          "Study labour",
+          "Address unemployment",
+          "To prepare an economic plan",
+          "Assess army needs"
+        ],
+        "correct": 2,
+        "explanation": "National Planning Committee (1938) aimed to prepare an economic plan."
+      },
+      {
+        "id": "mcq008",
+        "question": "National Planning Committee (1938) authority?",
+        "options": [
+          "Lord Irwin",
+          "Lord Linlithgow",
+          "Congress committee",
+          "British government"
+        ],
+        "correct": 2,
+        "explanation": "National Planning Committee (1938) was a Congress committee."
+      },
+      {
+        "id": "mcq009",
+        "question": "Chatfield Commission (1939) focus?",
+        "options": [
+          "Labour issues",
+          "Unemployment",
+          "To assess the army's needs and reforms",
+          "Tenancy issues"
+        ],
+        "correct": 2,
+        "explanation": "Chatfield Commission (Army, 1939) aimed to assess the army's needs and reforms."
+      },
+      {
+        "id": "mcq010",
+        "question": "Floud Commission (1940) chairman?",
+        "options": [
+          "JH Whitley",
+          "Tej Bahdur Sapru",
+          "Francis Floud",
+          "Lord Chatfield"
+        ],
+        "correct": 2,
+        "explanation": "Floud Commission (Tenancy Issues, 1940) chaired by Francis Floud."
+      },
+      {
+        "id": "mcq011",
+        "question": "Floud Commission (1940) objective?",
+        "options": [
+          "Study labour",
+          "Address unemployment",
+          "Prepare economic plan",
+          "To investigate tenancy issues in Bengal"
+        ],
+        "correct": 3,
+        "explanation": "Floud Commission (1940) aimed to investigate tenancy issues in Bengal."
+      },
+      {
+        "id": "mcq012",
+        "question": "Which commissions were under Lord Linlithgow?",
+        "options": [
+          "Only Sapru",
+          "Sapru (1935), Chatfield (1939), and Floud (1940)",
+          "Only National Planning",
+          "Only Whitley"
+        ],
+        "correct": 1,
+        "explanation": "Sapru Commission (1935), Chatfield Commission (1939), and Floud Commission (1940) were all under Lord Linlithgow."
+      }
+    ],
+    "comprehensive": []
+  }
+}

@@ -54,6 +54,7 @@ import tradeUnionsCongressMinistriesData from './data/trade-unions-congress-mini
 import agricultureIrrigationCommitteesData from './data/agriculture-irrigation-committees.json';
 import educationCommitteesData from './data/education-committees.json';
 import governanceCommitteesData from './data/governance-committees.json';
+import economicCommissionsData from './data/economic-commissions.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -429,6 +430,12 @@ function App() {
           title: 'Governance - Committees and Commissions',
           description: 'Hunter/Disorders Inquiry (1919 Punjab), Muddiman (1924 diarchy), Butler (1927 Indian states), Simon (1928)',
           data: governanceCommitteesData
+        },
+        {
+          id: 'economic-commissions',
+          title: 'Economic Commissions and Committees',
+          description: 'Whitley (1929 labour), Sapru (1935 unemployment UP), National Planning (1938 Nehru/Congress), Chatfield (1939 army), Floud (1940 tenancy Bengal)',
+          data: economicCommissionsData
         }
       ]
     }
