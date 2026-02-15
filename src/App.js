@@ -17,6 +17,8 @@ import awadhData from './data/awadh.json';
 import bengalData from './data/bengal.json';
 import mysoreKeralaData from './data/mysore-kerala.json';
 import sikhsData from './data/sikhs.json';
+import marathasData from './data/marathas.json';
+import rohilkhandData from './data/rohilkhand-farrukhabad.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -107,6 +109,18 @@ function App() {
           title: 'The Sikhs (The New States)',
           description: 'Guru Tegh Bahadur, Khalsa (1699), Banda Bahadur, Ranjit Singh, Treaty of Amritsar (1809)',
           data: sikhsData
+        },
+        {
+          id: 'marathas',
+          title: 'The Marathas (The New States)',
+          description: 'Deccan origins, Chauth/Sardeshmukhi, Shivaji, Peshwas, Baji Rao I, Third Panipat (1761)',
+          data: marathasData
+        },
+        {
+          id: 'rohilkhand',
+          title: 'Rohilkhand and Farrukhabad (The New States)',
+          description: 'Rohillas (Daud, Ali Mohammad Khan), Mohammad Khan Bangash, post-Nadir Shah opportunism',
+          data: rohilkhandData
         }
       ]
     }

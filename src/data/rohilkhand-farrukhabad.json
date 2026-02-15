@@ -1,0 +1,220 @@
+{
+  "topic": "Advent of Europeans and Consolidation of British Power",
+  "subtopic": "Rohilkhand and Farrukhabad (The New States)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Key Facts",
+      "front": "Who established Rohilkhand?",
+      "back": "The Rohillas, led by Daud and his son Ali Mohammad Khan"
+    },
+    {
+      "id": "fc002",
+      "category": "Key Facts",
+      "front": "Where was Rohilkhand established from?",
+      "back": "From Bareilly, post-Nadir Shah's invasion"
+    },
+    {
+      "id": "fc003",
+      "category": "Key Facts",
+      "front": "When was Rohilkhand established?",
+      "back": "Post-Nadir Shah's invasion (after 1738-39), capitalising on Mughal weakness"
+    },
+    {
+      "id": "fc004",
+      "category": "Key Facts",
+      "front": "What enabled Rohilkhand establishment?",
+      "back": "Capitalised on Mughal weakness post-Nadir Shah's invasion"
+    },
+    {
+      "id": "fc005",
+      "category": "Key Facts",
+      "front": "Who established Farrukhabad?",
+      "back": "Mohammad Khan Bangash, an Afghan chieftain"
+    },
+    {
+      "id": "fc006",
+      "category": "Key Facts",
+      "front": "Where was Farrukhabad located?",
+      "back": "Near Delhi"
+    },
+    {
+      "id": "fc007",
+      "category": "Key Facts",
+      "front": "What was Mohammad Khan Bangash?",
+      "back": "Afghan chieftain who established Farrukhabad near Delhi"
+    },
+    {
+      "id": "fc008",
+      "category": "Concepts & Context",
+      "front": "Who were Rohillas?",
+      "back": "Group led by Daud and son Ali Mohammad Khan who established Rohilkhand from Bareilly"
+    },
+    {
+      "id": "fc009",
+      "category": "Concepts & Context",
+      "front": "Rohilkhand timing significance?",
+      "back": "Established post-Nadir Shah's invasion, capitalising on Mughal weakness - opportunistic state formation"
+    },
+    {
+      "id": "fc010",
+      "category": "Concepts & Context",
+      "front": "Rohilla leadership succession?",
+      "back": "Daud led Rohillas, succeeded by his son Ali Mohammad Khan"
+    },
+    {
+      "id": "fc011",
+      "category": "Concepts & Context",
+      "front": "Farrukhabad founder's background?",
+      "back": "Mohammad Khan Bangash, Afghan chieftain - Afghan origin establishing state near Delhi"
+    },
+    {
+      "id": "fc012",
+      "category": "Concepts & Context",
+      "front": "Common pattern: Rohilkhand & Farrukhabad?",
+      "back": "Both established by taking advantage of Mughal weakness (Nadir Shah's invasion aftermath)"
+    },
+    {
+      "id": "fc013",
+      "category": "Concepts & Context",
+      "front": "Why 'The New States'?",
+      "back": "Rohilkhand and Farrukhabad established through rebellion/opportunism, not from Mughal provinces"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Who led the Rohillas in establishing Rohilkhand?",
+        "options": [
+          "Nadir Shah",
+          "Daud and his son Ali Mohammad Khan",
+          "Mohammad Khan Bangash",
+          "Ahmad Shah Abdali"
+        ],
+        "correct": 1,
+        "explanation": "The Rohillas were led by Daud and his son Ali Mohammad Khan in establishing Rohilkhand."
+      },
+      {
+        "id": "mcq002",
+        "question": "From which city was Rohilkhand established?",
+        "options": [
+          "Delhi",
+          "Agra",
+          "Bareilly",
+          "Lucknow"
+        ],
+        "correct": 2,
+        "explanation": "Rohilkhand was established from Bareilly by the Rohillas."
+      },
+      {
+        "id": "mcq003",
+        "question": "When was Rohilkhand established?",
+        "options": [
+          "Before Nadir Shah's invasion",
+          "Post-Nadir Shah's invasion",
+          "During Aurangzeb's reign",
+          "After Battle of Plassey"
+        ],
+        "correct": 1,
+        "explanation": "Rohilkhand was established post-Nadir Shah's invasion (after 1738-39)."
+      },
+      {
+        "id": "mcq004",
+        "question": "What enabled Rohilkhand's establishment?",
+        "options": [
+          "British support",
+          "Mughal grants",
+          "Capitalising on Mughal weakness post-Nadir Shah",
+          "Maratha alliance"
+        ],
+        "correct": 2,
+        "explanation": "Rohilkhand establishment capitalised on Mughal weakness following Nadir Shah's invasion."
+      },
+      {
+        "id": "mcq005",
+        "question": "Who succeeded Daud as Rohilla leader?",
+        "options": [
+          "Mohammad Khan Bangash",
+          "His son Ali Mohammad Khan",
+          "Nadir Shah",
+          "Ahmad Shah Abdali"
+        ],
+        "correct": 1,
+        "explanation": "Daud was succeeded by his son Ali Mohammad Khan in leading the Rohillas."
+      },
+      {
+        "id": "mcq006",
+        "question": "Who established Farrukhabad?",
+        "options": [
+          "Daud",
+          "Ali Mohammad Khan",
+          "Mohammad Khan Bangash",
+          "Nadir Shah"
+        ],
+        "correct": 2,
+        "explanation": "Mohammad Khan Bangash, an Afghan chieftain, established Farrukhabad."
+      },
+      {
+        "id": "mcq007",
+        "question": "What was Mohammad Khan Bangash's background?",
+        "options": [
+          "Mughal official",
+          "Afghan chieftain",
+          "Maratha commander",
+          "British agent"
+        ],
+        "correct": 1,
+        "explanation": "Mohammad Khan Bangash was an Afghan chieftain who established Farrukhabad."
+      },
+      {
+        "id": "mcq008",
+        "question": "Where was Farrukhabad established?",
+        "options": [
+          "Near Bareilly",
+          "Near Delhi",
+          "Near Agra",
+          "Near Lucknow"
+        ],
+        "correct": 1,
+        "explanation": "Farrukhabad was established by Mohammad Khan Bangash near Delhi."
+      },
+      {
+        "id": "mcq009",
+        "question": "What do Rohilkhand and Farrukhabad have in common?",
+        "options": [
+          "Both Mughal provinces",
+          "Both established capitalizing on Mughal weakness",
+          "Both British territories",
+          "Both Maratha conquests"
+        ],
+        "correct": 1,
+        "explanation": "Both Rohilkhand and Farrukhabad were established by capitalizing on Mughal weakness post-Nadir Shah's invasion."
+      },
+      {
+        "id": "mcq010",
+        "question": "Rohilkhand and Farrukhabad belong to which regional state category?",
+        "options": [
+          "Successor States",
+          "Independent Kingdoms",
+          "The New States",
+          "Mughal Provinces"
+        ],
+        "correct": 2,
+        "explanation": "Rohilkhand and Farrukhabad are categorized as 'The New States' - established through opportunistic rebellion during Mughal weakness."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Analyze the establishment of Rohilkhand and Farrukhabad in the context of Nadir Shah's invasion and Mughal decline.",
+        "answer": "Context - Nadir Shah's Invasion: Nadir Shah invaded India (1738-39), defeated Mughals at Battle of Karnal, looted Delhi including Peacock Throne and Kohinoor. Left Mughal Empire devastated and vulnerable. Rohilkhand Establishment: The Rohillas, led by Daud and his son Ali Mohammad Khan, established Rohilkhand from Bareilly. Timing: Post-Nadir Shah's invasion - directly capitalizing on Mughal weakness created by invasion. Strategy: Opportunistic state formation taking advantage of power vacuum and Mughal inability to control territories. Farrukhabad Establishment: Established by Mohammad Khan Bangash, an Afghan chieftain. Location: Near Delhi - close to Mughal capital, showing extent of Mughal weakness that Afghan chieftain could establish independent state near capital itself. Afghan Connection: Both involved Afghan/Rohilla (Afghan origin) groups - Nadir Shah (Persian) and Ahmad Shah Abdali (Afghan) invasions created environment where Afghan groups could establish territories in India. Pattern: External invasion (Nadir Shah 1738-39) \u2192 Mughal weakness \u2192 Opportunistic state formation (Rohilkhand from Bareilly, Farrukhabad near Delhi) \u2192 New States established. Significance as 'The New States': Neither were Mughal provinces asserting autonomy (Successor States) nor existing kingdoms (Independent Kingdoms). Both were new political entities created by seizing opportunity during Mughal collapse. Represents how 18th century saw emergence of multiple power centers exploiting Mughal decline, creating fragmented political landscape that would eventually facilitate British expansion."
+      },
+      {
+        "id": "comp002",
+        "question": "Compare Rohilkhand and Farrukhabad establishments with other 'New States' like Marathas and Sikhs in terms of origin, timing, and state-building approach.",
+        "answer": "Origins: Marathas: Originally soldiers for Deccan Sultanates, rose from within Indian military systems. Sikhs: Religious community facing persecution, militarized under Gurus (Khalsa 1699). Rohilkhand/Farrukhabad: Afghan/Rohilla groups from outside, establishing territories during Mughal weakness. Timing: Marathas: Earlier - Shivaji founded empire before/during Aurangzeb's reign, expanding through 18th century. Sikhs: Guru Tegh Bahadur executed late 17th century, Khalsa 1699, revolts early 18th century. Rohilkhand/Farrukhabad: Post-Nadir Shah invasion (after 1738-39) - later opportunistic formation. State-Building Approach: Marathas: Long-term empire building - Shivaji's foundation, Peshwa consolidation (Balaji Vishwanath), territorial expansion (Baji Rao I to Agra). Unique revenue system (Chauth, Sardeshmukhi). Comprehensive state structure. Sikhs: Ideological/religious foundation - Khalsa militancy, social reform (Banda Bahadur ended Zamindari), later consolidation (Ranjit Singh united 12 misls). State built on religious-military identity. Rohilkhand/Farrukhabad: Opportunistic seizure - capitalizing on Mughal weakness post-Nadir Shah. Quick establishment (Rohilkhand from Bareilly, Farrukhabad near Delhi). Less detailed about administrative innovations. Legitimacy: Marathas: Built legitimacy through Shivaji's Hindu kingship, protection against Mughals, revenue extraction. Sikhs: Religious identity, Guru lineage, resistance to persecution, Khalsa militancy. Rohilkhand/Farrukhabad: Power vacuum exploitation, military control, Afghan/Rohilla group identity. Durability: Marathas: Long trajectory until Third Panipat (1761) - substantial empire. Sikhs: Through Ranjit Singh's empire (Treaty of Amritsar 1809), until 1849. Rohilkhand/Farrukhabad: Less information on longevity - likely shorter-lived or absorbed. Pattern: All are 'The New States' (established through rebellion/opposition to Mughals), but Marathas and Sikhs showed more comprehensive state-building, longer duration, and deeper ideological foundations than opportunistic Rohilkhand/Farrukhabad. Marathas/Sikhs: Indigenous resistance movements building states. Rohilkhand/Farrukhabad: External groups exploiting weakness."
+      }
+    ]
+  }
+}

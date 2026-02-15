@@ -1,0 +1,333 @@
+{
+  "topic": "Advent of Europeans and Consolidation of British Power",
+  "subtopic": "The Marathas (The New States)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Key Facts & Dates",
+      "front": "Maratha origins?",
+      "back": "Originally soldiers for Deccan Sultanates, grew powerful leveraging Maharashtra's wealth"
+    },
+    {
+      "id": "fc002",
+      "category": "Key Facts & Dates",
+      "front": "Maratha revenue model?",
+      "back": "Unique: imposed Chauth (25%) and Sardeshmukhi (10%) taxes on Mughal lands"
+    },
+    {
+      "id": "fc003",
+      "category": "Key Facts & Dates",
+      "front": "What was Chauth?",
+      "back": "25% tax imposed by Marathas on Mughal lands"
+    },
+    {
+      "id": "fc004",
+      "category": "Key Facts & Dates",
+      "front": "What was Sardeshmukhi?",
+      "back": "10% tax imposed by Marathas on Mughal lands"
+    },
+    {
+      "id": "fc005",
+      "category": "Key Facts & Dates",
+      "front": "Who founded Maratha Empire?",
+      "back": "Shivaji founded the Maratha Empire"
+    },
+    {
+      "id": "fc006",
+      "category": "Key Facts & Dates",
+      "front": "Who succeeded Shivaji?",
+      "back": "Sambhaji continued resistance against Aurangzeb after Shivaji"
+    },
+    {
+      "id": "fc007",
+      "category": "Key Facts & Dates",
+      "front": "Shahu's significance?",
+      "back": "Secured Maratha influence after his release from Mughal captivity"
+    },
+    {
+      "id": "fc008",
+      "category": "Key Facts & Dates",
+      "front": "Balaji Vishwanath's role?",
+      "back": "As Peshwa, consolidated Maratha territories"
+    },
+    {
+      "id": "fc009",
+      "category": "Key Facts & Dates",
+      "front": "Baji Rao I's achievement?",
+      "back": "Expanded Maratha reach, even to Agra"
+    },
+    {
+      "id": "fc010",
+      "category": "Key Facts & Dates",
+      "front": "Maratha decline event?",
+      "back": "Third Battle of Panipat (1761) against Ahmad Shah Abdali led to significant defeat, weakening Maratha power"
+    },
+    {
+      "id": "fc011",
+      "category": "Concepts & Reasons",
+      "front": "How did Marathas rise?",
+      "back": "Originally soldiers for Deccan Sultanates, grew powerful by leveraging Maharashtra's wealth"
+    },
+    {
+      "id": "fc012",
+      "category": "Concepts & Reasons",
+      "front": "Maratha taxation system?",
+      "back": "Imposed Chauth (25%) and Sardeshmukhi (10%) on Mughal lands - unique revenue model"
+    },
+    {
+      "id": "fc013",
+      "category": "Concepts & Reasons",
+      "front": "Shivaji's legacy?",
+      "back": "Founded Maratha Empire, established independent Maratha state"
+    },
+    {
+      "id": "fc014",
+      "category": "Concepts & Reasons",
+      "front": "Sambhaji's resistance?",
+      "back": "Continued Shivaji's resistance against Aurangzeb, maintaining Maratha independence"
+    },
+    {
+      "id": "fc015",
+      "category": "Concepts & Reasons",
+      "front": "How did Shahu secure influence?",
+      "back": "After release from Mughal captivity, secured Maratha influence - transition from captivity to leadership"
+    },
+    {
+      "id": "fc016",
+      "category": "Concepts & Reasons",
+      "front": "Peshwa Balaji Vishwanath's contribution?",
+      "back": "Consolidated Maratha territories as Peshwa - administrative consolidation"
+    },
+    {
+      "id": "fc017",
+      "category": "Concepts & Reasons",
+      "front": "Baji Rao I's expansion scope?",
+      "back": "Expanded Maratha reach even to Agra - northern expansion into Mughal heartland"
+    },
+    {
+      "id": "fc018",
+      "category": "Concepts & Reasons",
+      "front": "Third Battle of Panipat impact?",
+      "back": "1761 - Marathas defeated by Ahmad Shah Abdali, significant defeat weakening Maratha power"
+    },
+    {
+      "id": "fc019",
+      "category": "Concepts & Reasons",
+      "front": "Why Marathas weakened after Panipat?",
+      "back": "Third Battle of Panipat (1761) defeat against Ahmad Shah Abdali significantly weakened Maratha power"
+    },
+    {
+      "id": "fc020",
+      "category": "UPSC Focus",
+      "front": "Marathas as 'The New States'",
+      "back": "Rose from soldiers for Deccan Sultanates to independent empire - rebellion-based state formation"
+    },
+    {
+      "id": "fc021",
+      "category": "UPSC Focus",
+      "front": "Maratha revenue innovations",
+      "back": "Chauth (25%) and Sardeshmukhi (10%) on Mughal lands - unique taxation showing Maratha power over Mughal territory"
+    },
+    {
+      "id": "fc022",
+      "category": "UPSC Focus",
+      "front": "Third Battle of Panipat (1761)",
+      "back": "Decisive defeat by Ahmad Shah Abdali weakening Marathas - turning point in 18th century Indian politics"
+    },
+    {
+      "id": "fc023",
+      "category": "UPSC Focus",
+      "front": "Peshwa consolidation",
+      "back": "Balaji Vishwanath as Peshwa consolidated territories - Peshwas became key Maratha administrators"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "What were Marathas originally?",
+        "options": [
+          "Mughal officials",
+          "Soldiers for Deccan Sultanates",
+          "Afghan warriors",
+          "Portuguese mercenaries"
+        ],
+        "correct": 1,
+        "explanation": "Marathas were originally soldiers for Deccan Sultanates before growing powerful."
+      },
+      {
+        "id": "mcq002",
+        "question": "What made Marathas powerful?",
+        "options": [
+          "Mughal support",
+          "Leveraging Maharashtra's wealth",
+          "British alliance",
+          "Portuguese trade"
+        ],
+        "correct": 1,
+        "explanation": "Marathas grew powerful by leveraging Maharashtra's wealth after serving Deccan Sultanates."
+      },
+      {
+        "id": "mcq003",
+        "question": "What was Chauth?",
+        "options": [
+          "10% tax",
+          "25% tax",
+          "Religious tax",
+          "Land revenue"
+        ],
+        "correct": 1,
+        "explanation": "Chauth was 25% tax imposed by Marathas on Mughal lands as part of their unique revenue model."
+      },
+      {
+        "id": "mcq004",
+        "question": "What was Sardeshmukhi?",
+        "options": [
+          "5% tax",
+          "10% tax",
+          "25% tax",
+          "33% tax"
+        ],
+        "correct": 1,
+        "explanation": "Sardeshmukhi was 10% tax imposed by Marathas on Mughal lands, complementing Chauth (25%)."
+      },
+      {
+        "id": "mcq005",
+        "question": "On whose lands did Marathas impose Chauth and Sardeshmukhi?",
+        "options": [
+          "Deccan Sultanate lands",
+          "Mughal lands",
+          "British territories",
+          "Portuguese areas"
+        ],
+        "correct": 1,
+        "explanation": "Marathas imposed Chauth (25%) and Sardeshmukhi (10%) taxes on Mughal lands."
+      },
+      {
+        "id": "mcq006",
+        "question": "Who founded the Maratha Empire?",
+        "options": [
+          "Shahu",
+          "Shivaji",
+          "Sambhaji",
+          "Baji Rao I"
+        ],
+        "correct": 1,
+        "explanation": "Shivaji founded the Maratha Empire."
+      },
+      {
+        "id": "mcq007",
+        "question": "Who continued resistance against Aurangzeb after Shivaji?",
+        "options": [
+          "Shahu",
+          "Sambhaji",
+          "Balaji Vishwanath",
+          "Baji Rao I"
+        ],
+        "correct": 1,
+        "explanation": "Sambhaji continued resistance against Aurangzeb after Shivaji's death."
+      },
+      {
+        "id": "mcq008",
+        "question": "How did Shahu secure Maratha influence?",
+        "options": [
+          "Military conquest",
+          "After release from Mughal captivity",
+          "British support",
+          "Marriage alliance"
+        ],
+        "correct": 1,
+        "explanation": "Shahu secured Maratha influence after his release from Mughal captivity."
+      },
+      {
+        "id": "mcq009",
+        "question": "What was Balaji Vishwanath's position?",
+        "options": [
+          "Emperor",
+          "Peshwa",
+          "General",
+          "Governor"
+        ],
+        "correct": 1,
+        "explanation": "Balaji Vishwanath served as Peshwa and consolidated Maratha territories."
+      },
+      {
+        "id": "mcq010",
+        "question": "What did Balaji Vishwanath accomplish as Peshwa?",
+        "options": [
+          "Military expansion",
+          "Consolidated Maratha territories",
+          "Religious reforms",
+          "Naval development"
+        ],
+        "correct": 1,
+        "explanation": "Balaji Vishwanath, as Peshwa, consolidated Maratha territories."
+      },
+      {
+        "id": "mcq011",
+        "question": "How far did Baji Rao I expand Maratha reach?",
+        "options": [
+          "To Bengal",
+          "Even to Agra",
+          "To Deccan only",
+          "To South India"
+        ],
+        "correct": 1,
+        "explanation": "Baji Rao I expanded Maratha reach even to Agra, deep into Mughal heartland."
+      },
+      {
+        "id": "mcq012",
+        "question": "Which battle led to Maratha decline?",
+        "options": [
+          "Battle of Plassey",
+          "Third Battle of Panipat",
+          "Battle of Buxar",
+          "Battle of Karnal"
+        ],
+        "correct": 1,
+        "explanation": "Third Battle of Panipat (1761) against Ahmad Shah Abdali led to Maratha decline."
+      },
+      {
+        "id": "mcq013",
+        "question": "When was the Third Battle of Panipat?",
+        "options": [
+          "1739",
+          "1757",
+          "1761",
+          "1764"
+        ],
+        "correct": 2,
+        "explanation": "Third Battle of Panipat took place in 1761 between Marathas and Ahmad Shah Abdali."
+      },
+      {
+        "id": "mcq014",
+        "question": "Who defeated Marathas at Third Battle of Panipat?",
+        "options": [
+          "British forces",
+          "Ahmad Shah Abdali",
+          "Nizam of Hyderabad",
+          "Mughals"
+        ],
+        "correct": 1,
+        "explanation": "Ahmad Shah Abdali defeated Marathas at Third Battle of Panipat (1761), weakening Maratha power."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Trace the rise of the Marathas from their origins as Deccan Sultanate soldiers through their unique revenue model to the founding of the Maratha Empire under Shivaji.",
+        "answer": "Origins: Marathas were originally soldiers for Deccan Sultanates - military service background. Not Mughal officials or independent from start. Rise to Power: Grew powerful by leveraging Maharashtra's wealth. Transitioned from mercenary soldiers to independent power base using regional economic resources. Unique Revenue Model: Imposed Chauth (25%) and Sardeshmukhi (10%) taxes on Mughal lands. Significance: 1) Operated revenue collection on Mughal territory without Mughal authority, 2) 35% total extraction (Chauth 25% + Sardeshmukhi 10%) was substantial burden, 3) Unique system different from Mughal jagirdari or zamindari - direct Maratha imposition on imperial lands demonstrated Maratha power. Foundation of Empire: Shivaji founded the Maratha Empire. Formalized Maratha independence and state structure. Pattern: Mercenary soldiers (Deccan Sultanates) \u2192 Independent power (Maharashtra wealth) \u2192 Revenue extraction (Chauth/Sardeshmukhi on Mughal lands) \u2192 Empire formation (Shivaji). Significance as 'The New States': Marathas exemplify rebellious state formation - rose against/outside existing systems (Deccan Sultanates, Mughals) rather than from within Mughal administration like Successor States. Revenue model (taxing Mughal lands) showed they operated as independent power even before formal empire."
+      },
+      {
+        "id": "comp002",
+        "question": "Analyze the consolidation and expansion of Maratha power from Sambhaji through Shahu, Balaji Vishwanath, and Baji Rao I.",
+        "answer": "Sambhaji (Post-Shivaji): Continued resistance against Aurangzeb after Shivaji's death. Maintained Maratha independence during peak Mughal pressure under Aurangzeb. Defensive consolidation preserving Shivaji's legacy. Shahu (Post-Captivity): Secured Maratha influence after his release from Mughal captivity. Background: Had been held captive by Mughals, creating succession uncertainty. Achievement: Established legitimacy and secured influence despite captivity background - political consolidation. Balaji Vishwanath (Peshwa): As Peshwa (prime minister), consolidated Maratha territories. Peshwa Institution: Shift from monarchical to administrative leadership - Peshwas became key power centers in Maratha confederacy. Territorial consolidation: Brought fragmented Maratha holdings under unified administration. Baji Rao I (Expansion): Expanded Maratha reach even to Agra - deep into Mughal heartland in north. Military and territorial expansion at empire's peak. Significance: From defensive resistance (Sambhaji vs Aurangzeb) \u2192 Political consolidation (Shahu post-captivity) \u2192 Administrative consolidation (Balaji Vishwanath as Peshwa) \u2192 Territorial expansion (Baji Rao I to Agra). Each phase built on previous: Sambhaji preserved independence, Shahu secured leadership, Balaji Vishwanath consolidated administration, Baji Rao I expanded territory. Peshwa emergence (Balaji Vishwanath) particularly significant - created powerful ministerial position that would dominate later Maratha politics."
+      },
+      {
+        "id": "comp003",
+        "question": "Examine the Third Battle of Panipat (1761) and its impact on Maratha power, comparing with their earlier expansion under Baji Rao I.",
+        "answer": "Peak Under Baji Rao I: Expanded Maratha reach even to Agra - controlled/influenced territory deep in north, Mughal heartland. Represented zenith of Maratha territorial expansion. Third Battle of Panipat (1761): Against Ahmad Shah Abdali (Afghan invader). Resulted in significant Maratha defeat. Impact: Led to weakening of Maratha power - reversed expansion trajectory. Context: This was same Ahmad Shah Abdali who captured Delhi (1757) and defeated Marathas at Panipat (1761) - part of his multiple invasions weakening both Mughals and regional powers. Significance of Defeat: 1) Military: Massive casualties weakened Maratha military capacity, 2) Political: Loss of northern territories/influence gained under Baji Rao I, 3) Psychological: Shattered image of Maratha invincibility, 4) Strategic: Created power vacuum in north that British would later exploit. Comparison - Expansion vs Decline: Baji Rao I: Expansion to Agra (northward, into Mughal core). Third Battle of Panipat: Defeat at Panipat (same northern region, but withdrawal/defeat). Timeframe: Less than 30 years between Baji Rao I's peak expansion and Panipat defeat (1761). Rapid reversal. Pattern: Marathas rose from Deccan Sultanate soldiers \u2192 Founded empire (Shivaji) \u2192 Consolidated (Peshwas) \u2192 Expanded to peak (Baji Rao I to Agra) \u2192 Defeated (Third Panipat 1761) \u2192 Weakened. Third Battle of Panipat marked turning point where Marathas shifted from expansion to defense, ultimately unable to fill Mughal power vacuum, leaving opportunity for British expansion."
+      }
+    ]
+  }
+}
