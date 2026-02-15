@@ -1,0 +1,268 @@
+{
+  "topic": "Advent of Europeans and Consolidation of British Power",
+  "subtopic": "Bengal (Successor State)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Key Facts & Dates",
+      "front": "Bengal founder?",
+      "back": "Murshid Quli Khan, former Diwan under Aurangzeb, became independent Nawab after 1717"
+    },
+    {
+      "id": "fc002",
+      "category": "Key Facts & Dates",
+      "front": "Bengal capital shift?",
+      "back": "Murshid Quli Khan shifted capital to Murshidabad"
+    },
+    {
+      "id": "fc003",
+      "category": "Key Facts & Dates",
+      "front": "Mal Jasmani reform?",
+      "back": "Revenue reform by Murshid Quli Khan focusing on leaseholder security"
+    },
+    {
+      "id": "fc004",
+      "category": "Key Facts & Dates",
+      "front": "Who succeeded Murshid Quli Khan?",
+      "back": "His son-in-law Shuja-ud-Din succeeded him"
+    },
+    {
+      "id": "fc005",
+      "category": "Key Facts & Dates",
+      "front": "Alivardi Khan's reign?",
+      "back": "1740 - secured his position amid Maratha invasions"
+    },
+    {
+      "id": "fc006",
+      "category": "Key Facts & Dates",
+      "front": "Siraj-ud-Daula's fate?",
+      "back": "Reign ended after Battle of Plassey (1757) where East India Company intervened"
+    },
+    {
+      "id": "fc007",
+      "category": "Key Facts & Dates",
+      "front": "Battle of Plassey?",
+      "back": "1757 - Siraj-ud-Daula defeated, East India Company intervened, marking Bengal's loss of independence"
+    },
+    {
+      "id": "fc008",
+      "category": "Concepts & Reasons",
+      "front": "Murshid Quli Khan's background?",
+      "back": "Former Diwan under Aurangzeb before becoming independent Nawab after 1717"
+    },
+    {
+      "id": "fc009",
+      "category": "Concepts & Reasons",
+      "front": "When did Bengal become independent?",
+      "back": "After 1717 when Murshid Quli Khan, former Diwan, became independent Nawab"
+    },
+    {
+      "id": "fc010",
+      "category": "Concepts & Reasons",
+      "front": "Why shift capital to Murshidabad?",
+      "back": "Murshid Quli Khan shifted capital to Murshidabad to establish Bengal's autonomy"
+    },
+    {
+      "id": "fc011",
+      "category": "Concepts & Reasons",
+      "front": "What was Mal Jasmani?",
+      "back": "Revenue reform introduced by Murshid Quli Khan focusing on leaseholder security"
+    },
+    {
+      "id": "fc012",
+      "category": "Concepts & Reasons",
+      "front": "Succession in Bengal?",
+      "back": "Murshid Quli Khan \u2192 Shuja-ud-Din (son-in-law) \u2192 Alivardi Khan (1740) \u2192 Siraj-ud-Daula"
+    },
+    {
+      "id": "fc013",
+      "category": "Concepts & Reasons",
+      "front": "Alivardi Khan's challenge?",
+      "back": "Secured position amid Maratha invasions from 1740"
+    },
+    {
+      "id": "fc014",
+      "category": "Concepts & Reasons",
+      "front": "How did Bengal lose independence?",
+      "back": "Battle of Plassey (1757) - Siraj-ud-Daula's reign ended with EIC intervention"
+    },
+    {
+      "id": "fc015",
+      "category": "UPSC Focus",
+      "front": "Battle of Plassey significance",
+      "back": "1757 - decisive moment when EIC intervened, Siraj-ud-Daula defeated, Bengal came under British control"
+    },
+    {
+      "id": "fc016",
+      "category": "UPSC Focus",
+      "front": "Bengal revenue reforms",
+      "back": "Mal Jasmani system by Murshid Quli Khan focused on leaseholder security - administrative innovation"
+    },
+    {
+      "id": "fc017",
+      "category": "UPSC Focus",
+      "front": "Bengal as Successor State model",
+      "back": "Former Diwan (Murshid Quli Khan) establishing independent Nawabship (1717) - classic Successor State formation"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Who founded independent Bengal?",
+        "options": [
+          "Saadat Khan",
+          "Murshid Quli Khan",
+          "Alivardi Khan",
+          "Siraj-ud-Daula"
+        ],
+        "correct": 1,
+        "explanation": "Murshid Quli Khan, former Diwan under Aurangzeb, became independent Nawab of Bengal after 1717."
+      },
+      {
+        "id": "mcq002",
+        "question": "What was Murshid Quli Khan's previous position?",
+        "options": [
+          "Mughal Wazir",
+          "Diwan under Aurangzeb",
+          "Faujdar",
+          "Governor"
+        ],
+        "correct": 1,
+        "explanation": "Murshid Quli Khan was former Diwan under Aurangzeb before becoming independent Nawab."
+      },
+      {
+        "id": "mcq003",
+        "question": "When did Bengal become independent under Murshid Quli Khan?",
+        "options": [
+          "After 1717",
+          "1722",
+          "1740",
+          "1757"
+        ],
+        "correct": 0,
+        "explanation": "Murshid Quli Khan became independent Nawab after 1717, establishing Bengal's autonomy."
+      },
+      {
+        "id": "mcq004",
+        "question": "Where did Murshid Quli Khan shift Bengal's capital?",
+        "options": [
+          "Calcutta",
+          "Dhaka",
+          "Murshidabad",
+          "Patna"
+        ],
+        "correct": 2,
+        "explanation": "Murshid Quli Khan shifted the capital to Murshidabad after establishing Bengal's independence."
+      },
+      {
+        "id": "mcq005",
+        "question": "What was Mal Jasmani?",
+        "options": [
+          "Military reform",
+          "Revenue reform focusing on leaseholder security",
+          "Religious policy",
+          "Trade agreement"
+        ],
+        "correct": 1,
+        "explanation": "Mal Jasmani was a revenue reform introduced by Murshid Quli Khan, focusing on leaseholder security."
+      },
+      {
+        "id": "mcq006",
+        "question": "Who succeeded Murshid Quli Khan in Bengal?",
+        "options": [
+          "His son",
+          "His son-in-law Shuja-ud-Din",
+          "Alivardi Khan",
+          "Siraj-ud-Daula"
+        ],
+        "correct": 1,
+        "explanation": "Murshid Quli Khan's son-in-law, Shuja-ud-Din, succeeded him in Bengal."
+      },
+      {
+        "id": "mcq007",
+        "question": "When did Alivardi Khan rule Bengal?",
+        "options": [
+          "1717",
+          "1740",
+          "1757",
+          "1764"
+        ],
+        "correct": 1,
+        "explanation": "Alivardi Khan ruled from 1740, securing his position amid Maratha invasions."
+      },
+      {
+        "id": "mcq008",
+        "question": "What challenge did Alivardi Khan face?",
+        "options": [
+          "British invasions",
+          "Maratha invasions",
+          "Afghan invasions",
+          "Portuguese attacks"
+        ],
+        "correct": 1,
+        "explanation": "Alivardi Khan secured his position amid Maratha invasions from 1740."
+      },
+      {
+        "id": "mcq009",
+        "question": "Who was the last independent Nawab of Bengal?",
+        "options": [
+          "Murshid Quli Khan",
+          "Shuja-ud-Din",
+          "Alivardi Khan",
+          "Siraj-ud-Daula"
+        ],
+        "correct": 3,
+        "explanation": "Siraj-ud-Daula's reign ended after Battle of Plassey (1757), making him the last independent Nawab."
+      },
+      {
+        "id": "mcq010",
+        "question": "Which battle ended Bengal's independence?",
+        "options": [
+          "Battle of Buxar",
+          "Battle of Plassey",
+          "Battle of Karnal",
+          "Battle of Panipat"
+        ],
+        "correct": 1,
+        "explanation": "Battle of Plassey (1757) where East India Company intervened, ending Siraj-ud-Daula's reign."
+      },
+      {
+        "id": "mcq011",
+        "question": "When was the Battle of Plassey?",
+        "options": [
+          "1740",
+          "1757",
+          "1764",
+          "1765"
+        ],
+        "correct": 1,
+        "explanation": "Battle of Plassey took place in 1757, marking the end of Bengal's independence."
+      },
+      {
+        "id": "mcq012",
+        "question": "Who intervened at Battle of Plassey?",
+        "options": [
+          "French Company",
+          "Dutch Company",
+          "East India Company",
+          "Marathas"
+        ],
+        "correct": 2,
+        "explanation": "East India Company intervened at Battle of Plassey (1757), defeating Siraj-ud-Daula."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Trace the establishment and succession of independent Bengal from Murshid Quli Khan (post-1717) through to the Battle of Plassey (1757).",
+        "answer": "Founder: Murshid Quli Khan, former Diwan under Aurangzeb, became independent Nawab after 1717. Background as Diwan gave him financial and administrative expertise. Capital Shift: Shifted capital to Murshidabad, symbolizing Bengal's new autonomous identity separate from Mughal centers. Administrative Reform: Introduced Mal Jasmani, a revenue reform focusing on leaseholder security. This demonstrated state-building capacity beyond military power - creating stable revenue system essential for autonomous state. Succession Line: 1) Murshid Quli Khan (post-1717) - founder, 2) Shuja-ud-Din (son-in-law) - family succession, 3) Alivardi Khan (1740) - secured position amid Maratha invasions, demonstrating military and diplomatic skill, 4) Siraj-ud-Daula - final independent Nawab. End of Independence: Battle of Plassey (1757) where East India Company intervened, Siraj-ud-Daula's reign ended. This marked Bengal's transition from Successor State to Company control. Timeline: ~40 years of independence (1717-1757), similar to Awadh (1722-1764). Pattern: Bengal exemplifies Successor State trajectory - Mughal official (Diwan) establishing autonomy, administrative innovation (Mal Jasmani), succession through family/officials, external threats (Marathas), ultimate defeat by British (Plassey). Bengal's wealth and strategic position made it prime target for British expansion."
+      },
+      {
+        "id": "comp002",
+        "question": "Compare the administrative innovations and challenges faced by Bengal's rulers from Murshid Quli Khan to Siraj-ud-Daula.",
+        "answer": "Murshid Quli Khan (post-1717): Innovations: 1) Shifted capital to Murshidabad - establishing new center of power, 2) Introduced Mal Jasmani revenue reform focusing on leaseholder security - innovative approach prioritizing stability over maximum extraction, demonstrating sophisticated state-building. Challenge: Establishing legitimacy as former Diwan declaring independence. Succession: Son-in-law Shuja-ud-Din maintained father-in-law's system, showing continuity. Alivardi Khan (1740): Challenge: Maratha invasions - secured his position amid external military threat. Had to balance military defense with maintaining administration. No major innovations mentioned, suggesting focus on survival. Siraj-ud-Daula: Ultimate Challenge: East India Company intervention at Battle of Plassey (1757). His reign ended Bengal's independence. Evolution: Murshid Quli Khan's period focused on state-building and administrative innovation (Mal Jasmani). Later rulers faced increasing external threats - first Marathas (Alivardi Khan), then British (Siraj-ud-Daula). Pattern: Early autonomy period allowed administrative innovation, but later rulers increasingly focused on military survival. Mal Jasmani's focus on leaseholder security suggests Bengal's rulers understood that stable revenue base depended on productive economy, not just extraction. However, administrative sophistication couldn't overcome British military and diplomatic advantages demonstrated at Plassey."
+      }
+    ]
+  }
+}

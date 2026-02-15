@@ -1,0 +1,190 @@
+{
+  "topic": "Advent of Europeans and Consolidation of British Power",
+  "subtopic": "Rise of Mysore and Kerala (Independent Kingdoms)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Key Facts",
+      "front": "Mysore ruling dynasty?",
+      "back": "Wodeyars - Haider Ali and later Tipu Sultan ruled under/after them"
+    },
+    {
+      "id": "fc002",
+      "category": "Key Facts",
+      "front": "Who resisted British in Mysore?",
+      "back": "Haider Ali and later Tipu Sultan fiercely resisted British encroachment"
+    },
+    {
+      "id": "fc003",
+      "category": "Key Facts",
+      "front": "Mysore resistance pattern?",
+      "back": "Fierce resistance to British encroachment under Haider Ali and Tipu Sultan"
+    },
+    {
+      "id": "fc004",
+      "category": "Key Facts",
+      "front": "Kerala expansion leader?",
+      "back": "Martanda Varma expanded the region"
+    },
+    {
+      "id": "fc005",
+      "category": "Key Facts",
+      "front": "What did Martanda Varma establish?",
+      "back": "Established Travancore in Kerala"
+    },
+    {
+      "id": "fc006",
+      "category": "Key Facts",
+      "front": "Martanda Varma's reforms?",
+      "back": "Reformed the military while establishing Travancore"
+    },
+    {
+      "id": "fc007",
+      "category": "Concepts & Significance",
+      "front": "Wodeyar dynasty role?",
+      "back": "Ruling dynasty of Mysore - Haider Ali and Tipu Sultan came to power during their period"
+    },
+    {
+      "id": "fc008",
+      "category": "Concepts & Significance",
+      "front": "Haider Ali's significance?",
+      "back": "Resisted British encroachment in Mysore before Tipu Sultan"
+    },
+    {
+      "id": "fc009",
+      "category": "Concepts & Significance",
+      "front": "Tipu Sultan's legacy?",
+      "back": "Continued Haider Ali's fierce resistance to British encroachment in Mysore"
+    },
+    {
+      "id": "fc010",
+      "category": "Concepts & Significance",
+      "front": "Martanda Varma's achievements?",
+      "back": "Expanded Kerala region, established Travancore, reformed military - state-building"
+    },
+    {
+      "id": "fc011",
+      "category": "Concepts & Significance",
+      "front": "Travancore establishment?",
+      "back": "Established by Martanda Varma in Kerala through expansion and military reform"
+    },
+    {
+      "id": "fc012",
+      "category": "Concepts & Significance",
+      "front": "Why 'Independent Kingdoms'?",
+      "back": "Mysore and Kerala not former Mughal provinces - emerged independently, categorized as Independent Kingdoms"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Which dynasty ruled Mysore?",
+        "options": [
+          "Marathas",
+          "Wodeyars",
+          "Mughals",
+          "Nizam"
+        ],
+        "correct": 1,
+        "explanation": "Under the Wodeyars, Haider Ali and later Tipu Sultan ruled Mysore."
+      },
+      {
+        "id": "mcq002",
+        "question": "Who fiercely resisted British encroachment in Mysore?",
+        "options": [
+          "Wodeyars only",
+          "Haider Ali and Tipu Sultan",
+          "Marathas",
+          "Nizam"
+        ],
+        "correct": 1,
+        "explanation": "Haider Ali and later Tipu Sultan fiercely resisted British encroachment in Mysore."
+      },
+      {
+        "id": "mcq003",
+        "question": "Who succeeded Haider Ali in resisting British?",
+        "options": [
+          "Wodeyar King",
+          "Tipu Sultan",
+          "Marathas",
+          "Nizam"
+        ],
+        "correct": 1,
+        "explanation": "Tipu Sultan succeeded Haider Ali in fiercely resisting British encroachment."
+      },
+      {
+        "id": "mcq004",
+        "question": "Who expanded Kerala and established Travancore?",
+        "options": [
+          "Haider Ali",
+          "Tipu Sultan",
+          "Martanda Varma",
+          "Wodeyar"
+        ],
+        "correct": 2,
+        "explanation": "Martanda Varma expanded the Kerala region and established Travancore."
+      },
+      {
+        "id": "mcq005",
+        "question": "What did Martanda Varma reform?",
+        "options": [
+          "Revenue system",
+          "Religious policy",
+          "Military",
+          "Trade system"
+        ],
+        "correct": 2,
+        "explanation": "Martanda Varma reformed the military while establishing Travancore in Kerala."
+      },
+      {
+        "id": "mcq006",
+        "question": "Which state did Martanda Varma establish?",
+        "options": [
+          "Mysore",
+          "Hyderabad",
+          "Travancore",
+          "Awadh"
+        ],
+        "correct": 2,
+        "explanation": "Martanda Varma established Travancore in the Kerala region."
+      },
+      {
+        "id": "mcq007",
+        "question": "Mysore and Kerala belong to which regional state category?",
+        "options": [
+          "Successor States",
+          "The New States",
+          "Independent Kingdoms",
+          "Mughal Provinces"
+        ],
+        "correct": 2,
+        "explanation": "Mysore and Kerala are categorized as Independent Kingdoms - not former Mughal provinces but independently emerged states."
+      },
+      {
+        "id": "mcq008",
+        "question": "What characterized Mysore under Haider Ali and Tipu Sultan?",
+        "options": [
+          "Submission to British",
+          "Fierce resistance to British encroachment",
+          "Alliance with Mughals",
+          "Peaceful trade"
+        ],
+        "correct": 1,
+        "explanation": "Mysore under Haider Ali and later Tipu Sultan was characterized by fierce resistance to British encroachment."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Analyze Mysore's resistance to British encroachment under the Wodeyars, Haider Ali, and Tipu Sultan.",
+        "answer": "Dynasty Context: Mysore was under the Wodeyars ruling dynasty. Haider Ali and later Tipu Sultan emerged during this period, coming to power and leading resistance. Haider Ali: First major leader to fiercely resist British encroachment in Mysore. Established pattern of military resistance rather than accommodation. His rise demonstrated how military leaders could assume effective control even under nominal royal dynasties. Tipu Sultan: Continued and intensified his father Haider Ali's fierce resistance to British encroachment. 'Later' indicates succession from father, maintaining family and policy continuity. Fierce Resistance: Characterized by military confrontation, refusal to submit, innovative military tactics and alliances. Distinct from Successor States (Awadh, Bengal) that eventually succumbed to British through treaties/defeats. Independent Kingdom: Mysore's categorization as Independent Kingdom (not Successor State) meant no Mughal connection to leverage or lose. Resistance based purely on independent sovereignty and military strength. Pattern: Wodeyar dynasty \u2192 Military leaders (Haider Ali, Tipu Sultan) \u2192 Fierce resistance. Shows how 18th century Indian states adapted, with effective military leaders rising to meet British threat, even when nominal royal dynasties existed. Mysore's resistance made it one of the most significant challenges to British expansion in South India."
+      },
+      {
+        "id": "comp002",
+        "question": "Compare state-building in Mysore (Haider Ali/Tipu Sultan) and Kerala (Martanda Varma) as Independent Kingdoms.",
+        "answer": "Mysore State-Building: Under Wodeyars, but Haider Ali and later Tipu Sultan effectively controlled state. Focus: Military resistance - fiercely resisted British encroachment. State-building centered on military strength, innovation in warfare, building alliances against British. Defensive state-building against external threat. Kerala (Travancore) State-Building: Martanda Varma expanded the region - territorial expansion creating larger state. Established Travancore - formal state creation with defined identity. Reformed the military - not just building army but reforming it, suggesting systematic approach to state power. Proactive state-building through expansion and reform. Similarities: Both Independent Kingdoms (not Mughal provinces). Both emphasized military strength - Mysore for resistance, Kerala for expansion and consolidation. Both had strong leaders driving state formation. Differences: Mysore: Resistance-focused, defending against British. Military leaders under nominal dynasty. Kerala: Expansion-focused, growing territory. Martanda Varma as primary ruler establishing new state (Travancore). Mysore reactive to British threat, Kerala proactive in territorial consolidation. Significance: Independent Kingdoms had different state-building trajectories depending on geography and threats. South Indian states (Mysore, Kerala) had greater autonomy from Mughal decline dynamics, allowing different development paths - resistance (Mysore) or expansion (Kerala). Both showed sophisticated state-building capacity in 18th century outside Mughal framework."
+      }
+    ]
+  }
+}

@@ -13,6 +13,9 @@ import frenchData from './data/french-in-india.json';
 import indiaEveData from './data/india-eve-british-conquest.json';
 import regionalStatesData from './data/rise-regional-states.json';
 import hyderabadData from './data/hyderabad.json';
+import awadhData from './data/awadh.json';
+import bengalData from './data/bengal.json';
+import mysoreKeralaData from './data/mysore-kerala.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -79,6 +82,24 @@ function App() {
           title: 'Hyderabad (Successor State)',
           description: 'Nizam-ul-Mulk, Battle of Shaker-Kheda (1724), administration, Maratha conflict, succession',
           data: hyderabadData
+        },
+        {
+          id: 'awadh',
+          title: 'Awadh (Successor State)',
+          description: 'Saadat Khan (1722), Safdar Jung, Battle of Buxar (1764), decline',
+          data: awadhData
+        },
+        {
+          id: 'bengal',
+          title: 'Bengal (Successor State)',
+          description: 'Murshid Quli Khan (1717), Mal Jasmani, succession, Battle of Plassey (1757)',
+          data: bengalData
+        },
+        {
+          id: 'mysore-kerala',
+          title: 'Rise of Mysore and Kerala',
+          description: 'Wodeyars, Haider Ali, Tipu Sultan, Martanda Varma, Travancore (Independent Kingdoms)',
+          data: mysoreKeralaData
         }
       ]
     }

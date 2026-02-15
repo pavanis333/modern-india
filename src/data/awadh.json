@@ -1,0 +1,196 @@
+{
+  "topic": "Advent of Europeans and Consolidation of British Power",
+  "subtopic": "Awadh (Successor State)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Key Facts & Dates",
+      "front": "Awadh founder?",
+      "back": "Saadat Khan (Burhan-ul-Mulk) established autonomy in 1722"
+    },
+    {
+      "id": "fc002",
+      "category": "Key Facts & Dates",
+      "front": "Saadat Khan's origin?",
+      "back": "Rose from Faujdar of Biyana to establish Awadh autonomy"
+    },
+    {
+      "id": "fc003",
+      "category": "Key Facts & Dates",
+      "front": "When did Saadat Khan establish Awadh autonomy?",
+      "back": "1722"
+    },
+    {
+      "id": "fc004",
+      "category": "Key Facts & Dates",
+      "front": "Who succeeded Saadat Khan?",
+      "back": "Safdar Jung succeeded him in 1739"
+    },
+    {
+      "id": "fc005",
+      "category": "Key Facts & Dates",
+      "front": "Battle of Buxar date and significance?",
+      "back": "1764 - Safdar Jung faced defeat, marking Awadh's decline"
+    },
+    {
+      "id": "fc006",
+      "category": "Key Facts & Dates",
+      "front": "Awadh's decline marked by?",
+      "back": "Battle of Buxar (1764) where Safdar Jung faced defeat"
+    },
+    {
+      "id": "fc007",
+      "category": "Concepts & Reasons",
+      "front": "Saadat Khan's full title?",
+      "back": "Burhan-ul-Mulk - established Awadh autonomy in 1722"
+    },
+    {
+      "id": "fc008",
+      "category": "Concepts & Reasons",
+      "front": "How did Saadat Khan rise to power?",
+      "back": "Rose from Faujdar of Biyana, established autonomy in 1722 as Saadat Khan (Burhan-ul-Mulk)"
+    },
+    {
+      "id": "fc009",
+      "category": "Concepts & Reasons",
+      "front": "Safdar Jung's succession?",
+      "back": "Succeeded Saadat Khan in 1739, continued Awadh rule"
+    },
+    {
+      "id": "fc010",
+      "category": "Concepts & Reasons",
+      "front": "What ended Awadh's independence trajectory?",
+      "back": "Battle of Buxar (1764) - Safdar Jung's defeat marked Awadh's decline"
+    },
+    {
+      "id": "fc011",
+      "category": "Concepts & Reasons",
+      "front": "Awadh as Successor State?",
+      "back": "Former Mughal province established by Saadat Khan (Burhan-ul-Mulk) in 1722, typical Successor State pattern"
+    },
+    {
+      "id": "fc012",
+      "category": "UPSC Focus",
+      "front": "Battle of Buxar significance for Awadh",
+      "back": "1764 defeat marked Awadh's decline, key turning point in British expansion"
+    },
+    {
+      "id": "fc013",
+      "category": "UPSC Focus",
+      "front": "Awadh succession timeline",
+      "back": "Saadat Khan (1722) \u2192 Safdar Jung (1739) \u2192 Decline post-Buxar (1764)"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Who founded Awadh as an autonomous state?",
+        "options": [
+          "Murshid Quli Khan",
+          "Saadat Khan (Burhan-ul-Mulk)",
+          "Safdar Jung",
+          "Nizam-ul-Mulk"
+        ],
+        "correct": 1,
+        "explanation": "Saadat Khan (Burhan-ul-Mulk) established Awadh autonomy in 1722."
+      },
+      {
+        "id": "mcq002",
+        "question": "When did Saadat Khan establish Awadh autonomy?",
+        "options": [
+          "1717",
+          "1722",
+          "1739",
+          "1764"
+        ],
+        "correct": 1,
+        "explanation": "Saadat Khan (Burhan-ul-Mulk) established autonomy in 1722 after rising from Faujdar of Biyana."
+      },
+      {
+        "id": "mcq003",
+        "question": "What was Saadat Khan's previous position?",
+        "options": [
+          "Mughal Wazir",
+          "Faujdar of Biyana",
+          "Diwan under Aurangzeb",
+          "Governor of Bengal"
+        ],
+        "correct": 1,
+        "explanation": "Saadat Khan rose from Faujdar of Biyana to establish Awadh autonomy."
+      },
+      {
+        "id": "mcq004",
+        "question": "Who succeeded Saadat Khan in Awadh?",
+        "options": [
+          "Alivardi Khan",
+          "Safdar Jung",
+          "Siraj-ud-Daula",
+          "Shuja-ud-Din"
+        ],
+        "correct": 1,
+        "explanation": "Safdar Jung succeeded Saadat Khan in 1739."
+      },
+      {
+        "id": "mcq005",
+        "question": "When did Safdar Jung succeed Saadat Khan?",
+        "options": [
+          "1722",
+          "1739",
+          "1757",
+          "1764"
+        ],
+        "correct": 1,
+        "explanation": "Safdar Jung succeeded Saadat Khan in 1739, continuing Awadh's autonomous rule."
+      },
+      {
+        "id": "mcq006",
+        "question": "Which battle marked Awadh's decline?",
+        "options": [
+          "Battle of Plassey",
+          "Battle of Buxar",
+          "Battle of Karnal",
+          "Battle of Panipat"
+        ],
+        "correct": 1,
+        "explanation": "Battle of Buxar (1764) where Safdar Jung faced defeat, marking Awadh's decline."
+      },
+      {
+        "id": "mcq007",
+        "question": "When was the Battle of Buxar?",
+        "options": [
+          "1739",
+          "1757",
+          "1764",
+          "1765"
+        ],
+        "correct": 2,
+        "explanation": "Battle of Buxar took place in 1764, marking Awadh's decline with Safdar Jung's defeat."
+      },
+      {
+        "id": "mcq008",
+        "question": "What happened to Safdar Jung at Battle of Buxar?",
+        "options": [
+          "He won decisively",
+          "He faced defeat",
+          "He negotiated peace",
+          "He died in battle"
+        ],
+        "correct": 1,
+        "explanation": "Safdar Jung faced defeat at Battle of Buxar (1764), marking Awadh's decline."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Trace the establishment and succession of Awadh from Saadat Khan's rise (1722) through Safdar Jung to the Battle of Buxar (1764).",
+        "answer": "Founder: Saadat Khan (Burhan-ul-Mulk) established Awadh autonomy in 1722. Rise: He rose from Faujdar of Biyana - a relatively modest Mughal position - demonstrating how provincial officials could establish autonomous states during Mughal decline. 1722 establishment made Awadh one of the early Successor States. Succession: Safdar Jung succeeded Saadat Khan in 1739, maintaining Awadh's autonomous status. This represented 17 years of Saadat Khan's rule establishing the foundation. Decline: Safdar Jung faced defeat at Battle of Buxar (1764), marking Awadh's decline. This battle was a turning point where British East India Company defeated combined forces, establishing British dominance in the region. Timeline: 1722 (autonomy) \u2192 1739 (succession) \u2192 1764 (decline) spans 42 years of Awadh as an autonomous Successor State. Pattern: Awadh followed classic Successor State trajectory - provincial official establishing autonomy, succession maintaining state, eventual defeat by British/European powers marking transition to colonial control."
+      },
+      {
+        "id": "comp002",
+        "question": "Compare Awadh's establishment (Saadat Khan from Faujdar) with Hyderabad's establishment (Nizam-ul-Mulk from Wazir) as Successor States.",
+        "answer": "Similarities: Both Successor States founded by former Mughal officials establishing autonomy in early 18th century (Awadh 1722, Hyderabad 1724). Both demonstrated pattern of provincial autonomy during Mughal decline. Different Starting Positions: Saadat Khan rose from Faujdar of Biyana - a relatively modest provincial military/administrative position. Nizam-ul-Mulk was former Mughal Wazir - the highest administrative position in the empire. Military Establishment: Both used military victory to establish control - Saadat Khan established autonomy in 1722, Nizam won Battle of Shaker-Kheda (1724). Succession: Awadh: Safdar Jung (1739), then decline at Buxar (1764). Hyderabad: succession crisis (1748), stability under Nizam Ali Khan (1762). Durability: Hyderabad became one of wealthiest states lasting into British Raj and Indian independence. Awadh's decline marked by Battle of Buxar (1764) came earlier. Awadh vs Hyderabad shows that even from different starting positions (Faujdar vs Wazir), Mughal officials could establish Successor States, but long-term survival varied based on succession management and military outcomes against emerging powers (British for Awadh, better balance for Hyderabad)."
+      }
+    ]
+  }
+}
