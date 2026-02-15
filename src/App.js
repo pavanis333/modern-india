@@ -12,6 +12,7 @@ import englishData from './data/english-in-india.json';
 import frenchData from './data/french-in-india.json';
 import indiaEveData from './data/india-eve-british-conquest.json';
 import regionalStatesData from './data/rise-regional-states.json';
+import hyderabadData from './data/hyderabad.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -72,6 +73,12 @@ function App() {
           title: 'Rise of Regional States',
           description: 'Successor States, Independent Kingdoms, The New States - categorization and examples',
           data: regionalStatesData
+        },
+        {
+          id: 'hyderabad',
+          title: 'Hyderabad (Successor State)',
+          description: 'Nizam-ul-Mulk, Battle of Shaker-Kheda (1724), administration, Maratha conflict, succession',
+          data: hyderabadData
         }
       ]
     }
