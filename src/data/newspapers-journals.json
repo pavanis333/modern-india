@@ -343,6 +343,36 @@
       "category": "Newspapers and Journals",
       "front": "Bandi Jivan?",
       "back": "Founder: Sachindranath Sanyal. Place: Bengal"
+    },
+    {
+      "id": "fc058",
+      "category": "Newspapers and Journals",
+      "front": "National Herald (1938)?",
+      "back": "Founder: Jawaharlal Nehru. Place: Established in Lucknow. Details: Founded as a tool to win independence. Banned by British government in 1942 during Quit India movement till 1945"
+    },
+    {
+      "id": "fc059",
+      "category": "Newspapers and Journals",
+      "front": "Indian Sociologist?",
+      "back": "Founder: Shyamji Krishnavarma. Place of Publication: London"
+    },
+    {
+      "id": "fc060",
+      "category": "Newspapers and Journals",
+      "front": "Bande Mataram?",
+      "back": "Founder: Madam Bikaji Cama. Place of Publication: Paris"
+    },
+    {
+      "id": "fc061",
+      "category": "Newspapers and Journals",
+      "front": "Talvar?",
+      "back": "Founder: Virendranath Chattopadhyaya. Place of Publication: Berlin"
+    },
+    {
+      "id": "fc062",
+      "category": "Newspapers and Journals",
+      "front": "Ghadar?",
+      "back": "Founder: Lala Hardayal. Place of Publication: San Francisco. Details: The Ghadar Party put out this weekly, meaning revolt, using a small hand press. It first came out in Urdu, then Gurumukhi. Later it was also published in Gujarati, Hindi, English, German etc"
     }
   ],
   "quizzes": {
@@ -490,6 +520,78 @@
         ],
         "correct": 1,
         "explanation": "Yugantar (1906) by Barindra Kumar Ghosh and Bhupendra Dutta served as propaganda organ for revolutionary organisation Anushilan Samiti."
+      },
+      {
+        "id": "mcq013",
+        "question": "National Herald (1938) founded by?",
+        "options": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Motilal Nehru",
+          "Subhas Bose"
+        ],
+        "correct": 1,
+        "explanation": "National Herald (1938) founded by Jawaharlal Nehru in Lucknow as tool to win independence, banned 1942 during Quit India."
+      },
+      {
+        "id": "mcq014",
+        "question": "Indian Sociologist published from?",
+        "options": [
+          "Calcutta",
+          "London",
+          "Paris",
+          "Berlin"
+        ],
+        "correct": 1,
+        "explanation": "Indian Sociologist by Shyamji Krishnavarma published from London."
+      },
+      {
+        "id": "mcq015",
+        "question": "Bande Mataram founded by Madam Bikaji Cama published from?",
+        "options": [
+          "London",
+          "Paris",
+          "Berlin",
+          "San Francisco"
+        ],
+        "correct": 1,
+        "explanation": "Bande Mataram founded by Madam Bikaji Cama published from Paris."
+      },
+      {
+        "id": "mcq016",
+        "question": "Talvar founded by Virendranath Chattopadhyaya published from?",
+        "options": [
+          "London",
+          "Paris",
+          "Berlin",
+          "San Francisco"
+        ],
+        "correct": 2,
+        "explanation": "Talvar founded by Virendranath Chattopadhyaya published from Berlin."
+      },
+      {
+        "id": "mcq017",
+        "question": "Ghadar (meaning revolt) founded by?",
+        "options": [
+          "Shyamji Krishnavarma",
+          "Madam Bikaji Cama",
+          "Lala Hardayal",
+          "Virendranath Chattopadhyaya"
+        ],
+        "correct": 2,
+        "explanation": "Ghadar founded by Lala Hardayal, published from San Francisco by Ghadar Party."
+      },
+      {
+        "id": "mcq018",
+        "question": "Ghadar initially came out in which languages?",
+        "options": [
+          "Only Urdu",
+          "Urdu, then Gurumukhi, later Gujarati, Hindi, English, German etc",
+          "Only English",
+          "Only Punjabi"
+        ],
+        "correct": 1,
+        "explanation": "Ghadar first came out in Urdu, then Gurumukhi, later also published in Gujarati, Hindi, English, German etc."
       }
     ],
     "comprehensive": []
