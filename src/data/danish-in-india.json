@@ -6,253 +6,61 @@
       "id": "fc001",
       "category": "Key Facts & Dates",
       "front": "Danish East India Company established?",
-      "back": "1616 - late entry into Asian trade"
+      "back": "1616"
     },
     {
       "id": "fc002",
       "category": "Key Facts & Dates",
       "front": "First Danish factory in India?",
-      "back": "Tranquebar (1620) near Tanjore on Tamil Nadu coast"
+      "back": "Tranquebar (1620) near Tanjore"
     },
     {
       "id": "fc003",
       "category": "Key Facts & Dates",
       "front": "Most significant Danish settlement?",
-      "back": "Serampore (near Calcutta) in Bengal"
+      "back": "Serampore (near Calcutta)"
     },
     {
       "id": "fc004",
-      "category": "Key Facts & Dates",
-      "front": "How many Danish trading centers in India?",
-      "back": "Only 2: Tranquebar (1620) and Serampore (1755) - minimal presence"
-    },
-    {
-      "id": "fc005",
-      "category": "Key Facts & Dates",
-      "front": "When did Danish leave India?",
-      "back": "1845 - sold territories to British"
-    },
-    {
-      "id": "fc006",
-      "category": "Key Facts & Dates",
-      "front": "Danish presence duration?",
-      "back": "229 years (1616-1845) - longer than Dutch but minimal footprint"
-    },
-    {
-      "id": "fc007",
-      "category": "Key Facts & Dates",
-      "front": "Why Danish presence minimal?",
-      "back": "Small economy, late entry, limited resources, no naval power to compete"
-    },
-    {
-      "id": "fc008",
       "category": "Key Facts & Dates",
       "front": "Danish focus in India?",
       "back": "Missionary activities rather than commercial or political ambitions"
     },
     {
-      "id": "fc009",
+      "id": "fc005",
       "category": "Key Facts & Dates",
-      "front": "Who bought Danish territories?",
-      "back": "British East India Company in 1845"
+      "front": "Danish trading centers?",
+      "back": "Tranquebar (1620) and Serampore"
+    },
+    {
+      "id": "fc006",
+      "category": "Key Facts & Dates",
+      "front": "Where was Tranquebar?",
+      "back": "Near Tanjore (Tamil Nadu coast)"
+    },
+    {
+      "id": "fc007",
+      "category": "Key Facts & Dates",
+      "front": "Where was Serampore?",
+      "back": "Near Calcutta (Bengal)"
+    },
+    {
+      "id": "fc008",
+      "category": "Concepts & Reasons",
+      "front": "What distinguished Danish approach?",
+      "back": "Focused on missionary activities rather than commercial or political ambitions - unlike other European powers"
+    },
+    {
+      "id": "fc009",
+      "category": "Concepts & Reasons",
+      "front": "Why was Serampore significant?",
+      "back": "Became their most significant settlement, center for missionary work"
     },
     {
       "id": "fc010",
-      "category": "Key Facts & Dates",
-      "front": "Danish headquarters in India?",
-      "back": "Tranquebar served as main base, later Serampore grew important"
-    },
-    {
-      "id": "fc011",
       "category": "Concepts & Reasons",
-      "front": "Why Danish arrived late (1616)?",
-      "back": "Small Danish economy, focused on Baltic/European trade first. Asian trade secondary priority. Joined only after seeing Portuguese/Dutch success"
-    },
-    {
-      "id": "fc012",
-      "category": "Concepts & Reasons",
-      "front": "Why only 2 trading centers?",
-      "back": "Limited resources couldn't sustain extensive network. Small population for settlers/garrison. Late entry meant best locations taken. Couldn't compete militarily with established powers"
-    },
-    {
-      "id": "fc013",
-      "category": "Concepts & Reasons",
-      "front": "Danish trade commodities?",
-      "back": "Saltpetre (gunpowder ingredient), textiles, indigo. Niche commodities avoiding direct competition with larger companies"
-    },
-    {
-      "id": "fc014",
-      "category": "Concepts & Reasons",
-      "front": "Why focus on missionary activities?",
-      "back": "Lutheran Protestant missions aligned with Danish religious identity. Less commercial pressure than profit-driven companies. Cultural/religious legacy when commercial unprofitable"
-    },
-    {
-      "id": "fc015",
-      "category": "Concepts & Reasons",
-      "front": "Why Tranquebar chosen?",
-      "back": "Tamil Nadu coast access to Coromandel textile trade. Tanjore kingdom granted permission. Relatively peaceful region. Away from intense Portuguese/Dutch/English competition"
-    },
-    {
-      "id": "fc016",
-      "category": "Concepts & Reasons",
-      "front": "Significance of Serampore?",
-      "back": "Established 1755, near Calcutta - access to Bengal's rich resources. Center for missionary activities, printing press. Danish cultural contribution despite minimal trade"
-    },
-    {
-      "id": "fc017",
-      "category": "Concepts & Reasons",
-      "front": "Why sold to British (1845)?",
-      "back": "Commercially unviable - continuous losses. Couldn't compete with British dominance post-1757. Small Danish economy couldn't justify continued investment. Pragmatic exit strategy"
-    },
-    {
-      "id": "fc018",
-      "category": "Concepts & Reasons",
-      "front": "Danish vs larger European companies?",
-      "back": "Larger powers (Portuguese, Dutch, English) had naval superiority, more capital, territorial ambitions. Danish purely commercial, no military capacity for expansion. Accepted minor role"
-    },
-    {
-      "id": "fc019",
-      "category": "Concepts & Reasons",
-      "front": "Danish relationship with Indian rulers?",
-      "back": "Generally peaceful, paid customs, sought permissions. Too weak to challenge rulers. Avoided politics entirely. Traders, not conquerors"
-    },
-    {
-      "id": "fc020",
-      "category": "Concepts & Reasons",
-      "front": "Legacy of Danish presence?",
-      "back": "Minimal territorial/political impact. Missionary legacy (Christian communities, education). Tranquebar architecture (Danish fort still stands). More cultural than economic/political"
-    },
-    {
-      "id": "fc021",
-      "category": "Comparisons",
-      "front": "Danish vs Portuguese presence?",
-      "back": "Portuguese: Earlier (1498), naval dominance, multiple bases, religious mission, lasted 463 years. Danish: Late (1616), 2 centers only, no military power, missionary focus, 229 years. Portuguese transformative; Danish negligible"
-    },
-    {
-      "id": "fc022",
-      "category": "Comparisons",
-      "front": "Danish vs Dutch priorities?",
-      "back": "Dutch: Commercial profit-driven, Indonesian spice monopoly priority, left India voluntarily. Danish: Missionary activities more prominent than profit, never had monopoly ambition, sold out due to losses. Dutch businesslike; Danish idealistic"
-    },
-    {
-      "id": "fc023",
-      "category": "Comparisons",
-      "front": "Danish vs English trajectories?",
-      "back": "English: Arrived 1600, expanded massively post-1757, territorial empire. Danish: Arrived 1616, stayed minimal, sold 1845. English adapted (trade to territory); Danish stayed commercial, failed, exited. Fundamentally different outcomes"
-    },
-    {
-      "id": "fc024",
-      "category": "Comparisons",
-      "front": "Why Danish lasted 229 years despite minimal presence?",
-      "back": "Vs Dutch (220 years, larger presence): Danish lower profile, less threatening, avoided conflicts. Vs Portuguese (463 years): Danish commercial failure but peaceful exit. Length not quality - Danish survived by being insignificant"
-    },
-    {
-      "id": "fc025",
-      "category": "Comparisons",
-      "front": "Danish Tranquebar vs English Madras?",
-      "back": "Tranquebar (1620): Small Danish trading post, minimal fortification, never expanded. Madras/Fort St. George (1639): English Presidency capital, massive growth, administrative center. English ambition vs Danish limitation"
-    },
-    {
-      "id": "fc026",
-      "category": "Comparisons",
-      "front": "Danish Serampore vs English Calcutta?",
-      "back": "Serampore (1755): Danish missionary center, printing press, cultural activities, small. Calcutta (1690): English Bengal Presidency capital, Fort William, commercial metropolis. Calcutta eclipsed Serampore entirely"
-    },
-    {
-      "id": "fc027",
-      "category": "Comparisons",
-      "front": "Why Danish couldn't replicate Portuguese/Dutch/English success?",
-      "back": "Portuguese: First-mover, naval power, religious zeal. Dutch: VOC monopoly, Indonesian focus. English: Resources, adaptability, timing. Danish: None of these - late, weak, underfunded, unlucky timing. Structural disadvantages"
-    },
-    {
-      "id": "fc028",
-      "category": "Comparisons",
-      "front": "Danish exit (1845) vs Dutch exit (1825)?",
-      "back": "Both sold to British, both focused elsewhere (Danish on Baltic trade, Dutch on Indonesia), both voluntary. But Dutch left stronger legacy (Cochin, spice trade). Danish barely noticed. Similar pragmatism, different impact"
-    },
-    {
-      "id": "fc029",
-      "category": "Comparisons",
-      "front": "Danish missionary focus vs Portuguese?",
-      "back": "Portuguese: Catholic Inquisition, forced conversions, persecution. Danish: Lutheran missions, education, printing, voluntary conversion attempts. Portuguese coercive; Danish peaceful. Different religious colonialism models"
-    },
-    {
-      "id": "fc030",
-      "category": "Comparisons",
-      "front": "Danish economic impact vs English economic exploitation?",
-      "back": "Danish: Negligible - minimal trade, no deindustrialization, no structural changes. English: Devastating - land revenue drain, textile industry destruction, famines. Danish harmless due to weakness; English destructive due to power"
-    },
-    {
-      "id": "fc031",
-      "category": "Strategic Analysis",
-      "front": "Why Danish East India Company failed commercially?",
-      "back": "Late entry (1616) into saturated market. Undercapitalized compared to VOC, EIC. No unique product/route advantage. Faced established competition everywhere. Small Danish economy couldn't sustain losses. Lacked military power to enforce monopolies. Inevitable failure given structural disadvantages"
-    },
-    {
-      "id": "fc032",
-      "category": "Strategic Analysis",
-      "front": "Strategic significance of Danish missionary activities?",
-      "back": "When commercial failure evident, missionaries provided alternative purpose. Education, printing press (Serampore) created cultural legacy. Converted failure into humanitarian mission narrative. Justified continued presence despite losses. However, minimal impact compared to Portuguese/English missions"
-    },
-    {
-      "id": "fc033",
-      "category": "Strategic Analysis",
-      "front": "Why British bought Danish territories (1845)?",
-      "back": "Consolidating control - eliminating foreign enclaves in British India. Tranquebar strategic Coromandel coast location. Serampore near Calcutta, completing Bengal control. Minimal cost (Danish desperate to sell). Tidying imperial boundaries"
-    },
-    {
-      "id": "fc034",
-      "category": "Strategic Analysis",
-      "front": "Could Danish have succeeded with different strategy?",
-      "back": "Unlikely. Fundamental constraints: Small economy, late arrival, no naval power, wrong timing. Even if focused on niche (like saltpetre), couldn't defend against larger powers. Success required resources Denmark lacked. Structural impossibility"
-    },
-    {
-      "id": "fc035",
-      "category": "Strategic Analysis",
-      "front": "Danish vs French failure patterns?",
-      "back": "French: Military capability but financially weak, lost to English in wars. Danish: Never had military capability, lost to economics. French tried and failed; Danish barely tried. Both unsuccessful but French posed real challenge; Danish never threatened anyone"
-    },
-    {
-      "id": "fc036",
-      "category": "Strategic Analysis",
-      "front": "What does Danish experience teach about colonialism?",
-      "back": "Commercial success required: Early arrival, military power, large economy, monopoly capacity. Danish had none. Shows colonialism not accessible to all European powers equally. Major powers (Portugal, England, Netherlands) succeeded; minor powers (Denmark) failed. Power inequality even among Europeans"
-    },
-    {
-      "id": "fc037",
-      "category": "Strategic Analysis",
-      "front": "Why Danish persistence for 229 years despite failure?",
-      "back": "Sunk cost - already invested, hoped for turnaround. Prestige - abandoning overseas possession shameful. Missionary justification - serving God, not just profit. Low-cost maintenance - 2 small posts affordable. Finally sold when even prestige couldn't justify losses"
-    },
-    {
-      "id": "fc038",
-      "category": "UPSC Focus Areas",
-      "front": "Why Tranquebar (1620) asked in UPSC?",
-      "back": "First Danish factory, tests chronology knowledge. Comparison point with other European establishments. Shows European expansion patterns - even minor powers attempted Asian trade"
-    },
-    {
-      "id": "fc039",
-      "category": "UPSC Focus Areas",
-      "front": "Danish missionary activities UPSC relevance?",
-      "back": "Tests understanding of non-commercial colonial motivations. Serampore printing press cultural impact. Religious dimension of colonialism beyond economic exploitation. Lutheran vs Catholic mission comparison"
-    },
-    {
-      "id": "fc040",
-      "category": "UPSC Focus Areas",
-      "front": "Why Danish exit (1845) significant?",
-      "back": "Shows British consolidation by mid-19th century. Buying out remaining European enclaves. End of multi-European presence in India. Context for understanding British monopoly pre-1857"
-    },
-    {
-      "id": "fc041",
-      "category": "UPSC Focus Areas",
-      "front": "Comparative questions: Why Danish failed vs English succeeded?",
-      "back": "Tests understanding of colonial success factors: timing, resources, strategy. Danish failure illustrates what made others successful. Negative case study illuminating positive (English) case"
-    },
-    {
-      "id": "fc042",
-      "category": "UPSC Focus Areas",
-      "front": "Danish presence in UPSC pattern?",
-      "back": "Minimal questions - reflects minimal historical impact. Usually appears in: European comparison tables, chronology questions, 'which company established where/when' MCQs. Not depth questions - too little substance"
+      "front": "Danish establishment pattern?",
+      "back": "First factory at Tranquebar (1620), later Serampore became more significant"
     }
   ],
   "quizzes": {
@@ -267,7 +75,7 @@
           "1664"
         ],
         "correct": 1,
-        "explanation": "Danish East India Company was established in 1616, arriving late to Asian trade after Portuguese, English, and Dutch."
+        "explanation": "Danish East India Company was established in 1616."
       },
       {
         "id": "mcq002",
@@ -275,163 +83,59 @@
         "options": [
           "Serampore",
           "Tranquebar",
-          "Surat",
-          "Calcutta"
+          "Calcutta",
+          "Tanjore"
         ],
         "correct": 1,
-        "explanation": "Tranquebar (1620) near Tanjore on Tamil Nadu coast was the first Danish factory in India."
+        "explanation": "First Danish factory was at Tranquebar (1620) near Tanjore."
       },
       {
         "id": "mcq003",
-        "question": "How many trading centers did Danish establish in India?",
-        "options": [
-          "Only 1",
-          "Only 2",
-          "5",
-          "10"
-        ],
-        "correct": 1,
-        "explanation": "Danish established only 2 trading centers: Tranquebar (1620) and Serampore (1755), reflecting their limited presence."
-      },
-      {
-        "id": "mcq004",
-        "question": "What was the most significant Danish settlement in India?",
+        "question": "What was the most significant Danish settlement?",
         "options": [
           "Tranquebar",
           "Serampore",
-          "Pondicherry",
-          "Cochin"
+          "Tanjore",
+          "Calcutta"
         ],
         "correct": 1,
-        "explanation": "Serampore (near Calcutta) became their most significant settlement, known for missionary activities and printing press."
+        "explanation": "Serampore (near Calcutta) became their most significant settlement."
       },
       {
-        "id": "mcq005",
-        "question": "When did the Danish sell their Indian territories?",
-        "options": [
-          "1825",
-          "1835",
-          "1845",
-          "1857"
-        ],
-        "correct": 2,
-        "explanation": "Danish sold their territories to the British in 1845, ending 229 years of minimal presence in India."
-      },
-      {
-        "id": "mcq006",
-        "question": "To whom did the Danish sell their Indian possessions?",
-        "options": [
-          "Dutch",
-          "Portuguese",
-          "French",
-          "British East India Company"
-        ],
-        "correct": 3,
-        "explanation": "Danish sold their territories to the British East India Company in 1845 after continuous commercial losses."
-      },
-      {
-        "id": "mcq007",
+        "id": "mcq004",
         "question": "What was the primary Danish focus in India?",
         "options": [
           "Spice trade",
-          "Textile monopoly",
+          "Textile trade",
           "Missionary activities",
-          "Naval dominance"
+          "Naval power"
         ],
         "correct": 2,
-        "explanation": "Danish focused more on missionary activities than commercial or political ambitions, distinguishing them from other European powers."
+        "explanation": "Danish focused on missionary activities rather than commercial or political ambitions."
       },
       {
-        "id": "mcq008",
-        "question": "Why was Danish presence in India minimal?",
+        "id": "mcq005",
+        "question": "Where was Tranquebar located?",
         "options": [
-          "Mughal opposition",
-          "Small economy, late entry, limited resources",
-          "Dutch military defeats",
-          "Climate unsuitability"
+          "Near Calcutta",
+          "Near Tanjore",
+          "Near Bombay",
+          "Near Madras"
         ],
         "correct": 1,
-        "explanation": "Danish had small economy, arrived late (1616), had limited resources and no naval power to compete with established European powers."
-      },
-      {
-        "id": "mcq009",
-        "question": "How long did Danish presence last in India?",
-        "options": [
-          "150 years",
-          "229 years",
-          "347 years",
-          "463 years"
-        ],
-        "correct": 1,
-        "explanation": "Danish presence lasted 229 years (1616-1845), longer than Dutch but with minimal footprint - only 2 trading centers."
-      },
-      {
-        "id": "mcq010",
-        "question": "What commodities did Danish primarily trade?",
-        "options": [
-          "Spices from Indonesia",
-          "Saltpetre, textiles, indigo",
-          "Tea and coffee",
-          "Opium and silk"
-        ],
-        "correct": 1,
-        "explanation": "Danish traded saltpetre (gunpowder ingredient), textiles, and indigo - niche commodities avoiding direct competition with larger companies."
-      },
-      {
-        "id": "mcq011",
-        "question": "Why was Serampore significant for Danish?",
-        "options": [
-          "Military base",
-          "Spice warehouse",
-          "Missionary center with printing press",
-          "Naval headquarters"
-        ],
-        "correct": 2,
-        "explanation": "Serampore was significant as a missionary center with a printing press, representing Danish cultural contribution despite minimal trade."
-      },
-      {
-        "id": "mcq012",
-        "question": "Which region was Tranquebar located?",
-        "options": [
-          "Bengal",
-          "Gujarat",
-          "Tamil Nadu near Tanjore",
-          "Kerala"
-        ],
-        "correct": 2,
-        "explanation": "Tranquebar was located on the Tamil Nadu coast near Tanjore, providing access to Coromandel textile trade."
+        "explanation": "Tranquebar was located near Tanjore on the Tamil Nadu coast."
       }
     ],
     "comprehensive": [
       {
         "id": "comp001",
-        "question": "Compare Danish East India Company with other European companies. Why did Danish fail commercially while others succeeded?",
-        "answer": "Danish East India Company (1616-1845): Only 2 trading centers (Tranquebar 1620, Serampore 1755), minimal presence, sold to British 1845. Commercial failure. Why Danish Failed: 1) Late Entry: Arrived 1616 after Portuguese (1498), English (1600), Dutch (1602). Best locations, trade routes already controlled. 2) Under-resourced: Small Danish economy couldn't match VOC/EIC capital. Insufficient investment for competitive operations. 3) No Naval Power: Couldn't enforce monopolies or protect shipping. Vulnerable to competitors and pirates. 4) Wrong Timing: Entered as competition intensifying. Mughal Empire still strong (less opportunity for territorial expansion). 5) No Unique Advantage: Portuguese had first-mover, Dutch had spice monopoly, English adapted to territory. Danish had nothing distinctive. 6) Structural Disadvantages: Small population (limited settlers/soldiers), peripheral European location, Baltic trade priority. Why Others Succeeded: Portuguese: Naval superiority, first-mover advantage, religious zeal. Dutch: VOC monopoly, Indonesian spice focus, commercial efficiency. English: Resources, adaptability (trade to territorial), timing (Mughal decline), Parliamentary backing. French: State funding, military tactics (though ultimately lost to English). Lesson: Colonial success required combination of timing, resources, military power, strategic positioning. Danish had none. Shows European colonialism wasn't democratically accessible - major powers succeeded, minor powers (Denmark) failed structurally. Prestige couldn't compensate for fundamental weaknesses. Danish persistence 229 years despite failure due to sunk costs and missionary justification, finally exiting pragmatically in 1845."
+        "question": "What distinguished the Danish approach in India from other European powers?",
+        "answer": "The Danish East India Company (established 1616) focused primarily on missionary activities rather than commercial or political ambitions. This distinguished them from the Portuguese, Dutch, English, and French who pursued trade monopolies, territorial control, or both. Danish established only two settlements: Tranquebar (1620) near Tanjore as their first factory, and Serampore near Calcutta which became their most significant settlement. The emphasis on missionary work over commerce or conquest made Danish presence in India unique among European powers."
       },
       {
         "id": "comp002",
-        "question": "Analyze Danish missionary activities in India. How did religious motivations differ from Portuguese missions?",
-        "answer": "Danish Missionary Focus: Unlike other Europeans, Danish emphasized missionary activities over commercial profit. Serampore became center for Lutheran Protestant missions, established printing press, educational institutions. When commercial venture failed, missions provided alternative purpose. Portuguese Missions: Catholic Inquisition in Goa (1560), forced conversions, persecution of Muslims/Hindus, Jesuits to Mughal court (failed to convert Akbar). Coercive religious colonialism. Key Differences: 1) Approach: Portuguese forced conversion through Inquisition, persecution, state power. Danish voluntary conversion through education, printing vernacular Bibles, peaceful persuasion. 2) Scale: Portuguese extensive across territories (Goa, Daman, Diu, Cochin). Danish limited to Tranquebar, Serampore. 3) Integration: Portuguese missions integral to colonial project - religious justification for conquest. Danish missions compensating for commercial failure. 4) Denomination: Catholic vs Lutheran Protestant - different theological approaches, organizational structures. 5) Success: Portuguese created lasting Catholic communities in Goa (persist today). Danish minimal conversion impact due to limited presence. Similarities: Both saw conversion as civilizing mission, both provided education/literacy, both spread European culture/values. Impact Assessment: Danish less coercive, less destructive than Portuguese Inquisition. However, both forms of cultural imperialism. Danish printing press at Serampore contributed to vernacular literature, education - more benign legacy than Portuguese persecution. But also attempted erasure of indigenous religions/cultures. Broader Context: Missionary activities across European powers (Portuguese Catholic, Danish/English Protestant) shared assumption of European religious superiority. Varied methods (coercion vs persuasion) but same underlying cultural imperialism. Danish peaceful approach preferable to Portuguese violence but still problematic. Legacy: Danish left Christian communities, educational institutions, printed works in Serampore region. Portuguese left larger Catholic population in Goa but also trauma of Inquisition. Different scales, methods, but both religious colonialism."
-      },
-      {
-        "id": "comp003",
-        "question": "Why did British purchase Danish territories in 1845? What did this signify for British consolidation of India?",
-        "answer": "Context 1845: British dominated India post-Plassey (1757), controlled vast territories. French reduced to 5 enclaves, Dutch left 1825, Portuguese confined to Goa/Daman/Diu. Danish held Tranquebar, Serampore - tiny, unprofitable posts. Why British Bought (1845): 1) Consolidation: Eliminating foreign enclaves strengthened British monopoly. Tranquebar on Coromandel coast, Serampore near Calcutta - strategically useful to control fully. 2) Tidying Borders: Anomalous foreign territories within British India administratively awkward. Simplified governance. 3) Minimal Cost: Danish desperate to exit after losses. British paid nominal sum. Easy acquisition. 4) Preventing Rivals: Even weak Danish presence potential foothold for future European rivals. Better to eliminate entirely. 5) Imperial Completeness: British prestige required controlling all India. Foreign enclaves wounded pride. Danish Perspective: Commercially unviable for decades. Couldn't compete with British dominance. Small Danish economy couldn't justify continued investment. Missionary justification wearing thin. Pragmatic decision to sell, recover some investment, exit gracefully. Significance for British Consolidation: 1) Near-Total Control: Post-1845, only Portuguese (Goa) and French (5 tiny enclaves) remained. British monopoly almost complete. 2) Pre-1857 Peak: British expansion reaching limits. From 1757 (Plassey) to 1857 (Revolt), steady territorial growth. 1845 marks late-stage consolidation. 3) Economic Monopoly: No European trade competition. British controlled all major ports, trade routes, resources. 4) Administrative Integration: Integrating Danish territories into Presidencies (Madras, Bengal) completed regional control. Broader Pattern: British systematically eliminated European competitors: Dutch (Battle of Hooghly 1759), French (Carnatic Wars 1740s-1760s), Danish (bought 1845). Only Portuguese survived (too insignificant to bother, finally taken 1961). Shows British imperial strategy: military defeat of serious rivals (French, Dutch), economic purchase of weak ones (Danish). Lesson: By 1845, British India consolidation nearly complete. Danish sale milestone in British becoming sole European power. Set stage for 1857 Revolt and Crown Rule transition (1858). British monopoly unchallenged until independence movement."
-      },
-      {
-        "id": "comp004",
-        "question": "What does the Danish experience reveal about colonial success factors? Why did minor European powers fail in India?",
-        "answer": "Danish as Case Study: Arrived 1616, lasted 229 years, only 2 centers, commercial failure, sold 1845. Minimal impact. Perfect example of minor power colonial failure. Colonial Success Factors (Danish lacked all): 1) Early Arrival: Portuguese (1498) and Dutch (1602) established before intense competition. Danish (1616) faced saturated market. First-mover advantage crucial. 2) Naval Power: Portuguese/Dutch/English had strong navies enforcing trade, protecting shipping. Danish weak navy couldn't compete or defend. Naval supremacy essential for maritime empire. 3) Capital Resources: VOC and EIC well-capitalized joint-stock companies. Danish underfunded, couldn't sustain losses. Financial strength required for long-term operations. 4) Military Capacity: English raised sepoy armies, Portuguese had garrisons, Dutch had VOC forces. Danish minimal military, no territorial conquest possible. 5) Metropolitan Economy: England's growing economy (leading to Industrial Revolution), Dutch Golden Age, Portuguese Atlantic trade funded colonies. Small Danish economy prioritized Baltic/European trade. 6) Strategic Timing: English arrived as Mughal Empire declined (1700s), enabling territorial expansion. Danish peak coincided with strong Mughals, missed opportunity window. 7) Adaptability: English evolved from trade to territory. Danish stayed rigidly commercial. Strategic flexibility essential. 8) Scale Ambitions: Even 'failed' French had territorial ambitions, fought Carnatic Wars. Danish never attempted beyond trading posts. Why Minor Powers Failed: Denmark (and Sweden, which barely tried) lacked resources, arrived late, couldn't compete militarily/economically. Colonial empire required sustained investment, military force, naval power beyond minor European states' capacity. Lesson: Colonialism wasn't open competition - structural advantages determined winners. Major powers (England, France, Netherlands, Portugal, Spain) had resources for imperial projects. Minor powers (Denmark, Sweden, some German states) lacked fundamentals. Danish 229-year persistence shows prestige/pride kept failing ventures alive but couldn't overcome structural disadvantages. Broader Implications: Within Europe itself, power hierarchies existed. Colonial competition reflected/amplified European inequalities. Danish failure illuminates English success - British had every advantage Danish lacked. Understanding why Denmark failed helps explain why Britain succeeded - complementary cases. Danish case study valuable precisely because failure: shows colonialism required specific conditions, not inevitable or universally accessible even among European powers."
-      },
-      {
-        "id": "comp005",
-        "question": "Compare Danish exit strategy (1845 sale to British) with Dutch (1825) and Portuguese (1961). What do different exits reveal about colonial models?",
-        "answer": "Three Exit Patterns: Danish (1845): Voluntary sale to British after commercial failure. Peaceful, pragmatic. Dutch (1825): Voluntary focus shift to Indonesia, sold Indian territories. Commercial calculation. Portuguese (1961): Forced military liberation by India (Operation Vijay). Resisted until defeated. Danish Exit (1845): Context: Decades of losses, 2 tiny posts (Tranquebar, Serampore), no profitability. British offered purchase. Motivation: Cut losses, recover some investment, Danish economy couldn't justify continuation. Significance: Purely commercial decision - not working, exit rationally. No emotional attachment to 'empire'. Outcome: Smooth transfer, Danish returned to European/Baltic focus. Dutch Exit (1825): Context: Focused on Indonesian spice monopoly, British dominated India (post-1757), military defeats (Hooghly 1759). Motivation: Indonesia far more profitable. India not worth resources. Strategic reallocation. Significance: Pragmatic choice prioritizing profit. Commercial empire following opportunity. Outcome: Dutch East Indies thrived until WWII. India exit justified economically. Portuguese Exit (1961): Context: Goa, Daman, Diu held since 1510s. Deep cultural roots, mesti\u00e7o communities, religious/national pride. Indian independence (1947) demanded return. Motivation: Emotional attachment, imperial prestige, 'overseas province' status. Refused voluntary exit. Significance: Colonial possession became identity. Couldn't accept loss. Outcome: Operation Vijay (1961), India's military annexation. Portuguese protested but couldn't prevent. What Exits Reveal: 1) Colonial Models: Dutch/Danish commercial empires could exit rationally. Portuguese settler-territorial colony had emotional stakes. 2) Profit vs Prestige: Dutch/Danish profit-driven - when unprofitable, left. Portuguese prestige-driven - stayed despite economic irrationality. 3) Integration Depth: Portuguese intermarriage, cultural fusion made exit psychologically hard. Dutch/Danish remained foreign, easy detachment. 4) Metropolitan Priorities: Dutch/Danish had alternative focuses (Indonesia, Baltic). Portuguese had fewer colonies (Angola, Mozambique, Goa), couldn't afford losing any. 5) Decolonization Era: Dutch/Danish pre-1947 exits avoided decolonization pressures. Portuguese faced post-WWII anti-colonialism, forced to defend indefensible. Lesson: How empires ended reveals how they functioned. Commercial empires (Dutch/Danish) exited when unprofitable - rational actors. Settler empires (Portuguese) clung emotionally - irrational attachment. British (1947) combination - voluntary under pressure, couldn't hold militarily/economically but framed as dignified withdrawal. Danish/Dutch pragmatism preferable to Portuguese stubbornness but all three eventually lost. Timing mattered - Danish/Dutch exited on own terms; Portuguese forced out humiliatingly. However, all three ultimately left. Colonialism unsustainable long-term regardless of exit strategy."
-      },
-      {
-        "id": "comp006",
-        "question": "Evaluate the legacy of Danish presence in India. Despite minimal political/economic impact, what cultural contributions did they make?",
-        "answer": "Political Legacy: None. Two tiny trading posts, no territorial control, no impact on Indian governance/politics. Sold 1845, integrated into British India, disappeared entirely from political landscape. Economic Legacy: Negligible. Minimal trade volume, no structural economic changes, no deindustrialization or exploitation (unlike British). Too weak to impact Indian economy positively or negatively. Cultural Legacy (More Significant): 1) Serampore Printing Press: Established by missionaries, printed vernacular books, Bibles, educational materials. Contributed to Bengali/Tamil literature, literacy. First printed books in several Indian languages. 2) Education: Mission schools in Tranquebar, Serampore provided Western-style education. Small-scale but pioneering. Influenced later British education policy. 3) Christian Communities: Lutheran conversions limited but created small Christian communities in Tamil Nadu, Bengal. Persist today though tiny. 4) Architecture: Tranquebar fort, churches (Zion Church 1701) still standing. Danish architectural influence visible. Tourist sites today. 5) Translations: Missionaries translated Bible into Tamil, Bengali, other languages. Linguistic contribution to vernacular development. 6) Historical Record: Danish archives, accounts provide historical documentation of 17th-18th century India from non-British European perspective. Research value. Assessment: Compared to British: British left massive legacy - railways, administration, English language, borders, political institutions, economic destruction. Danish infinitesimal. Compared to Portuguese: Portuguese left Goan culture, Catholic population, cuisine, architecture. Danish less impactful. Compared to Dutch/French: Even these limited presences (Cochin, Pondicherry) left more traces than Danish. Positive Aspects: 1) Non-exploitative: Too weak to exploit. Didn't cause famines, deindustrialization, massacres. Harmless due to impotence. 2) Educational/Literary: Printing press, schools genuinely beneficial, no colonial strings (unlike British 'civilizing mission' justifying exploitation). 3) Peaceful: No wars, massacres, forced conversions. Voluntary missionary work. Negative Aspects: 1) Insignificance: So minimal that legacy barely exists. Question whether Danish presence 'mattered' at all. 2) Cultural Imperialism: Even peaceful missions attempted erasing indigenous religions. Religious colonialism, however gentle. 3) Enabling British: By selling to British (1845), facilitated British monopoly. Contributed to British consolidation, indirectly. Conclusion: Danish legacy overwhelmingly cultural (printing, education, architecture) because too weak for political/economic impact. Positive cultural contributions don't justify colonialism but Danish case shows spectrum - some colonial powers more benign (Danish missionaries) vs catastrophically destructive (British economic exploitation). However, 'benign neglect' due to failure, not virtue. Danish wanted commercial success like others, just couldn't achieve it. Legacy reflects weakness, not enlightenment. Still, Serampore printing press and Tranquebar architecture are tangible positive remnants of otherwise failed colonial venture."
+        "question": "Describe the establishment and significance of Danish settlements in India.",
+        "answer": "Danish East India Company established in 1616 created two main settlements in India. First factory was at Tranquebar (1620) near Tanjore on the Tamil Nadu coast. Later, Serampore near Calcutta (in Bengal) became their most significant settlement. While Tranquebar was the initial entry point, Serampore grew in importance, likely due to its proximity to the major commercial center of Calcutta and its suitability for their primary focus - missionary activities. These two settlements represented the limited but distinctive Danish presence in India, marked more by religious mission than commercial ambition."
       }
     ]
   }
