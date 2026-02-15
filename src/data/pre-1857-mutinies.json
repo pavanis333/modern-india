@@ -1,0 +1,161 @@
+{
+  "topic": "People's Resistance Against the British",
+  "subtopic": "Major Pre-1857 Mutinies",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Pre-1857 Mutinies (Chronological)",
+      "front": "Bengal Sepoy Mutiny (1764)?",
+      "back": "Early signs of sepoy unrest"
+    },
+    {
+      "id": "fc002",
+      "category": "Pre-1857 Mutinies (Chronological)",
+      "front": "Vellore Mutiny (1806)?",
+      "back": "Revolt in response to interference with social and religious practices; rebels raised the Mysore flag"
+    },
+    {
+      "id": "fc003",
+      "category": "Pre-1857 Mutinies (Chronological)",
+      "front": "47th Native Infantry Mutiny (1824)?",
+      "back": "Occurred over forced deployment"
+    },
+    {
+      "id": "fc004",
+      "category": "Pre-1857 Mutinies (Chronological)",
+      "front": "Grenadier Company Revolt (1825)?",
+      "back": "Assam"
+    },
+    {
+      "id": "fc005",
+      "category": "Pre-1857 Mutinies (Chronological)",
+      "front": "Sholapur Mutiny (1838)?",
+      "back": "Sepoy mutiny in Sholapur"
+    },
+    {
+      "id": "fc006",
+      "category": "Pre-1857 Mutinies (Chronological)",
+      "front": "34th Native Infantry Mutiny (1844-1852)?",
+      "back": "Part of sporadic revolts across different regiments between 1844-1852"
+    },
+    {
+      "id": "fc007",
+      "category": "Pre-1857 Mutinies (Chronological)",
+      "front": "22nd Native Infantry Mutiny (1844-1852)?",
+      "back": "Part of sporadic revolts across different regiments between 1844-1852"
+    },
+    {
+      "id": "fc008",
+      "category": "Pre-1857 Mutinies (Chronological)",
+      "front": "66th Native Infantry Mutiny (1844-1852)?",
+      "back": "Part of sporadic revolts across different regiments between 1844-1852"
+    },
+    {
+      "id": "fc009",
+      "category": "Pre-1857 Mutinies (Chronological)",
+      "front": "37th Native Infantry Mutiny (1844-1852)?",
+      "back": "Part of sporadic revolts across different regiments between 1844-1852"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "First major sepoy mutiny?",
+        "options": [
+          "1757",
+          "1764 Bengal Sepoy Mutiny",
+          "1806",
+          "1824"
+        ],
+        "correct": 1,
+        "explanation": "Bengal Sepoy Mutiny (1764) showed early signs of sepoy unrest."
+      },
+      {
+        "id": "mcq002",
+        "question": "Vellore Mutiny occurred in?",
+        "options": [
+          "1764",
+          "1806",
+          "1824",
+          "1838"
+        ],
+        "correct": 1,
+        "explanation": "Vellore Mutiny occurred in 1806 in response to interference with social and religious practices."
+      },
+      {
+        "id": "mcq003",
+        "question": "Vellore rebels raised which flag?",
+        "options": [
+          "Maratha flag",
+          "Mysore flag",
+          "Mughal flag",
+          "French flag"
+        ],
+        "correct": 1,
+        "explanation": "Vellore Mutiny rebels raised the Mysore flag."
+      },
+      {
+        "id": "mcq004",
+        "question": "47th Native Infantry Mutiny (1824) was over?",
+        "options": [
+          "Pay issues",
+          "Forced deployment",
+          "Religious practices",
+          "Caste discrimination"
+        ],
+        "correct": 1,
+        "explanation": "47th Native Infantry Mutiny (1824) occurred over forced deployment."
+      },
+      {
+        "id": "mcq005",
+        "question": "Grenadier Company Revolt (1825) occurred where?",
+        "options": [
+          "Bengal",
+          "Assam",
+          "Madras",
+          "Bombay"
+        ],
+        "correct": 1,
+        "explanation": "Grenadier Company Revolt (1825) occurred in Assam."
+      },
+      {
+        "id": "mcq006",
+        "question": "When was Sholapur Mutiny?",
+        "options": [
+          "1824",
+          "1825",
+          "1838",
+          "1844"
+        ],
+        "correct": 2,
+        "explanation": "Sholapur Mutiny occurred in 1838."
+      },
+      {
+        "id": "mcq007",
+        "question": "Sporadic revolts across regiments occurred during?",
+        "options": [
+          "1764-1806",
+          "1806-1824",
+          "1844-1852",
+          "1852-1857"
+        ],
+        "correct": 2,
+        "explanation": "Mutinies of 34th, 22nd, 66th, and 37th Native Infantry were sporadic revolts during 1844-1852."
+      },
+      {
+        "id": "mcq008",
+        "question": "Which regiments mutinied between 1844-1852?",
+        "options": [
+          "Only 34th",
+          "34th, 22nd only",
+          "34th, 22nd, 66th, and 37th Native Infantry",
+          "All Bengal regiments"
+        ],
+        "correct": 2,
+        "explanation": "34th, 22nd, 66th, and 37th Native Infantry had sporadic revolts between 1844-1852."
+      }
+    ],
+    "comprehensive": []
+  }
+}

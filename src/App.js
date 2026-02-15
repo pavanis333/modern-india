@@ -43,6 +43,7 @@ import civilRebellionsData from './data/civil-rebellions-glance.json';
 import tribalRevoltsData from './data/tribal-revolts-glance.json';
 import tribalRevoltsPhase2Data from './data/tribal-revolts-second-phase.json';
 import tribalRevoltsPhase3Data from './data/tribal-revolts-third-phase.json';
+import pre1857MutiniesData from './data/pre-1857-mutinies.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -345,6 +346,12 @@ function App() {
           title: 'Tribal Revolts - Third Phase (1920-1947)',
           description: 'Rampa/Alluri Sitarama Raju, Chenchu (forest satyagraha), Rani Gaidinliu (Naga), Gond Uprising',
           data: tribalRevoltsPhase3Data
+        },
+        {
+          id: 'pre-1857-mutinies',
+          title: 'Major Pre-1857 Mutinies',
+          description: 'Bengal Sepoy (1764), Vellore (1806), 47th Infantry (1824), Sholapur (1838), 34th/22nd/66th/37th (1844-52)',
+          data: pre1857MutiniesData
         }
       ]
     }
