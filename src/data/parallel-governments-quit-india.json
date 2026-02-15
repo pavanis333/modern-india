@@ -1,0 +1,221 @@
+{
+  "topic": "Indian National Movement: 1942-1947",
+  "subtopic": "Parallel Governments during Quit India Movement",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Parallel Governments",
+      "front": "Ballia Parallel Government (August 1942)?",
+      "back": "Leader: Chittu Pandey | Secured release of numerous Congress leaders; emerged for a week as parallel government"
+    },
+    {
+      "id": "fc002",
+      "category": "Parallel Governments",
+      "front": "Tamluk Parallel Government (Dec 1942 - Sep 1944)?",
+      "back": "Midnapore | Leader: Jatiya Sarkar | Engaged in cyclone relief, allocated grants to schools, provided paddy to needy, organised Vidyut Vahinis"
+    },
+    {
+      "id": "fc003",
+      "category": "Parallel Governments",
+      "front": "Satara Parallel Government (Mid-1943 - 1945)?",
+      "back": "Leader: Y.B.Chavan, Nana Patil | Known as 'Prati Sarkar' | Established village libraries, created Nyayadan Mandals, conducted prohibition campaigns, arranged 'Gandhi marriages'"
+    },
+    {
+      "id": "fc004",
+      "category": "Parallel Governments",
+      "front": "Which parallel government lasted longest?",
+      "back": "Satara (Mid-1943 - 1945) - about 2 years"
+    },
+    {
+      "id": "fc005",
+      "category": "Parallel Governments",
+      "front": "Which parallel government was shortest?",
+      "back": "Ballia (August 1942) - emerged for only a week"
+    },
+    {
+      "id": "fc006",
+      "category": "Parallel Governments",
+      "front": "Tamluk duration?",
+      "back": "December 1942 to September 1944 - about 21 months"
+    },
+    {
+      "id": "fc007",
+      "category": "Parallel Governments",
+      "front": "Vidyut Vahinis organized by?",
+      "back": "Tamluk (Jatiya Sarkar) parallel government in Midnapore"
+    },
+    {
+      "id": "fc008",
+      "category": "Parallel Governments",
+      "front": "Prati Sarkar meaning?",
+      "back": "Parallel Government - name for Satara government"
+    },
+    {
+      "id": "fc009",
+      "category": "Parallel Governments",
+      "front": "Gandhi marriages arranged by?",
+      "back": "Satara (Prati Sarkar) parallel government"
+    },
+    {
+      "id": "fc010",
+      "category": "Parallel Governments",
+      "front": "Nyayadan Mandals established by?",
+      "back": "Satara (Prati Sarkar) parallel government - for justice/dispute resolution"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "When was Ballia parallel government?",
+        "options": [
+          "July 1942",
+          "August 1942",
+          "December 1942",
+          "1943"
+        ],
+        "correct": 1,
+        "explanation": "Ballia parallel government was in August 1942."
+      },
+      {
+        "id": "mcq002",
+        "question": "Who led Ballia parallel government?",
+        "options": [
+          "Chittu Pandey",
+          "Jatiya Sarkar",
+          "Y.B.Chavan",
+          "Nana Patil"
+        ],
+        "correct": 0,
+        "explanation": "Chittu Pandey led Ballia parallel government."
+      },
+      {
+        "id": "mcq003",
+        "question": "How long did Ballia parallel government last?",
+        "options": [
+          "A week",
+          "A month",
+          "Six months",
+          "A year"
+        ],
+        "correct": 0,
+        "explanation": "Ballia parallel government emerged for a week as parallel government."
+      },
+      {
+        "id": "mcq004",
+        "question": "When was Tamluk parallel government?",
+        "options": [
+          "August 1942",
+          "December 1942 - September 1944",
+          "1943-1945",
+          "1945-1947"
+        ],
+        "correct": 1,
+        "explanation": "Tamluk parallel government was from December 1942 to September 1944 in Midnapore."
+      },
+      {
+        "id": "mcq005",
+        "question": "Who led Tamluk parallel government?",
+        "options": [
+          "Chittu Pandey",
+          "Jatiya Sarkar",
+          "Y.B.Chavan",
+          "Nana Patil"
+        ],
+        "correct": 1,
+        "explanation": "Jatiya Sarkar led Tamluk parallel government."
+      },
+      {
+        "id": "mcq006",
+        "question": "Where was Tamluk parallel government?",
+        "options": [
+          "Ballia",
+          "Midnapore",
+          "Satara",
+          "Maharashtra"
+        ],
+        "correct": 1,
+        "explanation": "Tamluk parallel government was in Midnapore (Bengal)."
+      },
+      {
+        "id": "mcq007",
+        "question": "What did Tamluk government organize?",
+        "options": [
+          "Gandhi marriages",
+          "Vidyut Vahinis",
+          "Nyayadan Mandals",
+          "Village libraries"
+        ],
+        "correct": 1,
+        "explanation": "Tamluk (Jatiya Sarkar) organised Vidyut Vahinis among other activities."
+      },
+      {
+        "id": "mcq008",
+        "question": "When was Satara parallel government?",
+        "options": [
+          "August 1942",
+          "December 1942",
+          "Mid-1943 - 1945",
+          "1945-1947"
+        ],
+        "correct": 2,
+        "explanation": "Satara parallel government was from Mid-1943 to 1945."
+      },
+      {
+        "id": "mcq009",
+        "question": "Who led Satara parallel government?",
+        "options": [
+          "Chittu Pandey",
+          "Jatiya Sarkar",
+          "Y.B.Chavan, Nana Patil",
+          "Only Nana Patil"
+        ],
+        "correct": 2,
+        "explanation": "Y.B.Chavan and Nana Patil led Satara parallel government."
+      },
+      {
+        "id": "mcq010",
+        "question": "Satara parallel government was also known as?",
+        "options": [
+          "Jatiya Sarkar",
+          "Prati Sarkar",
+          "Vidyut Vahini",
+          "Azad Hind"
+        ],
+        "correct": 1,
+        "explanation": "Satara parallel government was known as 'Prati Sarkar' (Parallel Government)."
+      },
+      {
+        "id": "mcq011",
+        "question": "What did Satara government establish?",
+        "options": [
+          "Only libraries",
+          "Village libraries, Nyayadan Mandals",
+          "Only Vidyut Vahinis",
+          "Only schools"
+        ],
+        "correct": 1,
+        "explanation": "Satara established village libraries and created Nyayadan Mandals among other activities."
+      },
+      {
+        "id": "mcq012",
+        "question": "Gandhi marriages were arranged by?",
+        "options": [
+          "Ballia",
+          "Tamluk",
+          "Satara (Prati Sarkar)",
+          "All three"
+        ],
+        "correct": 2,
+        "explanation": "Satara (Prati Sarkar) arranged 'Gandhi marriages'."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Compare the three parallel governments (Ballia, Tamluk, Satara) during Quit India Movement in terms of duration, leadership, geographic location, and activities, analyzing their significance in demonstrating nationalist self-governance capacity.",
+        "answer": "Ballia (August 1942): Duration: Shortest - emerged for only a week. Location: Ballia (UP). Leader: Chittu Pandey. Activities: Secured release of numerous Congress leaders; emerged as parallel government. Significance: First/earliest (August 1942), immediate response to Quit India call, demonstrated rapid nationalist mobilization but brief (week only), focused on political prisoners release, symbolic challenge to British authority. Tamluk (December 1942 - September 1944): Duration: Medium - 21 months (Dec 1942 - Sep 1944). Location: Midnapore (Bengal). Leader: Jatiya Sarkar (National Government). Activities: Cyclone relief efforts, allocated grants to schools, provided paddy to needy, organised Vidyut Vahinis. Significance: Longest-lasting (21 months), comprehensive governance (relief, education, food security), Vidyut Vahinis (volunteer corps), Jatiya Sarkar name showing national consciousness, sustained challenge despite British attempts to suppress, Bengal nationalist tradition continuing (Bengal revolutionary history). Satara (Mid-1943 - 1945): Duration: Long - about 2 years (1943-1945). Location: Satara (Maharashtra). Leaders: Y.B.Chavan, Nana Patil, etc. Name: 'Prati Sarkar' (Parallel Government). Activities: Established village libraries (education), created Nyayadan Mandals (justice/dispute resolution), conducted prohibition campaigns (social reform), arranged 'Gandhi marriages' (social reform). Significance: Most comprehensive governance, explicitly 'parallel' (Prati Sarkar), Maharashtra/Maratha tradition (independent governance), social reform emphasis (prohibition, Gandhi marriages), justice system (Nyayadan Mandals), education (libraries), Y.B.Chavan later prominent (Chief Minister Maharashtra, Defense Minister India). Comparison: Duration: Ballia (1 week) < Tamluk (21 months) < Satara (2 years). Geography: UP (Ballia), Bengal (Tamluk), Maharashtra (Satara) - three different regions showing pan-Indian Quit India impact. Activities: Ballia: Political (prisoner release), Tamluk: Welfare (cyclone relief, food, education), Satara: Comprehensive (education, justice, social reform). Leadership: Ballia: Single leader (Chittu Pandey), Tamluk: Collective (Jatiya Sarkar), Satara: Multiple (Y.B.Chavan, Nana Patil). Significance of Parallel Governments: Demonstrating Self-Governance: All three showed Indians could govern themselves without British. Tamluk/Satara especially (1-2 years) proving sustained governance capacity. Comprehensive Administration: Beyond just resistance, providing actual governance: Justice (Nyayadan Mandals), Education (schools, libraries), Welfare (cyclone relief, food), Social reform (prohibition, Gandhi marriages), Volunteer organization (Vidyut Vahinis). British Authority Challenge: Parallel governments directly challenging British sovereignty. Showing British government irrelevant/unnecessary in liberated zones. Mass Participation: Not just elite Congress but mass involvement in self-governance. Regional Variations: Different regions expressing nationalism through local governance traditions: Bengal (revolutionary/relief), Maharashtra (Maratha independence tradition), UP (direct political challenge). Quit India Movement: Parallel governments showing Quit India wasn't just protest but attempt at alternative governance. Gandhi's constructive program in liberated zones. Limitations: All eventually suppressed by British, Relatively brief (longest 2 years), Localized (couldn't expand beyond specific districts), British military force ultimately reasserting control. Nevertheless: Demonstrated nationalist capacity for self-governance, Provided model for post-independence panchayati raj, Kept nationalist flame alive during WWII British repression, Showed mass support for independence through actual governance participation."
+      }
+    ]
+  }
+}

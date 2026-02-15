@@ -29,6 +29,8 @@ import revolutionaryActData from './data/revolutionary-activities-1907-17.json';
 import nonCoopSevenData from './data/non-cooperation-seven-points.json';
 import revActPhase2Data from './data/revolutionary-activities-phase2-1920s.json';
 import elevenDemandsData from './data/gandhis-eleven-demands.json';
+import parallelGovtsData from './data/parallel-governments-quit-india.json';
+import twoNationData from './data/two-nation-theory-evolution.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -226,6 +228,25 @@ function App() {
           title: "Gandhi's Eleven Demands",
           description: 'Three categories: General Interest (6), Bourgeois Demands (3), Peasant Demands (2)',
           data: elevenDemandsData
+        }
+      ]
+    },
+    {
+      id: 'national-movement-1942-47',
+      title: 'Indian National Movement: 1942-1947',
+      description: 'Quit India Movement, Parallel Governments, Two-Nation Theory, and Independence',
+      subtopics: [
+        {
+          id: 'parallel-govts-quit-india',
+          title: 'Parallel Governments during Quit India Movement',
+          description: 'Ballia (Chittu Pandey), Tamluk (Jatiya Sarkar), Satara (Prati Sarkar)',
+          data: parallelGovtsData
+        },
+        {
+          id: 'two-nation-theory',
+          title: 'Evolution of the Two-Nation Theory',
+          description: 'From 1887 anti-Congress to Lahore Resolution 1940 and Partition 1947',
+          data: twoNationData
         }
       ]
     }

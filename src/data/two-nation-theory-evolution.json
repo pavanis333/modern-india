@@ -1,0 +1,269 @@
+{
+  "topic": "Indian National Movement: 1942-1947",
+  "subtopic": "Evolution of the Two-Nation Theory",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Chronological Evolution",
+      "front": "1887: Anti-Congress strategy?",
+      "back": "Dufferin and Colvin's anti-Congress strategies leveraged Syed Ahmed Khan to discourage Muslim participation in Congress"
+    },
+    {
+      "id": "fc002",
+      "category": "Chronological Evolution",
+      "front": "1906: Shimla Delegation?",
+      "back": "Led by Agha Khan, demanded separate electorates for Muslims, leading to All India Muslim League formation to support British loyalty"
+    },
+    {
+      "id": "fc003",
+      "category": "Chronological Evolution",
+      "front": "1909: Morley-Minto Reforms?",
+      "back": "Granted separate electorates, strengthening communal identities"
+    },
+    {
+      "id": "fc004",
+      "category": "Chronological Evolution",
+      "front": "1915: All India Hindu Mahasabha?",
+      "back": "First session marked organised Hindu political mobilisation"
+    },
+    {
+      "id": "fc005",
+      "category": "Chronological Evolution",
+      "front": "1912-1924: Muslim League shift?",
+      "back": "Experienced internal shifts, increasingly adopting communal perspective"
+    },
+    {
+      "id": "fc006",
+      "category": "Chronological Evolution",
+      "front": "1916: Congress acceptance?",
+      "back": "Congress's acceptance of separate electorates signified political validation of Muslim League"
+    },
+    {
+      "id": "fc007",
+      "category": "Chronological Evolution",
+      "front": "1920-22: Khilafat movement?",
+      "back": "Muslim involvement continued, but communal elements persisted in political outlook"
+    },
+    {
+      "id": "fc008",
+      "category": "Chronological Evolution",
+      "front": "1920s: Communal riots?",
+      "back": "Escalated with reactions from both communities, exemplified by Arya Samajists' Shuddhi movement and Muslim counteractions"
+    },
+    {
+      "id": "fc009",
+      "category": "Chronological Evolution",
+      "front": "1928: Nehru Report?",
+      "back": "Faced backlash from Muslim leaders, leading to Jinnah's fourteen points which intensified communal demands"
+    },
+    {
+      "id": "fc010",
+      "category": "Chronological Evolution",
+      "front": "1930-34: Civil Disobedience?",
+      "back": "Limited Muslim participation highlighted divides within nationalist movements"
+    },
+    {
+      "id": "fc011",
+      "category": "Chronological Evolution",
+      "front": "1932: Communal Award?",
+      "back": "Legitimised separate communal demands for Muslims"
+    },
+    {
+      "id": "fc012",
+      "category": "Chronological Evolution",
+      "front": "Post-1937: Muslim League?",
+      "back": "Embraced extreme communalism, influenced by Rahmat Ali and Iqbal, asserting Muslims as separate nation"
+    },
+    {
+      "id": "fc013",
+      "category": "Chronological Evolution",
+      "front": "March 24, 1940: Lahore Resolution?",
+      "back": "Called for independent states for Muslims in contiguous regions, crystallising two-nation theory"
+    },
+    {
+      "id": "fc014",
+      "category": "Chronological Evolution",
+      "front": "World War II impact?",
+      "back": "British government gave League significant power, allowing it to press for separate Pakistan, ultimately achieved in 1947"
+    },
+    {
+      "id": "fc015",
+      "category": "Key Concepts",
+      "front": "Two-Nation Theory origin?",
+      "back": "Evolved from 1887 (anti-Congress) through separate electorates (1909, 1916, 1932) to Lahore Resolution (1940) and Pakistan (1947)"
+    },
+    {
+      "id": "fc016",
+      "category": "Key Concepts",
+      "front": "Separate electorates introduced?",
+      "back": "1909 Morley-Minto Reforms; validated by Congress 1916; legitimised by Communal Award 1932"
+    },
+    {
+      "id": "fc017",
+      "category": "Key Concepts",
+      "front": "Who influenced extreme communalism post-1937?",
+      "back": "Rahmat Ali and Iqbal influenced Muslim League to assert Muslims as separate nation"
+    },
+    {
+      "id": "fc018",
+      "category": "Key Concepts",
+      "front": "Lahore Resolution date and significance?",
+      "back": "March 24, 1940 - called for independent states for Muslims in contiguous regions, crystallising two-nation theory"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "When did anti-Congress strategies leverage Syed Ahmed Khan?",
+        "options": [
+          "1857",
+          "1887",
+          "1906",
+          "1909"
+        ],
+        "correct": 1,
+        "explanation": "1887: Dufferin and Colvin leveraged Syed Ahmed Khan to discourage Muslim Congress participation."
+      },
+      {
+        "id": "mcq002",
+        "question": "When was Shimla Delegation?",
+        "options": [
+          "1887",
+          "1906",
+          "1909",
+          "1915"
+        ],
+        "correct": 1,
+        "explanation": "1906: Shimla Delegation led by Agha Khan demanded separate electorates."
+      },
+      {
+        "id": "mcq003",
+        "question": "What did Shimla Delegation demand?",
+        "options": [
+          "Complete independence",
+          "Separate electorates for Muslims",
+          "Abolish salt tax",
+          "Provincial autonomy"
+        ],
+        "correct": 1,
+        "explanation": "Shimla Delegation (1906) demanded separate electorates for Muslims."
+      },
+      {
+        "id": "mcq004",
+        "question": "When were separate electorates granted?",
+        "options": [
+          "1906",
+          "1909",
+          "1916",
+          "1932"
+        ],
+        "correct": 1,
+        "explanation": "1909: Morley-Minto Reforms granted separate electorates."
+      },
+      {
+        "id": "mcq005",
+        "question": "When was All India Hindu Mahasabha first session?",
+        "options": [
+          "1906",
+          "1909",
+          "1915",
+          "1920"
+        ],
+        "correct": 2,
+        "explanation": "1915: First All India Hindu Mahasabha session marked organised Hindu political mobilisation."
+      },
+      {
+        "id": "mcq006",
+        "question": "When did Congress accept separate electorates?",
+        "options": [
+          "1909",
+          "1916",
+          "1920",
+          "1932"
+        ],
+        "correct": 1,
+        "explanation": "1916: Congress's acceptance of separate electorates signified political validation of Muslim League."
+      },
+      {
+        "id": "mcq007",
+        "question": "What was Arya Samajists' movement in 1920s?",
+        "options": [
+          "Khilafat",
+          "Shuddhi movement",
+          "Civil Disobedience",
+          "Non-Cooperation"
+        ],
+        "correct": 1,
+        "explanation": "1920s: Arya Samajists' Shuddhi movement and Muslim counteractions escalated communal riots."
+      },
+      {
+        "id": "mcq008",
+        "question": "What report faced backlash from Muslim leaders (1928)?",
+        "options": [
+          "Simon Report",
+          "Nehru Report",
+          "Communal Award",
+          "Lahore Resolution"
+        ],
+        "correct": 1,
+        "explanation": "1928: Nehru Report faced backlash from Muslim leaders, leading to Jinnah's fourteen points."
+      },
+      {
+        "id": "mcq009",
+        "question": "When was Communal Award?",
+        "options": [
+          "1928",
+          "1930",
+          "1932",
+          "1940"
+        ],
+        "correct": 2,
+        "explanation": "1932: Communal Award legitimised separate communal demands for Muslims."
+      },
+      {
+        "id": "mcq010",
+        "question": "Who influenced Muslim League's extreme communalism post-1937?",
+        "options": [
+          "Gandhi and Nehru",
+          "Rahmat Ali and Iqbal",
+          "Jinnah alone",
+          "British only"
+        ],
+        "correct": 1,
+        "explanation": "Post-1937: Rahmat Ali and Iqbal influenced Muslim League to embrace extreme communalism."
+      },
+      {
+        "id": "mcq011",
+        "question": "When was Lahore Resolution?",
+        "options": [
+          "1937",
+          "March 24, 1940",
+          "1942",
+          "1947"
+        ],
+        "correct": 1,
+        "explanation": "March 24, 1940: Lahore Resolution called for independent states for Muslims."
+      },
+      {
+        "id": "mcq012",
+        "question": "What did Lahore Resolution call for?",
+        "options": [
+          "Dominion status",
+          "Independent states for Muslims in contiguous regions",
+          "Hindu-Muslim unity",
+          "British withdrawal"
+        ],
+        "correct": 1,
+        "explanation": "Lahore Resolution (1940) called for independent states for Muslims in contiguous regions, crystallising two-nation theory."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Trace the evolution of two-nation theory from British anti-Congress strategies (1887) through separate electorates (1909, 1916, 1932) to Lahore Resolution (1940) and Pakistan (1947), analyzing key turning points.",
+        "answer": "Origins - British Anti-Congress (1887): Dufferin and Colvin's anti-Congress strategies leveraged Syed Ahmed Khan to discourage Muslim participation in Congress. British divide-and-rule: Creating Muslim counter-weight to nationalist Congress. Syed Ahmed Khan: Advocating Muslim separatism, opposing Congress. Foundation: Communal politics beginning as British colonial strategy. Shimla Delegation & Muslim League (1906): Led by Agha Khan, demanded separate electorates for Muslims. All India Muslim League formed to support British loyalty. Significance: Formal Muslim political organization separate from Congress, Separate electorates demand (granted 1909), British encouraging communal representation. Morley-Minto Reforms (1909): Granted separate electorates, strengthening communal identities. Turning Point: Constitutional recognition of communal divisions, Voting on religious rather than territorial basis, Institutionalizing Hindu-Muslim political separation. Congress Validation (1916): Congress's acceptance of separate electorates signified political validation of Muslim League. Lucknow Pact: Congress-League agreement accepting separate electorates. Mistake: Congress legitimizing communal politics, giving League permanent constitutional demand. Hindu Mahasabha (1915): First All India Hindu Mahasabha session marked organised Hindu political mobilisation. Communal symmetry: Hindu communalism responding to Muslim League. Polarization: Both communities organizing politically on religious lines. 1920s Escalation: Khilafat movement (1920-22): Muslim involvement but communal elements persisting. Communal riots: Escalated with Arya Samajists' Shuddhi movement and Muslim counteractions. Violence: Religious conversion movements triggering communal violence. Nehru Report & Jinnah's Fourteen Points (1928): Nehru Report: Proposing constitutional framework. Backlash: Muslim leaders rejecting it. Jinnah's fourteen points: Intensified communal demands. Hardening: Muslim League demands becoming more rigid. Limited Muslim Participation (1930-34): Civil Disobedience Movement: Limited Muslim participation highlighted divides within nationalist movements. Growing gap: Nationalism increasingly Hindu-dominated perception among Muslims. Communal Award (1932): Legitimised separate communal demands for Muslims. British: Further institutionalizing communal politics. Ramsay MacDonald's award: Separate electorates for multiple communities. Post-1937 Radicalization: Muslim League embraced extreme communalism. Influenced by Rahmat Ali and Iqbal: Asserting Muslims as separate nation. Two-nation concept: Muslims not minority but separate nation. Lahore Resolution (March 24, 1940): Called for independent states for Muslims in contiguous regions. Crystallising two-nation theory: From separate electorates to separate nation. Pakistan demand: Formalized demand for Muslim homeland. World War II (1939-45): British government gave League significant power. League opposing war cooperation: Unlike Congress (Quit India 1942). British needing League: Allowing it to press for separate Pakistan. Achieved 1947: Partition creating Pakistan. Analysis: Key Turning Points: 1909 Separate electorates: Constitutional recognition, 1916 Congress acceptance: Nationalist legitimization, 1928 Jinnah's fourteen points: Hardening demands, 1932 Communal Award: Further institutionalization, 1940 Lahore Resolution: Separate nation demand, WWII: British dependence on League enabling Pakistan. Progression: Separate electorates (representation) \u2192 Separate nation (sovereignty). From communal politics within India to separate state outside India. Two-nation theory: Evolving from British colonial strategy (1887) through institutional communalism (1909-1932) to Muslim League ideology (1937-1940) to achieved reality (1947 Partition)."
+      }
+    ]
+  }
+}
