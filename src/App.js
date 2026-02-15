@@ -50,6 +50,7 @@ import peasantMobilizationProvincesData from './data/peasant-mobilization-provin
 import workingClassMovementsData from './data/working-class-movements.json';
 import aitucEarlyOrientationData from './data/aituc-early-orientation.json';
 import tradeUnionAct1926Data from './data/trade-union-act-1926.json';
+import tradeUnionsCongressMinistriesData from './data/trade-unions-congress-ministries.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -394,6 +395,12 @@ function App() {
           title: 'Trade Union Act 1926 and Communist Influence',
           description: 'Act 1926 (7 members, economic only), Bombay Strike 1928 (GKU), Communist leaders, TDA 1929 (UPSC 2017), AITUF 1931',
           data: tradeUnionAct1926Data
+        },
+        {
+          id: 'trade-unions-congress-ministries',
+          title: 'Trade Unions Under Congress Ministries (1937-1947)',
+          description: '296 unions 1938, Kanpur Strike 1937, Rajendra Prasad committee, Communists rejoin 1935, Naval Ratings 1946',
+          data: tradeUnionsCongressMinistriesData
         }
       ]
     }

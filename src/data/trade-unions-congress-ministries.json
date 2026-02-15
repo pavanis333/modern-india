@@ -1,0 +1,239 @@
+{
+  "topic": "People's Resistance Against the British",
+  "subtopic": "Trade Unions Under Congress Ministries (1937-1947)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Trade Unions Under Congress Ministries (1937-1947)",
+      "front": "Trade unions by 1938?",
+      "back": "Increased Unions: 296 unions by 1938"
+    },
+    {
+      "id": "fc002",
+      "category": "Trade Unions Under Congress Ministries (1937-1947)",
+      "front": "Kanpur Workers' Strike (1937)?",
+      "back": "10,000 workers, 55-day strike"
+    },
+    {
+      "id": "fc003",
+      "category": "Trade Unions Under Congress Ministries (1937-1947)",
+      "front": "Labour Enquiry Committee chair?",
+      "back": "Chaired by Babu Rajendra Prasad"
+    },
+    {
+      "id": "fc004",
+      "category": "Trade Unions Under Congress Ministries (1937-1947)",
+      "front": "Legislative reforms under Congress ministries?",
+      "back": "Bombay Industrial Disputes Act (1938), Bombay Shop Assistants Act (1939), C.P. Maternity Act (1939)"
+    },
+    {
+      "id": "fc005",
+      "category": "Trade Unions Under Congress Ministries (1937-1947)",
+      "front": "Labour committees under Congress?",
+      "back": "Labour enquiry committees formed by Congress-led provincial governments"
+    },
+    {
+      "id": "fc006",
+      "category": "Post-1931 and Congress Ministries",
+      "front": "N.M. Joshi break from AITUC?",
+      "back": "N.M. Joshi broke away from the AITUC to set up the All India Trade Union Federation in 1931"
+    },
+    {
+      "id": "fc007",
+      "category": "Post-1931 and Congress Ministries",
+      "front": "Communists rejoined AITUC when?",
+      "back": "In 1935, the communists rejoined the AITUC"
+    },
+    {
+      "id": "fc008",
+      "category": "Second World War and Post-Independence",
+      "front": "Left front composition post-1935?",
+      "back": "The left front now included communists, Congress socialists, and leftist nationalists like Jawahar Lal Nehru and Subhas Chandra Bose"
+    },
+    {
+      "id": "fc009",
+      "category": "Post-1931 and Congress Ministries",
+      "front": "AITUC support in 1937 elections?",
+      "back": "AITUC supported Congress candidates in the 1937 elections"
+    },
+    {
+      "id": "fc010",
+      "category": "Post-1931 and Congress Ministries",
+      "front": "Congress ministries attitude to workers?",
+      "back": "Congress ministries were generally sympathetic to workers' demands, passing favourable labour legislation"
+    },
+    {
+      "id": "fc011",
+      "category": "Second World War and Post-Independence",
+      "front": "Workers' initial position on WWII?",
+      "back": "Initially, workers opposed the war, but communist support shifted after Russia's involvement"
+    },
+    {
+      "id": "fc012",
+      "category": "Second World War and Post-Independence",
+      "front": "Communists and Quit India Movement?",
+      "back": "The communists didn't support the Quit India Movement and advocated the policy of industrial peace"
+    },
+    {
+      "id": "fc013",
+      "category": "Second World War and Post-Independence",
+      "front": "Dock workers of Bombay and Calcutta (1945)?",
+      "back": "In 1945, the dock workers of Bombay and Calcutta refused to load ships taking supplies to the warring troops in Indonesia"
+    },
+    {
+      "id": "fc014",
+      "category": "Second World War and Post-Independence",
+      "front": "Workers and Naval Ratings (1946)?",
+      "back": "Workers went on strikes in support of the Naval Ratings in 1946"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Number of unions by 1938?",
+        "options": [
+          "100",
+          "200",
+          "296",
+          "500"
+        ],
+        "correct": 2,
+        "explanation": "By 1938, there were 296 unions in India."
+      },
+      {
+        "id": "mcq002",
+        "question": "Kanpur Workers' Strike (1937) details?",
+        "options": [
+          "5,000 workers, 30 days",
+          "10,000 workers, 55-day strike",
+          "20,000 workers, 60 days",
+          "15,000 workers, 45 days"
+        ],
+        "correct": 1,
+        "explanation": "Kanpur Workers' Strike (1937): 10,000 workers, 55-day strike."
+      },
+      {
+        "id": "mcq003",
+        "question": "Labour Enquiry Committee chaired by?",
+        "options": [
+          "N.M. Joshi",
+          "Babu Rajendra Prasad",
+          "Jawaharlal Nehru",
+          "Subhas Bose"
+        ],
+        "correct": 1,
+        "explanation": "Labour Enquiry Committee was chaired by Babu Rajendra Prasad."
+      },
+      {
+        "id": "mcq004",
+        "question": "Bombay Industrial Disputes Act passed in?",
+        "options": [
+          "1937",
+          "1938",
+          "1939",
+          "1940"
+        ],
+        "correct": 1,
+        "explanation": "Bombay Industrial Disputes Act passed in 1938 under Congress ministries."
+      },
+      {
+        "id": "mcq005",
+        "question": "N.M. Joshi set up AITUF in?",
+        "options": [
+          "1928",
+          "1931",
+          "1935",
+          "1937"
+        ],
+        "correct": 1,
+        "explanation": "N.M. Joshi broke away from AITUC to set up All India Trade Union Federation in 1931."
+      },
+      {
+        "id": "mcq006",
+        "question": "Communists rejoined AITUC in?",
+        "options": [
+          "1931",
+          "1933",
+          "1935",
+          "1937"
+        ],
+        "correct": 2,
+        "explanation": "In 1935, the communists rejoined the AITUC."
+      },
+      {
+        "id": "mcq007",
+        "question": "Left front post-1935 included?",
+        "options": [
+          "Only communists",
+          "Communists, Congress socialists, and leftist nationalists like Nehru and Bose",
+          "Only Congress",
+          "Only socialists"
+        ],
+        "correct": 1,
+        "explanation": "Left front included communists, Congress socialists, and leftist nationalists like Jawahar Lal Nehru and Subhas Chandra Bose."
+      },
+      {
+        "id": "mcq008",
+        "question": "AITUC in 1937 elections?",
+        "options": [
+          "Opposed Congress",
+          "Supported Congress candidates",
+          "Remained neutral",
+          "Boycotted elections"
+        ],
+        "correct": 1,
+        "explanation": "AITUC supported Congress candidates in the 1937 elections."
+      },
+      {
+        "id": "mcq009",
+        "question": "Communist support for WWII shifted after?",
+        "options": [
+          "Pearl Harbor",
+          "Russia's involvement",
+          "USA entry",
+          "Japan attack"
+        ],
+        "correct": 1,
+        "explanation": "Workers initially opposed the war, but communist support shifted after Russia's involvement."
+      },
+      {
+        "id": "mcq010",
+        "question": "Communists position on Quit India Movement?",
+        "options": [
+          "Fully supported",
+          "Didn't support, advocated policy of industrial peace",
+          "Led the movement",
+          "Remained neutral"
+        ],
+        "correct": 1,
+        "explanation": "The communists didn't support the Quit India Movement and advocated the policy of industrial peace."
+      },
+      {
+        "id": "mcq011",
+        "question": "Dock workers of Bombay and Calcutta (1945) action?",
+        "options": [
+          "Supported war effort",
+          "Refused to load ships taking supplies to warring troops in Indonesia",
+          "Went on general strike",
+          "Only protested"
+        ],
+        "correct": 1,
+        "explanation": "In 1945, dock workers of Bombay and Calcutta refused to load ships taking supplies to warring troops in Indonesia."
+      },
+      {
+        "id": "mcq012",
+        "question": "Workers strikes in support of Naval Ratings in?",
+        "options": [
+          "1942",
+          "1944",
+          "1946",
+          "1947"
+        ],
+        "correct": 2,
+        "explanation": "Workers went on strikes in support of the Naval Ratings in 1946."
+      }
+    ],
+    "comprehensive": []
+  }
+}
