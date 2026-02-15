@@ -1,0 +1,215 @@
+{
+  "topic": "People's Resistance Against the British",
+  "subtopic": "Trade Union Act 1926 and Communist Influence",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Trade Union Act of 1926",
+      "front": "Trade Union Act of 1926?",
+      "back": "The Trade Union Act of 1926 legalised trade unions, granting them recognition and regulating their activities. It required at least seven members for registration, provided immunity from civil and criminal liability for legitimate actions, and allowed unions to own property. However, the Act restricted unions from using funds for political purposes, limiting their activities to economic grievances only"
+    },
+    {
+      "id": "fc002",
+      "category": "1928 Bombay Textile Strike",
+      "front": "1928 Bombay textile strike?",
+      "back": "Led by the Girni Kamgar Union (GKU), mobilized 1.5 lakh mill workers and lasted five months. This strike marked a decisive shift from scattered labour protests to a structured industrial movement, establishing early working-class solidarity in India"
+    },
+    {
+      "id": "fc003",
+      "category": "1928 Bombay Textile Strike",
+      "front": "Communist influence on trade union movement (Late 1920s)?",
+      "back": "The rise of communism in the late 1920s significantly influenced the Indian trade union movement, giving it a more militant and revolutionary tone. The Girni Kamgar Union led a six-month strike at the Bombay Textile Mills in 1928, marking a period of intense industrial unrest driven by communist ideologies"
+    },
+    {
+      "id": "fc004",
+      "category": "Communist Influence (Late 1920s)",
+      "front": "Communist leaders in trade union movement?",
+      "back": "Key figures such as Sohan Singh Joshi, P.C. Joshi, Muzaffar Ahmed, and S.A. Dange played a central role in the communist-influenced trade union movement"
+    },
+    {
+      "id": "fc005",
+      "category": "Communist Influence (Late 1920s)",
+      "front": "4th Congress of Communist International and AITUC?",
+      "back": "The 4th Congress of the Communist International urged the AITUC to not just demand fair wages, but to focus on overthrowing capitalism and imperialism. AITUC later affiliated with the Pan-Pacific Secretariat and the Third International in Moscow"
+    },
+    {
+      "id": "fc006",
+      "category": "Communist Influence (Late 1920s)",
+      "front": "Moderate response to communist influence?",
+      "back": "In response to the radical shift, moderates led by N.M. Joshi formed the All India Trade Union Federation (AITUF) in 1931, after withdrawing from the AITUC"
+    },
+    {
+      "id": "fc007",
+      "category": "Trade Disputes Act (TDA), 1929",
+      "front": "Trade Disputes Act (TDA), 1929 - Courts and Boards?",
+      "back": "Compulsory Appointment of Courts of Inquiry and Consultation Boards to settle industrial disputes"
+    },
+    {
+      "id": "fc008",
+      "category": "Trade Disputes Act (TDA), 1929",
+      "front": "Trade Disputes Act (TDA), 1929 - Illegal Strikes [UPSC 2017]?",
+      "back": "Strikes in public utility services (like railways, posts, water, and electricity) were made illegal unless individual workers gave a one-month notice"
+    },
+    {
+      "id": "fc009",
+      "category": "Trade Disputes Act (TDA), 1929",
+      "front": "Trade Disputes Act (TDA), 1929 - Prohibited Actions [UPSC 2017]?",
+      "back": "The Act forbade coercive or purely political trade union activities, including sympathetic strikes [UPSC 2017]"
+    },
+    {
+      "id": "fc010",
+      "category": "Public Safety Ordinance (1929)",
+      "front": "Public Safety Ordinance (1929) [UPSC 2017]?",
+      "back": "This ordinance, introduced in the Legislative Assembly in 1928 and enacted in 1929, was aimed at regulating and limiting labour movements and public safety concerns. It provided for a system of tribunals and a ban on strikes [UPSC 2017]"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Trade Union Act of 1926 required how many members for registration?",
+        "options": [
+          "At least five",
+          "At least seven",
+          "At least ten",
+          "At least fifteen"
+        ],
+        "correct": 1,
+        "explanation": "Trade Union Act of 1926 required at least seven members for registration."
+      },
+      {
+        "id": "mcq002",
+        "question": "Trade Union Act of 1926 restriction?",
+        "options": [
+          "No restrictions",
+          "Restricted unions from using funds for political purposes, limiting to economic grievances only",
+          "Banned all strikes",
+          "Required government approval"
+        ],
+        "correct": 1,
+        "explanation": "Trade Union Act of 1926 restricted unions from using funds for political purposes, limiting their activities to economic grievances only."
+      },
+      {
+        "id": "mcq003",
+        "question": "1928 Bombay textile strike led by?",
+        "options": [
+          "AITUC",
+          "Girni Kamgar Union (GKU)",
+          "AITUF",
+          "Congress"
+        ],
+        "correct": 1,
+        "explanation": "1928 Bombay textile strike led by Girni Kamgar Union (GKU), mobilized 1.5 lakh mill workers and lasted five months."
+      },
+      {
+        "id": "mcq004",
+        "question": "1928 Bombay textile strike duration?",
+        "options": [
+          "Three months",
+          "Five months",
+          "Six months (in communist context)",
+          "One year"
+        ],
+        "correct": 1,
+        "explanation": "1928 Bombay textile strike lasted five months (also described as six-month strike in communist influence context)."
+      },
+      {
+        "id": "mcq005",
+        "question": "Communist leaders in trade union movement included?",
+        "options": [
+          "Only S.A. Dange",
+          "Sohan Singh Joshi, P.C. Joshi, Muzaffar Ahmed, and S.A. Dange",
+          "Only N.M. Joshi",
+          "Only Gandhi"
+        ],
+        "correct": 1,
+        "explanation": "Key communist figures: Sohan Singh Joshi, P.C. Joshi, Muzaffar Ahmed, and S.A. Dange played central role in communist-influenced trade union movement."
+      },
+      {
+        "id": "mcq006",
+        "question": "4th Congress of Communist International urged AITUC to?",
+        "options": [
+          "Only demand fair wages",
+          "Focus on overthrowing capitalism and imperialism",
+          "Join Congress",
+          "Avoid strikes"
+        ],
+        "correct": 1,
+        "explanation": "4th Congress of Communist International urged AITUC to not just demand fair wages, but to focus on overthrowing capitalism and imperialism."
+      },
+      {
+        "id": "mcq007",
+        "question": "AITUC affiliated with?",
+        "options": [
+          "Only British Labour Party",
+          "Pan-Pacific Secretariat and Third International in Moscow",
+          "Only Congress",
+          "Only moderates"
+        ],
+        "correct": 1,
+        "explanation": "AITUC affiliated with the Pan-Pacific Secretariat and the Third International in Moscow."
+      },
+      {
+        "id": "mcq008",
+        "question": "All India Trade Union Federation (AITUF) formed in?",
+        "options": [
+          "1926",
+          "1928",
+          "1931",
+          "1929"
+        ],
+        "correct": 2,
+        "explanation": "Moderates led by N.M. Joshi formed the All India Trade Union Federation (AITUF) in 1931, after withdrawing from AITUC."
+      },
+      {
+        "id": "mcq009",
+        "question": "Trade Disputes Act (TDA), 1929 made strikes illegal in (UPSC 2017)?",
+        "options": [
+          "All sectors",
+          "Public utility services (railways, posts, water, electricity) unless one-month notice",
+          "Only private sectors",
+          "No sectors"
+        ],
+        "correct": 1,
+        "explanation": "Trade Disputes Act (TDA), 1929 made strikes in public utility services illegal unless individual workers gave one-month notice (UPSC 2017)."
+      },
+      {
+        "id": "mcq010",
+        "question": "Trade Disputes Act (TDA), 1929 prohibited (UPSC 2017)?",
+        "options": [
+          "All unions",
+          "Coercive or purely political trade union activities, including sympathetic strikes",
+          "Only economic activities",
+          "Only communist unions"
+        ],
+        "correct": 1,
+        "explanation": "Trade Disputes Act (TDA), 1929 forbade coercive or purely political trade union activities, including sympathetic strikes (UPSC 2017)."
+      },
+      {
+        "id": "mcq011",
+        "question": "Public Safety Ordinance (1929) introduced in Legislative Assembly in (UPSC 2017)?",
+        "options": [
+          "1926",
+          "1928",
+          "1929",
+          "1931"
+        ],
+        "correct": 1,
+        "explanation": "Public Safety Ordinance introduced in Legislative Assembly in 1928 and enacted in 1929 (UPSC 2017)."
+      },
+      {
+        "id": "mcq012",
+        "question": "Public Safety Ordinance (1929) provided for (UPSC 2017)?",
+        "options": [
+          "Only courts",
+          "System of tribunals and a ban on strikes",
+          "Only negotiations",
+          "Only wage increases"
+        ],
+        "correct": 1,
+        "explanation": "Public Safety Ordinance (1929) provided for system of tribunals and ban on strikes (UPSC 2017)."
+      }
+    ],
+    "comprehensive": []
+  }
+}

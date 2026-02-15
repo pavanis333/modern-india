@@ -49,6 +49,7 @@ import peasantMovementsPhase2Data from './data/peasant-movements-second-phase.js
 import peasantMobilizationProvincesData from './data/peasant-mobilization-provinces.json';
 import workingClassMovementsData from './data/working-class-movements.json';
 import aitucEarlyOrientationData from './data/aituc-early-orientation.json';
+import tradeUnionAct1926Data from './data/trade-union-act-1926.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -387,6 +388,12 @@ function App() {
           title: "AITUC's Early Orientation and Key Developments",
           description: 'British Labour Party influence (N.M. Joshi), Gandhian philosophy (Ahmedabad 1918), Gaya 1922, C.R. Das advocacy',
           data: aitucEarlyOrientationData
+        },
+        {
+          id: 'trade-union-act-1926',
+          title: 'Trade Union Act 1926 and Communist Influence',
+          description: 'Act 1926 (7 members, economic only), Bombay Strike 1928 (GKU), Communist leaders, TDA 1929 (UPSC 2017), AITUF 1931',
+          data: tradeUnionAct1926Data
         }
       ]
     }
