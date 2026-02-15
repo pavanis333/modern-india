@@ -1,0 +1,470 @@
+{
+  "topic": "Advent of Europeans and Consolidation of British Power",
+  "subtopic": "India on the Eve of British Conquest",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Key Facts & Dates",
+      "front": "Mughal Empire decline period?",
+      "back": "18th century, particularly during Aurangzeb's reign (1658-1707)"
+    },
+    {
+      "id": "fc002",
+      "category": "Key Facts & Dates",
+      "front": "Regional states emerged by Muhammad Shah's time?",
+      "back": "Hyderabad, Bengal, Awadh, and Punjab - as local leaders sought autonomy"
+    },
+    {
+      "id": "fc003",
+      "category": "Key Facts & Dates",
+      "front": "Nadir Shah's invasion?",
+      "back": "1738-39 - defeated Mughal army at Battle of Karnal, captured Muhammad Shah"
+    },
+    {
+      "id": "fc004",
+      "category": "Key Facts & Dates",
+      "front": "What did Nadir Shah loot?",
+      "back": "Treasures including Peacock Throne and Kohinoor diamond from Delhi"
+    },
+    {
+      "id": "fc005",
+      "category": "Key Facts & Dates",
+      "front": "Ahmad Shah Abdali captured Delhi?",
+      "back": "1757 - appointed Afghan caretaker for Mughal emperor"
+    },
+    {
+      "id": "fc006",
+      "category": "Key Facts & Dates",
+      "front": "Third Battle of Panipat?",
+      "back": "1761 - Ahmad Shah Abdali defeated Marathas, significant setback for Mughal Empire"
+    },
+    {
+      "id": "fc007",
+      "category": "Key Facts & Dates",
+      "front": "Bahadur Shah I reign?",
+      "back": "1707-1712 - known as 'Shah-i-Bekhabar', pacific policy towards Marathas, Rajputs, Jats"
+    },
+    {
+      "id": "fc008",
+      "category": "Key Facts & Dates",
+      "front": "Jahandar Shah reign?",
+      "back": "1712-1713 - supported by Zulfikar Khan, instituted Izara system"
+    },
+    {
+      "id": "fc009",
+      "category": "Key Facts & Dates",
+      "front": "Farrukhsiyar reign?",
+      "back": "1713-1719 - killed Jahandar Shah, supported by Sayyid Brothers"
+    },
+    {
+      "id": "fc010",
+      "category": "Key Facts & Dates",
+      "front": "Farrukhsiyar's religious policy?",
+      "back": "Religious tolerance - abolished Jizya and pilgrimage tax"
+    },
+    {
+      "id": "fc011",
+      "category": "Key Facts & Dates",
+      "front": "Farrukhsiyar's fate?",
+      "back": "First Mughal emperor killed by nobles - dethroned and killed by Sayyid Brothers with Peshwa Balaji Vishwanath's help"
+    },
+    {
+      "id": "fc012",
+      "category": "Key Facts & Dates",
+      "front": "Rafi-ud-Darajat (1719)?",
+      "back": "Had shortest reign among Mughal rulers"
+    },
+    {
+      "id": "fc013",
+      "category": "Key Facts & Dates",
+      "front": "Rafi-ud-Daula (1719)?",
+      "back": "Installed by Sayyid Brothers, known as 'Shah Jahan II'"
+    },
+    {
+      "id": "fc014",
+      "category": "Key Facts & Dates",
+      "front": "Muhammad Shah Rangeela reign?",
+      "back": "1719-1748 - assassinated Sayyid Brothers with Nizam-ul-Mulk's help"
+    },
+    {
+      "id": "fc015",
+      "category": "Key Facts & Dates",
+      "front": "Battle of Karnal?",
+      "back": "1739 - Muhammad Shah defeated by Nadir Shah and imprisoned"
+    },
+    {
+      "id": "fc016",
+      "category": "Key Facts & Dates",
+      "front": "Muhammad Shah's cultural contributions?",
+      "back": "Supported cultural advancements, promoted Urdu as court language"
+    },
+    {
+      "id": "fc017",
+      "category": "Key Facts & Dates",
+      "front": "Ahmad Shah Bahadur reign?",
+      "back": "1748-1754 - incompetent, left affairs to Udham Bai 'Queen Mother'"
+    },
+    {
+      "id": "fc018",
+      "category": "Key Facts & Dates",
+      "front": "Alamgir II reign?",
+      "back": "1754-1759 - faced Ahmad Shah Abdali invasions, Battle of Plassey fought during his reign"
+    },
+    {
+      "id": "fc019",
+      "category": "Key Facts & Dates",
+      "front": "Shah Alam II reign?",
+      "back": "1759-1806 - witnessed Third Battle of Panipat (1761) and Battle of Buxar (1764)"
+    },
+    {
+      "id": "fc020",
+      "category": "Key Facts & Dates",
+      "front": "Treaty of Allahabad?",
+      "back": "1765 - Shah Alam II granted English rights to collect revenue from Bengal, Bihar, Orissa; became English pensioner"
+    },
+    {
+      "id": "fc021",
+      "category": "Key Facts & Dates",
+      "front": "Akbar Shah II reign?",
+      "back": "1806-1837 - gave title 'Raja' to Rammohan Roy"
+    },
+    {
+      "id": "fc022",
+      "category": "Key Facts & Dates",
+      "front": "When did EIC stop recognizing Mughal emperor?",
+      "back": "1835 - during Akbar Shah II's reign"
+    },
+    {
+      "id": "fc023",
+      "category": "Key Facts & Dates",
+      "front": "Bahadur Shah Zafar reign?",
+      "back": "1837-1857 - declared 'Emperor of India' during 1857 Revolt"
+    },
+    {
+      "id": "fc024",
+      "category": "Key Facts & Dates",
+      "front": "Bahadur Shah Zafar's fate?",
+      "back": "Captured, exiled to Rangoon, died 1862"
+    },
+    {
+      "id": "fc025",
+      "category": "Key Facts & Dates",
+      "front": "Mughal Empire legal end?",
+      "back": "November 1, 1858 - with Queen Victoria's declaration"
+    },
+    {
+      "id": "fc026",
+      "category": "Concepts & Reasons",
+      "front": "Causes of Mughal decline?",
+      "back": "Aurangzeb's policies, succession struggles, incompetent successors, emergence of regional autonomy"
+    },
+    {
+      "id": "fc027",
+      "category": "Concepts & Reasons",
+      "front": "Impact of Nadir Shah's invasion?",
+      "back": "Left India vulnerable to further invasions after looting Delhi including Peacock Throne and Kohinoor"
+    },
+    {
+      "id": "fc028",
+      "category": "Concepts & Reasons",
+      "front": "Third Battle of Panipat significance?",
+      "back": "1761 - Ahmad Shah Abdali defeated Marathas, marking significant Mughal setback"
+    },
+    {
+      "id": "fc029",
+      "category": "Concepts & Reasons",
+      "front": "Bahadur Shah I's policy approach?",
+      "back": "Pacific policy towards Marathas, Rajputs, and Jats"
+    },
+    {
+      "id": "fc030",
+      "category": "Concepts & Reasons",
+      "front": "What was Izara system?",
+      "back": "Instituted by Jahandar Shah to strengthen finances"
+    },
+    {
+      "id": "fc031",
+      "category": "Concepts & Reasons",
+      "front": "Farrukhsiyar and British EIC?",
+      "back": "Granted trading privileges to British East India Company, contributing to their rise"
+    },
+    {
+      "id": "fc032",
+      "category": "Concepts & Reasons",
+      "front": "Who were Sayyid Brothers?",
+      "back": "Supported Farrukhsiyar's rise, later dethroned and killed him with Peshwa Balaji Vishwanath's help"
+    },
+    {
+      "id": "fc033",
+      "category": "Concepts & Reasons",
+      "front": "Farrukhsiyar's historical significance?",
+      "back": "First Mughal emperor killed by nobles (Sayyid Brothers)"
+    },
+    {
+      "id": "fc034",
+      "category": "Concepts & Reasons",
+      "front": "Nizam-ul-Mulk's role?",
+      "back": "Helped Muhammad Shah assassinate Sayyid Brothers, later established independent Hyderabad state"
+    },
+    {
+      "id": "fc035",
+      "category": "Concepts & Reasons",
+      "front": "Treaty of Allahabad (1765) importance?",
+      "back": "Shah Alam II granted English revenue collection rights in Bengal, Bihar, Orissa; became English pensioner - crucial for British control"
+    },
+    {
+      "id": "fc036",
+      "category": "Concepts & Reasons",
+      "front": "Rammohan Roy's title?",
+      "back": "Given title 'Raja' by Akbar Shah II"
+    },
+    {
+      "id": "fc037",
+      "category": "Concepts & Reasons",
+      "front": "1835 significance for Mughals?",
+      "back": "East India Company ceased recognizing Mughal emperor"
+    },
+    {
+      "id": "fc038",
+      "category": "Concepts & Reasons",
+      "front": "Bahadur Shah Zafar in 1857?",
+      "back": "Declared 'Emperor of India' during Revolt of 1857"
+    },
+    {
+      "id": "fc039",
+      "category": "Concepts & Reasons",
+      "front": "Mughal Empire end date?",
+      "back": "November 1, 1858 - Queen Victoria's declaration legally ended empire"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "When did Mughal Empire decline particularly begin?",
+        "options": [
+          "During Akbar's reign",
+          "During Shah Jahan's reign",
+          "During Aurangzeb's reign (1658-1707)",
+          "During Bahadur Shah I's reign"
+        ],
+        "correct": 2,
+        "explanation": "Mughal Empire decline began particularly during Aurangzeb's reign (1658-1707), whose policies initiated downward spiral."
+      },
+      {
+        "id": "mcq002",
+        "question": "Which regional states emerged by Muhammad Shah's time?",
+        "options": [
+          "Maharashtra, Karnataka, Kerala, Tamil Nadu",
+          "Hyderabad, Bengal, Awadh, Punjab",
+          "Gujarat, Rajasthan, Bihar, Orissa",
+          "Delhi, Agra, Lahore, Multan"
+        ],
+        "correct": 1,
+        "explanation": "By Muhammad Shah's time (1719-48), regional states like Hyderabad, Bengal, Awadh, and Punjab emerged as local leaders sought autonomy."
+      },
+      {
+        "id": "mcq003",
+        "question": "At which battle did Nadir Shah defeat the Mughal army?",
+        "options": [
+          "Battle of Plassey",
+          "Battle of Buxar",
+          "Battle of Karnal",
+          "Battle of Panipat"
+        ],
+        "correct": 2,
+        "explanation": "Nadir Shah defeated the Mughal army at the Battle of Karnal (1739), capturing Muhammad Shah."
+      },
+      {
+        "id": "mcq004",
+        "question": "What did Nadir Shah loot from Delhi?",
+        "options": [
+          "Only gold coins",
+          "Peacock Throne and Kohinoor diamond",
+          "Only the Kohinoor",
+          "Taj Mahal jewels"
+        ],
+        "correct": 1,
+        "explanation": "Nadir Shah looted Delhi (1738-39), taking treasures including the Peacock Throne and the Kohinoor diamond."
+      },
+      {
+        "id": "mcq005",
+        "question": "Third Battle of Panipat (1761) was between?",
+        "options": [
+          "Mughals and British",
+          "Ahmad Shah Abdali and Marathas",
+          "Nadir Shah and Mughals",
+          "British and Marathas"
+        ],
+        "correct": 1,
+        "explanation": "Third Battle of Panipat (1761): Ahmad Shah Abdali defeated the Marathas, marking significant setback for Mughal Empire."
+      },
+      {
+        "id": "mcq006",
+        "question": "Bahadur Shah I was also known as?",
+        "options": [
+          "Shah-i-Bekhabar",
+          "Rangeela",
+          "Zafar",
+          "Shah Jahan II"
+        ],
+        "correct": 0,
+        "explanation": "Bahadur Shah I (1707-1712) was also known as 'Shah-i-Bekhabar' and adopted pacific policy towards Marathas, Rajputs, Jats."
+      },
+      {
+        "id": "mcq007",
+        "question": "Who instituted the Izara system?",
+        "options": [
+          "Bahadur Shah I",
+          "Jahandar Shah",
+          "Farrukhsiyar",
+          "Muhammad Shah"
+        ],
+        "correct": 1,
+        "explanation": "Jahandar Shah (1712-1713) instituted the Izara system to strengthen finances, with support from Zulfikar Khan."
+      },
+      {
+        "id": "mcq008",
+        "question": "Which Mughal emperor abolished Jizya and pilgrimage tax?",
+        "options": [
+          "Aurangzeb",
+          "Farrukhsiyar",
+          "Muhammad Shah",
+          "Shah Alam II"
+        ],
+        "correct": 1,
+        "explanation": "Farrukhsiyar (1713-1719) followed religious tolerance policy, abolishing both Jizya and pilgrimage tax."
+      },
+      {
+        "id": "mcq009",
+        "question": "First Mughal emperor killed by nobles?",
+        "options": [
+          "Aurangzeb",
+          "Jahandar Shah",
+          "Farrukhsiyar",
+          "Alamgir II"
+        ],
+        "correct": 2,
+        "explanation": "Farrukhsiyar was the first Mughal emperor killed by nobles - dethroned and killed by Sayyid Brothers with Peshwa Balaji Vishwanath's assistance."
+      },
+      {
+        "id": "mcq010",
+        "question": "Who had the shortest reign among Mughal rulers?",
+        "options": [
+          "Rafi-ud-Darajat",
+          "Rafi-ud-Daula",
+          "Jahandar Shah",
+          "Ahmad Shah Bahadur"
+        ],
+        "correct": 0,
+        "explanation": "Rafi-ud-Darajat (1719) had the shortest reign among Mughal rulers."
+      },
+      {
+        "id": "mcq011",
+        "question": "Muhammad Shah was also known as?",
+        "options": [
+          "Shah-i-Bekhabar",
+          "Rangeela",
+          "Zafar",
+          "Bahadur"
+        ],
+        "correct": 1,
+        "explanation": "Muhammad Shah (1719-1748) was known as 'Rangeela', supported cultural advancements and promoted Urdu as court language."
+      },
+      {
+        "id": "mcq012",
+        "question": "Battle of Plassey was fought during whose reign?",
+        "options": [
+          "Muhammad Shah",
+          "Ahmad Shah Bahadur",
+          "Alamgir II",
+          "Shah Alam II"
+        ],
+        "correct": 2,
+        "explanation": "Battle of Plassey was fought during Alamgir II's reign (1754-1759)."
+      },
+      {
+        "id": "mcq013",
+        "question": "Treaty of Allahabad (1765) granted English what rights?",
+        "options": [
+          "Military bases",
+          "Revenue collection in Bengal, Bihar, Orissa",
+          "Trade monopoly",
+          "Naval supremacy"
+        ],
+        "correct": 1,
+        "explanation": "Treaty of Allahabad (1765): Shah Alam II granted English rights to collect revenue from Bengal, Bihar, and Orissa; became English pensioner."
+      },
+      {
+        "id": "mcq014",
+        "question": "Who gave the title 'Raja' to Rammohan Roy?",
+        "options": [
+          "Shah Alam II",
+          "Akbar Shah II",
+          "Bahadur Shah Zafar",
+          "Muhammad Shah"
+        ],
+        "correct": 1,
+        "explanation": "Akbar Shah II (1806-1837) gave the title of 'Raja' to Rammohan Roy."
+      },
+      {
+        "id": "mcq015",
+        "question": "When did EIC cease recognizing Mughal emperor?",
+        "options": [
+          "1765",
+          "1806",
+          "1835",
+          "1857"
+        ],
+        "correct": 2,
+        "explanation": "The East India Company ceased recognizing the Mughal emperor in 1835 during Akbar Shah II's reign."
+      },
+      {
+        "id": "mcq016",
+        "question": "Bahadur Shah Zafar was exiled to?",
+        "options": [
+          "England",
+          "Rangoon",
+          "Ceylon",
+          "Mauritius"
+        ],
+        "correct": 1,
+        "explanation": "Bahadur Shah Zafar was captured after 1857 Revolt and exiled to Rangoon, where he died in 1862."
+      },
+      {
+        "id": "mcq017",
+        "question": "When did Mughal Empire legally end?",
+        "options": [
+          "1857 after Revolt",
+          "November 1, 1858",
+          "1862 with Zafar's death",
+          "1877 with Victoria as Empress"
+        ],
+        "correct": 1,
+        "explanation": "Mughal Empire legally ended on November 1, 1858, with Queen Victoria's declaration."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Analyze the external challenges faced by the Mughal Empire in the 18th century, specifically Nadir Shah and Ahmad Shah Abdali's invasions and their impact.",
+        "answer": "External Challenges: Nadir Shah's Invasion (1738-39): Defeated the Mughal army at the Battle of Karnal, capturing Muhammad Shah. Looted Delhi, taking treasures including the Peacock Throne and the Kohinoor diamond, leaving India vulnerable to further invasions. Ahmad Shah Abdali's Invasions: Captured Delhi in 1757 and appointed an Afghan caretaker for the Mughal emperor. Defeated the Marathas at the Third Battle of Panipat (1761), marking a significant setback for the Mughal Empire. Impact: These invasions exposed Mughal military weakness, depleted imperial treasury (Nadir Shah's loot), undermined central authority (Afghan caretaker appointed), and eliminated potential Mughal allies (Maratha defeat at Panipat). The invasions accelerated Mughal decline, making regional autonomy irreversible and creating power vacuum that British would exploit."
+      },
+      {
+        "id": "comp002",
+        "question": "Trace the succession of weak Mughal rulers after Aurangzeb (1707-1748), highlighting their key characteristics and contributions to imperial decline.",
+        "answer": "Weak Rulers 1707-1748: Bahadur Shah I (1707-1712): 'Shah-i-Bekhabar', adopted pacific policy towards Marathas, Rajputs, Jats. Jahandar Shah (1712-1713): Supported by Zulfikar Khan, instituted Izara system for finances. Farrukhsiyar (1713-1719): Killed Jahandar Shah with Sayyid Brothers' support. Religious tolerance - abolished Jizya and pilgrimage tax. Granted British EIC trading privileges (contributed to their rise). First emperor killed by nobles (Sayyid Brothers with Peshwa Balaji Vishwanath). Rafi-ud-Darajat (1719): Shortest reign among Mughals. Rafi-ud-Daula (1719): Installed by Sayyid Brothers as 'Shah Jahan II'. Muhammad Shah Rangeela (1719-1748): Assassinated Sayyid Brothers with Nizam-ul-Mulk's help (who later established independent Hyderabad). Defeated by Nadir Shah at Karnal (1739) and imprisoned. Supported cultural advancement, promoted Urdu as court language. Pattern: Short, violent reigns; dependence on kingmakers (Sayyid Brothers, nobles); granting concessions to British; military defeats; emergence of independent states (Hyderabad). Each ruler weakened central authority further."
+      },
+      {
+        "id": "comp003",
+        "question": "Examine the later Mughal emperors from Shah Alam II to Bahadur Shah Zafar (1759-1858), focusing on their relationship with the English East India Company.",
+        "answer": "Shah Alam II (1759-1806): Witnessed Third Battle of Panipat (1761) and Battle of Buxar (1764). Signed Treaty of Allahabad (1765), granting English rights to collect revenue from Bengal, Bihar, and Orissa. Became pensioner of the English - crucial transition from independent emperor to British dependent. Akbar Shah II (1806-1837): Gave title 'Raja' to Rammohan Roy. EIC ceased recognizing Mughal emperor in 1835 - formal end of even nominal Mughal sovereignty. Bahadur Shah Zafar (1837-1857): Known as Bahadur Shah II. Declared 'Emperor of India' during 1857 Revolt - last symbolic assertion of Mughal authority. Captured after revolt, exiled to Rangoon, died 1862. Mughal Empire legally ended November 1, 1858 with Queen Victoria's declaration. Relationship Evolution: Treaty of Allahabad (1765) made emperor financially dependent. 1835 withdrawal of recognition ended political legitimacy. 1857 Revolt briefly restored symbolic status. 1858 declaration formally abolished empire. From sovereign to pensioner to non-entity - complete subordination to British over 100 years."
+      },
+      {
+        "id": "comp004",
+        "question": "Assess the internal factors contributing to Mughal decline from Aurangzeb to Muhammad Shah, including succession struggles and regional autonomy movements.",
+        "answer": "Internal Factors of Decline: Aurangzeb's Legacy (1658-1707): His policies initiated downward spiral. Exacerbated by succession struggles and incompetent successors. Succession Struggles: Violent transitions - Farrukhsiyar killed Jahandar Shah (1713), later killed by Sayyid Brothers (1719). Noble interference - Sayyid Brothers installed/removed emperors (Farrukhsiyar, Rafi-ud-Darajat, Rafi-ud-Daula). Shortest reigns - Rafi-ud-Darajat (1719), frequent instability. Regional Autonomy: By Muhammad Shah's time (1719-48), regional states like Hyderabad, Bengal, Awadh, and Punjab emerged as local leaders sought autonomy. Nizam-ul-Mulk established independent Hyderabad after helping Muhammad Shah. Incompetent Rule: Ahmad Shah Bahadur (1748-54) left affairs to 'Queen Mother' Udham Bai. Emperors became puppets of nobles, wives, or external powers. Financial Weakness: Izara system (Jahandar Shah) attempted to strengthen finances - indicates existing fiscal crisis. Nadir Shah's loot (1739) devastated treasury. Granting Concessions: Farrukhsiyar granted British EIC trading privileges - contributed to British rise. Treaty of Allahabad (1765) gave revenue rights - surrendered core sovereignty function. Pattern: Internal power struggles, noble dominance, regional fragmentation, financial collapse, foreign concessions - compounding factors making Mughal revival impossible by mid-18th century."
+      }
+    ]
+  }
+}

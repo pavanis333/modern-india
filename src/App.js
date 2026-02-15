@@ -10,6 +10,7 @@ import dutchData from './data/dutch-in-india.json';
 import danishData from './data/danish-in-india.json';
 import englishData from './data/english-in-india.json';
 import frenchData from './data/french-in-india.json';
+import indiaEveData from './data/india-eve-british-conquest.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -58,6 +59,12 @@ function App() {
           title: 'The French in India',
           description: 'Compagnie des Indes, Pondicherry, Chandernagore, and French expansion',
           data: frenchData
+        },
+        {
+          id: 'india-eve',
+          title: 'India on the Eve of British Conquest',
+          description: 'Mughal decline, Nadir Shah, Ahmad Shah Abdali, Later Mughals (1707-1858)',
+          data: indiaEveData
         }
       ]
     }
