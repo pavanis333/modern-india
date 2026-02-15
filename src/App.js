@@ -6,6 +6,7 @@ import FlashcardMode from './components/FlashcardMode';
 import QuizMode from './components/QuizMode';
 import europeansData from './data/europeans-in-india.json';
 import portugueseData from './data/portuguese-in-india.json';
+import dutchData from './data/dutch-in-india.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -30,6 +31,12 @@ function App() {
           title: 'Portuguese in India',
           description: 'Vasco da Gama, Albuquerque, Goa, Blue Water Policy, and Portuguese colonial rule',
           data: portugueseData
+        },
+        {
+          id: 'dutch',
+          title: 'Dutch in India',
+          description: 'VOC, Spice trade, Battle of Colachel, Amboyna Massacre, and Dutch withdrawal',
+          data: dutchData
         }
       ]
     }
