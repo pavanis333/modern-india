@@ -1,0 +1,339 @@
+{
+  "topic": "Indian National Movement: 1918-22 - Gandhian Phase",
+  "subtopic": "Non-Cooperation Movement - Seven-Point Program",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Seven-Point Program",
+      "front": "Point 1: Relinquishing titles?",
+      "back": "Relinquishing titles and honorary offices - Observance of strict non-violence, Establishment of Panchayats for settling disputes (UPSC 2025)"
+    },
+    {
+      "id": "fc002",
+      "category": "Seven-Point Program",
+      "front": "Point 2: Abstaining from Government functions?",
+      "back": "Abstaining from Government durbars and official functions"
+    },
+    {
+      "id": "fc003",
+      "category": "Seven-Point Program",
+      "front": "Point 3: Boycotting Government institutions?",
+      "back": "Boycotting Government or Government aided educational Institutions (UPSC 2025)"
+    },
+    {
+      "id": "fc004",
+      "category": "Seven-Point Program",
+      "front": "Point 4: Avoiding British courts?",
+      "back": "Avoiding British courts"
+    },
+    {
+      "id": "fc005",
+      "category": "Seven-Point Program",
+      "front": "Point 5: Resisting Mesopotamia service?",
+      "back": "Resisting all classes' participation in Mesopotamia service"
+    },
+    {
+      "id": "fc006",
+      "category": "Seven-Point Program",
+      "front": "Point 6: Provincial and central assembly elections?",
+      "back": "Refraining from participating in provincial and central assembly elections"
+    },
+    {
+      "id": "fc007",
+      "category": "Seven-Point Program",
+      "front": "Point 7: Boycotting foreign goods?",
+      "back": "Boycotting foreign goods"
+    },
+    {
+      "id": "fc008",
+      "category": "Program Details",
+      "front": "Non-Cooperation Program overview?",
+      "back": "Seven-point program of INC combining symbolic rejection (titles), institutional boycott (education, courts, elections), and economic resistance (foreign goods)"
+    },
+    {
+      "id": "fc009",
+      "category": "Program Details",
+      "front": "UPSC 2025 points?",
+      "back": "Point 1 (titles, non-violence, Panchayats) and Point 3 (boycotting educational institutions) mentioned for UPSC 2025"
+    },
+    {
+      "id": "fc010",
+      "category": "Program Details",
+      "front": "Non-violence emphasis?",
+      "back": "Observance of strict non-violence - key principle in Point 1 alongside relinquishing titles"
+    },
+    {
+      "id": "fc011",
+      "category": "Program Details",
+      "front": "Panchayats role?",
+      "back": "Establishment of Panchayats for settling disputes - alternative to British courts (Point 1, UPSC 2025)"
+    },
+    {
+      "id": "fc012",
+      "category": "Program Details",
+      "front": "Educational boycott?",
+      "back": "Boycotting Government or Government aided educational Institutions (Point 3, UPSC 2025)"
+    },
+    {
+      "id": "fc013",
+      "category": "Program Details",
+      "front": "Legal system rejection?",
+      "back": "Avoiding British courts (Point 4) - rejecting colonial justice system"
+    },
+    {
+      "id": "fc014",
+      "category": "Program Details",
+      "front": "Mesopotamia service context?",
+      "back": "Resisting participation in Mesopotamia service - WWI-related opposition (Point 5)"
+    },
+    {
+      "id": "fc015",
+      "category": "Program Details",
+      "front": "Electoral boycott?",
+      "back": "Refraining from provincial and central assembly elections (Point 6) - rejecting legislative collaboration"
+    },
+    {
+      "id": "fc016",
+      "category": "Program Details",
+      "front": "Economic boycott?",
+      "back": "Boycotting foreign goods (Point 7) - Swadeshi economic resistance"
+    },
+    {
+      "id": "fc017",
+      "category": "Thematic Categories",
+      "front": "Symbolic rejection category?",
+      "back": "Point 1: Relinquishing titles and honorary offices - rejecting British honors"
+    },
+    {
+      "id": "fc018",
+      "category": "Thematic Categories",
+      "front": "Government function boycott?",
+      "back": "Point 2: Abstaining from Government durbars and official functions - social/ceremonial boycott"
+    },
+    {
+      "id": "fc019",
+      "category": "Thematic Categories",
+      "front": "Institutional boycott?",
+      "back": "Points 3 & 4: Educational institutions and British courts - rejecting colonial institutions"
+    },
+    {
+      "id": "fc020",
+      "category": "Thematic Categories",
+      "front": "Political non-cooperation?",
+      "back": "Points 5 & 6: Mesopotamia service resistance and election boycott - refusing political participation"
+    },
+    {
+      "id": "fc021",
+      "category": "Thematic Categories",
+      "front": "Economic non-cooperation?",
+      "back": "Point 7: Boycotting foreign goods - economic dimension of resistance"
+    },
+    {
+      "id": "fc022",
+      "category": "Thematic Categories",
+      "front": "Alternative institutions?",
+      "back": "Panchayats for dispute settlement - creating parallel indigenous structures (Point 1)"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "How many points in INC Non-Cooperation program?",
+        "options": [
+          "Five",
+          "Seven",
+          "Ten",
+          "Twelve"
+        ],
+        "correct": 1,
+        "explanation": "Seven-point Non-Cooperation program of INC."
+      },
+      {
+        "id": "mcq002",
+        "question": "Point 1 of Non-Cooperation program? (UPSC 2025)",
+        "options": [
+          "Boycotting courts",
+          "Relinquishing titles and honorary offices",
+          "Election boycott",
+          "Foreign goods boycott"
+        ],
+        "correct": 1,
+        "explanation": "Point 1: Relinquishing titles and honorary offices, with strict non-violence and Panchayats (UPSC 2025)."
+      },
+      {
+        "id": "mcq003",
+        "question": "What principle was emphasized in Point 1?",
+        "options": [
+          "Armed resistance",
+          "Observance of strict non-violence",
+          "Negotiation",
+          "Partial cooperation"
+        ],
+        "correct": 1,
+        "explanation": "Point 1 emphasized observance of strict non-violence along with relinquishing titles."
+      },
+      {
+        "id": "mcq004",
+        "question": "What alternative institution was proposed in Point 1? (UPSC 2025)",
+        "options": [
+          "British courts",
+          "Panchayats for settling disputes",
+          "Legislative councils",
+          "Universities"
+        ],
+        "correct": 1,
+        "explanation": "Establishment of Panchayats for settling disputes was part of Point 1 (UPSC 2025)."
+      },
+      {
+        "id": "mcq005",
+        "question": "Point 2 of Non-Cooperation program?",
+        "options": [
+          "Boycotting educational institutions",
+          "Abstaining from Government durbars and official functions",
+          "Relinquishing titles",
+          "Election boycott"
+        ],
+        "correct": 1,
+        "explanation": "Point 2: Abstaining from Government durbars and official functions."
+      },
+      {
+        "id": "mcq006",
+        "question": "Point 3 of Non-Cooperation program? (UPSC 2025)",
+        "options": [
+          "Court boycott",
+          "Boycotting Government or Government aided educational Institutions",
+          "Foreign goods boycott",
+          "Title rejection"
+        ],
+        "correct": 1,
+        "explanation": "Point 3: Boycotting Government or Government aided educational Institutions (UPSC 2025)."
+      },
+      {
+        "id": "mcq007",
+        "question": "Point 4 of Non-Cooperation program?",
+        "options": [
+          "Avoiding British courts",
+          "Educational boycott",
+          "Title rejection",
+          "Election boycott"
+        ],
+        "correct": 0,
+        "explanation": "Point 4: Avoiding British courts - rejecting colonial justice system."
+      },
+      {
+        "id": "mcq008",
+        "question": "Point 5 involved resisting participation in?",
+        "options": [
+          "Elections",
+          "Courts",
+          "Mesopotamia service",
+          "Educational institutions"
+        ],
+        "correct": 2,
+        "explanation": "Point 5: Resisting all classes' participation in Mesopotamia service (WWI-related)."
+      },
+      {
+        "id": "mcq009",
+        "question": "Point 6 of Non-Cooperation program?",
+        "options": [
+          "Court boycott",
+          "Foreign goods boycott",
+          "Refraining from provincial and central assembly elections",
+          "Title rejection"
+        ],
+        "correct": 2,
+        "explanation": "Point 6: Refraining from participating in provincial and central assembly elections."
+      },
+      {
+        "id": "mcq010",
+        "question": "Point 7 of Non-Cooperation program?",
+        "options": [
+          "Title rejection",
+          "Court boycott",
+          "Election boycott",
+          "Boycotting foreign goods"
+        ],
+        "correct": 3,
+        "explanation": "Point 7: Boycotting foreign goods - economic dimension of non-cooperation."
+      },
+      {
+        "id": "mcq011",
+        "question": "Which points were tagged UPSC 2025?",
+        "options": [
+          "Points 1 and 3",
+          "Points 2 and 4",
+          "Points 5 and 6",
+          "Points 6 and 7"
+        ],
+        "correct": 0,
+        "explanation": "Points 1 (titles, non-violence, Panchayats) and 3 (educational institutions) were tagged UPSC 2025."
+      },
+      {
+        "id": "mcq012",
+        "question": "Non-Cooperation program's economic dimension?",
+        "options": [
+          "Title rejection",
+          "Election boycott",
+          "Boycotting foreign goods (Point 7)",
+          "Court boycott"
+        ],
+        "correct": 2,
+        "explanation": "Point 7 (Boycotting foreign goods) was the economic dimension - Swadeshi resistance."
+      },
+      {
+        "id": "mcq013",
+        "question": "Which point involved social/ceremonial boycott?",
+        "options": [
+          "Point 1",
+          "Point 2 - Government durbars and functions",
+          "Point 5",
+          "Point 7"
+        ],
+        "correct": 1,
+        "explanation": "Point 2: Abstaining from Government durbars and official functions - social/ceremonial boycott."
+      },
+      {
+        "id": "mcq014",
+        "question": "Colonial justice system rejection was which point?",
+        "options": [
+          "Point 2",
+          "Point 4 - Avoiding British courts",
+          "Point 6",
+          "Point 7"
+        ],
+        "correct": 1,
+        "explanation": "Point 4: Avoiding British courts - rejecting colonial justice system."
+      },
+      {
+        "id": "mcq015",
+        "question": "Legislative collaboration rejection was which point?",
+        "options": [
+          "Point 3",
+          "Point 4",
+          "Point 6 - Election boycott",
+          "Point 7"
+        ],
+        "correct": 2,
+        "explanation": "Point 6: Refraining from provincial and central assembly elections - rejecting legislative collaboration."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Analyze the seven-point Non-Cooperation program's comprehensive strategy across symbolic rejection (Point 1), institutional boycott (Points 2-4), political non-cooperation (Points 5-6), and economic resistance (Point 7).",
+        "answer": "Seven-Point Non-Cooperation Program Structure: Point 1 - Symbolic Rejection: Relinquishing titles and honorary offices. Rejecting British honors/recognition. Significance: Public renunciation delegitimizing British authority. Included: Observance of strict non-violence (Gandhian principle differentiating from revolutionary terrorism). Establishment of Panchayats for settling disputes (UPSC 2025): Creating alternative indigenous institutions replacing British courts. This combined symbolic rejection with constructive alternative. Point 2 - Social/Ceremonial Boycott: Abstaining from Government durbars and official functions. Refusing social interaction with colonial administration. Breaking elite collaboration with British ceremonial/social events. Point 3 - Educational Boycott (UPSC 2025): Boycotting Government or Government aided educational Institutions. Rejecting colonial education system. Led to establishment of national schools/colleges (constructive program parallel). Point 4 - Legal System Rejection: Avoiding British courts. Refusing colonial justice system. Combined with Panchayats (Point 1) creating alternative dispute resolution. Point 5 - Military/Service Resistance: Resisting all classes' participation in Mesopotamia service. Context: WWI (1914-18), Britain using Indian soldiers/resources. Non-cooperation included refusing military service for imperial wars. Point 6 - Legislative Non-Cooperation: Refraining from provincial and central assembly elections. Rejecting limited self-government (Montagu-Chelmsford Reforms 1919). Refusing participation in colonial legislative structures. Point 7 - Economic Resistance: Boycotting foreign goods. Swadeshi movement economic dimension. Promoting indigenous production/consumption. Comprehensive Strategy: Symbolic (Point 1): Public delegitimization + alternative institutions (Panchayats). Social (Point 2): Breaking elite collaboration. Institutional (Points 3-4): Educational and legal boycott. Political (Points 5-6): Military service and electoral refusal. Economic (Point 7): Foreign goods boycott, Swadeshi promotion. This touched every aspect of colonial rule: honors, social interaction, education, justice, military, politics, economy. Made colonial administration unworkable without Indian cooperation. Gandhian Innovation: Strict non-violence (Point 1) differentiating from revolutionary violence. Constructive alternatives: Panchayats (Point 1), national schools (Point 3 implied), Swadeshi (Point 7). Mass participation: All seven points accessible to different classes - elites (titles), students (education), lawyers (courts), voters (elections), consumers (foreign goods). Program's completeness made it comprehensive challenge to British rule across all dimensions simultaneously."
+      },
+      {
+        "id": "comp002",
+        "question": "Examine Points 1 and 3 (UPSC 2025 tagged) in detail, analyzing their significance in the Non-Cooperation program and their emphasis on alternative institution-building.",
+        "answer": "Point 1 (UPSC 2025) - Multi-Dimensional: Components: 1) Relinquishing titles and honorary offices, 2) Observance of strict non-violence, 3) Establishment of Panchayats for settling disputes. Relinquishing Titles: Indians who received British honors (titles like Rai Bahadur, Khan Bahadur, knighthoods, etc.) publicly returning them. Significance: Delegitimizing British authority by rejecting its symbols of recognition. Public spectacle: Title renunciation ceremonies demonstrating rejection of colonial patronage. Elite participation: Upper/middle-class Indians showing solidarity with mass movement. Strict Non-Violence: Gandhian core principle. Differentiating Non-Cooperation from revolutionary terrorism (1907-17 phase). Moral high ground: Non-violent resistance vs British violence. Mass mobilization: Non-violence enabling wider participation (women, elderly, all classes). Discipline: Strict observance preventing British justification for repression. Establishment of Panchayats: Alternative institution-building (constructive program). Replacing British courts for dispute settlement. Indigenous self-governance: Reviving traditional Indian conflict resolution. Practical: Providing justice mechanism while boycotting colonial courts (Point 4). Legal alternative: Panchayats making court boycott viable. Significance: Point 1 wasn't just negative (rejecting titles) but positive (creating alternatives - Panchayats), included movement's ethical foundation (non-violence), combined elite (title holders) and mass (Panchayat users) participation. Point 3 (UPSC 2025) - Educational Boycott: Boycotting Government or Government aided educational Institutions. Targeting colonial education system: Schools, colleges, universities producing English-educated elite serving British administration. Significance: Breaking colonial knowledge production. Elite participation: Students leaving government schools/colleges. Mass impact: Educational institutions emptying challenged British institutional legitimacy. Constructive Alternative (Implied): National schools/colleges established (Gujarat Vidyapith, Jamia Millia Islamia, Kashi Vidyapeeth, Bihar Vidyapeeth). Indigenous curriculum: Replacing colonial education with nationalist/indigenous knowledge. Long-term: Creating alternative educated class loyal to nationalist movement, not British. Practical Challenges: Students sacrificing career prospects (government jobs required British degrees). Financial: National schools needed funding without government aid. Sustainability: Many students returned to government institutions when movement suspended (1922). But legacy: National educational institutions survived, becoming centers of nationalist thought. Why UPSC 2025 Tagged These Two: Point 1: Comprehensive (titles + non-violence + Panchayats), combining negative (rejection) with positive (alternatives), fundamental to Gandhian philosophy (non-violence). Point 3: Significant impact (educational system), constructive alternative (national schools), elite mobilization (students). Both demonstrated Non-Cooperation's dual strategy: Boycott British institutions + Build indigenous alternatives. This constructive dimension distinguished Gandhian Non-Cooperation from purely negative resistance. Panchayats (Point 1) and National Schools (Point 3) were foundations for parallel governance structure, attempting to make British rule irrelevant by creating functioning indigenous alternatives."
+      },
+      {
+        "id": "comp003",
+        "question": "Compare the political non-cooperation elements (Points 5-6: Mesopotamia service and election boycott) with economic resistance (Point 7: foreign goods boycott), analyzing their strategic objectives and effectiveness.",
+        "answer": "Political Non-Cooperation: Point 5 - Mesopotamia Service Resistance: Context: WWI (1914-18) ending but resentment over Indian sacrifice for imperial war. British recruited Indian soldiers and resources for Middle Eastern campaigns (Mesopotamia - modern Iraq). Resistance: 'All classes' participation' - not just soldiers but laborers, resources, funds for war effort. Objective: Refusing to support British imperial wars. Signaling: Indian resources for India, not British empire. Anti-imperialist: Connecting Indian freedom with opposition to British imperialism globally. Effectiveness: Limited direct impact (WWI already ended by Non-Cooperation 1920-22) but established principle: India won't fight Britain's wars. Legacy: Later conscription resistance, INA (Indian National Army) collaboration with Axis powers WWII. Point 6 - Election Boycott: Context: Montagu-Chelmsford Reforms (1919) creating provincial/central legislatures with limited Indian participation (dyarchy). Boycott: Refraining from participating in provincial and central assembly elections. Objective: Rejecting 'crumbs' of limited self-government. Signaling: Complete independence demand, not moderate constitutional reforms. Delegitimizing: Low turnout in elections showing Indian rejection of British constitutional framework. Effectiveness: Mixed: 1920-22 elections low turnout, but later Congress participated (1923 onwards - Swarajists entering councils). Tactical: Demonstrated Congress could mobilize electoral boycott, but also revealed electoral politics' attraction. Point 5 vs Point 6: Military/Resource resistance (Point 5) vs Legislative resistance (Point 6). Both rejecting different aspects of British empire (imperial wars vs constitutional collaboration). Point 5 more symbolic (WWI ending), Point 6 more ongoing (elections every few years). Economic Resistance: Point 7 - Foreign Goods Boycott: Swadeshi dimension: Boycotting British cloth, goods. Promoting indigenous production (khadi, handloom). Objective: Economic self-reliance. Hitting British economic interests (Manchester cotton exports to India). Visible resistance: Bonfires of foreign cloth, spinning khadi, wearing homespun. Effectiveness: Significant: British textile exports to India dropped. Mass participation: Every Indian could participate (unlike title holders, students, voters). Symbolic: Khadi becoming nationalist uniform (Gandhi, Congress leaders wearing). Economic foundation: Building indigenous industry (though limited success initially). Sustainability: Continued beyond 1922 (even after Non-Cooperation suspended, Swadeshi remained). Comparison - Political vs Economic: Scope: Political (Points 5-6) targeted specific groups (soldiers/laborers, voters). Economic (Point 7) universal (all consumers). Visibility: Foreign goods boycott highly visible (cloth burning, khadi wearing). Electoral boycott less visible (absence from voting). British interests: Economic boycott directly hurt British trade. Political boycott embarrassing but less economically damaging. Participation: Point 7 enabled mass participation across all classes. Points 5-6 more limited (soldiers, voters). Constructive alternative: Point 7 had clear alternative (khadi, Swadeshi). Points 5-6 less clear (what replaces military service? elections?). Sustainability: Point 7 continued long-term (Swadeshi became permanent nationalist plank). Point 6 abandoned (Congress entered elections 1923). Point 5 became irrelevant (no major war 1920-39). Strategic Effectiveness: Point 7 (Economic) Most Effective: Direct economic impact on British. Mass participation enabling sustained movement. Clear alternative (khadi/Swadeshi). Visible symbol unifying movement. Continued beyond 1922 suspension. Point 6 (Election Boycott) Tactically Effective: Demonstrated Congress electoral mobilization capacity. Rejected limited reforms, maintaining pressure for fuller independence. But abandoned when tactical (Swarajists argued entering councils more effective). Point 5 (War Resistance) Symbolically Important: Established anti-imperialist principle. But limited immediate impact (WWI over, no major war soon). Overall: Economic resistance (Point 7) proved most durable and effective dimension of Non-Cooperation, while political dimensions (Points 5-6) were more tactical/temporary. This showed economic foundations (Swadeshi) more sustainable than political boycotts, influencing later nationalist strategy emphasizing economic self-reliance alongside political independence."
+      }
+    ]
+  }
+}

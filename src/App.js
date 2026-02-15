@@ -26,6 +26,7 @@ import eduTradeData from './data/education-trade-shipbuilding.json';
 import britishBengalData from './data/british-conquest-bengal.json';
 import politicalAssocData from './data/political-associations-before-inc.json';
 import revolutionaryActData from './data/revolutionary-activities-1907-17.json';
+import nonCoopSevenData from './data/non-cooperation-seven-points.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -184,6 +185,19 @@ function App() {
           title: 'Revolutionary Activities (Phase: 1907-17)',
           description: 'Anushilan Samiti, Ghadar Party, Berlin Committee, and revolutionary movements',
           data: revolutionaryActData
+        }
+      ]
+    },
+    {
+      id: 'gandhian-phase-1918-22',
+      title: 'Indian National Movement: 1918-22 - Gandhian Phase',
+      description: 'Non-Cooperation Movement, Khilafat, and Gandhian mass mobilization',
+      subtopics: [
+        {
+          id: 'non-coop-seven-points',
+          title: 'Non-Cooperation Movement - Seven-Point Program',
+          description: 'INC seven-point program: titles, courts, education, elections, foreign goods boycott',
+          data: nonCoopSevenData
         }
       ]
     }
