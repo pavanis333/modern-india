@@ -37,6 +37,7 @@ import lowerCasteData from './data/lower-caste-movements.json';
 import hinduReformData from './data/hindu-reform-movements.json';
 import hinduOrgsData from './data/hindu-reform-organizations.json';
 import socialReformLateData from './data/social-reform-late-19th-20th.json';
+import muslimReformData from './data/muslim-reform-movements.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -296,6 +297,12 @@ function App() {
           title: 'Social Reform Organizations (Late 19th - Early 20th Century)',
           description: 'INSC, Ramakrishna Mission, Servants of India, Seva Sadan, Social Service League, more',
           data: socialReformLateData
+        },
+        {
+          id: 'muslim-reform-movements',
+          title: 'Socio-Cultural Reform Movements Among Muslims',
+          description: 'Wahabi, Titu Mir, Faraizi, Deoband, Aligarh, Ahmadiyya movements',
+          data: muslimReformData
         }
       ]
     }
