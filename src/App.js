@@ -36,6 +36,7 @@ import womenMovementsData from './data/women-movements-personalities.json';
 import lowerCasteData from './data/lower-caste-movements.json';
 import hinduReformData from './data/hindu-reform-movements.json';
 import hinduOrgsData from './data/hindu-reform-organizations.json';
+import socialReformLateData from './data/social-reform-late-19th-20th.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -289,6 +290,12 @@ function App() {
           title: 'Hindu Reform Organizations and Societies',
           description: 'Young Bengal, Dharma Sabha, Tattvabodhini, Prarthana Samaj, Arya Samaj, Theosophical Society, more',
           data: hinduOrgsData
+        },
+        {
+          id: 'social-reform-late-19th-20th',
+          title: 'Social Reform Organizations (Late 19th - Early 20th Century)',
+          description: 'INSC, Ramakrishna Mission, Servants of India, Seva Sadan, Social Service League, more',
+          data: socialReformLateData
         }
       ]
     }
