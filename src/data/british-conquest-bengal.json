@@ -1,0 +1,579 @@
+{
+  "topic": "Advent of Europeans and Consolidation of British Power",
+  "subtopic": "British Conquest of Bengal",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Bengal Before Conquest",
+      "front": "Bengal's wealth?",
+      "back": "Wealthy Mughal province exporting saltpetre, rice, indigo, and textiles to Europe"
+    },
+    {
+      "id": "fc002",
+      "category": "Bengal Before Conquest",
+      "front": "Bengal exports?",
+      "back": "Saltpetre, rice, indigo, and textiles to Europe"
+    },
+    {
+      "id": "fc003",
+      "category": "Bengal Before Conquest",
+      "front": "EIC investment in Bengal?",
+      "back": "Since 1630s, sourced around 60% of Asian imports from Bengal"
+    },
+    {
+      "id": "fc004",
+      "category": "Bengal Before Conquest",
+      "front": "Murshid Quli Khan's period?",
+      "back": "1700-1727 - established foundations for British trade in Bengal"
+    },
+    {
+      "id": "fc005",
+      "category": "Bengal Before Conquest",
+      "front": "Bengal rulers succession?",
+      "back": "Murshid Quli Khan \u2192 Shujauddin \u2192 Sarfaraz Khan \u2192 Alivardi Khan \u2192 Siraj-ud-Daulah"
+    },
+    {
+      "id": "fc006",
+      "category": "Bengal Before Conquest",
+      "front": "Alivardi Khan ruled until?",
+      "back": "1756 - stopped tribute to Mughal Emperor"
+    },
+    {
+      "id": "fc007",
+      "category": "Bengal Before Conquest",
+      "front": "Siraj-ud-Daulah inherited when?",
+      "back": "1756 - inherited politically unstable Bengal"
+    },
+    {
+      "id": "fc008",
+      "category": "Bengal Before Conquest",
+      "front": "Calcutta population growth?",
+      "back": "15,000 (1706) to around 100,000 (1750)"
+    },
+    {
+      "id": "fc009",
+      "category": "Alivardi Khan",
+      "front": "Alivardi Khan vs Marathas?",
+      "back": "Defeated the Marathas and allowed British to fortify Fort William"
+    },
+    {
+      "id": "fc010",
+      "category": "Alivardi Khan",
+      "front": "Alivardi Khan's concern?",
+      "back": "Grew wary of increasing European influence despite allowing Fort William fortification"
+    },
+    {
+      "id": "fc011",
+      "category": "Siraj-ud-Daulah",
+      "front": "Siraj-ud-Daulah's internal challenges?",
+      "back": "Faced dissent from commanders like Shaukat Jang and Mir Jafar"
+    },
+    {
+      "id": "fc012",
+      "category": "Siraj-ud-Daulah",
+      "front": "Who opposed Siraj in court?",
+      "back": "Dominant group like Jagat Seth, Omnichand opposed Siraj"
+    },
+    {
+      "id": "fc013",
+      "category": "Siraj-ud-Daulah",
+      "front": "Why Siraj alienated factions?",
+      "back": "Actions like executing rivals alienated factions as British power grew"
+    },
+    {
+      "id": "fc014",
+      "category": "Siraj-ud-Daulah",
+      "front": "Siraj's conflict with British?",
+      "back": "Resented Fort William fortification by British, saw it as threat"
+    },
+    {
+      "id": "fc015",
+      "category": "Battle of Plassey (1757)",
+      "front": "Battle of Plassey date?",
+      "back": "June 23, 1757"
+    },
+    {
+      "id": "fc016",
+      "category": "Battle of Plassey (1757)",
+      "front": "Plassey prelude - internal?",
+      "back": "Siraj's court rife with factionalism involving Mir Jafar and Jagat Seth"
+    },
+    {
+      "id": "fc017",
+      "category": "Battle of Plassey (1757)",
+      "front": "Economic tensions before Plassey?",
+      "back": "British misused trade privileges, damaging Nawab's finances"
+    },
+    {
+      "id": "fc018",
+      "category": "Battle of Plassey (1757)",
+      "front": "Black Hole Tragedy?",
+      "back": "British captives allegedly killed, escalating tensions before Plassey"
+    },
+    {
+      "id": "fc019",
+      "category": "Battle of Plassey (1757)",
+      "front": "Siraj captured Calcutta when?",
+      "back": "June 1756 - renamed it Alinagar, concerned about British military buildup"
+    },
+    {
+      "id": "fc020",
+      "category": "Battle of Plassey (1757)",
+      "front": "Clive's strategy at Plassey?",
+      "back": "Forged alliances with Siraj's internal rivals, ensuring British victory"
+    },
+    {
+      "id": "fc021",
+      "category": "Battle of Plassey (1757)",
+      "front": "Plassey outcome?",
+      "back": "June 23, 1757 - British won despite being outnumbered, Siraj executed, British control began"
+    },
+    {
+      "id": "fc022",
+      "category": "Battle of Plassey (1757)",
+      "front": "After Plassey - who became Nawab?",
+      "back": "Mir Jafar in exchange for support, cementing British dominance"
+    },
+    {
+      "id": "fc023",
+      "category": "Battle of Plassey (1757)",
+      "front": "Battle of Biderra?",
+      "back": "1759 - Mir Jafar frustrated with British interference, ended in British victory"
+    },
+    {
+      "id": "fc024",
+      "category": "Battle of Plassey (1757)",
+      "front": "Treaty of 1760?",
+      "back": "Mir Jafar's son-in-law Mir Qasim installed as new ally, increasing British control"
+    },
+    {
+      "id": "fc025",
+      "category": "Mir Qasim",
+      "front": "Mir Qasim's capital shift?",
+      "back": "Moved capital from Murshidabad to Munger to reduce British influence"
+    },
+    {
+      "id": "fc026",
+      "category": "Mir Qasim",
+      "front": "Mir Qasim's military reforms?",
+      "back": "Initiated European-style military reforms and sought territorial expansion"
+    },
+    {
+      "id": "fc027",
+      "category": "Mir Qasim",
+      "front": "Mir Qasim's challenge?",
+      "back": "Faced challenges from internal forces and British interference, political instability"
+    },
+    {
+      "id": "fc028",
+      "category": "Battle of Buxar (1764)",
+      "front": "Battle of Buxar date?",
+      "back": "1764"
+    },
+    {
+      "id": "fc029",
+      "category": "Battle of Buxar (1764)",
+      "front": "Mir Qasim's resistance?",
+      "back": "Challenged British by misusing Dastaks, formed alliance with Shah Alam II and Shuja-ud-Daula"
+    },
+    {
+      "id": "fc030",
+      "category": "Battle of Buxar (1764)",
+      "front": "Who led British at Buxar?",
+      "back": "Major Hector Munro defeated combined forces of Mir Kasim, Shah Alam II, Shuja-ud-Daula"
+    },
+    {
+      "id": "fc031",
+      "category": "Battle of Buxar (1764)",
+      "front": "Buxar outcome - Shah Alam II?",
+      "back": "Agreed to reside at Allahabad under Company protection"
+    },
+    {
+      "id": "fc032",
+      "category": "Battle of Buxar (1764)",
+      "front": "Diwani granted when?",
+      "back": "After Buxar - Shah Alam II issued Farman granting Diwani of Bengal, Bihar, Orissa to EIC"
+    },
+    {
+      "id": "fc033",
+      "category": "Battle of Buxar (1764)",
+      "front": "Diwani payment?",
+      "back": "Rs 26 lakh annual payment for revenue rights of Bengal, Bihar, Orissa"
+    },
+    {
+      "id": "fc034",
+      "category": "Battle of Buxar (1764)",
+      "front": "Nizamat provision?",
+      "back": "Rs 53 lakh to Company for military defence, police, administration of justice"
+    },
+    {
+      "id": "fc035",
+      "category": "Dual Government (1765-1772)",
+      "front": "Dual Government period?",
+      "back": "1765-1772 in Bengal"
+    },
+    {
+      "id": "fc036",
+      "category": "Dual Government (1765-1772)",
+      "front": "What was Dual Government?",
+      "back": "EIC took Diwani (revenue) and Nizamat (law enforcement), Nawab retained ceremonial authority"
+    },
+    {
+      "id": "fc037",
+      "category": "Dual Government (1765-1772)",
+      "front": "Dual Government outcome?",
+      "back": "Failed to maintain order or manage Bengal economy, abolished by Warren Hastings in 1772"
+    },
+    {
+      "id": "fc038",
+      "category": "Dual Government (1765-1772)",
+      "front": "Who abolished Dual Government?",
+      "back": "Warren Hastings in 1772"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "What made Bengal a wealthy province?",
+        "options": [
+          "Gold mines",
+          "Exporting saltpetre, rice, indigo, and textiles to Europe",
+          "Military power",
+          "Religious centers"
+        ],
+        "correct": 1,
+        "explanation": "Bengal was wealthy, known for exporting saltpetre, rice, indigo, and textiles to Europe."
+      },
+      {
+        "id": "mcq002",
+        "question": "What percentage of EIC Asian imports came from Bengal?",
+        "options": [
+          "Around 30%",
+          "Around 60%",
+          "Around 80%",
+          "100%"
+        ],
+        "correct": 1,
+        "explanation": "Since 1630s, EIC sourced around 60% of its Asian imports from Bengal."
+      },
+      {
+        "id": "mcq003",
+        "question": "When did Murshid Quli Khan rule Bengal?",
+        "options": [
+          "1630-1670",
+          "1700-1727",
+          "1756-1757",
+          "1764-1772"
+        ],
+        "correct": 1,
+        "explanation": "Murshid Quli Khan ruled 1700-1727, establishing foundations for British trade in Bengal."
+      },
+      {
+        "id": "mcq004",
+        "question": "What did Alivardi Khan stop?",
+        "options": [
+          "Trade with British",
+          "Tribute to Mughal Emperor",
+          "Military expansion",
+          "Fort building"
+        ],
+        "correct": 1,
+        "explanation": "Alivardi Khan, ruling until 1756, stopped tribute to the Mughal Emperor."
+      },
+      {
+        "id": "mcq005",
+        "question": "When did Siraj-ud-Daulah inherit Bengal?",
+        "options": [
+          "1727",
+          "1756",
+          "1757",
+          "1764"
+        ],
+        "correct": 1,
+        "explanation": "Siraj-ud-Daulah inherited a politically unstable Bengal in 1756."
+      },
+      {
+        "id": "mcq006",
+        "question": "Calcutta's population in 1750?",
+        "options": [
+          "15,000",
+          "50,000",
+          "Around 100,000",
+          "500,000"
+        ],
+        "correct": 2,
+        "explanation": "Calcutta's population grew from 15,000 (1706) to around 100,000 (1750)."
+      },
+      {
+        "id": "mcq007",
+        "question": "What did Alivardi Khan allow British to do?",
+        "options": [
+          "Collect taxes",
+          "Fortify Fort William",
+          "Appoint governors",
+          "Control army"
+        ],
+        "correct": 1,
+        "explanation": "Alivardi Khan defeated Marathas and allowed British to fortify Fort William, though he grew wary of European influence."
+      },
+      {
+        "id": "mcq008",
+        "question": "Who opposed Siraj-ud-Daulah in his court?",
+        "options": [
+          "British only",
+          "Marathas",
+          "Jagat Seth and Omnichand",
+          "Mir Qasim"
+        ],
+        "correct": 2,
+        "explanation": "Dominant group in court like Jagat Seth and Omnichand opposed Siraj."
+      },
+      {
+        "id": "mcq009",
+        "question": "When was Battle of Plassey?",
+        "options": [
+          "June 1756",
+          "June 23, 1757",
+          "1759",
+          "1764"
+        ],
+        "correct": 1,
+        "explanation": "Battle of Plassey was fought on June 23, 1757."
+      },
+      {
+        "id": "mcq010",
+        "question": "What was Black Hole Tragedy?",
+        "options": [
+          "Military defeat",
+          "British captives allegedly killed",
+          "Economic collapse",
+          "Fort destruction"
+        ],
+        "correct": 1,
+        "explanation": "Black Hole Tragedy: British captives were allegedly killed, escalating tensions before Plassey."
+      },
+      {
+        "id": "mcq011",
+        "question": "When did Siraj capture Calcutta?",
+        "options": [
+          "June 1756",
+          "June 1757",
+          "1759",
+          "1764"
+        ],
+        "correct": 0,
+        "explanation": "Siraj captured Calcutta (renamed Alinagar) in June 1756, concerned about British military buildup."
+      },
+      {
+        "id": "mcq012",
+        "question": "What was Clive's strategy at Plassey?",
+        "options": [
+          "Military superiority",
+          "Forged alliances with Siraj's internal rivals",
+          "Naval blockade",
+          "Diplomatic negotiation"
+        ],
+        "correct": 1,
+        "explanation": "Clive forged alliances with Siraj's internal rivals, ensuring British victory despite being outnumbered."
+      },
+      {
+        "id": "mcq013",
+        "question": "Battle of Plassey outcome for Siraj?",
+        "options": [
+          "He won",
+          "He was executed",
+          "He fled to Persia",
+          "He became British ally"
+        ],
+        "correct": 1,
+        "explanation": "British won Plassey decisively, leading to Siraj's execution and start of British control in Bengal."
+      },
+      {
+        "id": "mcq014",
+        "question": "Who became Nawab after Plassey?",
+        "options": [
+          "Mir Qasim",
+          "Mir Jafar",
+          "Shuja-ud-Daula",
+          "Alivardi Khan"
+        ],
+        "correct": 1,
+        "explanation": "Mir Jafar became new Nawab in exchange for support, cementing British dominance over Bengal."
+      },
+      {
+        "id": "mcq015",
+        "question": "When was Battle of Biderra?",
+        "options": [
+          "1756",
+          "1757",
+          "1759",
+          "1764"
+        ],
+        "correct": 2,
+        "explanation": "Battle of Biderra (1759): Mir Jafar frustrated with British interference, ended in British victory."
+      },
+      {
+        "id": "mcq016",
+        "question": "Treaty of 1760 installed whom?",
+        "options": [
+          "Mir Jafar",
+          "Mir Qasim (Mir Jafar's son-in-law)",
+          "Siraj-ud-Daulah",
+          "Shah Alam II"
+        ],
+        "correct": 1,
+        "explanation": "Treaty of 1760: Mir Jafar's son-in-law Mir Qasim installed as new ally, increasing British control."
+      },
+      {
+        "id": "mcq017",
+        "question": "Why did Mir Qasim move capital to Munger?",
+        "options": [
+          "Better defense",
+          "Reduce British influence",
+          "Economic reasons",
+          "Religious significance"
+        ],
+        "correct": 1,
+        "explanation": "Mir Qasim moved capital from Murshidabad to Munger to reduce British influence."
+      },
+      {
+        "id": "mcq018",
+        "question": "What military reforms did Mir Qasim initiate?",
+        "options": [
+          "Mughal-style",
+          "European-style military reforms",
+          "Naval development",
+          "Maratha tactics"
+        ],
+        "correct": 1,
+        "explanation": "Mir Qasim initiated European-style military reforms and sought territorial expansion."
+      },
+      {
+        "id": "mcq019",
+        "question": "When was Battle of Buxar?",
+        "options": [
+          "1757",
+          "1759",
+          "1764",
+          "1772"
+        ],
+        "correct": 2,
+        "explanation": "Battle of Buxar was fought in 1764."
+      },
+      {
+        "id": "mcq020",
+        "question": "Who did Mir Qasim ally with at Buxar?",
+        "options": [
+          "British",
+          "Shah Alam II and Shuja-ud-Daula",
+          "Marathas",
+          "French"
+        ],
+        "correct": 1,
+        "explanation": "Mir Qasim formed alliance with Shah Alam II and Shuja-ud-Daula to challenge British at Buxar."
+      },
+      {
+        "id": "mcq021",
+        "question": "Who led British forces at Buxar?",
+        "options": [
+          "Robert Clive",
+          "Major Hector Munro",
+          "Warren Hastings",
+          "Lord Cornwallis"
+        ],
+        "correct": 1,
+        "explanation": "Major Hector Munro led British forces to victory at Buxar (1764)."
+      },
+      {
+        "id": "mcq022",
+        "question": "What did Shah Alam II grant after Buxar?",
+        "options": [
+          "Military command",
+          "Diwani of Bengal, Bihar, Orissa to EIC",
+          "Personal wealth",
+          "Territory in north"
+        ],
+        "correct": 1,
+        "explanation": "Shah Alam II issued Farman granting Diwani (revenue rights) of Bengal, Bihar, and Orissa to EIC."
+      },
+      {
+        "id": "mcq023",
+        "question": "Annual payment for Diwani?",
+        "options": [
+          "Rs 10 lakh",
+          "Rs 26 lakh",
+          "Rs 53 lakh",
+          "Rs 100 lakh"
+        ],
+        "correct": 1,
+        "explanation": "EIC paid Rs 26 lakh annually for Diwani (revenue rights) of Bengal, Bihar, Orissa."
+      },
+      {
+        "id": "mcq024",
+        "question": "What were Nizamat functions?",
+        "options": [
+          "Revenue collection",
+          "Military defence, police, administration of justice",
+          "Trade regulation",
+          "Religious affairs"
+        ],
+        "correct": 1,
+        "explanation": "Nizamat functions: military defence, police, and administration of justice - EIC paid Rs 53 lakh for these."
+      },
+      {
+        "id": "mcq025",
+        "question": "When was Dual Government in Bengal?",
+        "options": [
+          "1757-1764",
+          "1764-1772",
+          "1765-1772",
+          "1772-1780"
+        ],
+        "correct": 2,
+        "explanation": "Dual Government existed from 1765-1772 in Bengal."
+      },
+      {
+        "id": "mcq026",
+        "question": "What was Dual Government?",
+        "options": [
+          "Two Nawabs ruling",
+          "EIC took Diwani and Nizamat, Nawab retained ceremonial authority",
+          "British and French sharing power",
+          "Bengal split in two"
+        ],
+        "correct": 1,
+        "explanation": "Dual Government: EIC took revenue rights (Diwani) and law enforcement (Nizamat), Nawab retained only ceremonial authority."
+      },
+      {
+        "id": "mcq027",
+        "question": "Who abolished Dual Government?",
+        "options": [
+          "Robert Clive",
+          "Warren Hastings",
+          "Lord Cornwallis",
+          "Shah Alam II"
+        ],
+        "correct": 1,
+        "explanation": "Warren Hastings abolished Dual Government in 1772 after it failed to maintain order."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Trace the decline of Bengal's autonomy from Murshid Quli Khan (1700-1727) through the succession to Siraj-ud-Daulah (1756), analyzing the growing British influence and internal instability.",
+        "answer": "Murshid Quli Khan (1700-1727): Established foundations for British trade in Bengal. Earlier we learned he became independent Nawab after 1717, shifting capital to Murshidabad, introducing Mal Jasmani revenue reform. Now we see he also enabled British commercial presence. Context: Bengal was wealthy Mughal province exporting saltpetre, rice, indigo, textiles to Europe. Since 1630s, EIC sourced around 60% of Asian imports from Bengal - massive dependence. Succession: Murshid Quli Khan \u2192 Shujauddin \u2192 Sarfaraz Khan \u2192 Alivardi Khan (ruled until 1756). Alivardi Khan: Stopped tribute to Mughal Emperor - asserting autonomy. Defeated Marathas, allowed British to fortify Fort William. However, grew wary of increasing European influence. Contradiction: Permitted fortification but concerned about influence. Economic/Political Context: Bengal remained stable while other regions faced invasions. Calcutta population: 15,000 (1706) to ~100,000 (1750) - dramatic growth showing British commercial expansion. Tensions: Growing dissatisfaction among Bengali rulers over financial benefits to British. British presence enriching themselves while Nawab's finances strained. Siraj-ud-Daulah (1756): Inherited politically unstable Bengal. Internal Challenges: Faced dissent from commanders like Shaukat Jang and Mir Jafar. Dominant court group (Jagat Seth, Omnichand) opposed Siraj. Actions like executing rivals alienated factions, especially as British power grew. External Challenge: Resented British fortification of Fort William, saw it as threat. Pattern: Murshid Quli Khan enabled British trade (1700-1727) \u2192 Succession maintaining Bengal autonomy \u2192 Alivardi Khan's contradictory policy (allowing fortification but wary of influence) \u2192 Siraj inheriting unstable Bengal with powerful British presence and internal opposition (1756). Result: By 1756, Bengal faced external threat (British military buildup) and internal weakness (court factionalism), setting stage for British conquest. British had spent 130+ years (1630s-1756) building economic dominance (60% of Asian imports), now converting commercial to political/military power."
+      },
+      {
+        "id": "comp002",
+        "question": "Analyze the Battle of Plassey (1757) in detail: prelude (internal rivalries, economic tensions, Black Hole Tragedy, Siraj's response), Clive's strategy, outcome, and immediate aftermath including Mir Jafar's ascension and subsequent tensions.",
+        "answer": "Prelude - Internal Rivalries: Siraj's court rife with factionalism involving key figures Mir Jafar and Jagat Seth. These would become British collaborators. Court divided, Siraj lacked unified support. Economic Tensions: British misused trade privileges, damaging Nawab's finances. Specific grievance building on broader dissatisfaction over financial benefits to British. Black Hole Tragedy: British captives allegedly killed, escalating tensions. Controversial incident (historiography debates authenticity) but used to justify British response. Siraj's Response: Concerned about British military buildup (fortification of Fort William). Captured Calcutta in June 1756, renamed it Alinagar. Attempting to assert authority, curb British military presence. Clive's Strategy: Forged alliances with Siraj's internal rivals. Key: Exploited court factionalism, made deals with Mir Jafar, Jagat Seth, others. Military victory achieved through political subversion more than battlefield superiority. Battle (June 23, 1757): British forces outnumbered but won decisively. Mir Jafar and co-conspirators didn't fight effectively for Siraj. Outcome: Siraj executed, British control began in Bengal. Turning point: Commercial company becoming territorial power. Mir Jafar's Ascension: In exchange for support, Mir Jafar became new Nawab. Puppet ruler: Cementing British dominance over Bengal. British gained: 1) Political control (Nawab dependent on them), 2) Military victory legitimacy, 3) Access to Bengal revenues. Subsequent Tensions: Mir Jafar grew frustrated with British interference. Despite being installed by British, chafed under their control. Shows British dominance intrusive even over collaborator. Battle of Biderra (1759): Mir Jafar involved, ended in British victory. Even puppet Nawab couldn't resist effectively. Treaty of 1760: Mir Jafar's son-in-law Mir Qasim installed as new ally. British discarding Mir Jafar when he proved insufficiently compliant, replacing with next generation. Further increasing British control. Pattern: Internal conspiracy (Clive's alliances) \u2192 Military victory despite being outnumbered (Plassey June 23, 1757) \u2192 Puppet Nawab (Mir Jafar) \u2192 Continued British interference \u2192 Replacement when necessary (Mir Qasim 1760). Plassey decisive not just militarily but politically: Converted British from traders to rulers, established pattern of using internal divisions, showed Indian rulers (even collaborators) had no real autonomy under British dominance."
+      },
+      {
+        "id": "comp003",
+        "question": "Examine Mir Qasim's attempts at reform and resistance (capital shift, military modernization), the Battle of Buxar (1764), and its consequences including Shah Alam II's agreements and the establishment of Dual Government (1765-1772).",
+        "answer": "Mir Qasim's Reforms: Capital Shift: Moved capital from Murshidabad to Munger to reduce British influence. Strategic: Murshidabad too close to British Calcutta/Fort William. Munger more interior, attempting geographic distance from British interference. Military Modernization: Initiated European-style military reforms and sought territorial expansion. Learning from defeats: Adopting European tactics/organization to resist British. Territorial ambitions: Not just defensive but attempting to build independent power base. Challenges: Faced challenges from internal forces and British interference, leading to political instability. Shows even reform-minded ruler couldn't escape British pressure or internal opposition. Battle of Buxar (1764): Mir Qasim's Resistance: Challenged British dominance by misusing Dastaks (trade permits) - economic resistance. Formed alliance with Shah Alam II (Mughal Emperor) and Shuja-ud-Daula (Nawab of Awadh). Grand alliance: Bengal + Mughal Emperor + Awadh vs British. Most significant Indian alliance against British. Outcome: British forces led by Major Hector Munro defeated combined forces. Despite numerical/political superiority (Emperor + two Nawabs), British won. More decisive than Plassey: Defeated not just regional ruler but coalition including Emperor. Shah Alam II's Agreements (Post-Buxar): 1) Reside at Allahabad, to be ceded by Nawab of Awadh, under Company protection. Emperor becomes British dependent, living on Company-controlled territory. 2) Issue Farman granting Diwani of Bengal, Bihar, Orissa to EIC for Rs 26 lakh annual payment. Revenue rights: British now legally (via Emperor's Farman) collect revenues. 3) Rs 53 lakh to Company for Nizamat functions (military defence, police, administration of justice). Law enforcement: British controlling security/justice functions. Total: Rs 79 lakh payments but British gaining revenue collection (far more valuable). Dual Government (1765-1772): Structure: EIC took over revenue rights (Diwani) and law enforcement (Nizamat), while Nawab retained only ceremonial authority. Nominal Indian rule, real British power. Failure: Failed to maintain order or manage Bengal's economy. Dual authority = no clear responsibility. Company interested in revenue extraction, Nawab powerless to govern, neither maintaining infrastructure/administration. Abolishment: Warren Hastings abolished Dual Government in 1772. British taking direct control, ending even pretense of Indian authority. Significance: Buxar (1764) more important than Plassey (1757): Defeated grand alliance including Mughal Emperor, gained legal cover (Emperor's Farman) for territorial control, established British as paramount power in northern India. Dual Government transition: From puppet Nawab (post-Plassey) to shared authority (1765-1772) to direct British rule (post-1772). Bengal conquest pattern: Commercial dominance (pre-1757) \u2192 Military victory (Plassey 1757) \u2192 Puppet rule (1757-1765) \u2192 Dual control (1765-1772) \u2192 Direct rule (1772+). British gradually dropping pretense of Indian sovereignty as they consolidated power."
+      }
+    ]
+  }
+}

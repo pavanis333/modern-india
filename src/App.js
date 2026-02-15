@@ -23,6 +23,7 @@ import rajputsData from './data/rajputs.json';
 import jatsData from './data/jats.json';
 import artArchData from './data/art-architecture-literature.json';
 import eduTradeData from './data/education-trade-shipbuilding.json';
+import britishBengalData from './data/british-conquest-bengal.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -149,6 +150,12 @@ function App() {
           title: 'Education, Trade, and Shipbuilding (18th Century)',
           description: 'Traditional education system, textile hubs, imports/exports, shipbuilding centres',
           data: eduTradeData
+        },
+        {
+          id: 'british-bengal',
+          title: 'British Conquest of Bengal',
+          description: 'Plassey (1757), Buxar (1764), Mir Jafar, Mir Qasim, Dual Government (1765-1772)',
+          data: britishBengalData
         }
       ]
     }
