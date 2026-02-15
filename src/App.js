@@ -58,6 +58,7 @@ import economicCommissionsData from './data/economic-commissions.json';
 import famineCommissionsData from './data/famine-commissions.json';
 import lawCommissionsData from './data/law-commissions.json';
 import currencyCommitteesData from './data/currency-committees.json';
+import civilServiceCommissionsData from './data/civil-service-commissions.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -457,6 +458,12 @@ function App() {
           title: 'Currency - Committees',
           description: 'Herschell (1893 Lansdowne), Fowler (1898 Elgin), Babington Smith (1919 Chelmsford reforms), Hilton Young (1926 Reading review)',
           data: currencyCommitteesData
+        },
+        {
+          id: 'civil-service-commissions',
+          title: 'Civil Service - Commissions',
+          description: 'Aitchison (1886 involve Indians/Dufferin), Fraser (1902 police/Curzon), Royal/Islington (1912 25% posts/Hardinge), Lee (1924 remove defects/Reading)',
+          data: civilServiceCommissionsData
         }
       ]
     }

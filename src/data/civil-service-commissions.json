@@ -1,0 +1,179 @@
+{
+  "topic": "British Policies and their Economic Impacts",
+  "subtopic": "Civil Service - Commissions",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Civil Service Commissions",
+      "front": "Aitchison Commission (1886)?",
+      "back": "Chairman: Charles Aitchison. Objectives: To involve more Indians in the Civil Service. Governor General/Viceroy: Lord Dufferin"
+    },
+    {
+      "id": "fc002",
+      "category": "Civil Service Commissions",
+      "front": "Fraser Commission (1902)?",
+      "back": "Chairman: Fraser. Objectives: To investigate the working of police. Governor General/Viceroy: Lord Curzon"
+    },
+    {
+      "id": "fc003",
+      "category": "Civil Service Commissions",
+      "front": "Royal Commission on Civil Service (1912)?",
+      "back": "Chairman: Lord Islington. Objectives: To recommend giving 25% of high posts to Indians. Governor General/Viceroy: Lord Hardinge"
+    },
+    {
+      "id": "fc004",
+      "category": "Civil Service Commissions",
+      "front": "Lee Commission (1924)?",
+      "back": "Chairman: Lord Lee. Objectives: To remove defects in the Civil Service. Governor General/Viceroy: Lord Reading"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Aitchison Commission (1886) chairman?",
+        "options": [
+          "Charles Aitchison",
+          "Fraser",
+          "Lord Islington",
+          "Lord Lee"
+        ],
+        "correct": 0,
+        "explanation": "Aitchison Commission (1886) chaired by Charles Aitchison."
+      },
+      {
+        "id": "mcq002",
+        "question": "Aitchison Commission (1886) objective?",
+        "options": [
+          "Investigate police",
+          "To involve more Indians in the Civil Service",
+          "Recommend 25% posts",
+          "Remove defects"
+        ],
+        "correct": 1,
+        "explanation": "Aitchison Commission (1886) aimed to involve more Indians in the Civil Service."
+      },
+      {
+        "id": "mcq003",
+        "question": "Aitchison Commission (1886) - Viceroy?",
+        "options": [
+          "Lord Dufferin",
+          "Lord Curzon",
+          "Lord Hardinge",
+          "Lord Reading"
+        ],
+        "correct": 0,
+        "explanation": "Aitchison Commission (1886) during Lord Dufferin's tenure."
+      },
+      {
+        "id": "mcq004",
+        "question": "Fraser Commission (1902) chairman?",
+        "options": [
+          "Charles Aitchison",
+          "Fraser",
+          "Lord Islington",
+          "Lord Lee"
+        ],
+        "correct": 1,
+        "explanation": "Fraser Commission (1902) chaired by Fraser."
+      },
+      {
+        "id": "mcq005",
+        "question": "Fraser Commission (1902) objective?",
+        "options": [
+          "Involve more Indians",
+          "To investigate the working of police",
+          "Recommend posts percentage",
+          "Remove defects"
+        ],
+        "correct": 1,
+        "explanation": "Fraser Commission (1902) aimed to investigate the working of police."
+      },
+      {
+        "id": "mcq006",
+        "question": "Fraser Commission (1902) - Viceroy?",
+        "options": [
+          "Lord Dufferin",
+          "Lord Curzon",
+          "Lord Hardinge",
+          "Lord Reading"
+        ],
+        "correct": 1,
+        "explanation": "Fraser Commission (1902) during Lord Curzon's tenure."
+      },
+      {
+        "id": "mcq007",
+        "question": "Royal Commission on Civil Service (1912) chairman?",
+        "options": [
+          "Charles Aitchison",
+          "Fraser",
+          "Lord Islington",
+          "Lord Lee"
+        ],
+        "correct": 2,
+        "explanation": "Royal Commission on Civil Service (1912) chaired by Lord Islington."
+      },
+      {
+        "id": "mcq008",
+        "question": "Royal Commission on Civil Service (1912) objective?",
+        "options": [
+          "Involve more Indians",
+          "Investigate police",
+          "To recommend giving 25% of high posts to Indians",
+          "Remove defects"
+        ],
+        "correct": 2,
+        "explanation": "Royal Commission on Civil Service (1912) aimed to recommend giving 25% of high posts to Indians."
+      },
+      {
+        "id": "mcq009",
+        "question": "Royal Commission on Civil Service (1912) - Viceroy?",
+        "options": [
+          "Lord Dufferin",
+          "Lord Curzon",
+          "Lord Hardinge",
+          "Lord Reading"
+        ],
+        "correct": 2,
+        "explanation": "Royal Commission on Civil Service (1912) during Lord Hardinge's tenure."
+      },
+      {
+        "id": "mcq010",
+        "question": "Lee Commission (1924) chairman?",
+        "options": [
+          "Charles Aitchison",
+          "Fraser",
+          "Lord Islington",
+          "Lord Lee"
+        ],
+        "correct": 3,
+        "explanation": "Lee Commission (1924) chaired by Lord Lee."
+      },
+      {
+        "id": "mcq011",
+        "question": "Lee Commission (1924) objective?",
+        "options": [
+          "Involve more Indians",
+          "Investigate police",
+          "Recommend posts percentage",
+          "To remove defects in the Civil Service"
+        ],
+        "correct": 3,
+        "explanation": "Lee Commission (1924) aimed to remove defects in the Civil Service."
+      },
+      {
+        "id": "mcq012",
+        "question": "Lee Commission (1924) - Viceroy?",
+        "options": [
+          "Lord Dufferin",
+          "Lord Curzon",
+          "Lord Hardinge",
+          "Lord Reading"
+        ],
+        "correct": 3,
+        "explanation": "Lee Commission (1924) during Lord Reading's tenure."
+      }
+    ],
+    "comprehensive": []
+  }
+}
