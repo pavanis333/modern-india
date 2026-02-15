@@ -60,6 +60,7 @@ import lawCommissionsData from './data/law-commissions.json';
 import currencyCommitteesData from './data/currency-committees.json';
 import civilServiceCommissionsData from './data/civil-service-commissions.json';
 import otherCommitteesCommissionsData from './data/other-committees-commissions.json';
+import educationalInstitutionsData from './data/educational-institutions.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -471,6 +472,19 @@ function App() {
           title: 'Other Committees and Commissions',
           description: 'Shore (1914 Komagata Maru), Lottery (1817 Calcutta), Opium (1893), Rowlatt (1917 Sedition), Sandhurst (1926 Army), Lothian (1932 Communal Award)',
           data: otherCommitteesCommissionsData
+        }
+      ]
+    },
+    {
+      id: 'education-press-evolution',
+      title: 'Evolution of Education and Press',
+      description: 'Educational institutions, universities, colleges, and press development',
+      subtopics: [
+        {
+          id: 'educational-institutions',
+          title: 'Educational Institutions - Major Colleges and Universities',
+          description: 'Calcutta Madrasah (1781), Sanskrit College (1791), Hindu College (1817), Three Universities (1857), MAO/Aligarh (1875), SNDT (1916)',
+          data: educationalInstitutionsData
         }
       ]
     }

@@ -1,0 +1,233 @@
+{
+  "topic": "Evolution of Education and Press",
+  "subtopic": "Educational Institutions - Major Colleges and Universities",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Educational Institutions",
+      "front": "Calcutta Madrasah (1781)?",
+      "back": "Founder: Warren Hastings. Year: 1781. Details: First institution for the study of Muslim culture and traditions in India"
+    },
+    {
+      "id": "fc002",
+      "category": "Educational Institutions",
+      "front": "Sanskrit College (Varanasi) (1791)?",
+      "back": "Founder: Jonathan Duncan. Year: 1791. Details: Focused on Sanskrit studies and ancient Indian learning"
+    },
+    {
+      "id": "fc003",
+      "category": "Educational Institutions",
+      "front": "Hindu College (Calcutta) (1817)?",
+      "back": "Founder: David Hare. Year: 1817. Details: One of the first institutions to introduce Western education in India"
+    },
+    {
+      "id": "fc004",
+      "category": "Educational Institutions",
+      "front": "Vedanta College (Calcutta) (1825)?",
+      "back": "Founder: Raja Ram Mohan Roy. Year: 1825. Details: Aimed at synthesising Western learning with Vedantic ideals"
+    },
+    {
+      "id": "fc005",
+      "category": "Educational Institutions",
+      "front": "Bethune School (Calcutta) (1849)?",
+      "back": "Founder: Ishwar Chandra Vidyasagar (Established by J.E. Bethune). Year: 1849. Details: First school for girls in Calcutta, promoted by Ishwar Chandra Vidyasagar"
+    },
+    {
+      "id": "fc006",
+      "category": "Educational Institutions",
+      "front": "Three Universities (Calcutta, Madras, Bombay) (1857)?",
+      "back": "Founder: Lord Canning (Governor General). Year: 1857. Details: Established as part of the British policy to educate Indians"
+    },
+    {
+      "id": "fc007",
+      "category": "Educational Institutions",
+      "front": "Thomson College of Civil Engineering (IIT Roorkee) (1847)?",
+      "back": "Founder: James Thomson. Year: 1847. Details: Renowned institution for engineering education, now part of IIT Roorkee"
+    },
+    {
+      "id": "fc008",
+      "category": "Educational Institutions",
+      "front": "Central Hindu School (Banaras)?",
+      "back": "Founder: Annie Besant (Established, converted to Banaras Hindu University by Madan Mohan Malviya). Year: Date not specified. Details: Initially set up as a school, later became part of Banaras Hindu University"
+    },
+    {
+      "id": "fc009",
+      "category": "Educational Institutions",
+      "front": "Muhammadan Anglo-Oriental College (MAO) - Aligarh (1875)?",
+      "back": "Founder: Sayyid Ahmad Khan. Year: 1875. Details: Later became Aligarh Muslim University, pivotal in Muslim education"
+    },
+    {
+      "id": "fc010",
+      "category": "Educational Institutions",
+      "front": "National Muslim University?",
+      "back": "Founder: Sayyid Ahmed Barelvi (Later transferred to Delhi, became Jamia Millia Islamia). Year: Date not specified. Details: Initially founded in Aligarh, later moved to Delhi"
+    },
+    {
+      "id": "fc011",
+      "category": "Educational Institutions",
+      "front": "New English School (Bombay) (1880s)?",
+      "back": "Founder: Vishnushastri Chiplunkar, Bal Gangadhar Tilak, M.B. Namjoshi, G.G. Agarkar. Year: 1880s. Details: Later became Fergusson College, a major institution in Pune"
+    },
+    {
+      "id": "fc012",
+      "category": "Educational Institutions",
+      "front": "National Council of Education (Calcutta) (1906)?",
+      "back": "Founder: Aurobindo Ghosh. Year: 1906. Details: Established to promote national education, under the leadership of Aurobindo Ghosh"
+    },
+    {
+      "id": "fc013",
+      "category": "Educational Institutions",
+      "front": "SNDT Women's University (1916)?",
+      "back": "Founder: Maharishi Karve. Year: 1916. Details: Focused on women's education, founded by Maharishi Karve"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Calcutta Madrasah (1781) founded by?",
+        "options": [
+          "Warren Hastings",
+          "Jonathan Duncan",
+          "David Hare",
+          "Raja Ram Mohan Roy"
+        ],
+        "correct": 0,
+        "explanation": "Calcutta Madrasah (1781) founded by Warren Hastings, first institution for study of Muslim culture and traditions in India."
+      },
+      {
+        "id": "mcq002",
+        "question": "Sanskrit College (Varanasi) founded in?",
+        "options": [
+          "1781",
+          "1791",
+          "1817",
+          "1825"
+        ],
+        "correct": 1,
+        "explanation": "Sanskrit College (Varanasi) founded in 1791 by Jonathan Duncan, focused on Sanskrit studies and ancient Indian learning."
+      },
+      {
+        "id": "mcq003",
+        "question": "Hindu College (Calcutta) (1817) significance?",
+        "options": [
+          "Muslim education",
+          "One of the first institutions to introduce Western education in India",
+          "Sanskrit studies",
+          "Women's education"
+        ],
+        "correct": 1,
+        "explanation": "Hindu College (Calcutta, 1817) founded by David Hare was one of first institutions to introduce Western education in India."
+      },
+      {
+        "id": "mcq004",
+        "question": "Vedanta College (Calcutta) (1825) founded by?",
+        "options": [
+          "Warren Hastings",
+          "Jonathan Duncan",
+          "Raja Ram Mohan Roy",
+          "Ishwar Chandra Vidyasagar"
+        ],
+        "correct": 2,
+        "explanation": "Vedanta College (Calcutta, 1825) founded by Raja Ram Mohan Roy, aimed at synthesising Western learning with Vedantic ideals."
+      },
+      {
+        "id": "mcq005",
+        "question": "Bethune School (Calcutta) (1849) significance?",
+        "options": [
+          "Muslim education",
+          "Sanskrit studies",
+          "First school for girls in Calcutta",
+          "Engineering"
+        ],
+        "correct": 2,
+        "explanation": "Bethune School (Calcutta, 1849) was first school for girls in Calcutta, promoted by Ishwar Chandra Vidyasagar."
+      },
+      {
+        "id": "mcq006",
+        "question": "Three Universities (Calcutta, Madras, Bombay) established in?",
+        "options": [
+          "1847",
+          "1849",
+          "1857",
+          "1875"
+        ],
+        "correct": 2,
+        "explanation": "Three Universities (Calcutta, Madras, Bombay) established in 1857 by Lord Canning as part of British policy to educate Indians."
+      },
+      {
+        "id": "mcq007",
+        "question": "Thomson College of Civil Engineering (1847) now part of?",
+        "options": [
+          "Calcutta University",
+          "Madras University",
+          "IIT Roorkee",
+          "Aligarh Muslim University"
+        ],
+        "correct": 2,
+        "explanation": "Thomson College of Civil Engineering (1847) founded by James Thomson, now part of IIT Roorkee."
+      },
+      {
+        "id": "mcq008",
+        "question": "Muhammadan Anglo-Oriental College (MAO) (1875) founded by?",
+        "options": [
+          "Aurobindo Ghosh",
+          "Sayyid Ahmad Khan",
+          "Maharishi Karve",
+          "Annie Besant"
+        ],
+        "correct": 1,
+        "explanation": "Muhammadan Anglo-Oriental College (MAO, 1875) founded by Sayyid Ahmad Khan, later became Aligarh Muslim University."
+      },
+      {
+        "id": "mcq009",
+        "question": "New English School (Bombay, 1880s) later became?",
+        "options": [
+          "Aligarh Muslim University",
+          "Fergusson College, Pune",
+          "Banaras Hindu University",
+          "Jamia Millia Islamia"
+        ],
+        "correct": 1,
+        "explanation": "New English School (Bombay, 1880s) founded by Tilak, Chiplunkar, Namjoshi, Agarkar, later became Fergusson College, Pune."
+      },
+      {
+        "id": "mcq010",
+        "question": "National Council of Education (Calcutta) (1906) founded by?",
+        "options": [
+          "Aurobindo Ghosh",
+          "Maharishi Karve",
+          "Raja Ram Mohan Roy",
+          "Tilak"
+        ],
+        "correct": 0,
+        "explanation": "National Council of Education (Calcutta, 1906) founded by Aurobindo Ghosh to promote national education."
+      },
+      {
+        "id": "mcq011",
+        "question": "SNDT Women's University (1916) founded by?",
+        "options": [
+          "Annie Besant",
+          "Ishwar Chandra Vidyasagar",
+          "Maharishi Karve",
+          "Madan Mohan Malviya"
+        ],
+        "correct": 2,
+        "explanation": "SNDT Women's University (1916) founded by Maharishi Karve, focused on women's education."
+      },
+      {
+        "id": "mcq012",
+        "question": "Which institution became Jamia Millia Islamia?",
+        "options": [
+          "MAO Aligarh",
+          "National Muslim University (initially Aligarh, moved to Delhi)",
+          "Calcutta Madrasah",
+          "Banaras Hindu University"
+        ],
+        "correct": 1,
+        "explanation": "National Muslim University founded by Sayyid Ahmed Barelvi, initially in Aligarh, later moved to Delhi and became Jamia Millia Islamia."
+      }
+    ],
+    "comprehensive": []
+  }
+}
