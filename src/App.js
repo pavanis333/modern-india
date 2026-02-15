@@ -38,6 +38,7 @@ import hinduReformData from './data/hindu-reform-movements.json';
 import hinduOrgsData from './data/hindu-reform-organizations.json';
 import socialReformLateData from './data/social-reform-late-19th-20th.json';
 import muslimReformData from './data/muslim-reform-movements.json';
+import sikhParsiReformData from './data/sikh-parsi-reform-movements.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -303,6 +304,12 @@ function App() {
           title: 'Socio-Cultural Reform Movements Among Muslims',
           description: 'Wahabi, Titu Mir, Faraizi, Deoband, Aligarh, Ahmadiyya movements',
           data: muslimReformData
+        },
+        {
+          id: 'sikh-parsi-reform-movements',
+          title: 'Socio-Cultural Reform Movements Among Sikhs and Parsis',
+          description: 'Namdhari/Kuka, Singh Sabha, Akali (Sikh); Nirankari, Rehnumai Mazdayasnan Sabha (Parsi)',
+          data: sikhParsiReformData
         }
       ]
     }

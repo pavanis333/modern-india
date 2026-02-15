@@ -1,0 +1,335 @@
+{
+  "topic": "Socio Religious Reform Movement, Organisations and Personalities",
+  "subtopic": "Socio-Cultural Reform Movements Among Sikhs and Parsis",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Namdhari/Kuka Movement (1841-71, Sikh)",
+      "front": "Namdhari/Kuka Movement?",
+      "back": "1841-71, NWFP, Bhaini. Founders: Bhai Balak Singh and Baba Ram Singh"
+    },
+    {
+      "id": "fc002",
+      "category": "Namdhari/Kuka Movement (1841-71, Sikh)",
+      "front": "Namdhari core ideals?",
+      "back": "Religio-political revival within Sikh community, emphasising worship of one God through prayer and meditation as outlined in Rehatmanas. Opposed social issues like caste system, infanticide, early marriage, while promoting Anand Marriage ceremonies for egalitarian practices"
+    },
+    {
+      "id": "fc003",
+      "category": "Namdhari/Kuka Movement (1841-71, Sikh)",
+      "front": "Namdhari impact?",
+      "back": "Played significant role in reforming social practices within Sikh community and challenging traditional practices seen as corrupt"
+    },
+    {
+      "id": "fc004",
+      "category": "Singh Sabha Movement (1873, Sikh)",
+      "front": "Singh Sabha Movement?",
+      "back": "1873. Founders: Thakur Singh Sandhawalia and Giani Gian Singh"
+    },
+    {
+      "id": "fc005",
+      "category": "Singh Sabha Movement (1873, Sikh)",
+      "front": "Singh Sabha core objectives?",
+      "back": "Re-establish Sikhism in original form by publishing religious literature, promoting use of Punjabi, reintegrating Sikh apostates. Sought to involve Englishmen in Sikh educational efforts and establish network of Khalsa schools across Punjab to provide modern education and counter external influences, including Christian missionaries, Brahmo Samaj, Arya Samaj, Muslim maulvis. Significance lies in advancing Sikh education and defending Sikhism from external threats"
+    },
+    {
+      "id": "fc006",
+      "category": "Akali Movement (1920-25, Sikh)",
+      "front": "Akali Movement?",
+      "back": "1920-25. Origins: Offshoot of Singh Sabha Movement"
+    },
+    {
+      "id": "fc007",
+      "category": "Akali Movement (1920-25, Sikh)",
+      "front": "Akali objective?",
+      "back": "Aimed to liberate Sikh gurudwaras from control of corrupt Udasi mahants, whose positions had become hereditary"
+    },
+    {
+      "id": "fc008",
+      "category": "Akali Movement (1920-25, Sikh)",
+      "front": "Akali key achievements?",
+      "back": "1922: Passed Sikh Gurdwaras Act (amended 1925), granting control of gurudwaras to Sikh masses and empowering Shiromani Gurudwara Prabandhak Committee (SGPC) as apex governing body for gurudwara administration"
+    },
+    {
+      "id": "fc009",
+      "category": "Akali Movement (1920-25, Sikh)",
+      "front": "Akali characteristics?",
+      "back": "Non-violent, non-cooperation movement launched in 1921. While it was regional, it was not communal"
+    },
+    {
+      "id": "fc010",
+      "category": "Nirankari Movement (1851, Sikh)",
+      "front": "Nirankari Movement?",
+      "back": "1851. Founder: Baba Dayal Das"
+    },
+    {
+      "id": "fc011",
+      "category": "Nirankari Movement (1851, Sikh)",
+      "front": "Nirankari core ideals?",
+      "back": "Opposed idol-worship and veneration of tombs, rejected militant Khalsa brotherhood, accepted living Gurus as spiritual leaders. Also simplified and standardised rituals for birth, health, marriage"
+    },
+    {
+      "id": "fc012",
+      "category": "Nirankari Movement (1851, Sikh)",
+      "front": "Nirankari impact?",
+      "back": "Emphasised individual's connection to God and sought to make Sikh religious practices more accessible and relevant"
+    },
+    {
+      "id": "fc013",
+      "category": "Rehnumai Mazdayasnan Sabha (1851, Parsi)",
+      "front": "Rehnumai Mazdayasnan Sabha?",
+      "back": "1851. Founders: Dadabhai Naoroji, Nauroji Furdonji, S.S. Bengalee"
+    },
+    {
+      "id": "fc014",
+      "category": "Rehnumai Mazdayasnan Sabha (1851, Parsi)",
+      "front": "Rehnumai core objectives?",
+      "back": "Movement aimed to reform orthodox Parsi practices, focusing on modernising social customs, improving women's education, reforming marriage practices. Advocated for restoring Zoroastrianism's purity and implementing uniform laws on inheritance and marriage within Parsi community"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Namdhari/Kuka Movement founders?",
+        "options": [
+          "Thakur Singh, Giani Gian Singh",
+          "Bhai Balak Singh and Baba Ram Singh",
+          "Baba Dayal Das",
+          "Dadabhai Naoroji"
+        ],
+        "correct": 1,
+        "explanation": "Namdhari/Kuka Movement founded by Bhai Balak Singh and Baba Ram Singh (1841-71, NWFP, Bhaini)."
+      },
+      {
+        "id": "mcq002",
+        "question": "Namdhari promoted which marriage ceremonies?",
+        "options": [
+          "Hindu rituals",
+          "Anand Marriage",
+          "Court marriage",
+          "No ceremonies"
+        ],
+        "correct": 1,
+        "explanation": "Namdhari promoted Anand Marriage ceremonies for egalitarian practices."
+      },
+      {
+        "id": "mcq003",
+        "question": "Namdhari opposed which social issues?",
+        "options": [
+          "Only caste system",
+          "Caste system, infanticide, early marriage",
+          "Only infanticide",
+          "None"
+        ],
+        "correct": 1,
+        "explanation": "Namdhari opposed caste system, infanticide, and early marriage."
+      },
+      {
+        "id": "mcq004",
+        "question": "Singh Sabha Movement founded when?",
+        "options": [
+          "1841",
+          "1851",
+          "1873",
+          "1920"
+        ],
+        "correct": 2,
+        "explanation": "Singh Sabha Movement founded in 1873 by Thakur Singh Sandhawalia and Giani Gian Singh."
+      },
+      {
+        "id": "mcq005",
+        "question": "Singh Sabha aimed to counter which influences?",
+        "options": [
+          "Only British",
+          "Christian missionaries, Brahmo Samaj, Arya Samaj, Muslim maulvis",
+          "Only Hindus",
+          "Only Muslims"
+        ],
+        "correct": 1,
+        "explanation": "Singh Sabha sought to counter external influences including Christian missionaries, Brahmo Samaj, Arya Samaj, and Muslim maulvis."
+      },
+      {
+        "id": "mcq006",
+        "question": "Singh Sabha promoted use of which language?",
+        "options": [
+          "English",
+          "Hindi",
+          "Punjabi",
+          "Urdu"
+        ],
+        "correct": 2,
+        "explanation": "Singh Sabha promoted use of Punjabi in religious literature and education."
+      },
+      {
+        "id": "mcq007",
+        "question": "Singh Sabha established what across Punjab?",
+        "options": [
+          "Mosques",
+          "Network of Khalsa schools",
+          "Temples",
+          "Courts"
+        ],
+        "correct": 1,
+        "explanation": "Singh Sabha established network of Khalsa schools across Punjab for modern education."
+      },
+      {
+        "id": "mcq008",
+        "question": "Akali Movement was offshoot of?",
+        "options": [
+          "Namdhari Movement",
+          "Singh Sabha Movement",
+          "Nirankari Movement",
+          "Wahabi Movement"
+        ],
+        "correct": 1,
+        "explanation": "Akali Movement (1920-25) was offshoot of Singh Sabha Movement."
+      },
+      {
+        "id": "mcq009",
+        "question": "Akali Movement objective?",
+        "options": [
+          "Establish Sikh state",
+          "Liberate Sikh gurudwaras from corrupt Udasi mahants",
+          "Join Pakistan",
+          "Oppose British"
+        ],
+        "correct": 1,
+        "explanation": "Akali aimed to liberate Sikh gurudwaras from control of corrupt Udasi mahants whose positions had become hereditary."
+      },
+      {
+        "id": "mcq010",
+        "question": "Sikh Gurdwaras Act passed when?",
+        "options": [
+          "1873",
+          "1920",
+          "1922 (amended 1925)",
+          "1947"
+        ],
+        "correct": 2,
+        "explanation": "Sikh Gurdwaras Act passed in 1922 (amended in 1925), granting control of gurudwaras to Sikh masses."
+      },
+      {
+        "id": "mcq011",
+        "question": "SGPC stands for?",
+        "options": [
+          "Sikh Gurdwara Punjab Committee",
+          "Shiromani Gurudwara Prabandhak Committee",
+          "Singh Sabha Punjab Council",
+          "Sikh General Protection Committee"
+        ],
+        "correct": 1,
+        "explanation": "SGPC: Shiromani Gurudwara Prabandhak Committee - apex governing body for gurudwara administration."
+      },
+      {
+        "id": "mcq012",
+        "question": "Akali Movement was launched in?",
+        "options": [
+          "1920",
+          "1921",
+          "1922",
+          "1925"
+        ],
+        "correct": 1,
+        "explanation": "Akali Movement was launched in 1921 as non-violent, non-cooperation movement."
+      },
+      {
+        "id": "mcq013",
+        "question": "Akali Movement was regional but not?",
+        "options": [
+          "Violent",
+          "Communal",
+          "Political",
+          "Religious"
+        ],
+        "correct": 1,
+        "explanation": "While Akali Movement was regional, it was not communal."
+      },
+      {
+        "id": "mcq014",
+        "question": "Nirankari Movement founder?",
+        "options": [
+          "Baba Ram Singh",
+          "Baba Dayal Das",
+          "Thakur Singh",
+          "Dadabhai Naoroji"
+        ],
+        "correct": 1,
+        "explanation": "Nirankari Movement founded by Baba Dayal Das in 1851."
+      },
+      {
+        "id": "mcq015",
+        "question": "Nirankari opposed what?",
+        "options": [
+          "Prayers",
+          "Idol-worship and veneration of tombs",
+          "Gurus",
+          "Punjabi language"
+        ],
+        "correct": 1,
+        "explanation": "Nirankari opposed idol-worship and veneration of tombs, rejected militant Khalsa brotherhood."
+      },
+      {
+        "id": "mcq016",
+        "question": "Nirankari accepted what as spiritual leaders?",
+        "options": [
+          "Idols",
+          "Living Gurus",
+          "British officials",
+          "Hindu priests"
+        ],
+        "correct": 1,
+        "explanation": "Nirankari accepted living Gurus as spiritual leaders."
+      },
+      {
+        "id": "mcq017",
+        "question": "Rehnumai Mazdayasnan Sabha founded when?",
+        "options": [
+          "1841",
+          "1851",
+          "1873",
+          "1920"
+        ],
+        "correct": 1,
+        "explanation": "Rehnumai Mazdayasnan Sabha founded in 1851 by Dadabhai Naoroji, Nauroji Furdonji, S.S. Bengalee."
+      },
+      {
+        "id": "mcq018",
+        "question": "Rehnumai focused on which community?",
+        "options": [
+          "Sikh",
+          "Hindu",
+          "Muslim",
+          "Parsi"
+        ],
+        "correct": 3,
+        "explanation": "Rehnumai Mazdayasnan Sabha aimed to reform orthodox Parsi practices."
+      },
+      {
+        "id": "mcq019",
+        "question": "Rehnumai advocated restoring purity of?",
+        "options": [
+          "Sikhism",
+          "Hinduism",
+          "Zoroastrianism",
+          "Islam"
+        ],
+        "correct": 2,
+        "explanation": "Rehnumai advocated for restoring Zoroastrianism's purity."
+      },
+      {
+        "id": "mcq020",
+        "question": "Rehnumai focused on which issues?",
+        "options": [
+          "Only religious",
+          "Modernising customs, women's education, marriage reforms",
+          "Only political",
+          "Only economic"
+        ],
+        "correct": 1,
+        "explanation": "Rehnumai focused on modernising social customs, improving women's education, reforming marriage practices."
+      }
+    ],
+    "comprehensive": []
+  }
+}
