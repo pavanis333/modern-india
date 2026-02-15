@@ -48,6 +48,7 @@ import peasantMovementsPhase1Data from './data/peasant-movements-first-phase.jso
 import peasantMovementsPhase2Data from './data/peasant-movements-second-phase.json';
 import peasantMobilizationProvincesData from './data/peasant-mobilization-provinces.json';
 import workingClassMovementsData from './data/working-class-movements.json';
+import aitucEarlyOrientationData from './data/aituc-early-orientation.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -380,6 +381,12 @@ function App() {
           title: 'Working Class Movements',
           description: 'Modern industries (1853-1901), pioneers (Lokhande UPSC 2018), Factory Acts (1881 UPSC 2017, 1891, 1909-11)',
           data: workingClassMovementsData
+        },
+        {
+          id: 'aituc-early-orientation',
+          title: "AITUC's Early Orientation and Key Developments",
+          description: 'British Labour Party influence (N.M. Joshi), Gandhian philosophy (Ahmedabad 1918), Gaya 1922, C.R. Das advocacy',
+          data: aitucEarlyOrientationData
         }
       ]
     }

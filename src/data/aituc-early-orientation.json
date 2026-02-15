@@ -1,0 +1,131 @@
+{
+  "topic": "People's Resistance Against the British",
+  "subtopic": "AITUC's Early Orientation and Key Developments",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "AITUC's Early Orientation",
+      "front": "AITUC's initial influence?",
+      "back": "Social Democratic Influence: Initially, AITUC was influenced by the British Labour Party's social democratic ideals, with leaders like N.M. Joshi advocated for economic improvements rather than extensive political activities"
+    },
+    {
+      "id": "fc002",
+      "category": "AITUC's Early Orientation",
+      "front": "AITUC's Gandhian influence?",
+      "back": "Gandhian Influence: Over time, the Gandhian philosophy of non-violence, trusteeship, and class collaboration shaped the movement, leading to fewer strikes and more cooperative efforts. Gandhi helped organise the Ahmedabad Textile Labour Association (1918), securing a 27.5% wage increase for workers (later raised to 35%)"
+    },
+    {
+      "id": "fc003",
+      "category": "Key Developments",
+      "front": "Gaya Congress Session (1922) and AITUC?",
+      "back": "The Congress welcomed the formation of AITUC, forming a committee to support its activities"
+    },
+    {
+      "id": "fc004",
+      "category": "Key Developments",
+      "front": "C.R. Das's advocacy regarding workers and peasants?",
+      "back": "C.R. Das argued that Congress should include the workers and peasants in the freedom struggle to prevent them from becoming alienated from the movement"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "AITUC's initial social democratic influence from?",
+        "options": [
+          "French Revolution ideals",
+          "British Labour Party's social democratic ideals",
+          "Russian socialism",
+          "American unions"
+        ],
+        "correct": 1,
+        "explanation": "Initially, AITUC was influenced by British Labour Party's social democratic ideals, with leaders like N.M. Joshi advocating for economic improvements rather than extensive political activities."
+      },
+      {
+        "id": "mcq002",
+        "question": "N.M. Joshi advocated for?",
+        "options": [
+          "Extensive political activities",
+          "Economic improvements rather than extensive political activities",
+          "Revolutionary strikes",
+          "Armed struggle"
+        ],
+        "correct": 1,
+        "explanation": "N.M. Joshi, influenced by social democratic ideals, advocated for economic improvements rather than extensive political activities."
+      },
+      {
+        "id": "mcq003",
+        "question": "Gandhian philosophy shaped AITUC through?",
+        "options": [
+          "Revolutionary tactics",
+          "Non-violence, trusteeship, and class collaboration",
+          "Armed resistance",
+          "Political strikes"
+        ],
+        "correct": 1,
+        "explanation": "Gandhian philosophy of non-violence, trusteeship, and class collaboration shaped AITUC, leading to fewer strikes and more cooperative efforts."
+      },
+      {
+        "id": "mcq004",
+        "question": "Gandhi organised Ahmedabad Textile Labour Association in?",
+        "options": [
+          "1917",
+          "1918",
+          "1920",
+          "1922"
+        ],
+        "correct": 1,
+        "explanation": "Gandhi helped organise the Ahmedabad Textile Labour Association (1918), securing wage increases for workers."
+      },
+      {
+        "id": "mcq005",
+        "question": "Ahmedabad Textile Labour Association (1918) secured?",
+        "options": [
+          "20% wage increase",
+          "27.5% wage increase (later raised to 35%)",
+          "50% wage increase",
+          "No wage increase"
+        ],
+        "correct": 1,
+        "explanation": "Gandhi's Ahmedabad Textile Labour Association (1918) secured 27.5% wage increase for workers, later raised to 35%."
+      },
+      {
+        "id": "mcq006",
+        "question": "Gaya Congress Session (1922) regarding AITUC?",
+        "options": [
+          "Rejected AITUC",
+          "Welcomed formation of AITUC, forming committee to support its activities",
+          "Ignored AITUC",
+          "Merged with AITUC"
+        ],
+        "correct": 1,
+        "explanation": "Gaya Congress Session (1922): Congress welcomed the formation of AITUC, forming a committee to support its activities."
+      },
+      {
+        "id": "mcq007",
+        "question": "C.R. Das argued Congress should include?",
+        "options": [
+          "Only zamindars",
+          "Workers and peasants in freedom struggle",
+          "Only industrialists",
+          "Only students"
+        ],
+        "correct": 1,
+        "explanation": "C.R. Das argued that Congress should include the workers and peasants in the freedom struggle to prevent them from becoming alienated from the movement."
+      },
+      {
+        "id": "mcq008",
+        "question": "C.R. Das's concern about workers and peasants?",
+        "options": [
+          "They would overthrow Congress",
+          "Prevent them from becoming alienated from the movement",
+          "They would join British",
+          "They would create separate party"
+        ],
+        "correct": 1,
+        "explanation": "C.R. Das advocated including workers and peasants in freedom struggle to prevent them from becoming alienated from the movement."
+      }
+    ],
+    "comprehensive": []
+  }
+}
