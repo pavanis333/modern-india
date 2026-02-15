@@ -9,6 +9,7 @@ import portugueseData from './data/portuguese-in-india.json';
 import dutchData from './data/dutch-in-india.json';
 import danishData from './data/danish-in-india.json';
 import englishData from './data/english-in-india.json';
+import frenchData from './data/french-in-india.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -51,6 +52,12 @@ function App() {
           title: 'The English in India',
           description: 'EIC charter, early ventures, Bombay, Madras, Bengal expansion, and Company developments',
           data: englishData
+        },
+        {
+          id: 'french',
+          title: 'The French in India',
+          description: 'Compagnie des Indes, Pondicherry, Chandernagore, and French expansion',
+          data: frenchData
         }
       ]
     }
