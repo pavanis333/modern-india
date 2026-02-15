@@ -1,0 +1,119 @@
+{
+  "topic": "Advent of Europeans and Consolidation of British Power",
+  "subtopic": "Rise of Jats (The New States)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Key Facts",
+      "front": "Jat origins?",
+      "back": "Primarily agricultural settlers"
+    },
+    {
+      "id": "fc002",
+      "category": "Key Facts",
+      "front": "What did Jats do against Aurangzeb?",
+      "back": "Rebelled against Aurangzeb's policies"
+    },
+    {
+      "id": "fc003",
+      "category": "Key Facts",
+      "front": "Jat uprising result?",
+      "back": "Rebellion against Aurangzeb's policies led to significant uprisings"
+    },
+    {
+      "id": "fc004",
+      "category": "Concepts",
+      "front": "Who were Jats?",
+      "back": "Primarily agricultural settlers who rebelled against Mughal policies"
+    },
+    {
+      "id": "fc005",
+      "category": "Concepts",
+      "front": "Why did Jats rebel?",
+      "back": "Rebelled against Aurangzeb's policies - peasant resistance to imperial policies"
+    },
+    {
+      "id": "fc006",
+      "category": "Concepts",
+      "front": "Jat uprisings significance?",
+      "back": "Significant uprisings - agricultural community challenging Mughal authority"
+    },
+    {
+      "id": "fc007",
+      "category": "Concepts",
+      "front": "Jats as 'The New States'?",
+      "back": "Rebelled against Aurangzeb's policies leading to uprisings - rebellion-based state formation"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "What were Jats primarily?",
+        "options": [
+          "Soldiers",
+          "Agricultural settlers",
+          "Merchants",
+          "Artisans"
+        ],
+        "correct": 1,
+        "explanation": "Jats were primarily agricultural settlers who rebelled against Mughal policies."
+      },
+      {
+        "id": "mcq002",
+        "question": "Against whose policies did Jats rebel?",
+        "options": [
+          "Akbar",
+          "Shah Jahan",
+          "Aurangzeb",
+          "Muhammad Shah"
+        ],
+        "correct": 2,
+        "explanation": "Jats rebelled against Aurangzeb's policies, leading to significant uprisings."
+      },
+      {
+        "id": "mcq003",
+        "question": "What did Jat rebellion lead to?",
+        "options": [
+          "Peace treaty",
+          "Significant uprisings",
+          "Mughal victory",
+          "British intervention"
+        ],
+        "correct": 1,
+        "explanation": "Jats' rebellion against Aurangzeb's policies led to significant uprisings."
+      },
+      {
+        "id": "mcq004",
+        "question": "Jats belong to which regional state category?",
+        "options": [
+          "Successor States",
+          "Independent Kingdoms",
+          "The New States",
+          "Mughal Provinces"
+        ],
+        "correct": 2,
+        "explanation": "Jats are categorized as 'The New States' - agricultural settlers who rebelled against Mughal authority."
+      },
+      {
+        "id": "mcq005",
+        "question": "What characterized Jat resistance?",
+        "options": [
+          "Naval warfare",
+          "Agricultural settlers rebelling against imperial policies",
+          "Trade monopoly",
+          "Religious reform"
+        ],
+        "correct": 1,
+        "explanation": "Jats were primarily agricultural settlers who rebelled against Aurangzeb's policies."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Analyze the Jat uprisings as an example of peasant resistance during Aurangzeb's reign and their categorization as 'The New States'.",
+        "answer": "Jat Origins: Primarily agricultural settlers - peasant/farming community, not military or administrative elite. This distinguishes Jats from other state-builders (Mughal officials, military leaders, royal dynasties). Rebellion Against Aurangzeb: Rebelled against Aurangzeb's policies. Context: Aurangzeb's reign (1658-1707) saw various policies alienating different groups - religious policies (Jizya reinstatement), economic extraction, aggressive military campaigns. Jat rebellion likely response to economic burdens, administrative oppression, or religious policies affecting agricultural communities. Significant Uprisings: Led to significant uprisings - not isolated incidents but substantial rebellions challenging Mughal authority. Agricultural settlers mounting 'significant uprisings' demonstrates depth of discontent and organizational capacity of peasant communities. As 'The New States': Categorized with Marathas, Sikhs, Rohilkhand/Farrukhabad - groups establishing power through rebellion against Mughal rule. Unique Aspect: While Marathas (soldiers), Sikhs (religious community), and Rohillas (Afghan groups) had military/organizational foundations, Jats were 'primarily agricultural settlers' - peasant uprising creating political entity. Significance: Jat uprisings show Mughal decline wasn't just about elite power struggles (Successor States) or military challenges (Marathas, Sikhs) but also grassroots peasant resistance. Agricultural communities could organize significant rebellions and establish autonomous power. Pattern: Agricultural settlers \u2192 Aurangzeb's oppressive policies \u2192 Rebellion \u2192 Significant uprisings \u2192 New State formation. Represents bottom-up state formation from peasant base, contrasting with top-down (Successor States from officials) or military-based (Marathas, Sikhs) state-building."
+      }
+    ]
+  }
+}

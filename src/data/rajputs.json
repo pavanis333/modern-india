@@ -1,0 +1,232 @@
+{
+  "topic": "Advent of Europeans and Consolidation of British Power",
+  "subtopic": "Rise of Rajputs (Independent Kingdoms)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Key Facts & Dates",
+      "front": "When did Rajputs rise?",
+      "back": "During Mughal decline, early 18th century"
+    },
+    {
+      "id": "fc002",
+      "category": "Key Facts & Dates",
+      "front": "What did Rajputs reclaim?",
+      "back": "Seized opportunity during Mughal decline, reclaiming territories in early 18th century"
+    },
+    {
+      "id": "fc003",
+      "category": "Key Facts & Dates",
+      "front": "Rajput expansion strategy?",
+      "back": "Formed alliances and expanded power"
+    },
+    {
+      "id": "fc004",
+      "category": "Key Facts & Dates",
+      "front": "Rajput vulnerability?",
+      "back": "Faced internal conflicts, making them vulnerable to Maratha incursions"
+    },
+    {
+      "id": "fc005",
+      "category": "Key Facts & Dates",
+      "front": "Ajit Singh's achievement?",
+      "back": "Secured control over Ajmer and Gujarat; formed alliance against Mughals"
+    },
+    {
+      "id": "fc006",
+      "category": "Key Facts & Dates",
+      "front": "Jay Singh II's appointments?",
+      "back": "Appointed Agra governor; expanded influence in Surat"
+    },
+    {
+      "id": "fc007",
+      "category": "Concepts & Reasons",
+      "front": "How did Rajputs rise?",
+      "back": "Seized opportunity during Mughal decline, reclaiming territories in early 18th century"
+    },
+    {
+      "id": "fc008",
+      "category": "Concepts & Reasons",
+      "front": "Rajput state-building approach?",
+      "back": "Formed alliances and expanded power - diplomatic and territorial strategy"
+    },
+    {
+      "id": "fc009",
+      "category": "Concepts & Reasons",
+      "front": "What weakened Rajputs?",
+      "back": "Internal conflicts made them vulnerable to Maratha incursions"
+    },
+    {
+      "id": "fc010",
+      "category": "Concepts & Reasons",
+      "front": "Ajit Singh's alliance?",
+      "back": "Formed alliance against Mughals after securing Ajmer and Gujarat control"
+    },
+    {
+      "id": "fc011",
+      "category": "Concepts & Reasons",
+      "front": "Jay Singh II's expansion?",
+      "back": "Appointed Agra governor, expanded influence in Surat - administrative and commercial expansion"
+    },
+    {
+      "id": "fc012",
+      "category": "Concepts & Reasons",
+      "front": "Rajputs as Independent Kingdoms?",
+      "back": "Reclaimed territories during Mughal decline, not former Mughal provinces - reassertion of independent status"
+    },
+    {
+      "id": "fc013",
+      "category": "UPSC Focus",
+      "front": "Rajput resurgence timing",
+      "back": "Early 18th century during Mughal decline - seized opportunity to reclaim territories"
+    },
+    {
+      "id": "fc014",
+      "category": "UPSC Focus",
+      "front": "Rajput-Maratha dynamics",
+      "back": "Internal conflicts made Rajputs vulnerable to Maratha incursions - inter-regional power struggles"
+    },
+    {
+      "id": "fc015",
+      "category": "UPSC Focus",
+      "front": "Notable Rajput leaders",
+      "back": "Ajit Singh (Ajmer, Gujarat, anti-Mughal alliance), Jay Singh II (Agra governor, Surat influence)"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "When did Rajputs reclaim territories?",
+        "options": [
+          "During Akbar's reign",
+          "During Shah Jahan's reign",
+          "During Mughal decline, early 18th century",
+          "After British conquest"
+        ],
+        "correct": 2,
+        "explanation": "Rajputs seized the opportunity during Mughal decline, reclaiming territories in early 18th century."
+      },
+      {
+        "id": "mcq002",
+        "question": "What opportunity did Rajputs seize?",
+        "options": [
+          "British support",
+          "Mughal decline",
+          "Maratha alliance",
+          "Afghan invasion"
+        ],
+        "correct": 1,
+        "explanation": "Rajputs seized the opportunity during Mughal decline to reclaim territories."
+      },
+      {
+        "id": "mcq003",
+        "question": "What strategy did Rajputs use for expansion?",
+        "options": [
+          "Military conquest only",
+          "Formed alliances and expanded power",
+          "British backing",
+          "Religious conversion"
+        ],
+        "correct": 1,
+        "explanation": "Rajputs formed alliances and expanded power during their resurgence."
+      },
+      {
+        "id": "mcq004",
+        "question": "What made Rajputs vulnerable to Maratha incursions?",
+        "options": [
+          "Weak military",
+          "Internal conflicts",
+          "British invasion",
+          "Mughal attacks"
+        ],
+        "correct": 1,
+        "explanation": "Rajputs faced internal conflicts, making them vulnerable to Maratha incursions."
+      },
+      {
+        "id": "mcq005",
+        "question": "Which territories did Ajit Singh control?",
+        "options": [
+          "Bengal and Bihar",
+          "Ajmer and Gujarat",
+          "Delhi and Agra",
+          "Surat and Bombay"
+        ],
+        "correct": 1,
+        "explanation": "Ajit Singh secured control over Ajmer and Gujarat."
+      },
+      {
+        "id": "mcq006",
+        "question": "What alliance did Ajit Singh form?",
+        "options": [
+          "Alliance with Mughals",
+          "Alliance against Mughals",
+          "Alliance with British",
+          "Alliance with Marathas"
+        ],
+        "correct": 1,
+        "explanation": "Ajit Singh formed an alliance against Mughals after securing control over Ajmer and Gujarat."
+      },
+      {
+        "id": "mcq007",
+        "question": "What position was Jay Singh II appointed to?",
+        "options": [
+          "Bengal governor",
+          "Agra governor",
+          "Delhi governor",
+          "Hyderabad governor"
+        ],
+        "correct": 1,
+        "explanation": "Jay Singh II was appointed Agra governor and expanded influence in Surat."
+      },
+      {
+        "id": "mcq008",
+        "question": "Where did Jay Singh II expand influence?",
+        "options": [
+          "Bengal",
+          "Gujarat",
+          "Surat",
+          "Hyderabad"
+        ],
+        "correct": 2,
+        "explanation": "Jay Singh II was appointed Agra governor and expanded influence in Surat."
+      },
+      {
+        "id": "mcq009",
+        "question": "Who made Rajputs vulnerable through incursions?",
+        "options": [
+          "Mughals",
+          "Marathas",
+          "British",
+          "Afghans"
+        ],
+        "correct": 1,
+        "explanation": "Internal conflicts made Rajputs vulnerable to Maratha incursions."
+      },
+      {
+        "id": "mcq010",
+        "question": "Rajputs belong to which regional state category?",
+        "options": [
+          "Successor States",
+          "Independent Kingdoms",
+          "The New States",
+          "Mughal Provinces"
+        ],
+        "correct": 1,
+        "explanation": "Rajputs are categorized as Independent Kingdoms - reclaimed territories during Mughal decline, reasserting independent status."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Analyze the rise of Rajputs during Mughal decline, including their territorial reclamation, alliance strategy, and the challenge of internal conflicts.",
+        "answer": "Context - Mughal Decline: Early 18th century, Mughal central authority weakening. Created opportunity for regional powers to assert autonomy. Rajput Resurgence: Rajputs seized the opportunity during Mughal decline, reclaiming territories in early 18th century. Historical Context: Rajputs had been powerful before Mughal expansion; now reasserted control over traditional territories. 'Reclaiming' suggests restoration of previous Rajput holdings lost to Mughals. Expansion Strategy: Formed alliances and expanded power. Not isolated resistance but coordinated diplomatic approach. Alliance-building essential for challenging Mughal authority and territorial expansion. Internal Challenge: Faced internal conflicts - likely between different Rajput clans/kingdoms with historical rivalries. Vulnerability: Internal conflicts made them vulnerable to Maratha incursions. While Rajputs challenged Mughals in north, Marathas expanding from Deccan took advantage of Rajput disunity. Significance: Rajputs represent reassertion of traditional pre-Mughal powers during empire's decline. Unlike Successor States (Mughal officials) or The New States (new rebellious groups), Rajputs were re-emerging historical kingdoms. Pattern: Mughal decline \u2192 Territorial reclamation (early 18th century) \u2192 Alliance formation \u2192 Expansion \u2192 Internal conflicts \u2192 Maratha vulnerability. Rajputs successfully used Mughal weakness but couldn't consolidate due to internal divisions, limiting their ability to become dominant regional power like Marathas."
+      },
+      {
+        "id": "comp002",
+        "question": "Compare the achievements and strategies of Ajit Singh and Jay Singh II as notable Rajput leaders during their resurgence.",
+        "answer": "Ajit Singh: Territories: Secured control over Ajmer and Gujarat. Ajmer: Historical Rajput significance, strategic location. Gujarat: Wealthy commercial region, important for resources. Alliance Strategy: Formed alliance against Mughals. Anti-Mughal position - active opposition rather than accommodation. Building coalition suggests diplomatic leadership beyond just military conquest. Approach: Military conquest (securing territories) + diplomatic coalition-building (alliance against Mughals). Jay Singh II: Administrative Position: Appointed Agra governor. Agra: Former Mughal capital, prestigious and strategic appointment. Suggests Jay Singh worked within/with Mughal administrative structure even while expanding Rajput power. Commercial Expansion: Expanded influence in Surat. Surat: Major port city, commercial hub. Economic/commercial strategy complementing territorial control. Approach: Administrative positioning (Agra governor) + commercial expansion (Surat influence). Comparison: Territories: Ajit Singh (Ajmer, Gujarat interior) vs Jay Singh II (Agra administrative, Surat commercial). Mughal Relationship: Ajit Singh (anti-Mughal alliance) vs Jay Singh II (Mughal governor appointment). Strategy: Ajit Singh (confrontational, alliance-building) vs Jay Singh II (administrative infiltration, commercial influence). Both Effective: Ajit Singh's alliance against Mughals and Jay Singh II's governorship/commercial expansion both advanced Rajput power. Different Paths: Shows Rajput resurgence had multiple strategies - direct opposition (Ajit Singh) and working within system (Jay Singh II). Both approaches contributed to Rajput reclamation of power during Mughal decline."
+      }
+    ]
+  }
+}

@@ -19,6 +19,8 @@ import mysoreKeralaData from './data/mysore-kerala.json';
 import sikhsData from './data/sikhs.json';
 import marathasData from './data/marathas.json';
 import rohilkhandData from './data/rohilkhand-farrukhabad.json';
+import rajputsData from './data/rajputs.json';
+import jatsData from './data/jats.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -121,6 +123,18 @@ function App() {
           title: 'Rohilkhand and Farrukhabad (The New States)',
           description: 'Rohillas (Daud, Ali Mohammad Khan), Mohammad Khan Bangash, post-Nadir Shah opportunism',
           data: rohilkhandData
+        },
+        {
+          id: 'rajputs',
+          title: 'Rise of Rajputs (Independent Kingdoms)',
+          description: 'Early 18th century resurgence, Ajit Singh (Ajmer, Gujarat), Jay Singh II (Agra, Surat)',
+          data: rajputsData
+        },
+        {
+          id: 'jats',
+          title: 'Rise of Jats (The New States)',
+          description: 'Agricultural settlers, rebellion against Aurangzeb policies, significant uprisings',
+          data: jatsData
         }
       ]
     }
