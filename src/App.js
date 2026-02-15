@@ -24,6 +24,7 @@ import jatsData from './data/jats.json';
 import artArchData from './data/art-architecture-literature.json';
 import eduTradeData from './data/education-trade-shipbuilding.json';
 import britishBengalData from './data/british-conquest-bengal.json';
+import politicalAssocData from './data/political-associations-before-inc.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -156,6 +157,19 @@ function App() {
           title: 'British Conquest of Bengal',
           description: 'Plassey (1757), Buxar (1764), Mir Jafar, Mir Qasim, Dual Government (1765-1772)',
           data: britishBengalData
+        }
+      ]
+    },
+    {
+      id: 'rise-nationalism',
+      title: 'Rise of Nationalism in India 1858-1905',
+      description: 'Early political associations, formation of INC, and growth of nationalist movement',
+      subtopics: [
+        {
+          id: 'political-assoc-before-inc',
+          title: 'Political Associations Before INC (1836-1885)',
+          description: 'Bangabhasha Prakasika Sabha to London Indian Society - evolution toward national movement',
+          data: politicalAssocData
         }
       ]
     }

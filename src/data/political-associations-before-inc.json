@@ -1,0 +1,573 @@
+{
+  "topic": "Rise of Nationalism in India 1858-1905",
+  "subtopic": "Political Associations Before the Indian National Congress (1836-1885)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Early Associations (1836-1852)",
+      "front": "Bangabhasha Prakasika Sabha (1836)?",
+      "back": "Calcutta - Associates of Raja Rammohan Roy; advocated administrative reforms, Indian participation in governance, educational advancement"
+    },
+    {
+      "id": "fc002",
+      "category": "Early Associations (1836-1852)",
+      "front": "Who founded Bangabhasha Prakasika Sabha?",
+      "back": "Associates of Raja Rammohan Roy including Prasanna Kumar Thakur, Kalisanth Chowdhury, Dwarkanath Tagore, Gouri Sankar Bhattacharya, Durga Prasad Tarka Panchanan"
+    },
+    {
+      "id": "fc003",
+      "category": "Early Associations (1836-1852)",
+      "front": "Zamindari Association (1837)?",
+      "back": "Calcutta Landholders' Society - Dwarkanath Tagore, Radhakant Deb, Prasanna Kumar Tagore, Rajkamal Sen, Bhabani Charan Mitra"
+    },
+    {
+      "id": "fc004",
+      "category": "Early Associations (1836-1852)",
+      "front": "Zamindari Association purpose?",
+      "back": "Protected landlord interests; first to initiate constitutional agitation in India"
+    },
+    {
+      "id": "fc005",
+      "category": "Early Associations (1836-1852)",
+      "front": "Bengal British India Society (1843)?",
+      "back": "Calcutta - George Thompson, Dwarkanath Tagore, Chandra Mohan Chatterjee, Parmananda Maitra"
+    },
+    {
+      "id": "fc006",
+      "category": "Early Associations (1836-1852)",
+      "front": "Bengal British India Society contribution?",
+      "back": "Collected information on welfare issues and promoted responsible citizenship"
+    },
+    {
+      "id": "fc007",
+      "category": "Early Associations (1836-1852)",
+      "front": "British Indian Association (1851)?",
+      "back": "Calcutta - President: Radhakant Deb; Gen. Secretary: Debendranath Tagore"
+    },
+    {
+      "id": "fc008",
+      "category": "Early Associations (1836-1852)",
+      "front": "British Indian Association achievements?",
+      "back": "Merged Landholders Society & Bengal British India Society; demanded legislative reforms, separate legislature, separation of executive-judicial functions, reduction of salaries and taxes; petitioned for Universities in three Presidencies (UPSC 2017)"
+    },
+    {
+      "id": "fc009",
+      "category": "Early Associations (1836-1852)",
+      "front": "Bombay Association (1852)?",
+      "back": "Bombay - Jagannath Shankarsheth"
+    },
+    {
+      "id": "fc010",
+      "category": "Early Associations (1836-1852)",
+      "front": "Bombay Association contribution?",
+      "back": "Petitioned for legislative reforms and Indian role in administration; revived in 1876 by Dadabhai Naoroji; later overshadowed by newer groups"
+    },
+    {
+      "id": "fc011",
+      "category": "Early Associations (1836-1852)",
+      "front": "Madras Native Association (MNA) (1852)?",
+      "back": "Madras - Gajulu Lakshminarasu Chetty"
+    },
+    {
+      "id": "fc012",
+      "category": "Early Associations (1836-1852)",
+      "front": "MNA contribution?",
+      "back": "First political association of Madras Presidency; addressed grievances of landed classes and opposed missionary activities & Lex Loci Act"
+    },
+    {
+      "id": "fc013",
+      "category": "Mid-Period (1866-1876)",
+      "front": "East India Association (1866)?",
+      "back": "London - Dadabhai Naoroji"
+    },
+    {
+      "id": "fc014",
+      "category": "Mid-Period (1866-1876)",
+      "front": "East India Association purpose?",
+      "back": "Influenced British public opinion on Indian issues; expanded to branches in India; promoted welfare of Indians"
+    },
+    {
+      "id": "fc015",
+      "category": "Mid-Period (1866-1876)",
+      "front": "Poona Sarvajanik Sabha (1867)?",
+      "back": "Poona - G.V. Joshi, S.H. Sathe, S.H. Chipionkar; M.G. Ranade joined in 1871"
+    },
+    {
+      "id": "fc016",
+      "category": "Mid-Period (1866-1876)",
+      "front": "Poona Sarvajanik Sabha role?",
+      "back": "Represented public opinion; mediated between governmental and people; promoted political participation and social reform"
+    },
+    {
+      "id": "fc017",
+      "category": "Mid-Period (1866-1876)",
+      "front": "Indian League (1875)?",
+      "back": "Calcutta - Sisir Kumar Ghosh"
+    },
+    {
+      "id": "fc018",
+      "category": "Mid-Period (1866-1876)",
+      "front": "Indian League goal?",
+      "back": "Promoted nationalism and political education; aimed to extend political participation beyond elites"
+    },
+    {
+      "id": "fc019",
+      "category": "Pre-INC Period (1876-1885)",
+      "front": "Indian Association (1876)?",
+      "back": "Calcutta - Surendranath Banerjee, Ananda Mohan Bose (UPSC 2017)"
+    },
+    {
+      "id": "fc020",
+      "category": "Pre-INC Period (1876-1885)",
+      "front": "Indian Association achievements?",
+      "back": "Led agitation for Indianisation of services and protests against repressive laws; organised All-India Conference (1883); published Indian Association's Journal"
+    },
+    {
+      "id": "fc021",
+      "category": "Pre-INC Period (1876-1885)",
+      "front": "All-India Conference (1883)?",
+      "back": "First attempt at all-India political coordination; later merged with INC in 1886"
+    },
+    {
+      "id": "fc022",
+      "category": "Pre-INC Period (1876-1885)",
+      "front": "Madras Mahajan Sabha (1884)?",
+      "back": "Madras - M. Veeraraighavachari, P. Ananda Charlu, G. Subramania Iyer"
+    },
+    {
+      "id": "fc023",
+      "category": "Pre-INC Period (1876-1885)",
+      "front": "Madras Mahajan Sabha contribution?",
+      "back": "Advocated Indian representation in councils; coordinated regional political activities; led push for separation of judiciary and revenue functions"
+    },
+    {
+      "id": "fc024",
+      "category": "Pre-INC Period (1876-1885)",
+      "front": "Bombay Presidency Association (1885)?",
+      "back": "Bombay - Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji"
+    },
+    {
+      "id": "fc025",
+      "category": "Pre-INC Period (1876-1885)",
+      "front": "Bombay Presidency Association origin?",
+      "back": "Formed in response to Lytton's policies and Ilbert Bill controversy; promoted political rights in Bombay; maintained strong ties with Poona Sarvajanik Sabha"
+    },
+    {
+      "id": "fc026",
+      "category": "Pre-INC Period (1876-1885)",
+      "front": "London Indian Society (1885)?",
+      "back": "London - Dadabhai Naoroji"
+    },
+    {
+      "id": "fc027",
+      "category": "Pre-INC Period (1876-1885)",
+      "front": "London Indian Society purpose?",
+      "back": "Platform for Indian students in London to raise political issues; later absorbed into East India Association"
+    },
+    {
+      "id": "fc028",
+      "category": "Key Figures",
+      "front": "Raja Rammohan Roy associates (1836)?",
+      "back": "Bangabhasha Prakasika Sabha - Prasanna Kumar Thakur, Kalisanth Chowdhury, Dwarkanath Tagore, Gouri Sankar Bhattacharya, Durga Prasad"
+    },
+    {
+      "id": "fc029",
+      "category": "Key Figures",
+      "front": "Dwarkanath Tagore's associations?",
+      "back": "Zamindari Association (1837), Bengal British India Society (1843)"
+    },
+    {
+      "id": "fc030",
+      "category": "Key Figures",
+      "front": "Radhakant Deb's role?",
+      "back": "President of British Indian Association (1851), also in Zamindari Association (1837)"
+    },
+    {
+      "id": "fc031",
+      "category": "Key Figures",
+      "front": "Debendranath Tagore's role?",
+      "back": "General Secretary of British Indian Association (1851)"
+    },
+    {
+      "id": "fc032",
+      "category": "Key Figures",
+      "front": "Dadabhai Naoroji's associations?",
+      "back": "East India Association London (1866), revived Bombay Association (1876), London Indian Society (1885)"
+    },
+    {
+      "id": "fc033",
+      "category": "Key Figures",
+      "front": "Surendranath Banerjee's contribution?",
+      "back": "Founded Indian Association (1876) with Ananda Mohan Bose; led Indianisation agitation (UPSC 2017)"
+    },
+    {
+      "id": "fc034",
+      "category": "Key Figures",
+      "front": "M.G. Ranade joined which association?",
+      "back": "Poona Sarvajanik Sabha in 1871"
+    },
+    {
+      "id": "fc035",
+      "category": "Key Figures",
+      "front": "Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji?",
+      "back": "Founders of Bombay Presidency Association (1885)"
+    },
+    {
+      "id": "fc036",
+      "category": "Themes & Patterns",
+      "front": "First to initiate constitutional agitation?",
+      "back": "Zamindari Association (1837) - Calcutta, protecting landlord interests"
+    },
+    {
+      "id": "fc037",
+      "category": "Themes & Patterns",
+      "front": "First all-India political coordination attempt?",
+      "back": "All-India Conference (1883) by Indian Association; later merged with INC in 1886"
+    },
+    {
+      "id": "fc038",
+      "category": "Themes & Patterns",
+      "front": "Which association merged with INC (1886)?",
+      "back": "Indian Association's All-India Conference merged with INC in 1886"
+    },
+    {
+      "id": "fc039",
+      "category": "Themes & Patterns",
+      "front": "UPSC 2017 mentioned associations?",
+      "back": "British Indian Association (1851) - Universities petition; Indian Association (1876) - Surendranath Banerjee"
+    },
+    {
+      "id": "fc040",
+      "category": "Themes & Patterns",
+      "front": "London-based associations?",
+      "back": "East India Association (1866), London Indian Society (1885) - both by Dadabhai Naoroji"
+    },
+    {
+      "id": "fc041",
+      "category": "Themes & Patterns",
+      "front": "Calcutta-based associations (chronological)?",
+      "back": "1836: Bangabhasha Prakasika Sabha, 1837: Zamindari, 1843: Bengal British India Society, 1851: British Indian Association, 1875: Indian League, 1876: Indian Association"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "When was Bangabhasha Prakasika Sabha founded?",
+        "options": [
+          "1836",
+          "1837",
+          "1843",
+          "1851"
+        ],
+        "correct": 0,
+        "explanation": "Bangabhasha Prakasika Sabha was founded in 1836 in Calcutta by associates of Raja Rammohan Roy."
+      },
+      {
+        "id": "mcq002",
+        "question": "Who were associates of Raja Rammohan Roy in founding Bangabhasha Prakasika Sabha?",
+        "options": [
+          "Dadabhai Naoroji",
+          "Prasanna Kumar Thakur, Dwarkanath Tagore, Kalisanth Chowdhury",
+          "Surendranath Banerjee",
+          "M.G. Ranade"
+        ],
+        "correct": 1,
+        "explanation": "Associates included Prasanna Kumar Thakur, Kalisanth Chowdhury, Dwarkanath Tagore, Gouri Sankar Bhattacharya, and Durga Prasad Tarka Panchanan."
+      },
+      {
+        "id": "mcq003",
+        "question": "What did Bangabhasha Prakasika Sabha advocate?",
+        "options": [
+          "Armed rebellion",
+          "Administrative reforms, Indian participation in governance, educational advancement",
+          "Complete independence",
+          "Religious reform only"
+        ],
+        "correct": 1,
+        "explanation": "Bangabhasha Prakasika Sabha advocated administrative reforms, Indian participation in governance, and educational advancement."
+      },
+      {
+        "id": "mcq004",
+        "question": "Which was the first association to initiate constitutional agitation in India?",
+        "options": [
+          "Bangabhasha Prakasika Sabha",
+          "Zamindari Association (1837)",
+          "British Indian Association",
+          "Indian Association"
+        ],
+        "correct": 1,
+        "explanation": "Zamindari Association (1837) was the first to initiate constitutional agitation in India while protecting landlord interests."
+      },
+      {
+        "id": "mcq005",
+        "question": "What was Zamindari Association also known as?",
+        "options": [
+          "Bengal Association",
+          "Landholders' Society",
+          "Calcutta Society",
+          "Tagore Association"
+        ],
+        "correct": 1,
+        "explanation": "Zamindari Association was also known as Landholders' Society, founded in Calcutta in 1837."
+      },
+      {
+        "id": "mcq006",
+        "question": "Who founded Bengal British India Society (1843)?",
+        "options": [
+          "Raja Rammohan Roy",
+          "George Thompson, Dwarkanath Tagore, Chandra Mohan Chatterjee, Parmananda Maitra",
+          "Dadabhai Naoroji",
+          "Surendranath Banerjee"
+        ],
+        "correct": 1,
+        "explanation": "Bengal British India Society (1843) was founded by George Thompson, Dwarkanath Tagore, Chandra Mohan Chatterjee, and Parmananda Maitra."
+      },
+      {
+        "id": "mcq007",
+        "question": "Who was President of British Indian Association (1851)?",
+        "options": [
+          "Debendranath Tagore",
+          "Radhakant Deb",
+          "Dwarkanath Tagore",
+          "Surendranath Banerjee"
+        ],
+        "correct": 1,
+        "explanation": "Radhakant Deb was President of British Indian Association (1851), with Debendranath Tagore as General Secretary."
+      },
+      {
+        "id": "mcq008",
+        "question": "British Indian Association petitioned for what? (UPSC 2017)",
+        "options": [
+          "Armed forces reform",
+          "Universities in three Presidencies",
+          "Complete independence",
+          "Trade rights"
+        ],
+        "correct": 1,
+        "explanation": "British Indian Association petitioned for Universities in three Presidencies among other reforms (UPSC 2017 mention)."
+      },
+      {
+        "id": "mcq009",
+        "question": "Who founded Bombay Association (1852)?",
+        "options": [
+          "Dadabhai Naoroji",
+          "Jagannath Shankarsheth",
+          "Pherozeshah Mehta",
+          "K.T. Telang"
+        ],
+        "correct": 1,
+        "explanation": "Bombay Association (1852) was founded by Jagannath Shankarsheth."
+      },
+      {
+        "id": "mcq010",
+        "question": "Who revived Bombay Association in 1876?",
+        "options": [
+          "Jagannath Shankarsheth",
+          "Dadabhai Naoroji",
+          "Pherozeshah Mehta",
+          "M.G. Ranade"
+        ],
+        "correct": 1,
+        "explanation": "Dadabhai Naoroji revived Bombay Association in 1876; it was later overshadowed by newer groups."
+      },
+      {
+        "id": "mcq011",
+        "question": "First political association of Madras Presidency?",
+        "options": [
+          "Madras Mahajan Sabha",
+          "Madras Native Association (MNA) 1852",
+          "Bombay Association",
+          "Bengal British India Society"
+        ],
+        "correct": 1,
+        "explanation": "Madras Native Association (MNA) in 1852 was the first political association of Madras Presidency."
+      },
+      {
+        "id": "mcq012",
+        "question": "Who founded East India Association in London (1866)?",
+        "options": [
+          "Surendranath Banerjee",
+          "M.G. Ranade",
+          "Dadabhai Naoroji",
+          "Raja Rammohan Roy"
+        ],
+        "correct": 2,
+        "explanation": "Dadabhai Naoroji founded East India Association in London in 1866."
+      },
+      {
+        "id": "mcq013",
+        "question": "When was Poona Sarvajanik Sabha founded?",
+        "options": [
+          "1852",
+          "1866",
+          "1867",
+          "1875"
+        ],
+        "correct": 2,
+        "explanation": "Poona Sarvajanik Sabha was founded in 1867 in Poona."
+      },
+      {
+        "id": "mcq014",
+        "question": "When did M.G. Ranade join Poona Sarvajanik Sabha?",
+        "options": [
+          "1867",
+          "1871",
+          "1875",
+          "1883"
+        ],
+        "correct": 1,
+        "explanation": "M.G. Ranade joined Poona Sarvajanik Sabha in 1871."
+      },
+      {
+        "id": "mcq015",
+        "question": "Who founded Indian League (1875)?",
+        "options": [
+          "Sisir Kumar Ghosh",
+          "Surendranath Banerjee",
+          "Ananda Mohan Bose",
+          "Dadabhai Naoroji"
+        ],
+        "correct": 0,
+        "explanation": "Indian League (1875) in Calcutta was founded by Sisir Kumar Ghosh."
+      },
+      {
+        "id": "mcq016",
+        "question": "Who founded Indian Association (1876)? (UPSC 2017)",
+        "options": [
+          "Dadabhai Naoroji",
+          "Surendranath Banerjee, Ananda Mohan Bose",
+          "M.G. Ranade",
+          "Pherozeshah Mehta"
+        ],
+        "correct": 1,
+        "explanation": "Indian Association (1876) in Calcutta was founded by Surendranath Banerjee and Ananda Mohan Bose (UPSC 2017)."
+      },
+      {
+        "id": "mcq017",
+        "question": "Indian Association organised what conference in 1883?",
+        "options": [
+          "Bengal Conference",
+          "All-India Conference",
+          "Calcutta Conference",
+          "National Conference"
+        ],
+        "correct": 1,
+        "explanation": "Indian Association organised the All-India Conference in 1883, first attempt at all-India political coordination."
+      },
+      {
+        "id": "mcq018",
+        "question": "When did All-India Conference merge with INC?",
+        "options": [
+          "1883",
+          "1885",
+          "1886",
+          "1887"
+        ],
+        "correct": 2,
+        "explanation": "The All-India Conference (1883) later merged with INC in 1886."
+      },
+      {
+        "id": "mcq019",
+        "question": "When was Madras Mahajan Sabha founded?",
+        "options": [
+          "1852",
+          "1875",
+          "1884",
+          "1885"
+        ],
+        "correct": 2,
+        "explanation": "Madras Mahajan Sabha was founded in Madras in 1884."
+      },
+      {
+        "id": "mcq020",
+        "question": "Who founded Madras Mahajan Sabha?",
+        "options": [
+          "Gajulu Lakshminarasu Chetty",
+          "M. Veeraraighavachari, P. Ananda Charlu, G. Subramania Iyer",
+          "Dadabhai Naoroji",
+          "Surendranath Banerjee"
+        ],
+        "correct": 1,
+        "explanation": "Madras Mahajan Sabha (1884) was founded by M. Veeraraighavachari, P. Ananda Charlu, and G. Subramania Iyer."
+      },
+      {
+        "id": "mcq021",
+        "question": "When was Bombay Presidency Association founded?",
+        "options": [
+          "1852",
+          "1876",
+          "1884",
+          "1885"
+        ],
+        "correct": 3,
+        "explanation": "Bombay Presidency Association was founded in Bombay in 1885."
+      },
+      {
+        "id": "mcq022",
+        "question": "Bombay Presidency Association was formed in response to?",
+        "options": [
+          "Ilbert Bill",
+          "Lytton's policies and Ilbert Bill controversy",
+          "Vernacular Press Act",
+          "Arms Act"
+        ],
+        "correct": 1,
+        "explanation": "Bombay Presidency Association (1885) was formed in response to Lytton's policies and Ilbert Bill controversy."
+      },
+      {
+        "id": "mcq023",
+        "question": "Which association had strong ties with Poona Sarvajanik Sabha?",
+        "options": [
+          "British Indian Association",
+          "Bombay Presidency Association (1885)",
+          "Indian Association",
+          "East India Association"
+        ],
+        "correct": 1,
+        "explanation": "Bombay Presidency Association (1885) maintained strong ties with Poona Sarvajanik Sabha."
+      },
+      {
+        "id": "mcq024",
+        "question": "When was London Indian Society founded?",
+        "options": [
+          "1866",
+          "1875",
+          "1883",
+          "1885"
+        ],
+        "correct": 3,
+        "explanation": "London Indian Society was founded in London in 1885 by Dadabhai Naoroji."
+      },
+      {
+        "id": "mcq025",
+        "question": "London Indian Society was later absorbed into?",
+        "options": [
+          "Indian National Congress",
+          "East India Association",
+          "British Indian Association",
+          "Indian Association"
+        ],
+        "correct": 1,
+        "explanation": "London Indian Society (1885) was later absorbed into East India Association."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Trace the evolution of political associations from early reform-focused groups (1836-1852) to more nationalist organizations (1876-1885), analyzing the shift in goals and methods.",
+        "answer": "Early Period (1836-1852) - Reform Focus: Bangabhasha Prakasika Sabha (1836): Associates of Raja Rammohan Roy advocated administrative reforms, Indian participation in governance, educational advancement. Reformist, within system. Zamindari Association (1837): Protected landlord interests; FIRST to initiate constitutional agitation in India. Class-specific but pioneering constitutional approach. Bengal British India Society (1843): Collected information on welfare issues, promoted responsible citizenship. Civic education focus. British Indian Association (1851): Demanded legislative reforms, separate legislature, separation of executive-judicial functions, reduction of salaries/taxes, Universities in three Presidencies (UPSC 2017). Most comprehensive early demands but still petition-based. Bombay (1852) and Madras (1852) Associations: Regional emergence, specific grievances (MNA opposed missionary activities & Lex Loci Act). Pattern: Elite-led, reformist, petition government, specific issues, regional. Mid-Period (1866-1876) - Broadening: East India Association London (1866): Dadabhai Naoroji influenced British public opinion, promoted Indian welfare. Taking cause to imperial metropole. Poona Sarvajanik Sabha (1867): Represented public opinion, mediated between government and people, promoted political participation and social reform. Public representation concept emerging. Indian League (1875): Sisir Kumar Ghosh promoted nationalism and political education, aimed to extend participation beyond elites. Explicit nationalist language, democratization goal. Pattern: Moving beyond elite petitions to public representation, nationalist rhetoric emerging, political education emphasized. Pre-INC Period (1876-1885) - Nationalist Coordination: Indian Association (1876): Surendranath Banerjee, Ananda Mohan Bose led agitation for Indianisation of services, protests against repressive laws, organised All-India Conference (1883), published Journal (UPSC 2017). Agitation (not just petition), all-India coordination attempt, systematic propaganda (Journal). All-India Conference (1883): FIRST attempt at all-India political coordination, later merged with INC (1886). Foundational for national movement. Madras Mahajan Sabha (1884): Advocated Indian representation in councils, coordinated regional activities, pushed for separation of judiciary and revenue. Regional coordination feeding into national. Bombay Presidency Association (1885): Formed responding to Lytton's policies and Ilbert Bill, promoted political rights, tied to Poona Sabha. Reactive to repressive policies, inter-regional links. Evolution: 1836-52: Reform petitions (administrative, educational, specific grievances) \u2192 1866-76: Public representation, nationalist education, British opinion \u2192 1876-85: Agitation, all-India coordination, systematic organization. Methods: Petition \u2192 Public opinion \u2192 Agitation + Coordination. Scope: Specific issues \u2192 Broad reforms \u2192 National political participation. Organization: Local elite groups \u2192 Regional representation \u2192 All-India coordination (1883 Conference merging with INC 1886). This evolution set stage for INC (1885) as umbrella national organization synthesizing decades of associational development."
+      },
+      {
+        "id": "comp002",
+        "question": "Analyze the geographic distribution of political associations (Calcutta, Bombay, Madras, Poona, London) and what this pattern reveals about nationalist development in different regions.",
+        "answer": "Calcutta Dominance (1836-1876): 1836: Bangabhasha Prakasika Sabha, 1837: Zamindari Association, 1843: Bengal British India Society, 1851: British Indian Association, 1875: Indian League, 1876: Indian Association. Six major associations in 40 years. Why Calcutta? 1) British administrative capital, 2) Bengal Renaissance (Raja Rammohan Roy associates), 3) Educated middle class (bhadralok), 4) Early British university (1857), 5) Economic transformation creating new elite. Characteristics: Earliest political mobilization, most diverse (reform to nationalism), strongest organizational continuity (British Indian Association \u2192 Indian Association \u2192 INC merger 1886). Bombay Emergence (1852-1885): 1852: Bombay Association (Jagannath Shankarsheth), 1876: Revived by Dadabhai Naoroji, 1885: Bombay Presidency Association (Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji). Slower start but by 1885 organized, responding to Lytton/Ilbert Bill. Why later? Commercial city, diverse population (Parsi, Gujarati, Marathi communities), less homogeneous elite than Calcutta. Strong ties to Poona showing Maharashtra integration. Madras Pattern (1852-1884): 1852: Madras Native Association (MNA) - first Madras political association, opposed missionary activities & Lex Loci Act. 1884: Madras Mahajan Sabha - advocated councils representation, coordinated regional activities, separation of judiciary/revenue. Gap 1852-1884 suggests later political mobilization than Calcutta/Bombay but catching up by 1880s. Focus on regional coordination, landed classes grievances (MNA), administrative representation (Mahajan Sabha). Poona Significance (1867): Poona Sarvajanik Sabha (1867): G.V. Joshi, S.H. Sathe, S.H. Chipionkar; M.G. Ranade joined 1871. Represented public opinion, mediated government-people, promoted participation and social reform. Interior Maharashtra (not coastal Bombay), connected to Maratha political traditions, intellectual-reformist (Ranade), strong link to Bombay (1885 Association maintained ties). Shows nationalism penetrating beyond Presidency capitals. London Associations (1866, 1885): East India Association (1866): Dadabhai Naoroji influenced British public opinion, promoted Indian welfare, expanded to India branches. London Indian Society (1885): Platform for Indian students raising political issues, later absorbed into East India Association. Metropolitan strategy: Taking Indian case to imperial center, influencing British voters/Parliament, diaspora political organization. Dadabhai Naoroji key (both associations). Geographic Pattern: Chronology: Calcutta earliest/most (1836-), Bombay/Madras catching up (1850s), Poona interior penetration (1867), London metropolitan strategy (1866-85). Regional character: Bengal intellectual-reformist, Bombay commercial-diverse, Madras landed-administrative, Poona intellectual-reformist interior, London diaspora-imperial lobbying. Convergence by 1885: All three Presidencies organized (Calcutta Indian Association 1876, Madras Mahajan Sabha 1884, Bombay Presidency Association 1885), All-India Conference 1883 attempting coordination, INC 1885 bringing together regional streams. Pattern reveals: Political mobilization following British administrative/educational infrastructure (Presidency capitals first), Regional variations in timing/character based on social structure, elite formation, British policies, Nationalist movement becoming all-India by 1880s through: Calcutta's organizational leadership (All-India Conference 1883), Bombay's economic/diverse base, Madras coordination, Poona intellectual depth, London international dimension. INC (1885) synthesized these geographic streams into national movement."
+      },
+      {
+        "id": "comp003",
+        "question": "Examine the key figures across associations (Dwarkanath Tagore, Dadabhai Naoroji, Surendranath Banerjee) and analyze how individuals connected multiple organizations, creating networks that enabled eventual formation of INC.",
+        "answer": "Multi-Association Figures - Network Builders: Dwarkanath Tagore: Zamindari Association (1837), Bengal British India Society (1843). Span: Early period (1837-43), connecting landlord interests (Zamindari) with broader welfare (Bengal British India Society). Significance: Bengal elite bridging class-specific and public-interest associations. Radhakant Deb: Zamindari Association (1837), President of British Indian Association (1851). Span: 14 years, landlord interests to comprehensive legislative demands. Leadership: Presidential role showing elite continuity in organizational leadership. Debendranath Tagore: General Secretary of British Indian Association (1851). Family: Dwarkanath Tagore's son - dynastic participation in political associations. Role: Administrative leadership (Secretary) vs presidential (Radhakant Deb). Dadabhai Naoroji - Triple Connection: East India Association London (1866): Founded to influence British opinion. Bombay Association (1876): Revived Jagannath Shankarsheth's 1852 organization. London Indian Society (1885): Platform for Indian students. Span: 1866-1885, both London (metropolitan strategy) and Bombay (home base). Significance: Connecting diaspora (London) with Indian organization (Bombay), influencing both British public and Indian political mobilization. Later became INC President (1886, 1893, 1906) - direct link from pre-INC associations to Congress leadership. M.G. Ranade: Joined Poona Sarvajanik Sabha (1871). Significance: Major reformer-intellectual lending credibility to political association. Poona Sabha's mediation role (government-people) suited Ranade's reformist approach. Connected social reform with political organization. Surendranath Banerjee - Organizational Pioneer: Founded Indian Association (1876) with Ananda Mohan Bose. Agitation: Led Indianisation movement, protests against repressive laws (UPSC 2017). All-India Conference (1883): Organised first all-India political coordination. Journal: Published Indian Association's Journal - systematic propaganda. INC connection: Conference merged with INC 1886. Significance: Pioneering agitational politics (not just petition), all-India coordination, organizational infrastructure (Journal, Conference). Direct organizational line from Indian Association to INC. Network Mechanisms: Geographic Networks: Dadabhai Naoroji (London-Bombay), connecting imperial metropole with Indian city. Poona-Bombay link: Poona Sarvajanik Sabha ties with Bombay Presidency Association (1885). Cross-Generational: Dwarkanath \u2192 Debendranath Tagore (father-son). Raja Rammohan Roy associates (1836) \u2192 Radhakant Deb (1837, 1851) - first to second generation. Ideological Networks: Reformists: Raja Rammohan Roy circle (1836) \u2192 M.G. Ranade (Poona 1871) - social reform connecting with political organization. Agitationists: Surendranath Banerjee (1876) pioneering beyond petition politics. Leadership Migration: British Indian Association (1851) \u2192 Indian Association (1876) \u2192 INC (1886). Surendranath Banerjee, Dadabhai Naoroji moving from associations to Congress leadership. Organizational Learning: Each association learned from predecessors: Petition (1836-51) \u2192 Public representation (1867-75) \u2192 Agitation (1876) \u2192 All-India coordination (1883) \u2192 National Congress (1885-86). Figures carrying lessons across organizations. Formation of INC (1885): Built on: 40+ years of associational experience (1836-1885), Networks created by multi-association figures (Dadabhai Naoroji, Surendranath Banerjee), Geographic spread (Calcutta, Bombay, Madras, Poona, London all represented), Organizational innovations (Journal, Conference, agitation methods), Leadership pool trained in associations now available for national movement. INC succeeded because pre-existing networks (personal, organizational, geographic, ideological) created by figures like Dwarkanath Tagore, Dadabhai Naoroji, Surendranath Banerjee, M.G. Ranade provided foundation. Not creating movement from scratch but synthesizing decades of political organization into national umbrella (1885), with All-India Conference merger (1886) completing transition from associations to Congress."
+      }
+    ]
+  }
+}
