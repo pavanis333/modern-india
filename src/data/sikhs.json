@@ -1,0 +1,333 @@
+{
+  "topic": "Advent of Europeans and Consolidation of British Power",
+  "subtopic": "The Sikhs (The New States)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Key Facts & Dates",
+      "front": "Guru Tegh Bahadur's fate?",
+      "back": "Executed by Aurangzeb for resisting forced conversions, defending Kashmiri Pandits"
+    },
+    {
+      "id": "fc002",
+      "category": "Key Facts & Dates",
+      "front": "Why was Guru Tegh Bahadur executed?",
+      "back": "Resisting forced conversions and defending Kashmiri Pandits against Aurangzeb"
+    },
+    {
+      "id": "fc003",
+      "category": "Key Facts & Dates",
+      "front": "Guru Gobind Singh's transformation?",
+      "back": "Transformed Sikhs into militant group, establishing Khalsa in 1699, advocating armed resistance"
+    },
+    {
+      "id": "fc004",
+      "category": "Key Facts & Dates",
+      "front": "When was Khalsa established?",
+      "back": "1699 - by Guru Gobind Singh"
+    },
+    {
+      "id": "fc005",
+      "category": "Key Facts & Dates",
+      "front": "What was Khalsa?",
+      "back": "Militant Sikh group established by Guru Gobind Singh in 1699, advocating armed resistance"
+    },
+    {
+      "id": "fc006",
+      "category": "Key Facts & Dates",
+      "front": "Banda Bahadur's leadership?",
+      "back": "Led Sikh revolts post-Gobind Singh, ended Zamindari system"
+    },
+    {
+      "id": "fc007",
+      "category": "Key Facts & Dates",
+      "front": "Banda Bahadur's fate?",
+      "back": "Captured and executed in 1710"
+    },
+    {
+      "id": "fc008",
+      "category": "Key Facts & Dates",
+      "front": "Ranjit Singh's achievement?",
+      "back": "Founded Sikh Empire in Punjab, united 12 misls, expanded territory, modernised military"
+    },
+    {
+      "id": "fc009",
+      "category": "Key Facts & Dates",
+      "front": "How many misls did Ranjit Singh unite?",
+      "back": "12 misls - united to found Sikh Empire in Punjab"
+    },
+    {
+      "id": "fc010",
+      "category": "Key Facts & Dates",
+      "front": "Treaty of Amritsar?",
+      "back": "1809 - Ranjit Singh signed with British, recognizing their authority over Cis-Sutlej territories"
+    },
+    {
+      "id": "fc011",
+      "category": "Key Facts & Dates",
+      "front": "Cis-Sutlej territories?",
+      "back": "British authority recognized by Ranjit Singh in Treaty of Amritsar (1809)"
+    },
+    {
+      "id": "fc012",
+      "category": "Concepts & Reasons",
+      "front": "Guru Tegh Bahadur's martyrdom significance?",
+      "back": "Executed by Aurangzeb for defending religious freedom (Kashmiri Pandits) and resisting forced conversions"
+    },
+    {
+      "id": "fc013",
+      "category": "Concepts & Reasons",
+      "front": "Why did Guru Gobind Singh militarize Sikhs?",
+      "back": "Transformed Sikhs into militant group (Khalsa 1699) in response to persecution, advocating armed resistance"
+    },
+    {
+      "id": "fc014",
+      "category": "Concepts & Reasons",
+      "front": "Khalsa's purpose?",
+      "back": "Militant Sikh organization (1699) advocating armed resistance against oppression"
+    },
+    {
+      "id": "fc015",
+      "category": "Concepts & Reasons",
+      "front": "Banda Bahadur's social reform?",
+      "back": "Ended Zamindari system during Sikh revolts post-Gobind Singh"
+    },
+    {
+      "id": "fc016",
+      "category": "Concepts & Reasons",
+      "front": "Why was Banda Bahadur executed?",
+      "back": "Captured after leading Sikh revolts, executed in 1710 by Mughals"
+    },
+    {
+      "id": "fc017",
+      "category": "Concepts & Reasons",
+      "front": "What were misls?",
+      "back": "12 Sikh confederacies united by Ranjit Singh to found Sikh Empire"
+    },
+    {
+      "id": "fc018",
+      "category": "Concepts & Reasons",
+      "front": "Ranjit Singh's state-building?",
+      "back": "United 12 misls, expanded territory, modernised military - comprehensive empire-building"
+    },
+    {
+      "id": "fc019",
+      "category": "Concepts & Reasons",
+      "front": "Treaty of Amritsar significance?",
+      "back": "1809 - Ranjit Singh recognized British authority over Cis-Sutlej, defining Sikh Empire boundaries"
+    },
+    {
+      "id": "fc020",
+      "category": "Concepts & Reasons",
+      "front": "Cis-Sutlej meaning?",
+      "back": "Territory on British side of Sutlej river - Ranjit Singh recognized British control in Treaty of Amritsar (1809)"
+    },
+    {
+      "id": "fc021",
+      "category": "UPSC Focus",
+      "front": "Sikhs as 'The New States'",
+      "back": "Established through rebellion against Mughal rule (Guru executions, Khalsa militancy, revolts) - classic 'New State' category"
+    },
+    {
+      "id": "fc022",
+      "category": "UPSC Focus",
+      "front": "Guru martyrdoms and Sikh militancy",
+      "back": "Guru Tegh Bahadur's execution \u2192 Guru Gobind Singh's Khalsa (1699) \u2192 armed resistance pattern"
+    },
+    {
+      "id": "fc023",
+      "category": "UPSC Focus",
+      "front": "Ranjit Singh's empire (1809 Treaty)",
+      "back": "United 12 misls, modernized military, Treaty of Amritsar 1809 with British - peak of Sikh state power"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Why was Guru Tegh Bahadur executed?",
+        "options": [
+          "Military rebellion",
+          "Resisting forced conversions and defending Kashmiri Pandits",
+          "Economic crimes",
+          "Alliance with enemies"
+        ],
+        "correct": 1,
+        "explanation": "Guru Tegh Bahadur was executed by Aurangzeb for resisting forced conversions and defending Kashmiri Pandits."
+      },
+      {
+        "id": "mcq002",
+        "question": "Who executed Guru Tegh Bahadur?",
+        "options": [
+          "Jahangir",
+          "Shah Jahan",
+          "Aurangzeb",
+          "Muhammad Shah"
+        ],
+        "correct": 2,
+        "explanation": "Aurangzeb executed Guru Tegh Bahadur for resisting forced conversions and defending Kashmiri Pandits."
+      },
+      {
+        "id": "mcq003",
+        "question": "Who established the Khalsa?",
+        "options": [
+          "Guru Tegh Bahadur",
+          "Guru Gobind Singh",
+          "Banda Bahadur",
+          "Ranjit Singh"
+        ],
+        "correct": 1,
+        "explanation": "Guru Gobind Singh transformed Sikhs into militant group, establishing Khalsa in 1699."
+      },
+      {
+        "id": "mcq004",
+        "question": "When was the Khalsa established?",
+        "options": [
+          "1675",
+          "1699",
+          "1710",
+          "1809"
+        ],
+        "correct": 1,
+        "explanation": "Guru Gobind Singh established the Khalsa in 1699, transforming Sikhs into militant group."
+      },
+      {
+        "id": "mcq005",
+        "question": "What did Guru Gobind Singh's Khalsa advocate?",
+        "options": [
+          "Peaceful resistance",
+          "Armed resistance",
+          "Negotiation",
+          "Withdrawal"
+        ],
+        "correct": 1,
+        "explanation": "Guru Gobind Singh established Khalsa in 1699, transforming Sikhs into militant group advocating armed resistance."
+      },
+      {
+        "id": "mcq006",
+        "question": "Who led Sikh revolts after Guru Gobind Singh?",
+        "options": [
+          "Guru Tegh Bahadur",
+          "Banda Bahadur",
+          "Ranjit Singh",
+          "Nanak"
+        ],
+        "correct": 1,
+        "explanation": "Banda Bahadur led Sikh revolts post-Gobind Singh, ending Zamindari system."
+      },
+      {
+        "id": "mcq007",
+        "question": "What system did Banda Bahadur end?",
+        "options": [
+          "Jizya",
+          "Zamindari",
+          "Mansabdari",
+          "Jagirdari"
+        ],
+        "correct": 1,
+        "explanation": "Banda Bahadur led Sikh revolts and ended the Zamindari system."
+      },
+      {
+        "id": "mcq008",
+        "question": "When was Banda Bahadur executed?",
+        "options": [
+          "1699",
+          "1710",
+          "1809",
+          "1839"
+        ],
+        "correct": 1,
+        "explanation": "Banda Bahadur was captured and executed in 1710 after leading Sikh revolts."
+      },
+      {
+        "id": "mcq009",
+        "question": "Who founded the Sikh Empire in Punjab?",
+        "options": [
+          "Guru Gobind Singh",
+          "Banda Bahadur",
+          "Ranjit Singh",
+          "Guru Tegh Bahadur"
+        ],
+        "correct": 2,
+        "explanation": "Ranjit Singh founded the Sikh Empire in Punjab, uniting 12 misls."
+      },
+      {
+        "id": "mcq010",
+        "question": "How many misls did Ranjit Singh unite?",
+        "options": [
+          "5",
+          "8",
+          "12",
+          "15"
+        ],
+        "correct": 2,
+        "explanation": "Ranjit Singh united 12 misls to found the Sikh Empire in Punjab."
+      },
+      {
+        "id": "mcq011",
+        "question": "Which treaty did Ranjit Singh sign with the British?",
+        "options": [
+          "Treaty of Allahabad",
+          "Treaty of Amritsar",
+          "Treaty of Lahore",
+          "Treaty of Seringapatam"
+        ],
+        "correct": 1,
+        "explanation": "Ranjit Singh signed the Treaty of Amritsar (1809) with the British."
+      },
+      {
+        "id": "mcq012",
+        "question": "When was the Treaty of Amritsar signed?",
+        "options": [
+          "1699",
+          "1710",
+          "1809",
+          "1839"
+        ],
+        "correct": 2,
+        "explanation": "Treaty of Amritsar was signed in 1809 between Ranjit Singh and the British."
+      },
+      {
+        "id": "mcq013",
+        "question": "What did Treaty of Amritsar (1809) recognize?",
+        "options": [
+          "Sikh independence",
+          "British authority over Cis-Sutlej territories",
+          "Mughal supremacy",
+          "French influence"
+        ],
+        "correct": 1,
+        "explanation": "Treaty of Amritsar (1809): Ranjit Singh recognized British authority over Cis-Sutlej territories."
+      },
+      {
+        "id": "mcq014",
+        "question": "What did Ranjit Singh modernize?",
+        "options": [
+          "Revenue system",
+          "Religious institutions",
+          "Military",
+          "Trade routes"
+        ],
+        "correct": 2,
+        "explanation": "Ranjit Singh founded Sikh Empire, united 12 misls, expanded territory, and modernised the military."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Trace the evolution of Sikh resistance from Guru Tegh Bahadur's martyrdom through Guru Gobind Singh's Khalsa (1699) to Banda Bahadur's revolts (1710).",
+        "answer": "Guru Tegh Bahadur's Martyrdom: Executed by Aurangzeb for resisting forced conversions and defending Kashmiri Pandits. Significance: Established pattern of Sikh resistance to religious persecution, martyrdom for defending others' religious freedom (Kashmiri Pandits), direct confrontation with Mughal authority (Aurangzeb). Guru Gobind Singh's Response: Transformed Sikhs into militant group, establishing Khalsa in 1699. Khalsa: Militant Sikh organization advocating armed resistance - formalized military structure for resistance. This transformation from spiritual community to armed resistance group was direct response to Guru Tegh Bahadur's execution. Banda Bahadur's Revolts: Led Sikh revolts post-Gobind Singh (after 1699). Not just military resistance but social revolution - ended Zamindari system, challenging feudal structure. Ultimate fate: Captured and executed in 1710 by Mughals. Evolution Pattern: Martyrdom (Tegh Bahadur) \u2192 Militarization (Gobind Singh's Khalsa 1699) \u2192 Armed Revolt (Banda Bahadur) \u2192 Execution (1710). Each phase escalated Sikh-Mughal conflict. Period: ~1675 (Tegh Bahadur's execution) to 1710 (Banda Bahadur's execution) = ~35 years of intensifying resistance. Significance: Sikhs exemplify 'The New States' category - established through active rebellion against Mughal rule, not provincial autonomy or gradual independence. Religious persecution \u2192 militant organization \u2192 armed revolt \u2192 social reform = revolutionary state-building pattern distinct from Successor States."
+      },
+      {
+        "id": "comp002",
+        "question": "Analyze Ranjit Singh's state-building: unification of 12 misls, military modernization, territorial expansion, and Treaty of Amritsar (1809) with the British.",
+        "answer": "Unification of 12 Misls: Misls were Sikh confederacies that emerged after earlier Sikh leaders. Ranjit Singh united 12 misls to found Sikh Empire in Punjab - consolidated fragmented Sikh power into single state. This required diplomatic and military skill to bring independent groups under unified authority. Sikh Empire Foundation: Created formal state structure in Punjab - transformed from militant group/confederacies to established empire. Military Modernization: Modernised the military - not just building army but updating tactics, organization, weaponry to compete with contemporary powers (British, others). Essential for territorial expansion and state survival. Territorial Expansion: Expanded territory beyond Punjab core, building significant regional empire. Combined military modernization with expansion - modern military enabled conquest. Treaty of Amritsar (1809): Signed with British, recognizing their authority over Cis-Sutlej territories (territories on British side of Sutlej River). Significance: Pragmatic recognition of British power, defining boundaries preventing conflict, maintaining Sikh Empire independence north/west of Sutlej while acknowledging British sphere south/east. State-Building Success: Ranjit Singh transformed Sikh resistance movement into established empire - military modernization, territorial control, diplomatic recognition (Treaty of Amritsar), administrative consolidation (uniting misls). Peak of Sikh Power: Represented zenith of Sikh state formation - from persecuted religious community (Guru Tegh Bahadur) \u2192 militant organization (Khalsa 1699) \u2192 armed revolt (Banda Bahadur) \u2192 fragmented confederacies (misls) \u2192 unified empire (Ranjit Singh). However, Treaty of Amritsar (1809) also indicated limits - British controlled Cis-Sutlej, constraining further expansion, setting stage for eventual British-Sikh conflicts after Ranjit Singh's death."
+      },
+      {
+        "id": "comp003",
+        "question": "Compare the Sikh trajectory (The New States) with Successor States (Hyderabad, Awadh, Bengal) in terms of origin, state formation, and relationship with British.",
+        "answer": "Origin: Successor States: Formed by Mughal officials (Wazir, Diwan, Faujdar) asserting autonomy - worked within Mughal system before independence. Sikhs (The New States): Formed through active rebellion against Mughal persecution - Guru executions, Khalsa militancy, armed revolts. Revolutionary origin outside Mughal framework. State Formation: Successor States: Gradual autonomy of existing provinces - administrative continuity, maintained Mughal structures with autonomous governors. Sikhs: Built from religious community \u2192 militant organization (Khalsa 1699) \u2192 armed revolts (Banda Bahadur) \u2192 confederacies (misls) \u2192 empire (Ranjit Singh). Complete transformation, new political identity based on religion/resistance. Relationship with Mughals: Successor States: Nominal allegiance initially, didn't contest Mughal supremacy openly. Sikhs: Open rebellion, executed Gurus, armed resistance - no pretense of Mughal loyalty. Relationship with British: Successor States: Defeated/absorbed relatively early - Battle of Plassey (Bengal 1757), Battle of Buxar (Awadh 1764). Became Company territories or puppet states. Sikhs: Later engagement - Treaty of Amritsar (1809) with Ranjit Singh recognized British Cis-Sutlej control but maintained Sikh Empire independence. Negotiated boundary rather than immediate subordination. Social Reform: Successor States: Administrative reforms (Bengal's Mal Jasmani, Hyderabad's blended administration). Sikhs: Revolutionary social change - Banda Bahadur ended Zamindari system, Khalsa's egalitarian principles. Durability: Successor States: Relatively brief independence - Awadh 42 years (1722-1764), Bengal 40 years (1717-1757). Sikhs: Longer trajectory - resistance from ~1675 (Tegh Bahadur) through Ranjit Singh's empire (1809 treaty), even surviving his death until 1849. Pattern: Sikhs as 'The New States' showed more revolutionary state-building, longer resistance, later accommodation with British, and more fundamental social transformation than Successor States' administrative autonomy model."
+      }
+    ]
+  }
+}

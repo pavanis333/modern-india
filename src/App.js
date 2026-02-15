@@ -16,6 +16,7 @@ import hyderabadData from './data/hyderabad.json';
 import awadhData from './data/awadh.json';
 import bengalData from './data/bengal.json';
 import mysoreKeralaData from './data/mysore-kerala.json';
+import sikhsData from './data/sikhs.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -100,6 +101,12 @@ function App() {
           title: 'Rise of Mysore and Kerala',
           description: 'Wodeyars, Haider Ali, Tipu Sultan, Martanda Varma, Travancore (Independent Kingdoms)',
           data: mysoreKeralaData
+        },
+        {
+          id: 'sikhs',
+          title: 'The Sikhs (The New States)',
+          description: 'Guru Tegh Bahadur, Khalsa (1699), Banda Bahadur, Ranjit Singh, Treaty of Amritsar (1809)',
+          data: sikhsData
         }
       ]
     }
