@@ -1,0 +1,275 @@
+{
+  "topic": "People's Resistance Against the British",
+  "subtopic": "Working Class Movements",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Working Class Context",
+      "front": "Working class in late 19th century India?",
+      "back": "Late 19th century saw rise of modern industry in India, particularly in coal, cotton, and jute, forming backbone of Indian working class. Labourers, factory workers, and miners faced harsh exploitation, with poor wages, long hours, and unsafe conditions, while their struggle was intertwined with fight for independence"
+    },
+    {
+      "id": "fc002",
+      "category": "Foundation of Modern Industries (1850-1870)",
+      "front": "Railway Minute of 1853?",
+      "back": "Machinery introduced, leading to development of railways, coal, cotton, jute, and tea industries"
+    },
+    {
+      "id": "fc003",
+      "category": "Foundation of Modern Industries (1850-1870)",
+      "front": "First Cotton Mill in India?",
+      "back": "Bombay, 1854"
+    },
+    {
+      "id": "fc004",
+      "category": "Foundation of Modern Industries (1850-1870)",
+      "front": "First Jute Mill in India?",
+      "back": "Calcutta, 1855"
+    },
+    {
+      "id": "fc005",
+      "category": "Working Class Context",
+      "front": "Factory workers in India by 1901?",
+      "back": "584,000 factory workers"
+    },
+    {
+      "id": "fc006",
+      "category": "Early Initiatives to Improve Working Conditions",
+      "front": "Sasipada Banerjee (1870)?",
+      "back": "Founded the Bharat Shramjeevi and established a workingmen's club to advocate for labour rights"
+    },
+    {
+      "id": "fc007",
+      "category": "Early Initiatives to Improve Working Conditions",
+      "front": "Sorabjee Shapoorji Bengalee (1878)?",
+      "back": "Proposed a bill in the Bombay Legislative Council to improve working conditions for labourers"
+    },
+    {
+      "id": "fc008",
+      "category": "Early Initiatives to Improve Working Conditions",
+      "front": "Narayan Meghajee Lokhande (1880) [UPSC 2018]?",
+      "back": "Played a pivotal role in founding the Deenbandhu newspaper and establishing the Bombay Mill and Millhands Association, which advocated for workers' rights [UPSC 2018]"
+    },
+    {
+      "id": "fc009",
+      "category": "Early Initiatives to Improve Working Conditions",
+      "front": "Great Indian Peninsular Railways Strike (1899)?",
+      "back": "Workers of the Great Indian Peninsular Railways went on strike, receiving strong support from nationalist newspapers like Tilak's Kesari and Maharatta"
+    },
+    {
+      "id": "fc010",
+      "category": "Factory Act of 1881 (UPSC 2017)",
+      "front": "Factory Act of 1881 [UPSC 2017] - working hours?",
+      "back": "Set maximum working hours at 11 hours/day for children"
+    },
+    {
+      "id": "fc011",
+      "category": "Factory Act of 1881 (UPSC 2017)",
+      "front": "Factory Act of 1881 - age restrictions?",
+      "back": "Prohibited employment of children under 7 years of age and raised minimum age for children to work to 12 years"
+    },
+    {
+      "id": "fc012",
+      "category": "Factory Act of 1881 (UPSC 2017)",
+      "front": "Factory Act of 1881 - safety measures?",
+      "back": "Required dangerous machinery to be fenced for protection"
+    },
+    {
+      "id": "fc013",
+      "category": "Factory Act of 1881 (UPSC 2017)",
+      "front": "Factory Act of 1881 - rest periods?",
+      "back": "Mandated a 13-hour rest period between shifts for women and children"
+    },
+    {
+      "id": "fc014",
+      "category": "Factory Act of 1881 (UPSC 2017)",
+      "front": "Factory Act of 1881 - inspections?",
+      "back": "Factory owners required to maintain employment and safety records, subject to inspection by government-appointed inspectors"
+    },
+    {
+      "id": "fc015",
+      "category": "Factory Act of 1891",
+      "front": "Factory Act of 1891 - working hours for children?",
+      "back": "Reduced maximum working hours for children to 7 hours a day and raised minimum working age to 9 and maximum to 14 years"
+    },
+    {
+      "id": "fc016",
+      "category": "Factory Act of 1891",
+      "front": "Factory Act of 1891 - employment restrictions?",
+      "back": "Prohibited employment of children under 7 years of age and limited workday for women and children to 11 hours"
+    },
+    {
+      "id": "fc017",
+      "category": "Factory Act of 1891",
+      "front": "Factory Act of 1891 - overtime wages?",
+      "back": "Mandated overtime compensation for work beyond regular hours"
+    },
+    {
+      "id": "fc018",
+      "category": "Factory Act of 1891",
+      "front": "Factory Act of 1891 - night work?",
+      "back": "Banned the employment of children in factories at night to protect their health"
+    },
+    {
+      "id": "fc019",
+      "category": "Factory Act of 1891",
+      "front": "Factory Act of 1891 - inspections?",
+      "back": "Established a system of inspections and required factory owners to maintain detailed records"
+    },
+    {
+      "id": "fc020",
+      "category": "Factory Acts for Jute Industry (1909 & 1911)",
+      "front": "Factory Acts for Jute Industry (1909 & 1911)?",
+      "back": "Specifically focused on regulating working hours and improving safety standards in the jute mills"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Railway Minute introduced in?",
+        "options": [
+          "1850",
+          "1853",
+          "1854",
+          "1855"
+        ],
+        "correct": 1,
+        "explanation": "Railway Minute of 1853 introduced machinery, leading to development of railways, coal, cotton, jute, and tea industries."
+      },
+      {
+        "id": "mcq002",
+        "question": "First Cotton Mill in India?",
+        "options": [
+          "Calcutta, 1854",
+          "Bombay, 1854",
+          "Madras, 1855",
+          "Delhi, 1856"
+        ],
+        "correct": 1,
+        "explanation": "First Cotton Mill: Bombay, 1854; First jute mill: Calcutta, 1855."
+      },
+      {
+        "id": "mcq003",
+        "question": "Narayan Meghajee Lokhande (1880) founded (UPSC 2018)?",
+        "options": [
+          "Bharat Shramjeevi",
+          "Deenbandhu newspaper and Bombay Mill and Millhands Association",
+          "Only workingmen's club",
+          "Only newspaper"
+        ],
+        "correct": 1,
+        "explanation": "Narayan Meghajee Lokhande (1880) played pivotal role in founding Deenbandhu newspaper and establishing Bombay Mill and Millhands Association (UPSC 2018)."
+      },
+      {
+        "id": "mcq004",
+        "question": "Great Indian Peninsular Railways Strike (1899) received support from?",
+        "options": [
+          "Only Congress",
+          "Tilak's Kesari and Maharatta newspapers",
+          "British government",
+          "Only workers"
+        ],
+        "correct": 1,
+        "explanation": "Great Indian Peninsular Railways Strike (1899) received strong support from nationalist newspapers like Tilak's Kesari and Maharatta."
+      },
+      {
+        "id": "mcq005",
+        "question": "Factory Act of 1881 (UPSC 2017) - maximum working hours for children?",
+        "options": [
+          "7 hours/day",
+          "9 hours/day",
+          "11 hours/day",
+          "13 hours/day"
+        ],
+        "correct": 2,
+        "explanation": "Factory Act of 1881 set maximum working hours at 11 hours/day for children (UPSC 2017)."
+      },
+      {
+        "id": "mcq006",
+        "question": "Factory Act of 1881 - minimum age for children to work?",
+        "options": [
+          "7 years",
+          "9 years",
+          "12 years",
+          "14 years"
+        ],
+        "correct": 2,
+        "explanation": "Factory Act of 1881 prohibited employment of children under 7 years and raised minimum age for children to work to 12 years."
+      },
+      {
+        "id": "mcq007",
+        "question": "Factory Act of 1881 - rest period between shifts?",
+        "options": [
+          "7 hours",
+          "11 hours",
+          "13 hours",
+          "15 hours"
+        ],
+        "correct": 2,
+        "explanation": "Factory Act of 1881 mandated 13-hour rest period between shifts for women and children."
+      },
+      {
+        "id": "mcq008",
+        "question": "Factory Act of 1891 - maximum working hours for children?",
+        "options": [
+          "7 hours a day",
+          "9 hours a day",
+          "11 hours a day",
+          "13 hours a day"
+        ],
+        "correct": 0,
+        "explanation": "Factory Act of 1891 reduced maximum working hours for children to 7 hours a day."
+      },
+      {
+        "id": "mcq009",
+        "question": "Factory Act of 1891 - minimum working age for children?",
+        "options": [
+          "7 years",
+          "9 years (minimum) to 14 years (maximum)",
+          "12 years",
+          "Only 14 years"
+        ],
+        "correct": 1,
+        "explanation": "Factory Act of 1891 raised minimum working age to 9 and maximum to 14 years."
+      },
+      {
+        "id": "mcq010",
+        "question": "Factory Act of 1891 innovation?",
+        "options": [
+          "Only safety measures",
+          "Banned night work for children and mandated overtime wages",
+          "Only inspections",
+          "Only rest periods"
+        ],
+        "correct": 1,
+        "explanation": "Factory Act of 1891 banned employment of children in factories at night to protect their health and mandated overtime compensation."
+      },
+      {
+        "id": "mcq011",
+        "question": "Factory Acts for Jute Industry years?",
+        "options": [
+          "1881, 1891",
+          "1899, 1901",
+          "1909 & 1911",
+          "1917, 1918"
+        ],
+        "correct": 2,
+        "explanation": "Factory Acts for Jute Industry (1909 & 1911) focused on regulating working hours and improving safety standards in jute mills."
+      },
+      {
+        "id": "mcq012",
+        "question": "By 1901, factory workers in India?",
+        "options": [
+          "100,000",
+          "300,000",
+          "584,000",
+          "1,000,000"
+        ],
+        "correct": 2,
+        "explanation": "By 1901, 584,000 factory workers in India."
+      }
+    ],
+    "comprehensive": []
+  }
+}

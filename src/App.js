@@ -47,6 +47,7 @@ import pre1857MutiniesData from './data/pre-1857-mutinies.json';
 import peasantMovementsPhase1Data from './data/peasant-movements-first-phase.json';
 import peasantMovementsPhase2Data from './data/peasant-movements-second-phase.json';
 import peasantMobilizationProvincesData from './data/peasant-mobilization-provinces.json';
+import workingClassMovementsData from './data/working-class-movements.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -373,6 +374,12 @@ function App() {
           title: 'Peasant Mobilization Across Indian Provinces',
           description: 'Kerala (Malabar Act), Andhra (India Peasants Institute/N.G. Ranga), Bihar (Kisan Sabha), Punjab (Kirti Kisan), AIKS Split',
           data: peasantMobilizationProvincesData
+        },
+        {
+          id: 'working-class-movements',
+          title: 'Working Class Movements',
+          description: 'Modern industries (1853-1901), pioneers (Lokhande UPSC 2018), Factory Acts (1881 UPSC 2017, 1891, 1909-11)',
+          data: workingClassMovementsData
         }
       ]
     }
