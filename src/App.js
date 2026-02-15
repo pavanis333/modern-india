@@ -11,6 +11,7 @@ import danishData from './data/danish-in-india.json';
 import englishData from './data/english-in-india.json';
 import frenchData from './data/french-in-india.json';
 import indiaEveData from './data/india-eve-british-conquest.json';
+import regionalStatesData from './data/rise-regional-states.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -65,6 +66,12 @@ function App() {
           title: 'India on the Eve of British Conquest',
           description: 'Mughal decline, Nadir Shah, Ahmad Shah Abdali, Later Mughals (1707-1858)',
           data: indiaEveData
+        },
+        {
+          id: 'regional-states',
+          title: 'Rise of Regional States',
+          description: 'Successor States, Independent Kingdoms, The New States - categorization and examples',
+          data: regionalStatesData
         }
       ]
     }
