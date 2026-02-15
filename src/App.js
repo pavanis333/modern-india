@@ -44,6 +44,7 @@ import tribalRevoltsData from './data/tribal-revolts-glance.json';
 import tribalRevoltsPhase2Data from './data/tribal-revolts-second-phase.json';
 import tribalRevoltsPhase3Data from './data/tribal-revolts-third-phase.json';
 import pre1857MutiniesData from './data/pre-1857-mutinies.json';
+import peasantMovementsPhase1Data from './data/peasant-movements-first-phase.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -352,6 +353,12 @@ function App() {
           title: 'Major Pre-1857 Mutinies',
           description: 'Bengal Sepoy (1764), Vellore (1806), 47th Infantry (1824), Sholapur (1838), 34th/22nd/66th/37th (1844-52)',
           data: pre1857MutiniesData
+        },
+        {
+          id: 'peasant-movements-first-phase',
+          title: 'Peasant Movements Before 1857 - First Phase',
+          description: 'Sanyasi Revolt, Narkelberia/Titu Mir (beard tax, Wahabi), Pagal Panthis (Hajong/Garo)',
+          data: peasantMovementsPhase1Data
         }
       ]
     }

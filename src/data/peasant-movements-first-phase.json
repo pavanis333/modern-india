@@ -1,0 +1,239 @@
+{
+  "topic": "People's Resistance Against the British",
+  "subtopic": "Peasant Movements Before 1857 - First Phase",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Sanyasi Revolt (1763-1800, Bengal)",
+      "front": "Sanyasi Revolt (1763-1800) causes?",
+      "back": "British restrictions on pilgrimages to sacred Hindu and Muslim sites. Bengal Famine of 1770 sparked widespread discontent"
+    },
+    {
+      "id": "fc002",
+      "category": "Sanyasi Revolt (1763-1800, Bengal)",
+      "front": "Sanyasi Revolt participants?",
+      "back": "Landless peasants, displaced zamindars, disbanded soldiers, impoverished masses. Active involvement of Sanyasis and Fakirs"
+    },
+    {
+      "id": "fc003",
+      "category": "Sanyasi Revolt (1763-1800, Bengal)",
+      "front": "Sanyasi Revolt leaders?",
+      "back": "Maznoom Shah, Bhawani Pathak, Devi Choudhurani"
+    },
+    {
+      "id": "fc004",
+      "category": "Sanyasi Revolt (1763-1800, Bengal)",
+      "front": "Sanyasi Revolt character?",
+      "back": "Attacks on British factories, seizing goods, cash, arms, ammunition. Unified resistance with Hindu and Muslim monks against British rule"
+    },
+    {
+      "id": "fc005",
+      "category": "Sanyasi Revolt (1763-1800, Bengal)",
+      "front": "Sanyasi Revolt British response?",
+      "back": "Led by Warren Hastings"
+    },
+    {
+      "id": "fc006",
+      "category": "Sanyasi Revolt (1763-1800, Bengal)",
+      "front": "Sanyasi Revolt cultural impact?",
+      "back": "Bankim Chandra Chattopadhyay's novel Anandmath captured the revolt's essence"
+    },
+    {
+      "id": "fc007",
+      "category": "Narkelberia Uprising (1782-1831, West Bengal)",
+      "front": "Narkelberia Uprising (1782-1831) location?",
+      "back": "West Bengal. Leaders: Mir Nithar Ali (Titu Mir)"
+    },
+    {
+      "id": "fc008",
+      "category": "Narkelberia Uprising (1782-1831, West Bengal)",
+      "front": "Narkelberia Uprising cause?",
+      "back": "Muslim tenants' resistance against Hindu landlords imposing beard tax on Faraizis. Opposition to British Indigo planters"
+    },
+    {
+      "id": "fc009",
+      "category": "Narkelberia Uprising (1782-1831, West Bengal)",
+      "front": "Narkelberia Uprising nature?",
+      "back": "Armed uprising, considered the first peasant revolt against the British"
+    },
+    {
+      "id": "fc010",
+      "category": "Narkelberia Uprising (1782-1831, West Bengal)",
+      "front": "Narkelberia Uprising evolution?",
+      "back": "Transformed into religious conflict, merging with Wahabi Movement. The Wahabi Movement had broader religious and socio-political aims"
+    },
+    {
+      "id": "fc011",
+      "category": "Pagal Panthis (1825-1833, Mymensingh)",
+      "front": "Pagal Panthis (Hajong and Garo tribes) period?",
+      "back": "1825-1833, Mymensingh, earlier in Bengal. Leaders: Karam Shah and Tipu Shah"
+    },
+    {
+      "id": "fc012",
+      "category": "Pagal Panthis (1825-1833, Mymensingh)",
+      "front": "Pagal Panthis cause?",
+      "back": "Resistance against zamindar oppression and unjust rent claims. Movement aimed at shielding peasants from exploitation by zamindars"
+    },
+    {
+      "id": "fc013",
+      "category": "Pagal Panthis (1825-1833, Mymensingh)",
+      "front": "Pagal Panthis nature?",
+      "back": "Semi-religious peasant uprising led by religious mendicants, the Pagal Panthis"
+    },
+    {
+      "id": "fc014",
+      "category": "Pagal Panthis (1825-1833, Mymensingh)",
+      "front": "Pagal Panthis outcome?",
+      "back": "Government responded with rent reduction and other concessions. Movement divided, leading to return of peace. Tipu Shah and insurgents were apprehended and tried by British"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Sanyasi Revolt (1763-1800) was triggered by?",
+        "options": [
+          "Land revenue",
+          "British restrictions on pilgrimages to sacred sites",
+          "Salt tax",
+          "Forest policies"
+        ],
+        "correct": 1,
+        "explanation": "Sanyasi Revolt caused by British restrictions on pilgrimages to sacred Hindu and Muslim sites; Bengal Famine 1770 sparked discontent."
+      },
+      {
+        "id": "mcq002",
+        "question": "Sanyasi Revolt participants included?",
+        "options": [
+          "Only zamindars",
+          "Landless peasants, displaced zamindars, disbanded soldiers, impoverished masses",
+          "Only soldiers",
+          "Only monks"
+        ],
+        "correct": 1,
+        "explanation": "Sanyasi Revolt involved landless peasants, displaced zamindars, disbanded soldiers, impoverished masses; active involvement of Sanyasis and Fakirs."
+      },
+      {
+        "id": "mcq003",
+        "question": "Sanyasi Revolt leaders?",
+        "options": [
+          "Only Maznoom Shah",
+          "Maznoom Shah, Bhawani Pathak, Devi Choudhurani",
+          "Only Bhawani Pathak",
+          "Titu Mir"
+        ],
+        "correct": 1,
+        "explanation": "Sanyasi Revolt led by Maznoom Shah, Bhawani Pathak, and Devi Choudhurani."
+      },
+      {
+        "id": "mcq004",
+        "question": "Bankim Chandra's novel capturing Sanyasi Revolt?",
+        "options": [
+          "Durgeshnandini",
+          "Anandmath",
+          "Kapalkundala",
+          "Devi Chaudhurani"
+        ],
+        "correct": 1,
+        "explanation": "Bankim Chandra Chattopadhyay's novel Anandmath captured Sanyasi Revolt's essence."
+      },
+      {
+        "id": "mcq005",
+        "question": "Narkelberia Uprising (1782-1831) leader?",
+        "options": [
+          "Maznoom Shah",
+          "Mir Nithar Ali (Titu Mir)",
+          "Karam Shah",
+          "Tipu Shah"
+        ],
+        "correct": 1,
+        "explanation": "Narkelberia Uprising led by Mir Nithar Ali (Titu Mir) in West Bengal."
+      },
+      {
+        "id": "mcq006",
+        "question": "Narkelberia Uprising unique cause?",
+        "options": [
+          "Land revenue",
+          "Hindu landlords imposing beard tax on Faraizis",
+          "Salt tax",
+          "Forest policies"
+        ],
+        "correct": 1,
+        "explanation": "Narkelberia Uprising caused by Muslim tenants resisting Hindu landlords imposing beard tax on Faraizis; opposition to British Indigo planters."
+      },
+      {
+        "id": "mcq007",
+        "question": "Narkelberia Uprising significance?",
+        "options": [
+          "Last peasant revolt",
+          "First peasant revolt against British (armed uprising)",
+          "Only religious movement",
+          "Only tribal movement"
+        ],
+        "correct": 1,
+        "explanation": "Narkelberia Uprising was armed uprising, considered first peasant revolt against British."
+      },
+      {
+        "id": "mcq008",
+        "question": "Narkelberia merged with which movement?",
+        "options": [
+          "Sanyasi Revolt",
+          "Wahabi Movement",
+          "Pagal Panthis",
+          "Faraizi Movement"
+        ],
+        "correct": 1,
+        "explanation": "Narkelberia transformed into religious conflict, merging with Wahabi Movement which had broader religious and socio-political aims."
+      },
+      {
+        "id": "mcq009",
+        "question": "Pagal Panthis period?",
+        "options": [
+          "1763-1800",
+          "1782-1831",
+          "1825-1833",
+          "1840-1850"
+        ],
+        "correct": 2,
+        "explanation": "Pagal Panthis of Hajong and Garo tribes occurred 1825-1833, Mymensingh, earlier in Bengal."
+      },
+      {
+        "id": "mcq010",
+        "question": "Pagal Panthis leaders?",
+        "options": [
+          "Titu Mir",
+          "Maznoom Shah",
+          "Karam Shah and Tipu Shah",
+          "Bhawani Pathak"
+        ],
+        "correct": 2,
+        "explanation": "Pagal Panthis led by Karam Shah and Tipu Shah."
+      },
+      {
+        "id": "mcq011",
+        "question": "Pagal Panthis nature?",
+        "options": [
+          "Purely military",
+          "Semi-religious peasant uprising led by religious mendicants",
+          "Only tribal",
+          "Only economic"
+        ],
+        "correct": 1,
+        "explanation": "Pagal Panthis was semi-religious peasant uprising led by religious mendicants, the Pagal Panthis."
+      },
+      {
+        "id": "mcq012",
+        "question": "Pagal Panthis outcome?",
+        "options": [
+          "Complete success",
+          "Government rent reduction, movement divided, leaders apprehended",
+          "Merged with other movements",
+          "Continued indefinitely"
+        ],
+        "correct": 1,
+        "explanation": "Government responded with rent reduction and concessions; movement divided, leading to peace. Tipu Shah and insurgents apprehended and tried by British."
+      }
+    ],
+    "comprehensive": []
+  }
+}
