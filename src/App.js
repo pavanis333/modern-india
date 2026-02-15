@@ -41,6 +41,7 @@ import muslimReformData from './data/muslim-reform-movements.json';
 import sikhParsiReformData from './data/sikh-parsi-reform-movements.json';
 import civilRebellionsData from './data/civil-rebellions-glance.json';
 import tribalRevoltsData from './data/tribal-revolts-glance.json';
+import tribalRevoltsPhase2Data from './data/tribal-revolts-second-phase.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -331,6 +332,12 @@ function App() {
           title: 'Tribal Revolts at a Glance',
           description: 'Disruption of agrarian order (UPSC 2011): Pahariya, Tilka Manjhi, Santhal, Bhil, Ramosi, Ahom, more',
           data: tribalRevoltsData
+        },
+        {
+          id: 'tribal-revolts-second-phase',
+          title: 'Tribal Revolts - Second Phase (1860-1920)',
+          description: 'Birsa Munda (Ulgulan), Koya, Khonda Dora, Bastar, Tana Bhagat movements',
+          data: tribalRevoltsPhase2Data
         }
       ]
     }

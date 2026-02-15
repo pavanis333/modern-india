@@ -1,0 +1,209 @@
+{
+  "topic": "People's Resistance Against the British",
+  "subtopic": "Tribal Revolts - Second Phase (1860-1920)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Second Phase (1860-1920)",
+      "front": "Ho and Munda Revolt (1820-37, 1890s)?",
+      "back": "Singhbhum & Ranchi, Chotanagpur. Leader: Raja of Parahat (Ho), Birsa Munda. Context: 1765 Chotanagpur came under British control as part of Bengal, Bihar, Orissa. Raja of Singhbhum initially sought protection from British in 1767 but acknowledged British feudal control in 1820. The Hos initially allied with British, eventually broke alliance and united with Mundas, leading to Kol Uprising (1831-33). Rebellion targeted dikkus (non-Adivasi landowners) through violence, including burning of houses and significant casualties. British land policies undermined traditional system, such as Khuntkatti system (joint tenures), and missionary activities undermined their traditional culture. Exploitation of land by moneylenders intensified suffering. Birsa Munda (1890s) became prominent leader, promoting social reforms like abstinence from alcohol and witchcraft, cleanliness, social reforms. Led armed rebellion against British authorities with goal to liberate tribal communities from British oppression and exploitation. Impact: The Ulgulan movement severely shook British rule in region. Chotanagpur Tenancy Act (1908) enacted to protect tribal rights. Legacy: Birsa Munda revered as tribal hero and symbol of resistance against colonial oppression"
+    },
+    {
+      "id": "fc002",
+      "category": "Second Phase (1860-1920)",
+      "front": "Naikada Movement (1860s)?",
+      "back": "Madhya Pradesh & Gujarat. Leader: Unspecified. Revolt against British authority and upper-caste Hindus. Tribal areas resisted increasing dominance of British and upper-caste interests. Focused on challenging colonial and caste oppression in these regions"
+    },
+    {
+      "id": "fc003",
+      "category": "Second Phase (1860-1920)",
+      "front": "Kharwar Rebellion (1870s)?",
+      "back": "Bihar. Leader: Unspecified. Kharwar tribes revolted to assert traditional rights and resist British revenue policies. Focused on opposition to British revenue settlement activities"
+    },
+    {
+      "id": "fc004",
+      "category": "Second Phase (1860-1920)",
+      "front": "Bhuyan and Juang Rebellions (Late 19th to early 20th century)?",
+      "back": "Odisha. Leader: Ratna Nayak, Dharma Dhar Nayak. Resistance against British-imposed forest policies. Bhuyan and Juang tribes resisted British encroachment and restrictive policies on tribal forests"
+    },
+    {
+      "id": "fc005",
+      "category": "Second Phase (1860-1920)",
+      "front": "Bokta Rising (1858-1895)?",
+      "back": "Chotanagpur. Leader: Unspecified. Extended period of revolts by Bokta community against British policies and land exploitation. Community fought for land rights and against colonial policies"
+    },
+    {
+      "id": "fc006",
+      "category": "Second Phase (1860-1920)",
+      "front": "Koya Rebellion (1879-80)?",
+      "back": "Eastern Godavari tract of Andhra Pradesh and Malkangiri region in Odisha. Leader: Tomma Dora. Erosion of customary rights over forests, heavy taxes on timber and grazing, police exactions, exploitations by moneylenders, along with new excise regulations on toddy production. Tomma Dora led major revolt in 1880, seizing a police station, defeating British contingent, gaining title 'King' of Malkangiri. Following Tomma Dora's demise, Raja Anantayyar organised another revolt in 1886"
+    },
+    {
+      "id": "fc007",
+      "category": "Second Phase (1860-1920)",
+      "front": "Khonda Dora Campaign (1900)?",
+      "back": "Dabur Region, Visakhapatnam. Leader: Korra Mallaya. Korra Mallaya organised Khonda Doras to oppose British incursions in region. Led mobilisation efforts to protect local resources, autonomy, and resist British exploitation"
+    },
+    {
+      "id": "fc008",
+      "category": "Second Phase (1860-1920)",
+      "front": "Bastar Revolt (1910)?",
+      "back": "Jagdalpur. Leader: Unspecified. Significant tribal uprising against feudal exploitation and forest levies. Tribes protested colonial exploitation and feudal structures that infringed on tribal land rights"
+    },
+    {
+      "id": "fc009",
+      "category": "Second Phase (1860-1920)",
+      "front": "Tana Bhagat Movement (1914-1920)?",
+      "back": "Oraon tribes, Chotanagpur, Jharkhand. Leaders: Jatra Bhagat/Balram bhagat. Economic exploitation by landlords, moneylenders, and British. Swaraj (freedom) signified liberation from British oppression and local exploitation. Focused on eradicating social practices like worship of ghosts, spirits, exorcism. Influenced by Mahatma Gandhi's non-violence and satyagraha philosophy. Jatra Bhagat, claiming divine ordination, led movement which started in 1914. Used non-violent methods such as satyagraha, influencing resistance before Gandhi's Non-Cooperation Movement. Movement became significant part of tribal resistance. In 1921, Tana Bhagats allied with Congress, strengthening wider independence struggle"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Ho and Munda Revolt prominent 1890s leader?",
+        "options": [
+          "Raja of Parahat",
+          "Birsa Munda",
+          "Tilka Manjhi",
+          "Sidhu Murmu"
+        ],
+        "correct": 1,
+        "explanation": "Birsa Munda (1890s) became prominent leader, promoting social reforms and leading armed rebellion (Ulgulan movement)."
+      },
+      {
+        "id": "mcq002",
+        "question": "Ulgulan movement was led by?",
+        "options": [
+          "Tilka Manjhi",
+          "Birsa Munda",
+          "Jatra Bhagat",
+          "Tomma Dora"
+        ],
+        "correct": 1,
+        "explanation": "Birsa Munda led the Ulgulan movement which severely shook British rule in Chotanagpur region."
+      },
+      {
+        "id": "mcq003",
+        "question": "Chotanagpur Tenancy Act was enacted in?",
+        "options": [
+          "1890",
+          "1900",
+          "1908",
+          "1920"
+        ],
+        "correct": 2,
+        "explanation": "Chotanagpur Tenancy Act (1908) was enacted to protect tribal rights after the Ulgulan movement."
+      },
+      {
+        "id": "mcq004",
+        "question": "Naikada Movement (1860s) was against?",
+        "options": [
+          "Only British",
+          "British authority and upper-caste Hindus",
+          "Only landlords",
+          "Only missionaries"
+        ],
+        "correct": 1,
+        "explanation": "Naikada Movement (1860s, Madhya Pradesh & Gujarat) revolted against British authority and upper-caste Hindus."
+      },
+      {
+        "id": "mcq005",
+        "question": "Kharwar Rebellion (1870s) focused on?",
+        "options": [
+          "Religious freedom",
+          "Opposition to British revenue settlement activities",
+          "Forest rights only",
+          "Trade rights"
+        ],
+        "correct": 1,
+        "explanation": "Kharwar Rebellion (1870s, Bihar) focused on opposition to British revenue settlement activities."
+      },
+      {
+        "id": "mcq006",
+        "question": "Bhuyan and Juang Rebellions resisted what?",
+        "options": [
+          "Revenue policies",
+          "British-imposed forest policies",
+          "Caste system",
+          "Religious conversion"
+        ],
+        "correct": 1,
+        "explanation": "Bhuyan and Juang tribes (late 19th-early 20th century, Odisha) resisted British-imposed forest policies."
+      },
+      {
+        "id": "mcq007",
+        "question": "Bokta Rising (1858-1895) fought for?",
+        "options": [
+          "Religious freedom",
+          "Land rights against British policies",
+          "Trade rights",
+          "Educational access"
+        ],
+        "correct": 1,
+        "explanation": "Bokta community (1858-1895, Chotanagpur) fought for land rights and against colonial policies."
+      },
+      {
+        "id": "mcq008",
+        "question": "Koya Rebellion (1879-80) leader?",
+        "options": [
+          "Birsa Munda",
+          "Tomma Dora",
+          "Korra Mallaya",
+          "Jatra Bhagat"
+        ],
+        "correct": 1,
+        "explanation": "Tomma Dora led Koya Rebellion (1879-80) in Eastern Godavari/Malkangiri; seized police station, gained title 'King' of Malkangiri."
+      },
+      {
+        "id": "mcq009",
+        "question": "Khonda Dora Campaign (1900) leader?",
+        "options": [
+          "Tomma Dora",
+          "Korra Mallaya",
+          "Raja Anantayyar",
+          "Birsa Munda"
+        ],
+        "correct": 1,
+        "explanation": "Korra Mallaya led Khonda Dora Campaign (1900, Dabur Region, Visakhapatnam) to oppose British incursions."
+      },
+      {
+        "id": "mcq010",
+        "question": "Bastar Revolt (1910) was against?",
+        "options": [
+          "Only forest levies",
+          "Feudal exploitation and forest levies",
+          "Only revenue policies",
+          "Only missionaries"
+        ],
+        "correct": 1,
+        "explanation": "Bastar Revolt (1910, Jagdalpur) was against feudal exploitation and forest levies."
+      },
+      {
+        "id": "mcq011",
+        "question": "Tana Bhagat Movement (1914-1920) was influenced by?",
+        "options": [
+          "Tilak's philosophy",
+          "Gandhi's non-violence and satyagraha",
+          "Revolutionary violence",
+          "British reforms"
+        ],
+        "correct": 1,
+        "explanation": "Tana Bhagat Movement (Oraon tribes, Chotanagpur) influenced by Mahatma Gandhi's non-violence and satyagraha philosophy."
+      },
+      {
+        "id": "mcq012",
+        "question": "Tana Bhagats allied with Congress in?",
+        "options": [
+          "1914",
+          "1920",
+          "1921",
+          "1930"
+        ],
+        "correct": 2,
+        "explanation": "In 1921, Tana Bhagats allied with Congress, strengthening wider independence struggle."
+      }
+    ],
+    "comprehensive": []
+  }
+}
