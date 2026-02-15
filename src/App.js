@@ -39,6 +39,7 @@ import hinduOrgsData from './data/hindu-reform-organizations.json';
 import socialReformLateData from './data/social-reform-late-19th-20th.json';
 import muslimReformData from './data/muslim-reform-movements.json';
 import sikhParsiReformData from './data/sikh-parsi-reform-movements.json';
+import civilRebellionsData from './data/civil-rebellions-glance.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -310,6 +311,19 @@ function App() {
           title: 'Socio-Cultural Reform Movements Among Sikhs and Parsis',
           description: 'Namdhari/Kuka, Singh Sabha, Akali (Sikh); Nirankari, Rehnumai Mazdayasnan Sabha (Parsi)',
           data: sikhParsiReformData
+        }
+      ]
+    },
+    {
+      id: 'peoples-resistance',
+      title: "People's Resistance Against the British",
+      description: 'Civil rebellions, uprisings, and revolts across India (1763-1844)',
+      subtopics: [
+        {
+          id: 'civil-rebellions-glance',
+          title: 'Important Civil Rebellions at a Glance',
+          description: '22 major rebellions: Sanyasi, Poligars, Pazhassi Raja, Vellore Mutiny, Paika, Wahabi, more (1763-1844)',
+          data: civilRebellionsData
         }
       ]
     }
