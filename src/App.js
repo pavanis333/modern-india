@@ -22,6 +22,7 @@ import rohilkhandData from './data/rohilkhand-farrukhabad.json';
 import rajputsData from './data/rajputs.json';
 import jatsData from './data/jats.json';
 import artArchData from './data/art-architecture-literature.json';
+import eduTradeData from './data/education-trade-shipbuilding.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -142,6 +143,12 @@ function App() {
           title: 'Art, Architecture, and Literature (18th Century)',
           description: 'Bara Imambara, Jaipur observatories, regional literature (Urdu, Malayalam, Tamil, Punjabi, Sindhi)',
           data: artArchData
+        },
+        {
+          id: 'edu-trade-ship',
+          title: 'Education, Trade, and Shipbuilding (18th Century)',
+          description: 'Traditional education system, textile hubs, imports/exports, shipbuilding centres',
+          data: eduTradeData
         }
       ]
     }
