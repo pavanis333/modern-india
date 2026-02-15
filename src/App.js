@@ -46,6 +46,7 @@ import tribalRevoltsPhase3Data from './data/tribal-revolts-third-phase.json';
 import pre1857MutiniesData from './data/pre-1857-mutinies.json';
 import peasantMovementsPhase1Data from './data/peasant-movements-first-phase.json';
 import peasantMovementsPhase2Data from './data/peasant-movements-second-phase.json';
+import peasantMobilizationProvincesData from './data/peasant-mobilization-provinces.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -366,6 +367,12 @@ function App() {
           title: 'Peasant Movements After 1857 - Second Phase',
           description: 'Indigo, Deccan, Pabna, Champaran, Kheda, Bardoli, Kisan Sabha, Tebhaga, Telangana (15 movements)',
           data: peasantMovementsPhase2Data
+        },
+        {
+          id: 'peasant-mobilization-provinces',
+          title: 'Peasant Mobilization Across Indian Provinces',
+          description: 'Kerala (Malabar Act), Andhra (India Peasants Institute/N.G. Ranga), Bihar (Kisan Sabha), Punjab (Kirti Kisan), AIKS Split',
+          data: peasantMobilizationProvincesData
         }
       ]
     }
