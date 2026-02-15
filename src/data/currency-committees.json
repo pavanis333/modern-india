@@ -1,0 +1,179 @@
+{
+  "topic": "British Policies and their Economic Impacts",
+  "subtopic": "Currency - Committees",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Currency Committees",
+      "front": "Herschell Committee (1893)?",
+      "back": "Chairman: Herschell. Objectives: To provide suggestions regarding currency. Governor General/Viceroy: Lord Lansdowne"
+    },
+    {
+      "id": "fc002",
+      "category": "Currency Committees",
+      "front": "Henry Fowler Commission (1898)?",
+      "back": "Chairman: H. Fowler. Objectives: To provide suggestions on currency. Governor General/Viceroy: Lord Elgin"
+    },
+    {
+      "id": "fc003",
+      "category": "Currency Committees",
+      "front": "Babington Smith Commission (1919)?",
+      "back": "Chairman: Babington Smith. Objectives: To investigate the state of Indian currency and suggest reforms. Governor General/Viceroy: Lord Chelmsford"
+    },
+    {
+      "id": "fc004",
+      "category": "Currency Committees",
+      "front": "Hilton Young Commission (1926)?",
+      "back": "Chairman: Edward Hilton Young. Objectives: To review currency policies. Governor General/Viceroy: Reading"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Herschell Committee (1893) chairman?",
+        "options": [
+          "Herschell",
+          "H. Fowler",
+          "Babington Smith",
+          "Edward Hilton Young"
+        ],
+        "correct": 0,
+        "explanation": "Herschell Committee (1893) chaired by Herschell."
+      },
+      {
+        "id": "mcq002",
+        "question": "Herschell Committee (1893) objective?",
+        "options": [
+          "Investigate currency state",
+          "To provide suggestions regarding currency",
+          "Review currency policies",
+          "Suggest reforms"
+        ],
+        "correct": 1,
+        "explanation": "Herschell Committee (1893) aimed to provide suggestions regarding currency."
+      },
+      {
+        "id": "mcq003",
+        "question": "Herschell Committee (1893) - Viceroy?",
+        "options": [
+          "Lord Lansdowne",
+          "Lord Elgin",
+          "Lord Chelmsford",
+          "Reading"
+        ],
+        "correct": 0,
+        "explanation": "Herschell Committee (1893) during Lord Lansdowne's tenure."
+      },
+      {
+        "id": "mcq004",
+        "question": "Henry Fowler Commission (1898) chairman?",
+        "options": [
+          "Herschell",
+          "H. Fowler",
+          "Babington Smith",
+          "Edward Hilton Young"
+        ],
+        "correct": 1,
+        "explanation": "Henry Fowler Commission (1898) chaired by H. Fowler."
+      },
+      {
+        "id": "mcq005",
+        "question": "Henry Fowler Commission (1898) - Viceroy?",
+        "options": [
+          "Lord Lansdowne",
+          "Lord Elgin",
+          "Lord Chelmsford",
+          "Reading"
+        ],
+        "correct": 1,
+        "explanation": "Henry Fowler Commission (1898) during Lord Elgin's tenure."
+      },
+      {
+        "id": "mcq006",
+        "question": "Babington Smith Commission (1919) chairman?",
+        "options": [
+          "Herschell",
+          "H. Fowler",
+          "Babington Smith",
+          "Edward Hilton Young"
+        ],
+        "correct": 2,
+        "explanation": "Babington Smith Commission (1919) chaired by Babington Smith."
+      },
+      {
+        "id": "mcq007",
+        "question": "Babington Smith Commission (1919) objective?",
+        "options": [
+          "Provide suggestions",
+          "To investigate the state of Indian currency and suggest reforms",
+          "Review policies",
+          "Only investigate"
+        ],
+        "correct": 1,
+        "explanation": "Babington Smith Commission (1919) aimed to investigate the state of Indian currency and suggest reforms."
+      },
+      {
+        "id": "mcq008",
+        "question": "Babington Smith Commission (1919) - Viceroy?",
+        "options": [
+          "Lord Lansdowne",
+          "Lord Elgin",
+          "Lord Chelmsford",
+          "Reading"
+        ],
+        "correct": 2,
+        "explanation": "Babington Smith Commission (1919) during Lord Chelmsford's tenure."
+      },
+      {
+        "id": "mcq009",
+        "question": "Hilton Young Commission (1926) chairman?",
+        "options": [
+          "Herschell",
+          "H. Fowler",
+          "Babington Smith",
+          "Edward Hilton Young"
+        ],
+        "correct": 3,
+        "explanation": "Hilton Young Commission (1926) chaired by Edward Hilton Young."
+      },
+      {
+        "id": "mcq010",
+        "question": "Hilton Young Commission (1926) objective?",
+        "options": [
+          "Provide suggestions",
+          "Investigate state",
+          "To review currency policies",
+          "Suggest reforms"
+        ],
+        "correct": 2,
+        "explanation": "Hilton Young Commission (1926) aimed to review currency policies."
+      },
+      {
+        "id": "mcq011",
+        "question": "Hilton Young Commission (1926) - Viceroy?",
+        "options": [
+          "Lord Lansdowne",
+          "Lord Elgin",
+          "Lord Chelmsford",
+          "Reading"
+        ],
+        "correct": 3,
+        "explanation": "Hilton Young Commission (1926) during Reading's tenure (Lord Reading)."
+      },
+      {
+        "id": "mcq012",
+        "question": "Which commission investigated Indian currency state and suggested reforms?",
+        "options": [
+          "Herschell (1893)",
+          "Henry Fowler (1898)",
+          "Babington Smith (1919)",
+          "Hilton Young (1926)"
+        ],
+        "correct": 2,
+        "explanation": "Babington Smith Commission (1919) investigated the state of Indian currency and suggested reforms."
+      }
+    ],
+    "comprehensive": []
+  }
+}

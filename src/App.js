@@ -57,6 +57,7 @@ import governanceCommitteesData from './data/governance-committees.json';
 import economicCommissionsData from './data/economic-commissions.json';
 import famineCommissionsData from './data/famine-commissions.json';
 import lawCommissionsData from './data/law-commissions.json';
+import currencyCommitteesData from './data/currency-committees.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -450,6 +451,12 @@ function App() {
           title: 'Law - Commissions',
           description: 'Macaulay (1834 Penal/Criminal Procedure), Romilly (1853 Civil Procedure/Contract, 1861 Evidence/Transfer), Stokes (1879 Negotiable Instruments/Trusts)',
           data: lawCommissionsData
+        },
+        {
+          id: 'currency-committees',
+          title: 'Currency - Committees',
+          description: 'Herschell (1893 Lansdowne), Fowler (1898 Elgin), Babington Smith (1919 Chelmsford reforms), Hilton Young (1926 Reading review)',
+          data: currencyCommitteesData
         }
       ]
     }
