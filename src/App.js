@@ -35,6 +35,7 @@ import womensIssuesData from './data/womens-issues-and-reforms.json';
 import womenMovementsData from './data/women-movements-personalities.json';
 import lowerCasteData from './data/lower-caste-movements.json';
 import hinduReformData from './data/hindu-reform-movements.json';
+import hinduOrgsData from './data/hindu-reform-organizations.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -282,6 +283,12 @@ function App() {
           title: 'Socio-Cultural Reform Movements Among Hindus',
           description: 'Swaminarayan Sampraday, Brahmo Samaj (Adi/Samaj of India/Sadharan), Paramahansa Mandali',
           data: hinduReformData
+        },
+        {
+          id: 'hindu-reform-organizations',
+          title: 'Hindu Reform Organizations and Societies',
+          description: 'Young Bengal, Dharma Sabha, Tattvabodhini, Prarthana Samaj, Arya Samaj, Theosophical Society, more',
+          data: hinduOrgsData
         }
       ]
     }
