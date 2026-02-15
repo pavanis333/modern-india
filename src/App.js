@@ -45,6 +45,7 @@ import tribalRevoltsPhase2Data from './data/tribal-revolts-second-phase.json';
 import tribalRevoltsPhase3Data from './data/tribal-revolts-third-phase.json';
 import pre1857MutiniesData from './data/pre-1857-mutinies.json';
 import peasantMovementsPhase1Data from './data/peasant-movements-first-phase.json';
+import peasantMovementsPhase2Data from './data/peasant-movements-second-phase.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -359,6 +360,12 @@ function App() {
           title: 'Peasant Movements Before 1857 - First Phase',
           description: 'Sanyasi Revolt, Narkelberia/Titu Mir (beard tax, Wahabi), Pagal Panthis (Hajong/Garo)',
           data: peasantMovementsPhase1Data
+        },
+        {
+          id: 'peasant-movements-second-phase',
+          title: 'Peasant Movements After 1857 - Second Phase',
+          description: 'Indigo, Deccan, Pabna, Champaran, Kheda, Bardoli, Kisan Sabha, Tebhaga, Telangana (15 movements)',
+          data: peasantMovementsPhase2Data
         }
       ]
     }
