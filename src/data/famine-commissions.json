@@ -1,0 +1,185 @@
+{
+  "topic": "British Policies and their Economic Impacts",
+  "subtopic": "Famine - Commissions",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Famine Commissions",
+      "front": "Famine Inquiry Commission (1943-44)?",
+      "back": "Chairman: John Woodhead. Objectives: To investigate the events of the Bengal famine of 1943. Governor General/Viceroy: Lord Wavell"
+    },
+    {
+      "id": "fc002",
+      "category": "Famine Commissions",
+      "front": "Campbell Commission (1866)?",
+      "back": "Chairman: Sir George Campbell. Objectives: To investigate the causes of famine in Odisha and suggest ways to prevent its recurrence. It blamed the government machinery for the tragedy and suggested relief measures. Governor General/Viceroy: Lord Lawrence"
+    },
+    {
+      "id": "fc003",
+      "category": "Famine Commissions",
+      "front": "Strachey Commission (1880)?",
+      "back": "Chairman: Richard Strachey. Objectives: To provide recommendations, including the formulation of a Famine Code, development of irrigation facilities, suspension of land revenue collection during famines, collection of data about Indian agriculture and peasantry, and establishment of a Famine fund. Governor General/Viceroy: Lord Lytton"
+    },
+    {
+      "id": "fc004",
+      "category": "Famine Commissions",
+      "front": "Lyall Commission (1897)?",
+      "back": "Chairman: James Lyall. Objectives: To recommend the development of irrigation facilities. Governor General/Viceroy: Lord Elgin"
+    },
+    {
+      "id": "fc005",
+      "category": "Famine Commissions",
+      "front": "MacDonnell Commission (1900)?",
+      "back": "Chairman: Anthony MacDonnell. Objectives: To recommend changes based on findings from recent famines, emphasising that the official machinery dealing with a famine must operate year-round to control food grain scarcity effectively. Governor General/Viceroy: Lord Curzon"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Famine Inquiry Commission (1943-44) chairman?",
+        "options": [
+          "John Woodhead",
+          "Sir George Campbell",
+          "Richard Strachey",
+          "James Lyall"
+        ],
+        "correct": 0,
+        "explanation": "Famine Inquiry Commission (1943-44) chaired by John Woodhead."
+      },
+      {
+        "id": "mcq002",
+        "question": "Famine Inquiry Commission (1943-44) investigated?",
+        "options": [
+          "Odisha famine",
+          "Bengal famine of 1943",
+          "General famine code",
+          "Irrigation"
+        ],
+        "correct": 1,
+        "explanation": "Famine Inquiry Commission (1943-44) investigated the events of the Bengal famine of 1943."
+      },
+      {
+        "id": "mcq003",
+        "question": "Famine Inquiry Commission (1943-44) - Viceroy?",
+        "options": [
+          "Lord Curzon",
+          "Lord Elgin",
+          "Lord Wavell",
+          "Lord Lawrence"
+        ],
+        "correct": 2,
+        "explanation": "Famine Inquiry Commission (1943-44) during Lord Wavell's tenure."
+      },
+      {
+        "id": "mcq004",
+        "question": "Campbell Commission (1866) investigated famine in?",
+        "options": [
+          "Bengal",
+          "Odisha",
+          "UP",
+          "Bihar"
+        ],
+        "correct": 1,
+        "explanation": "Campbell Commission (1866) investigated the causes of famine in Odisha."
+      },
+      {
+        "id": "mcq005",
+        "question": "Campbell Commission (1866) blamed?",
+        "options": [
+          "Peasants",
+          "The government machinery for the tragedy",
+          "Weather only",
+          "Local officials only"
+        ],
+        "correct": 1,
+        "explanation": "Campbell Commission (1866) blamed the government machinery for the tragedy and suggested relief measures."
+      },
+      {
+        "id": "mcq006",
+        "question": "Strachey Commission (1880) chairman?",
+        "options": [
+          "John Woodhead",
+          "Sir George Campbell",
+          "Richard Strachey",
+          "James Lyall"
+        ],
+        "correct": 2,
+        "explanation": "Strachey Commission (1880) chaired by Richard Strachey."
+      },
+      {
+        "id": "mcq007",
+        "question": "Strachey Commission (1880) key recommendation?",
+        "options": [
+          "Only irrigation",
+          "Formulation of a Famine Code, irrigation, suspension of land revenue, data collection, Famine fund",
+          "Only revenue suspension",
+          "Only relief measures"
+        ],
+        "correct": 1,
+        "explanation": "Strachey Commission (1880) recommended formulation of Famine Code, development of irrigation, suspension of land revenue during famines, data collection, and establishment of Famine fund."
+      },
+      {
+        "id": "mcq008",
+        "question": "Strachey Commission (1880) - Viceroy?",
+        "options": [
+          "Lord Lawrence",
+          "Lord Lytton",
+          "Lord Elgin",
+          "Lord Curzon"
+        ],
+        "correct": 1,
+        "explanation": "Strachey Commission (1880) during Lord Lytton's tenure."
+      },
+      {
+        "id": "mcq009",
+        "question": "Lyall Commission (1897) objective?",
+        "options": [
+          "Investigate Odisha",
+          "To recommend the development of irrigation facilities",
+          "Formulate Famine Code",
+          "Investigate Bengal"
+        ],
+        "correct": 1,
+        "explanation": "Lyall Commission (1897) aimed to recommend the development of irrigation facilities."
+      },
+      {
+        "id": "mcq010",
+        "question": "MacDonnell Commission (1900) chairman?",
+        "options": [
+          "John Woodhead",
+          "Anthony MacDonnell",
+          "Richard Strachey",
+          "James Lyall"
+        ],
+        "correct": 1,
+        "explanation": "MacDonnell Commission (1900) chaired by Anthony MacDonnell."
+      },
+      {
+        "id": "mcq011",
+        "question": "MacDonnell Commission (1900) key emphasis?",
+        "options": [
+          "Only irrigation",
+          "Official machinery must operate year-round to control food grain scarcity effectively",
+          "Only Famine Code",
+          "Only relief"
+        ],
+        "correct": 1,
+        "explanation": "MacDonnell Commission (1900) emphasized that official machinery dealing with famine must operate year-round to control food grain scarcity effectively."
+      },
+      {
+        "id": "mcq012",
+        "question": "MacDonnell Commission (1900) - Viceroy?",
+        "options": [
+          "Lord Lytton",
+          "Lord Elgin",
+          "Lord Curzon",
+          "Lord Wavell"
+        ],
+        "correct": 2,
+        "explanation": "MacDonnell Commission (1900) during Lord Curzon's tenure."
+      }
+    ],
+    "comprehensive": []
+  }
+}

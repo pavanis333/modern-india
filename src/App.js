@@ -55,6 +55,7 @@ import agricultureIrrigationCommitteesData from './data/agriculture-irrigation-c
 import educationCommitteesData from './data/education-committees.json';
 import governanceCommitteesData from './data/governance-committees.json';
 import economicCommissionsData from './data/economic-commissions.json';
+import famineCommissionsData from './data/famine-commissions.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -436,6 +437,12 @@ function App() {
           title: 'Economic Commissions and Committees',
           description: 'Whitley (1929 labour), Sapru (1935 unemployment UP), National Planning (1938 Nehru/Congress), Chatfield (1939 army), Floud (1940 tenancy Bengal)',
           data: economicCommissionsData
+        },
+        {
+          id: 'famine-commissions',
+          title: 'Famine - Commissions',
+          description: 'Campbell (1866 Odisha), Strachey (1880 Famine Code), Lyall (1897 irrigation), MacDonnell (1900 year-round), Woodhead (1943-44 Bengal)',
+          data: famineCommissionsData
         }
       ]
     }
