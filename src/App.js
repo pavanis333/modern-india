@@ -40,6 +40,7 @@ import socialReformLateData from './data/social-reform-late-19th-20th.json';
 import muslimReformData from './data/muslim-reform-movements.json';
 import sikhParsiReformData from './data/sikh-parsi-reform-movements.json';
 import civilRebellionsData from './data/civil-rebellions-glance.json';
+import tribalRevoltsData from './data/tribal-revolts-glance.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -324,6 +325,12 @@ function App() {
           title: 'Important Civil Rebellions at a Glance',
           description: '22 major rebellions: Sanyasi, Poligars, Pazhassi Raja, Vellore Mutiny, Paika, Wahabi, more (1763-1844)',
           data: civilRebellionsData
+        },
+        {
+          id: 'tribal-revolts-glance',
+          title: 'Tribal Revolts at a Glance',
+          description: 'Disruption of agrarian order (UPSC 2011): Pahariya, Tilka Manjhi, Santhal, Bhil, Ramosi, Ahom, more',
+          data: tribalRevoltsData
         }
       ]
     }
