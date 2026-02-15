@@ -1,0 +1,497 @@
+{
+  "topic": "Evolution of Education and Press",
+  "subtopic": "Newspapers and Journals (1780-1936)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Newspapers and Journals",
+      "front": "Bengal Gazette / Original Calcutta General Advertiser (1780)?",
+      "back": "Founder: James Augustus Hickey. Place: Calcutta. Spread: Bengal, Bihar, Orissa. First newspaper published in India in English. Known for independent journalism and outspoken criticism of British East India Company"
+    },
+    {
+      "id": "fc002",
+      "category": "Newspapers and Journals",
+      "front": "Madras Courier (1784/85)?",
+      "back": "Founder: Richard Johnston. Place: Madras. First newspaper to be published from Madras"
+    },
+    {
+      "id": "fc003",
+      "category": "Newspapers and Journals",
+      "front": "Herald (1789)?",
+      "back": "Place: Bombay. First newspaper to be published from Bombay. In English, came with title Indian Herald"
+    },
+    {
+      "id": "fc004",
+      "category": "Newspapers and Journals",
+      "front": "Bengal Gazette (1818)?",
+      "back": "Founder: Harish Chandra Ray. Place: Calcutta. First Bengali newspaper"
+    },
+    {
+      "id": "fc005",
+      "category": "Newspapers and Journals",
+      "front": "Sambad Kaumudi (1821)?",
+      "back": "Founder: Raja Ram Mohan Roy. Place: Calcutta. Spread: Bengal and Bihar. Bengali weekly newspaper that promoted social and religious reform"
+    },
+    {
+      "id": "fc006",
+      "category": "Newspapers and Journals",
+      "front": "Mirat-ul-Akbar (1822)?",
+      "back": "Founder: Raja Ram Mohan Roy. Place: Calcutta. Spread: Bengal and Bihar. First Persian language journal that discussed current events and social issues"
+    },
+    {
+      "id": "fc007",
+      "category": "Newspapers and Journals",
+      "front": "Jam-i-Jahan Numah (1822)?",
+      "back": "Place: Calcutta. First Urdu language paper. Was run by an English Firm"
+    },
+    {
+      "id": "fc008",
+      "category": "Newspapers and Journals",
+      "front": "Banga-Duta (1822)?",
+      "back": "Founder: Raja Ram Mohan Roy and Dwarkanath Tagore. Place: Calcutta. Weekly published in 4 different languages: English, Bengali, Persian and Hindi"
+    },
+    {
+      "id": "fc009",
+      "category": "Newspapers and Journals",
+      "front": "Bombay Samachar (1822)?",
+      "back": "Founder: Fardunjee Marzban. Place: Bombay. First newspaper in Gujarati"
+    },
+    {
+      "id": "fc010",
+      "category": "Newspapers and Journals",
+      "front": "Bangadarshan (1873)?",
+      "back": "Founder: Bankim Chandra Chatterji. Place: Calcutta. In Bengali Language"
+    },
+    {
+      "id": "fc011",
+      "category": "Newspapers and Journals",
+      "front": "Bombay Times (1838)?",
+      "back": "Founder: Thomas Bennett. Place: Bombay. Later from 1861 came to be known as Times of India, published till date. Founded by Robert Knight but actual publication started by Thomas Bennett"
+    },
+    {
+      "id": "fc012",
+      "category": "Newspapers and Journals",
+      "front": "Hindu Patriot (1853)?",
+      "back": "Founder: Girishchandra Ghosh. Place: Calcutta. Later Harishchandra Mukherji became owner-cum-editor"
+    },
+    {
+      "id": "fc013",
+      "category": "Newspapers and Journals",
+      "front": "Rast Goftar (1851)?",
+      "back": "Founder: Dadabhai Naoroji. Place: Bombay. Spread: Bombay, Gujarat, Sindh. Gujarati fortnightly newspaper advocated for Indian economic and political rights. Naoroji used it to educate Indians about their rights and mobilise them against British rule"
+    },
+    {
+      "id": "fc014",
+      "category": "Newspapers and Journals",
+      "front": "Voice of India (1883)?",
+      "back": "Founder: Dadabhai Naoroji. Place: Bombay. Later incorporated into the Indian Spectator"
+    },
+    {
+      "id": "fc015",
+      "category": "Newspapers and Journals",
+      "front": "Som Prakash (1858)?",
+      "back": "Founder: Dwarkanath VidyaBhushan. Place: Calcutta. Spread: Bengal and Bihar. Bengali weekly newspaper promoted social, political and educational reforms. Used to advocate for women's rights, education, and widow remarriage"
+    },
+    {
+      "id": "fc016",
+      "category": "Newspapers and Journals",
+      "front": "Indian Mirror (1862)?",
+      "back": "Founder: Devendra Nath Tagore and Man Mohan Ghosh. Place: Calcutta. Spread: Bengal and Bihar. English fortnightly newspaper"
+    },
+    {
+      "id": "fc017",
+      "category": "Newspapers and Journals",
+      "front": "The Bengalee (1862)?",
+      "back": "Started by Girish Chandra Ghosh and later taken over by Surendranath Banerjee. Place: Calcutta. Spread: Bengal and Bihar"
+    },
+    {
+      "id": "fc018",
+      "category": "Newspapers and Journals",
+      "front": "The Pioneer (1865)?",
+      "back": "Founder: George Allen. Place: Allahabad. Spread: United Provinces"
+    },
+    {
+      "id": "fc019",
+      "category": "Newspapers and Journals",
+      "front": "Amrita Bazar Patrika (1868)?",
+      "back": "Founder: Sisir Kumar ghosh and Motilal Ghosh. Place: Calcutta. Spread: Bengal and Bihar. Bengali in beginning, later became English. Leading voice for bengali middle class"
+    },
+    {
+      "id": "fc020",
+      "category": "Newspapers and Journals",
+      "front": "Tahzib-ul-Akhlaq (1871)?",
+      "back": "Founder: Sir Syed Ahmed Khan. Place: Aligarh. Spread: North India. Urdu language journal advocating for women's education, reform in Muslim family law, modernization of Muslim society"
+    },
+    {
+      "id": "fc021",
+      "category": "Newspapers and Journals",
+      "front": "Indian Statesman (1875)?",
+      "back": "Founder: Robert Knight. Place: Calcutta. Later renamed as The Statesman"
+    },
+    {
+      "id": "fc022",
+      "category": "Newspapers and Journals",
+      "front": "The Hindu (1878)?",
+      "back": "Founder: G.S. Iyer, Vir Raghavacharya and Subba Rao Pandit. Place: Madras. Spread: Madras and Mysore. Initially weekly newspaper, known for moderate political view"
+    },
+    {
+      "id": "fc023",
+      "category": "Newspapers and Journals",
+      "front": "Swadeshnamitran (1882)?",
+      "back": "Founder: G. Subramaniya Iyer. Place: Madras. One of the earliest Tamil newspapers and the longest in print"
+    },
+    {
+      "id": "fc024",
+      "category": "Newspapers and Journals",
+      "front": "The Advocate (1878)?",
+      "back": "Founder: G.P. Verma. Place: Lucknow. Spread: United Provinces"
+    },
+    {
+      "id": "fc025",
+      "category": "Newspapers and Journals",
+      "front": "Kesari (1881)?",
+      "back": "Founder: Bal Gangadhar Tilak. Place: Poona. Spread: Bombay and Central India. Marathi language newspaper advocated for Indian self-rule. Mahratta (1881): An English weekly"
+    },
+    {
+      "id": "fc026",
+      "category": "Newspapers and Journals",
+      "front": "The Tribune (1881)?",
+      "back": "Founder: Dayal Singh Majeetha. Place: Lahore. Spread: Punjab and North India. Daily newspaper"
+    },
+    {
+      "id": "fc027",
+      "category": "Newspapers and Journals",
+      "front": "Arya Gazette (1882)?",
+      "back": "Founder: Pandit Dayanand Saraswati. Place: Lahore. Spread: Punjab and North India. Published in both English and Hindi"
+    },
+    {
+      "id": "fc028",
+      "category": "Newspapers and Journals",
+      "front": "Akhbar-i-Am (1886)?",
+      "back": "Founder: Maulavi Zakaullah. Place: Lahore. Spread: Punjab and North India"
+    },
+    {
+      "id": "fc029",
+      "category": "Newspapers and Journals",
+      "front": "Gaujrat and the Gujratis (1882)?",
+      "back": "Founder: Behramji Malabari. Place: Bombay. Spread: Bombay and Gujarat"
+    },
+    {
+      "id": "fc030",
+      "category": "Newspapers and Journals",
+      "front": "Sudharak (1888)?",
+      "back": "Founder: Gopal Krishna Agarkar. Place: Poona. Spread: Bombay and Central India. Marathi language newspaper promoted social reform"
+    },
+    {
+      "id": "fc031",
+      "category": "Newspapers and Journals",
+      "front": "Hitavada (1911)?",
+      "back": "Founder: GK Gokhale. Place: Nagpur. Spread: central India. Published in both English and Marathi. Advocated for social reform and economic development"
+    },
+    {
+      "id": "fc032",
+      "category": "Newspapers and Journals",
+      "front": "Indu Prakash (1888)?",
+      "back": "Founder: Gopalhari Deshmukh. Place: Poona. Spread: Bombay and Central India"
+    },
+    {
+      "id": "fc033",
+      "category": "Newspapers and Journals",
+      "front": "The Leader (1907)?",
+      "back": "Founder: Madan Mohan Malviya. Place: Allahabad. Spread: United Provinces"
+    },
+    {
+      "id": "fc034",
+      "category": "Newspapers and Journals",
+      "front": "Prabuddha Bharat (1896)?",
+      "back": "Founder: P. Aiyasami, B. R. Rajam Iyer, G. G. Narasimhacharya, B. V. Kamesvara Iyer at behest of Swami Vivekananda. Place: Calcutta. Spread: India and the world. English language monthly journal promoted Hindu philosophy and culture"
+    },
+    {
+      "id": "fc035",
+      "category": "Newspapers and Journals",
+      "front": "Udbodhana (1899)?",
+      "back": "Founder: Swami Vivekananda. Place: Calcutta. Spread: India and the world"
+    },
+    {
+      "id": "fc036",
+      "category": "Newspapers and Journals",
+      "front": "Indian Opinion (1903)?",
+      "back": "Founder: M.K Gandhi. Place: Durban, South Africa. Spread: South Africa and India. Weekly newspaper advocated for rights of Indian immigrants"
+    },
+    {
+      "id": "fc037",
+      "category": "Newspapers and Journals",
+      "front": "Young India (1919)?",
+      "back": "Founder: M.K Gandhi. Place: Ahmedabad. Spread: Bombay Presidency. Weekly journal promoted Gandhi's philosophy of non-violence and civil disobedience"
+    },
+    {
+      "id": "fc038",
+      "category": "Newspapers and Journals",
+      "front": "Nav Jeevan (1929)?",
+      "back": "Founder: M.K Gandhi. Place: Ahmedabad. Spread: Bombay. Gujarati language weekly promoted social reforms and Gandhi's philosophy"
+    },
+    {
+      "id": "fc039",
+      "category": "Newspapers and Journals",
+      "front": "Harijan (1932)?",
+      "back": "Founder: M.K Gandhi. Place: Ahmedabad. Spread: Bombay. English and Hindi weekly journal advocated for rights of Dalits"
+    },
+    {
+      "id": "fc040",
+      "category": "Newspapers and Journals",
+      "front": "Sandhya (1906)?",
+      "back": "Founder: Brahmabandhab Upadhyay. Place: Bengal"
+    },
+    {
+      "id": "fc041",
+      "category": "Newspapers and Journals",
+      "front": "Yugantar (1906)?",
+      "back": "Founder: Barindra Kumar Ghosh and Bhupendra Dutta. Place: Bengal. Political weekly served as propaganda organ for revolutionary organisation Anushilan Samiti"
+    },
+    {
+      "id": "fc042",
+      "category": "Newspapers and Journals",
+      "front": "The Karmayogi (1909)?",
+      "back": "Founder: Aurobindo Ghosh. Place: Puducherry. Spread: India and the world. Published in English"
+    },
+    {
+      "id": "fc043",
+      "category": "Newspapers and Journals",
+      "front": "Kudi Arasu (1910)?",
+      "back": "Founder: E.V. Ramaswamy Naicker (Periyar). In Tamil language"
+    },
+    {
+      "id": "fc044",
+      "category": "Newspapers and Journals",
+      "front": "Comrade (1911)?",
+      "back": "Founder: Maulana Mohammad Ali. Place: Calcutta. Spread: Bengal and Bihar. English language weekly advocated for Indian self-rule and Muslim rights"
+    },
+    {
+      "id": "fc045",
+      "category": "Newspapers and Journals",
+      "front": "Al-Balagh (1912)?",
+      "back": "Founder: Abul Kalam Azad. Place: Calcutta. Spread: Bengal and Bihar. Urdu weekly supported Indian self-rule and Muslim rights"
+    },
+    {
+      "id": "fc046",
+      "category": "Newspapers and Journals",
+      "front": "The Azad (1912)?",
+      "back": "Founder: Abul Kalam Azad. Place: Calcutta. Spread: Bengal and Bihar. Published in Urdu"
+    },
+    {
+      "id": "fc047",
+      "category": "Newspapers and Journals",
+      "front": "Al-Hilal (1912)?",
+      "back": "Founder: Abul Kalam Azad. Place: Calcutta. Spread: Bengal and Bihar. Urdu weekly newspaper promoted Islamic thoughts and culture"
+    },
+    {
+      "id": "fc048",
+      "category": "Newspapers and Journals",
+      "front": "Bombay Chronicle (1913)?",
+      "back": "Started by Firoze Shah Mehta and edited by B. G. Horniman. Place: Bombay. Spread: Bombay and Gujarat. Daily newspaper"
+    },
+    {
+      "id": "fc049",
+      "category": "Newspapers and Journals",
+      "front": "New India (1914)?",
+      "back": "Founder: Annie Besant. Place: Madras. Spread: Madras and Mysore"
+    },
+    {
+      "id": "fc050",
+      "category": "Newspapers and Journals",
+      "front": "Independent (1919)?",
+      "back": "Founder: Motilal Nehru. Place: Allahabad. Spread: United Provinces"
+    },
+    {
+      "id": "fc051",
+      "category": "Newspapers and Journals",
+      "front": "Hindustan Times (1920)?",
+      "back": "Founder: Sunder Singh Lyallpuri Later edited by K M Panikkar. Place: Delhi. Spread: All India. English language daily newspaper, used as part of the Akali Dal Movement"
+    },
+    {
+      "id": "fc052",
+      "category": "Newspapers and Journals",
+      "front": "Mook Nayak (1920)?",
+      "back": "Founder: B.R Ambedkar. Place: Bombay. Spread: Bombay. Marathi language weekly advocated for rights of Dalits"
+    },
+    {
+      "id": "fc053",
+      "category": "Newspapers and Journals",
+      "front": "Bahishkrit Bharat (1927)?",
+      "back": "Founder: B.R. Ambedkar. Marathi fortnightly"
+    },
+    {
+      "id": "fc054",
+      "category": "Newspapers and Journals",
+      "front": "The Swarajya (1921)?",
+      "back": "Founder: C. Rajagopalachari. Place: Madras. Spread: Madras and Mysore. Published in English"
+    },
+    {
+      "id": "fc055",
+      "category": "Newspapers and Journals",
+      "front": "Free Hindustan (1936)?",
+      "back": "Founder: Tarak Nath Das. Place: Canada and USA. Spread in India and the world. English language journal advocated for self-rule and international cooperation"
+    },
+    {
+      "id": "fc056",
+      "category": "Newspapers and Journals",
+      "front": "Hindustan Dainik (1936)?",
+      "back": "Founder: Madan Mohan Malaviya. Place: Lucknow. Spread: United Provinces. Hindi language daily newspaper advocated for Hindu nationalism"
+    },
+    {
+      "id": "fc057",
+      "category": "Newspapers and Journals",
+      "front": "Bandi Jivan?",
+      "back": "Founder: Sachindranath Sanyal. Place: Bengal"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "First newspaper published in India in English (1780)?",
+        "options": [
+          "Madras Courier",
+          "Bengal Gazette (Hickey)",
+          "Herald",
+          "Bombay Times"
+        ],
+        "correct": 1,
+        "explanation": "Bengal Gazette/Original Calcutta General Advertiser (1780) by James Augustus Hickey was first newspaper in India in English."
+      },
+      {
+        "id": "mcq002",
+        "question": "First Bengali newspaper (1818)?",
+        "options": [
+          "Sambad Kaumudi",
+          "Bengal Gazette (Harish Chandra Ray)",
+          "Bangadarshan",
+          "Som Prakash"
+        ],
+        "correct": 1,
+        "explanation": "Bengal Gazette (1818) by Harish Chandra Ray was first Bengali newspaper."
+      },
+      {
+        "id": "mcq003",
+        "question": "Raja Ram Mohan Roy founded which newspapers?",
+        "options": [
+          "Only Sambad Kaumudi",
+          "Sambad Kaumudi (1821), Mirat-ul-Akbar (1822), Banga-Duta (1822)",
+          "Only Mirat-ul-Akbar",
+          "Only Banga-Duta"
+        ],
+        "correct": 1,
+        "explanation": "Raja Ram Mohan Roy founded Sambad Kaumudi (1821 Bengali), Mirat-ul-Akbar (1822 Persian), and Banga-Duta (1822 with Dwarkanath Tagore, 4 languages)."
+      },
+      {
+        "id": "mcq004",
+        "question": "First Urdu language paper (1822)?",
+        "options": [
+          "Mirat-ul-Akbar",
+          "Jam-i-Jahan Numah",
+          "Tahzib-ul-Akhlaq",
+          "Al-Hilal"
+        ],
+        "correct": 1,
+        "explanation": "Jam-i-Jahan Numah (1822) was first Urdu language paper, run by an English Firm."
+      },
+      {
+        "id": "mcq005",
+        "question": "First Gujarati newspaper (1822)?",
+        "options": [
+          "Rast Goftar",
+          "Bombay Samachar (Fardunjee Marzban)",
+          "Gaujrat and the Gujratis",
+          "Bombay Times"
+        ],
+        "correct": 1,
+        "explanation": "Bombay Samachar (1822) by Fardunjee Marzban was first newspaper in Gujarati."
+      },
+      {
+        "id": "mcq006",
+        "question": "Bombay Times (1838) later became?",
+        "options": [
+          "Indian Express",
+          "Times of India (from 1861)",
+          "Hindustan Times",
+          "Indian Statesman"
+        ],
+        "correct": 1,
+        "explanation": "Bombay Times (1838) by Thomas Bennett later from 1861 came to be known as Times of India, published till date."
+      },
+      {
+        "id": "mcq007",
+        "question": "Dadabhai Naoroji founded which newspapers?",
+        "options": [
+          "Only Rast Goftar",
+          "Rast Goftar (1851) and Voice of India (1883)",
+          "Only Voice of India",
+          "The Bengalee"
+        ],
+        "correct": 1,
+        "explanation": "Dadabhai Naoroji founded Rast Goftar (1851, Gujarati) and Voice of India (1883, later incorporated into Indian Spectator)."
+      },
+      {
+        "id": "mcq008",
+        "question": "Kesari (1881) and Mahratta (1881) founded by?",
+        "options": [
+          "Gopal Krishna Agarkar",
+          "Bal Gangadhar Tilak",
+          "G.K. Gokhale",
+          "Surendranath Banerjee"
+        ],
+        "correct": 1,
+        "explanation": "Kesari (Marathi) and Mahratta (English weekly) both founded in 1881 by Bal Gangadhar Tilak, advocated for Indian self-rule."
+      },
+      {
+        "id": "mcq009",
+        "question": "M.K. Gandhi founded how many newspapers?",
+        "options": [
+          "One",
+          "Two",
+          "Four (Indian Opinion 1903, Young India 1919, Nav Jeevan 1929, Harijan 1932)",
+          "Three"
+        ],
+        "correct": 2,
+        "explanation": "Gandhi founded Indian Opinion (1903 Durban), Young India (1919 Ahmedabad), Nav Jeevan (1929 Gujarati), Harijan (1932 for Dalits)."
+      },
+      {
+        "id": "mcq010",
+        "question": "Abul Kalam Azad founded which newspapers?",
+        "options": [
+          "Only Al-Hilal",
+          "Al-Balagh (1912), The Azad (1912), and Al-Hilal (1912)",
+          "Only Al-Balagh",
+          "Only The Azad"
+        ],
+        "correct": 1,
+        "explanation": "Abul Kalam Azad founded Al-Balagh (1912), The Azad (1912), and Al-Hilal (1912), all Urdu newspapers supporting Indian self-rule and Muslim rights."
+      },
+      {
+        "id": "mcq011",
+        "question": "B.R. Ambedkar founded which newspapers for Dalits?",
+        "options": [
+          "Only Mook Nayak",
+          "Mook Nayak (1920) and Bahishkrit Bharat (1927)",
+          "Only Bahishkrit Bharat",
+          "Harijan"
+        ],
+        "correct": 1,
+        "explanation": "B.R. Ambedkar founded Mook Nayak (1920, Marathi weekly) and Bahishkrit Bharat (1927, Marathi fortnightly) advocating for rights of Dalits."
+      },
+      {
+        "id": "mcq012",
+        "question": "Yugantar (1906) served as propaganda organ for?",
+        "options": [
+          "Congress",
+          "Revolutionary organisation Anushilan Samiti",
+          "Muslim League",
+          "Arya Samaj"
+        ],
+        "correct": 1,
+        "explanation": "Yugantar (1906) by Barindra Kumar Ghosh and Bhupendra Dutta served as propaganda organ for revolutionary organisation Anushilan Samiti."
+      }
+    ],
+    "comprehensive": []
+  }
+}

@@ -61,6 +61,7 @@ import currencyCommitteesData from './data/currency-committees.json';
 import civilServiceCommissionsData from './data/civil-service-commissions.json';
 import otherCommitteesCommissionsData from './data/other-committees-commissions.json';
 import educationalInstitutionsData from './data/educational-institutions.json';
+import newspapersJournalsData from './data/newspapers-journals.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -485,6 +486,12 @@ function App() {
           title: 'Educational Institutions - Major Colleges and Universities',
           description: 'Calcutta Madrasah (1781), Sanskrit College (1791), Hindu College (1817), Three Universities (1857), MAO/Aligarh (1875), SNDT (1916)',
           data: educationalInstitutionsData
+        },
+        {
+          id: 'newspapers-journals',
+          title: 'Newspapers and Journals (1780-1936)',
+          description: 'Bengal Gazette 1780 (first), Raja Ram Mohan Roy (3 papers), Tilak Kesari 1881, Gandhi (4 papers), Ambedkar (2 papers), Azad (3 papers)',
+          data: newspapersJournalsData
         }
       ]
     }
