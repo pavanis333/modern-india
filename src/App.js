@@ -53,6 +53,7 @@ import tradeUnionAct1926Data from './data/trade-union-act-1926.json';
 import tradeUnionsCongressMinistriesData from './data/trade-unions-congress-ministries.json';
 import agricultureIrrigationCommitteesData from './data/agriculture-irrigation-committees.json';
 import educationCommitteesData from './data/education-committees.json';
+import governanceCommitteesData from './data/governance-committees.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -422,6 +423,12 @@ function App() {
           title: 'Education - Committees and Commissions',
           description: 'Hunter (1882), University (1902), Calcutta University (1917), Hartog (1929), Sargent Plan (1944)',
           data: educationCommitteesData
+        },
+        {
+          id: 'governance-committees',
+          title: 'Governance - Committees and Commissions',
+          description: 'Hunter/Disorders Inquiry (1919 Punjab), Muddiman (1924 diarchy), Butler (1927 Indian states), Simon (1928)',
+          data: governanceCommitteesData
         }
       ]
     }

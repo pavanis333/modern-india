@@ -1,0 +1,179 @@
+{
+  "topic": "British Policies and their Economic Impacts",
+  "subtopic": "Governance - Committees and Commissions",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Governance Committees and Commissions",
+      "front": "Hunter Committee Report (Disorders Inquiry Committee) (1919)?",
+      "back": "Chairman: William Hunter. Objectives: To investigate the Punjab disturbances. Governor General/Viceroy: Lord Chelmsford"
+    },
+    {
+      "id": "fc002",
+      "category": "Governance Committees and Commissions",
+      "front": "Muddiman Committee (1924)?",
+      "back": "Chairman: Sir Alexander Muddiman. Objectives: To examine the working of diarchy under the Montague-Chelmsford reforms. Governor General/Viceroy: Lord Reading"
+    },
+    {
+      "id": "fc003",
+      "category": "Governance Committees and Commissions",
+      "front": "Butler Commission (1927)?",
+      "back": "Chairman: Sir Harcourt Butler. Objectives: To examine the relationship between Indian states and the British Crown. Governor General/Viceroy: Lord Irwin"
+    },
+    {
+      "id": "fc004",
+      "category": "Governance Committees and Commissions",
+      "front": "Simon Commission (1928)?",
+      "back": "Chairman: Sir John Simon. Objectives: To investigate the progress of the governance scheme and suggest new reforms. Governor General/Viceroy: Lord Irwin"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Hunter Committee Report (1919) also known as?",
+        "options": [
+          "Education Inquiry",
+          "Disorders Inquiry Committee",
+          "Punjab Committee",
+          "Reform Committee"
+        ],
+        "correct": 1,
+        "explanation": "Hunter Committee Report (1919) also known as Disorders Inquiry Committee."
+      },
+      {
+        "id": "mcq002",
+        "question": "Hunter Committee Report (1919) chairman?",
+        "options": [
+          "William Hunter",
+          "Sir Alexander Muddiman",
+          "Sir Harcourt Butler",
+          "Sir John Simon"
+        ],
+        "correct": 0,
+        "explanation": "Hunter Committee Report (Disorders Inquiry Committee, 1919) chaired by William Hunter."
+      },
+      {
+        "id": "mcq003",
+        "question": "Hunter Committee Report (1919) objective?",
+        "options": [
+          "Examine diarchy",
+          "To investigate the Punjab disturbances",
+          "Examine Indian states",
+          "Investigate governance progress"
+        ],
+        "correct": 1,
+        "explanation": "Hunter Committee Report (1919) aimed to investigate the Punjab disturbances."
+      },
+      {
+        "id": "mcq004",
+        "question": "Hunter Committee Report (1919) - Viceroy?",
+        "options": [
+          "Lord Reading",
+          "Lord Chelmsford",
+          "Lord Irwin",
+          "Lord Wavell"
+        ],
+        "correct": 1,
+        "explanation": "Hunter Committee Report (1919) during Lord Chelmsford's tenure."
+      },
+      {
+        "id": "mcq005",
+        "question": "Muddiman Committee (1924) chairman?",
+        "options": [
+          "William Hunter",
+          "Sir Alexander Muddiman",
+          "Sir Harcourt Butler",
+          "Sir John Simon"
+        ],
+        "correct": 1,
+        "explanation": "Muddiman Committee (1924) chaired by Sir Alexander Muddiman."
+      },
+      {
+        "id": "mcq006",
+        "question": "Muddiman Committee (1924) objective?",
+        "options": [
+          "Investigate Punjab",
+          "To examine the working of diarchy under the Montague-Chelmsford reforms",
+          "Examine Indian states",
+          "Suggest new reforms"
+        ],
+        "correct": 1,
+        "explanation": "Muddiman Committee (1924) aimed to examine the working of diarchy under the Montague-Chelmsford reforms."
+      },
+      {
+        "id": "mcq007",
+        "question": "Muddiman Committee (1924) - Viceroy?",
+        "options": [
+          "Lord Chelmsford",
+          "Lord Reading",
+          "Lord Irwin",
+          "Lord Wavell"
+        ],
+        "correct": 1,
+        "explanation": "Muddiman Committee (1924) during Lord Reading's tenure."
+      },
+      {
+        "id": "mcq008",
+        "question": "Butler Commission (1927) chairman?",
+        "options": [
+          "William Hunter",
+          "Sir Alexander Muddiman",
+          "Sir Harcourt Butler",
+          "Sir John Simon"
+        ],
+        "correct": 2,
+        "explanation": "Butler Commission (1927) chaired by Sir Harcourt Butler."
+      },
+      {
+        "id": "mcq009",
+        "question": "Butler Commission (1927) objective?",
+        "options": [
+          "Investigate Punjab",
+          "Examine diarchy",
+          "To examine the relationship between Indian states and the British Crown",
+          "Investigate governance"
+        ],
+        "correct": 2,
+        "explanation": "Butler Commission (1927) aimed to examine the relationship between Indian states and the British Crown."
+      },
+      {
+        "id": "mcq010",
+        "question": "Simon Commission (1928) chairman?",
+        "options": [
+          "William Hunter",
+          "Sir Alexander Muddiman",
+          "Sir Harcourt Butler",
+          "Sir John Simon"
+        ],
+        "correct": 3,
+        "explanation": "Simon Commission (1928) chaired by Sir John Simon."
+      },
+      {
+        "id": "mcq011",
+        "question": "Simon Commission (1928) objective?",
+        "options": [
+          "Investigate Punjab",
+          "Examine diarchy",
+          "Examine Indian states",
+          "To investigate the progress of the governance scheme and suggest new reforms"
+        ],
+        "correct": 3,
+        "explanation": "Simon Commission (1928) aimed to investigate the progress of the governance scheme and suggest new reforms."
+      },
+      {
+        "id": "mcq012",
+        "question": "Which committees were under Lord Irwin?",
+        "options": [
+          "Only Butler",
+          "Only Simon",
+          "Butler Commission (1927) and Simon Commission (1928)",
+          "Only Muddiman"
+        ],
+        "correct": 2,
+        "explanation": "Both Butler Commission (1927) and Simon Commission (1928) were under Lord Irwin."
+      }
+    ],
+    "comprehensive": []
+  }
+}
