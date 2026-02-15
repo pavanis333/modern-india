@@ -27,6 +27,7 @@ import britishBengalData from './data/british-conquest-bengal.json';
 import politicalAssocData from './data/political-associations-before-inc.json';
 import revolutionaryActData from './data/revolutionary-activities-1907-17.json';
 import nonCoopSevenData from './data/non-cooperation-seven-points.json';
+import revActPhase2Data from './data/revolutionary-activities-phase2-1920s.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -198,6 +199,19 @@ function App() {
           title: 'Non-Cooperation Movement - Seven-Point Program',
           description: 'INC seven-point program: titles, courts, education, elections, foreign goods boycott',
           data: nonCoopSevenData
+        }
+      ]
+    },
+    {
+      id: 'national-movement-1922-29',
+      title: 'Indian National Movement: 1922-1929',
+      description: 'Revolutionary activities Phase-II, HSRA, and the socialist shift',
+      subtopics: [
+        {
+          id: 'revolutionary-phase2-1920s',
+          title: 'Revolutionary Activities (Phase-II in 1920s)',
+          description: 'HRA/HSRA, Kakori, Saunders Murder, Assembly Bombing, socialist ideology',
+          data: revActPhase2Data
         }
       ]
     }
