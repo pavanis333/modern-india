@@ -33,6 +33,7 @@ import parallelGovtsData from './data/parallel-governments-quit-india.json';
 import twoNationData from './data/two-nation-theory-evolution.json';
 import womensIssuesData from './data/womens-issues-and-reforms.json';
 import womenMovementsData from './data/women-movements-personalities.json';
+import lowerCasteData from './data/lower-caste-movements.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -268,6 +269,12 @@ function App() {
           title: 'Women Movements and Personalities',
           description: 'Chronological 1872-1947: Early Feminist, Kuka, Partition, Home Rule, AIWC, Salt, Quit India',
           data: womenMovementsData
+        },
+        {
+          id: 'lower-caste-movements',
+          title: 'Lower Caste Movements in Colonial India',
+          description: 'Satyashodhak, SNDP, Justice/Self-Respect, Nair, Depressed Classes, Temple Entry movements',
+          data: lowerCasteData
         }
       ]
     }
