@@ -1,0 +1,203 @@
+{
+  "topic": "People's Resistance Against the British",
+  "subtopic": "Tribal Revolts - Third Phase (1920-1947)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Third Phase (1920-1947)",
+      "front": "Rampa Rebellion/Manyam Rebellion (1922-1924)?",
+      "back": "Koyas of Godavari Agency, Andhra Pradesh. Leader: Alluri Sitarama Raju. Response to British imposition of forced labour, restrictions on gathering minor forest produce, prohibition of traditional agricultural practices. Legacy: His resistance continued until capture and execution in 1924, cementing his role as martyr in fight against British colonial rule"
+    },
+    {
+      "id": "fc002",
+      "category": "Third Phase (1920-1947)",
+      "front": "Chenchu Tribal Movement (1921-1922)?",
+      "back": "Nallamalai Forests, Andhra Pradesh. Leaders: Venkattappaya, K. Hanumanthu. Movement driven by tribal opposition to British control over forests. Venkattappaya and K. Hanumanthu connected with Gandhi's Non-Cooperation Movement, leading to forest satyagraha. Chenchus engaged in non-violent resistance, allowing their cattle to graze freely in forest in defiance of British fees. Movement spread to Palnad, where people declared Swaraj and confronted police. This was part of larger tribal response to British impositions during 1920s, aligning with broader nationalist movements. Movement showcased tribal resistance and their role in Indian independence struggle"
+    },
+    {
+      "id": "fc003",
+      "category": "Third Phase (1920-1947)",
+      "front": "Rani Gaidinliu's Naga Movement (1930s)?",
+      "back": "Zeliangrong Territory, Manipur. Leader: Rani Gaidinliu. Heraka movement, led by Haipou Jadonang, was socio-religious movement advocating for Naga self-(Naga Raj) and resistance against British missionaries and their efforts to convert tribes to Christianity. Rani Gaidinliu, after embracing Gandhian principles, initiated open rebellion against British rule at age 17. Naga tribes refused to pay taxes and cooperate with British. Movement had reformist religious objectives but also strong political undertones challenging British rule. British authorities, fearful of movement's growing influence, arrested and executed Jadonang in 1931. Gaidinliu captured in 1932 and sentenced to life imprisonment. Despite repression, movement had lasting cultural and political impacts on Naga resistance"
+    },
+    {
+      "id": "fc004",
+      "category": "Third Phase (1920-1947)",
+      "front": "Gond Uprising (1940s)?",
+      "back": "Leader: Unspecified. Gond Uprising focused on uniting followers of Gond Dharmma against British rule. Movement emphasised tribal unity and religious identity as tools to oppose British oppression. Uprising was part of broader tribal resistance in central India against colonial authority"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Rampa Rebellion also known as?",
+        "options": [
+          "Ulgulan",
+          "Manyam Rebellion",
+          "Heraka movement",
+          "Gond Uprising"
+        ],
+        "correct": 1,
+        "explanation": "Rampa Rebellion (1922-1924) also known as Manyam Rebellion, led by Alluri Sitarama Raju."
+      },
+      {
+        "id": "mcq002",
+        "question": "Alluri Sitarama Raju led revolt in?",
+        "options": [
+          "1890s",
+          "1910s",
+          "1922-1924",
+          "1930s"
+        ],
+        "correct": 2,
+        "explanation": "Alluri Sitarama Raju led Rampa Rebellion (1922-1924) among Koyas of Godavari Agency, Andhra Pradesh."
+      },
+      {
+        "id": "mcq003",
+        "question": "Rampa Rebellion was response to?",
+        "options": [
+          "Revenue policies only",
+          "Forced labour, forest produce restrictions, prohibition of agricultural practices",
+          "Religious conversion",
+          "Caste discrimination"
+        ],
+        "correct": 1,
+        "explanation": "Rampa Rebellion was response to British imposition of forced labour, restrictions on gathering minor forest produce, prohibition of traditional agricultural practices."
+      },
+      {
+        "id": "mcq004",
+        "question": "Alluri Sitarama Raju's fate?",
+        "options": [
+          "Escaped to Burma",
+          "Captured and executed in 1924",
+          "Pardoned by British",
+          "Died of illness"
+        ],
+        "correct": 1,
+        "explanation": "Alluri Sitarama Raju's resistance continued until capture and execution in 1924, cementing his role as martyr."
+      },
+      {
+        "id": "mcq005",
+        "question": "Chenchu Tribal Movement (1921-1922) location?",
+        "options": [
+          "Godavari Agency",
+          "Nallamalai Forests, Andhra Pradesh",
+          "Manipur",
+          "Central India"
+        ],
+        "correct": 1,
+        "explanation": "Chenchu Tribal Movement (1921-1922) occurred in Nallamalai Forests, Andhra Pradesh."
+      },
+      {
+        "id": "mcq006",
+        "question": "Chenchu leaders connected with?",
+        "options": [
+          "Tilak's movement",
+          "Gandhi's Non-Cooperation Movement",
+          "Revolutionary terrorism",
+          "Muslim League"
+        ],
+        "correct": 1,
+        "explanation": "Venkattappaya and K. Hanumanthu connected with Gandhi's Non-Cooperation Movement, leading to forest satyagraha."
+      },
+      {
+        "id": "mcq007",
+        "question": "Chenchus engaged in what resistance method?",
+        "options": [
+          "Armed rebellion",
+          "Non-violent resistance (forest satyagraha)",
+          "Guerrilla warfare",
+          "Diplomatic negotiations"
+        ],
+        "correct": 1,
+        "explanation": "Chenchus engaged in non-violent resistance, allowing cattle to graze freely in forest in defiance of British fees."
+      },
+      {
+        "id": "mcq008",
+        "question": "Chenchu movement spread to which region declaring Swaraj?",
+        "options": [
+          "Godavari",
+          "Palnad",
+          "Manipur",
+          "Bihar"
+        ],
+        "correct": 1,
+        "explanation": "Movement spread to Palnad, where people declared Swaraj and confronted police."
+      },
+      {
+        "id": "mcq009",
+        "question": "Rani Gaidinliu's Naga Movement occurred in?",
+        "options": [
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s"
+        ],
+        "correct": 1,
+        "explanation": "Rani Gaidinliu's Naga Movement occurred in 1930s, Zeliangrong Territory, Manipur."
+      },
+      {
+        "id": "mcq010",
+        "question": "Heraka movement was led by?",
+        "options": [
+          "Rani Gaidinliu only",
+          "Haipou Jadonang",
+          "Alluri Sitarama Raju",
+          "Venkattappaya"
+        ],
+        "correct": 1,
+        "explanation": "Heraka movement was led by Haipou Jadonang; socio-religious movement advocating for Naga Raj and resistance against British missionaries."
+      },
+      {
+        "id": "mcq011",
+        "question": "Rani Gaidinliu initiated rebellion at what age?",
+        "options": [
+          "13",
+          "15",
+          "17",
+          "20"
+        ],
+        "correct": 2,
+        "explanation": "Rani Gaidinliu, after embracing Gandhian principles, initiated open rebellion against British rule at age 17."
+      },
+      {
+        "id": "mcq012",
+        "question": "What happened to Haipou Jadonang?",
+        "options": [
+          "Escaped to China",
+          "Arrested and executed in 1931",
+          "Pardoned",
+          "Died in prison"
+        ],
+        "correct": 1,
+        "explanation": "British authorities arrested and executed Jadonang in 1931; Gaidinliu captured in 1932 and sentenced to life imprisonment."
+      },
+      {
+        "id": "mcq013",
+        "question": "Gond Uprising (1940s) focused on?",
+        "options": [
+          "Forest rights only",
+          "Uniting followers of Gond Dharmma against British rule",
+          "Religious conversion",
+          "Trade rights"
+        ],
+        "correct": 1,
+        "explanation": "Gond Uprising (1940s) focused on uniting followers of Gond Dharmma against British rule, emphasising tribal unity and religious identity."
+      },
+      {
+        "id": "mcq014",
+        "question": "Gond Uprising was part of broader resistance in?",
+        "options": [
+          "South India",
+          "Central India",
+          "North-East India",
+          "Punjab"
+        ],
+        "correct": 1,
+        "explanation": "Gond Uprising was part of broader tribal resistance in central India against colonial authority."
+      }
+    ],
+    "comprehensive": []
+  }
+}
