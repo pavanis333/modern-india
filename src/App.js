@@ -34,6 +34,7 @@ import twoNationData from './data/two-nation-theory-evolution.json';
 import womensIssuesData from './data/womens-issues-and-reforms.json';
 import womenMovementsData from './data/women-movements-personalities.json';
 import lowerCasteData from './data/lower-caste-movements.json';
+import hinduReformData from './data/hindu-reform-movements.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -275,6 +276,12 @@ function App() {
           title: 'Lower Caste Movements in Colonial India',
           description: 'Satyashodhak, SNDP, Justice/Self-Respect, Nair, Depressed Classes, Temple Entry movements',
           data: lowerCasteData
+        },
+        {
+          id: 'hindu-reform-movements',
+          title: 'Socio-Cultural Reform Movements Among Hindus',
+          description: 'Swaminarayan Sampraday, Brahmo Samaj (Adi/Samaj of India/Sadharan), Paramahansa Mandali',
+          data: hinduReformData
         }
       ]
     }

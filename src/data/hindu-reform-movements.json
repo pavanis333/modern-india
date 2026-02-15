@@ -1,0 +1,317 @@
+{
+  "topic": "Socio Religious Reform Movement, Organisations and Personalities",
+  "subtopic": "Socio-Cultural Reform Movements Among Hindus",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Swaminarayan Sampraday (Early 19th C, Gujarat)",
+      "front": "Swaminarayan Sampraday founder?",
+      "back": "Swami Sahajanand (Ghanashyama), 1781-1830"
+    },
+    {
+      "id": "fc002",
+      "category": "Swaminarayan Sampraday (Early 19th C, Gujarat)",
+      "front": "Swaminarayan Sampraday when/where?",
+      "back": "Early 19th Century, Gujarat"
+    },
+    {
+      "id": "fc003",
+      "category": "Swaminarayan Sampraday (Early 19th C, Gujarat)",
+      "front": "Swaminarayan beliefs?",
+      "back": "Advocated monotheism and belief in theistic god, protested against certain practices in Vaishnavism, prescribed moral code for personal conduct"
+    },
+    {
+      "id": "fc004",
+      "category": "Swaminarayan Sampraday (Early 19th C, Gujarat)",
+      "front": "Swaminarayan dietary practices?",
+      "back": "Promoted vegetarianism and discouraged consumption of liquor and drugs"
+    },
+    {
+      "id": "fc005",
+      "category": "Swaminarayan Sampraday (Early 19th C, Gujarat)",
+      "front": "Swaminarayan inclusivity?",
+      "back": "Open to all individuals, regardless of caste or creed"
+    },
+    {
+      "id": "fc006",
+      "category": "Brahmo Samaj (1828, Calcutta)",
+      "front": "Brahmo Samaj founder?",
+      "back": "Raja Rammohan Roy (1772-1833)"
+    },
+    {
+      "id": "fc007",
+      "category": "Brahmo Samaj (1828, Calcutta)",
+      "front": "Brahmo Samaj when/where?",
+      "back": "1828, Calcutta (Earlier Atmiya Sabha)"
+    },
+    {
+      "id": "fc008",
+      "category": "Brahmo Samaj (1828, Calcutta)",
+      "front": "Adi Brahmo Samaj?",
+      "back": "Established by Debendranath Tagore, focused on expanding Rammohan Roy's teachings"
+    },
+    {
+      "id": "fc009",
+      "category": "Brahmo Samaj (1828, Calcutta)",
+      "front": "Brahmo Samaj of India?",
+      "back": "Led by Keshub Chandra Sen, with broader, more organised structure"
+    },
+    {
+      "id": "fc010",
+      "category": "Brahmo Samaj (1828, Calcutta)",
+      "front": "Sadharan Brahmo Samaj?",
+      "back": "Formed by those who seceded from Keshub Chandra Sen's group, emphasising more inclusive approach"
+    },
+    {
+      "id": "fc011",
+      "category": "Brahmo Samaj (1828, Calcutta)",
+      "front": "Brahmo Samaj monotheism?",
+      "back": "Promoted belief in one God and purified Hinduism"
+    },
+    {
+      "id": "fc012",
+      "category": "Brahmo Samaj (1828, Calcutta)",
+      "front": "Brahmo Samaj core principles?",
+      "back": "Emphasised reason, upheld Vedas and Upanishads, rejected idolatry, sacrifices, priesthood, reincarnation, meditation. Critiqued Sati, promoted human dignity and social reforms (UPSC 2012)"
+    },
+    {
+      "id": "fc013",
+      "category": "Brahmo Samaj (1828, Calcutta)",
+      "front": "Raja Rammohan Roy journals?",
+      "back": "Sambad Kaumudi, Mirat-ul-Akbar"
+    },
+    {
+      "id": "fc014",
+      "category": "Brahmo Samaj (1828, Calcutta)",
+      "front": "Debendranath Tagore journal?",
+      "back": "Tattva Bodhini Patrika"
+    },
+    {
+      "id": "fc015",
+      "category": "Brahmo Samaj (1828, Calcutta)",
+      "front": "Keshub Chandra Sen journal?",
+      "back": "Indian Mirror"
+    },
+    {
+      "id": "fc016",
+      "category": "Brahmo Samaj (1828, Calcutta)",
+      "front": "Sadharan Brahmo Samaj journals?",
+      "back": "Tattva Kaumudi, The Indian Messenger, The Sanjibari, Navyabharat, Prabasi"
+    },
+    {
+      "id": "fc017",
+      "category": "Paramahansa Mandali (1849, Maharashtra)",
+      "front": "Paramahansa Mandali founded?",
+      "back": "1849 by Dadoba Pandurang, Mehtaji Durgaram (Maharashtra)"
+    },
+    {
+      "id": "fc018",
+      "category": "Paramahansa Mandali (1849, Maharashtra)",
+      "front": "Paramahansa Mandali focus?",
+      "back": "Reforming Hindu religion and society, linked to Manav Dharma Sabha"
+    },
+    {
+      "id": "fc019",
+      "category": "Paramahansa Mandali (1849, Maharashtra)",
+      "front": "Paramahansa Mandali ideology?",
+      "back": "Worship one god, love, moral conduct, freedom of thought, rationality. Break caste rules, promote widow remarriage, support women's education"
+    },
+    {
+      "id": "fc020",
+      "category": "Paramahansa Mandali (1849, Maharashtra)",
+      "front": "Paramahansa Mandali branches?",
+      "back": "Poona, Satara, other towns in Maharashtra"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Who founded Swaminarayan Sampraday?",
+        "options": [
+          "Raja Rammohan Roy",
+          "Swami Sahajanand (Ghanashyama)",
+          "Dadoba Pandurang",
+          "Debendranath Tagore"
+        ],
+        "correct": 1,
+        "explanation": "Swami Sahajanand (Ghanashyama), 1781-1830, founded Swaminarayan Sampraday in early 19th century Gujarat."
+      },
+      {
+        "id": "mcq002",
+        "question": "Swaminarayan Sampraday promoted which dietary practice?",
+        "options": [
+          "Non-vegetarianism",
+          "Vegetarianism and discouraged liquor/drugs",
+          "Only fasting",
+          "No restrictions"
+        ],
+        "correct": 1,
+        "explanation": "Swaminarayan Sampraday promoted vegetarianism and discouraged consumption of liquor and drugs."
+      },
+      {
+        "id": "mcq003",
+        "question": "Swaminarayan Sampraday's stance on caste?",
+        "options": [
+          "Only upper castes",
+          "Only lower castes",
+          "Open to all, regardless of caste or creed",
+          "Only Vaishnavas"
+        ],
+        "correct": 2,
+        "explanation": "Swaminarayan Sampraday was open to all individuals, regardless of caste or creed."
+      },
+      {
+        "id": "mcq004",
+        "question": "Who founded Brahmo Samaj?",
+        "options": [
+          "Swami Sahajanand",
+          "Raja Rammohan Roy",
+          "Keshub Chandra Sen",
+          "Debendranath Tagore"
+        ],
+        "correct": 1,
+        "explanation": "Raja Rammohan Roy (1772-1833) founded Brahmo Samaj in 1828, Calcutta (earlier Atmiya Sabha)."
+      },
+      {
+        "id": "mcq005",
+        "question": "When was Brahmo Samaj founded?",
+        "options": [
+          "1818",
+          "1828",
+          "1849",
+          "1873"
+        ],
+        "correct": 1,
+        "explanation": "Brahmo Samaj was founded in 1828 in Calcutta (earlier known as Atmiya Sabha)."
+      },
+      {
+        "id": "mcq006",
+        "question": "Who established Adi Brahmo Samaj?",
+        "options": [
+          "Raja Rammohan Roy",
+          "Debendranath Tagore",
+          "Keshub Chandra Sen",
+          "Dadoba Pandurang"
+        ],
+        "correct": 1,
+        "explanation": "Adi Brahmo Samaj was established by Debendranath Tagore, focused on expanding Rammohan Roy's teachings."
+      },
+      {
+        "id": "mcq007",
+        "question": "Who led Brahmo Samaj of India?",
+        "options": [
+          "Raja Rammohan Roy",
+          "Debendranath Tagore",
+          "Keshub Chandra Sen",
+          "Sadharan group"
+        ],
+        "correct": 2,
+        "explanation": "Brahmo Samaj of India was led by Keshub Chandra Sen, with broader, more organised structure."
+      },
+      {
+        "id": "mcq008",
+        "question": "Sadharan Brahmo Samaj was formed by?",
+        "options": [
+          "Raja Rammohan Roy's followers",
+          "Debendranath Tagore's followers",
+          "Those who seceded from Keshub Chandra Sen's group",
+          "British missionaries"
+        ],
+        "correct": 2,
+        "explanation": "Sadharan Brahmo Samaj was formed by those who seceded from Keshub Chandra Sen's group, emphasising more inclusive approach."
+      },
+      {
+        "id": "mcq009",
+        "question": "Brahmo Samaj critiqued which practice (UPSC 2012)?",
+        "options": [
+          "Child marriage",
+          "Sati",
+          "Dowry",
+          "Purdah"
+        ],
+        "correct": 1,
+        "explanation": "Brahmo Samaj critiqued Sati and promoted human dignity and social reforms (UPSC 2012)."
+      },
+      {
+        "id": "mcq010",
+        "question": "Raja Rammohan Roy's journals?",
+        "options": [
+          "Tattva Bodhini Patrika, Indian Mirror",
+          "Sambad Kaumudi, Mirat-ul-Akbar",
+          "Tattva Kaumudi, Prabasi",
+          "Only Sambad Kaumudi"
+        ],
+        "correct": 1,
+        "explanation": "Raja Rammohan Roy published Sambad Kaumudi and Mirat-ul-Akbar."
+      },
+      {
+        "id": "mcq011",
+        "question": "Debendranath Tagore's journal?",
+        "options": [
+          "Sambad Kaumudi",
+          "Tattva Bodhini Patrika",
+          "Indian Mirror",
+          "The Indian Messenger"
+        ],
+        "correct": 1,
+        "explanation": "Debendranath Tagore published Tattva Bodhini Patrika."
+      },
+      {
+        "id": "mcq012",
+        "question": "Keshub Chandra Sen's journal?",
+        "options": [
+          "Sambad Kaumudi",
+          "Tattva Bodhini Patrika",
+          "Indian Mirror",
+          "Mirat-ul-Akbar"
+        ],
+        "correct": 2,
+        "explanation": "Keshub Chandra Sen published Indian Mirror."
+      },
+      {
+        "id": "mcq013",
+        "question": "When was Paramahansa Mandali founded?",
+        "options": [
+          "1828",
+          "1849",
+          "1873",
+          "1881"
+        ],
+        "correct": 1,
+        "explanation": "Paramahansa Mandali was founded in 1849 in Maharashtra."
+      },
+      {
+        "id": "mcq014",
+        "question": "Who founded Paramahansa Mandali?",
+        "options": [
+          "Raja Rammohan Roy",
+          "Swami Sahajanand",
+          "Dadoba Pandurang, Mehtaji Durgaram",
+          "Debendranath Tagore"
+        ],
+        "correct": 2,
+        "explanation": "Paramahansa Mandali was founded by Dadoba Pandurang and Mehtaji Durgaram in Maharashtra."
+      },
+      {
+        "id": "mcq015",
+        "question": "Paramahansa Mandali was linked to?",
+        "options": [
+          "Brahmo Samaj",
+          "Manav Dharma Sabha",
+          "Arya Samaj",
+          "Ramakrishna Mission"
+        ],
+        "correct": 1,
+        "explanation": "Paramahansa Mandali was linked to Manav Dharma Sabha, focused on reforming Hindu religion and society."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Compare the three major Hindu reform movements (Swaminarayan Sampraday, Brahmo Samaj, Paramahansa Mandali) in terms of geographic base, ideology, organizational evolution, and approach to caste/social reform, analyzing their distinct contributions to 19th century Hindu reformation.",
+        "answer": "Swaminarayan Sampraday (Early 19th Century, Gujarat): Founder: Swami Sahajanand (Ghanashyama), 1781-1830. Geographic Base: Gujarat, early 19th century. Ideology: Advocated monotheism and belief in theistic god, Protested against certain practices in Vaishnavism, Prescribed moral code for personal conduct, Promoted vegetarianism, discouraged liquor and drugs. Caste/Social Approach: Open to all individuals, regardless of caste or creed - inclusive from inception. Organizational: Single sampraday (sect) without multiple branches mentioned. Distinctiveness: Regional (Gujarat-focused), Vaishnavism reform from within (not rejection), Emphasis on personal moral conduct and dietary practices, Theistic monotheism (belief in personal god). Brahmo Samaj (1828, Calcutta): Founder: Raja Rammohan Roy (1772-1833). Geographic Base: Bengal (Calcutta), later spread across India. Ideology: Promoted belief in one God and purified Hinduism, Emphasised reason, upheld Vedas and Upanishads, Rejected idolatry, sacrifices, priesthood, reincarnation, meditation, Critiqued Sati, promoted human dignity and social reforms (UPSC 2012). Organizational Evolution (Three Phases): 1) Original Brahmo Samaj (1828): Founded by Raja Rammohan Roy (earlier Atmiya Sabha). 2) Adi Brahmo Samaj: Established by Debendranath Tagore, focused on expanding Rammohan Roy's teachings. 3) Brahmo Samaj of India: Led by Keshub Chandra Sen, broader, more organised structure. 4) Sadharan Brahmo Samaj: Formed by those who seceded from Keshub Chandra Sen's group, emphasising more inclusive approach. Split Pattern: Roy (founder) \u2192 Tagore (Adi) \u2192 Sen (Samaj of India) \u2192 Sadharan (seceders from Sen). Intellectual Infrastructure (Journals): Raja Rammohan Roy: Sambad Kaumudi, Mirat-ul-Akbar. Debendranath Tagore: Tattva Bodhini Patrika. Keshub Chandra Sen: Indian Mirror. Sadharan Brahmo Samaj: Tattva Kaumudi, The Indian Messenger, The Sanjibari, Navyabharat, Prabasi. Extensive publication network showing intellectual emphasis. Core Principles: Reason as foundation (rationalist approach), Vedas/Upanishads upheld but interpreted rationally, Rejection of rituals (idolatry, sacrifices, priesthood), Rejection of doctrines (reincarnation, meditation practices), Social reform (Sati abolition, human dignity). Distinctiveness: Most intellectual/rationalist of three movements, Most organized publication infrastructure, Most internal organizational evolution (multiple splits reflecting ideological debates), Bengal-based spreading to pan-Indian influence. Paramahansa Mandali (1849, Maharashtra): Founders: Dadoba Pandurang, Mehtaji Durgaram. Geographic Base: Maharashtra (Poona, Satara, other towns). Ideology: Worship one god, love, moral conduct, freedom of thought, rationality, Break caste rules, promote widow remarriage, support women's education. Link: Connected to Manav Dharma Sabha. Focus: Reforming Hindu religion and society. Organizational: Branches in Poona, Satara, other towns in Maharashtra - regional network. Caste/Social Reform: Explicitly 'Break caste rules', Widow remarriage promotion, Women's education support. Distinctiveness: Most explicit in breaking caste rules (compared to Swaminarayan 'open to all' or Brahmo rationalist critique), Maharashtra-focused, Direct link to Manav Dharma Sabha (organizational connection). Comparative Analysis: Geographic Spread: Swaminarayan: Gujarat (regional), Brahmo: Bengal \u2192 pan-Indian, Paramahansa: Maharashtra (regional). Regional movements (Swaminarayan, Paramahansa) vs pan-Indian aspiration (Brahmo). Ideological Emphasis: Swaminarayan: Theistic monotheism, personal moral conduct, dietary practices (vegetarianism, no liquor/drugs), Vaishnavism reform. Brahmo: Rationalist monotheism, rejection of rituals/doctrines, Vedic authority reinterpreted, reason-based. Paramahansa: Rationalist, break caste rules, widow remarriage, women's education. Brahmo most intellectually rigorous (reason, Vedic reinterpretation), Paramahansa most socially radical (break caste rules), Swaminarayan most personal conduct-focused. Caste Approach: Swaminarayan: 'Open to all, regardless of caste or creed' - inclusive but not explicitly anti-caste. Brahmo: Rationalist critique of caste through rejection of rituals/priesthood, but not explicit 'break caste rules'. Paramahansa: Explicitly 'Break caste rules' - most direct anti-caste stance. Organizational Evolution: Swaminarayan: Single sampraday, stable. Brahmo: Multiple splits (Adi, Samaj of India, Sadharan) - ideological debates leading to fragmentation. Paramahansa: Branch network (Poona, Satara) - regional expansion without splits. Brahmo's intellectual rigor led to ideological disputes and splits (Roy \u2192 Tagore \u2192 Sen \u2192 Sadharan). Swaminarayan and Paramahansa maintained organizational unity. Social Reform Focus: Swaminarayan: Dietary (vegetarianism, no liquor/drugs), personal moral conduct. Brahmo: Sati abolition (Rammohan Roy's signature campaign), human dignity, social reforms (UPSC 2012). Paramahansa: Widow remarriage, women's education, breaking caste rules. Paramahansa most focused on women's issues (remarriage, education). Brahmo on Sati abolition. Swaminarayan on personal conduct. Publication/Intellectual Infrastructure: Swaminarayan: No journals mentioned - oral/community transmission. Brahmo: Extensive journals (Roy: 2, Tagore: 1, Sen: 1, Sadharan: 5) - intellectual movement relying on print. Paramahansa: No journals mentioned. Brahmo unique in building intellectual infrastructure through print media. Religious Stance: Swaminarayan: Reform within Vaishnavism (protested certain practices but remained Vaishnava). Brahmo: Purified Hinduism (upheld Vedas/Upanishads but rejected much else) - more radical reinterpretation. Paramahansa: Reforming Hindu religion and society (linked to Manav Dharma Sabha) - somewhere between. Swaminarayan: Internal reform, Brahmo: Radical reinterpretation, Paramahansa: Reform + social action. Contributions to 19th Century Hindu Reformation: Swaminarayan: Demonstrated caste-inclusivity possible within theistic devotional framework (bhakti tradition reformed), Regional model (Gujarat), Personal conduct/dietary reform emphasized. Brahmo: Intellectual/rationalist critique of Hinduism, Print media as reform tool (journals proliferating), Pan-Indian ambition (Bengal spreading), Sati abolition linked to Brahmo (Rammohan Roy), Reason + Vedic tradition combined (not wholesale rejection but reinterpretation). Paramahansa: Explicit anti-caste stance ('break caste rules'), Women's reform (remarriage, education) prioritized, Regional network model (Maharashtra towns), Link to Manav Dharma Sabha showing inter-organizational connections. Conclusion: Three movements represented distinct regional and ideological approaches to Hindu reform. Swaminarayan (Gujarat) offered inclusive theistic devotionalism with personal conduct reform. Brahmo (Bengal) provided intellectual/rationalist reinterpretation with extensive print infrastructure but fragmented organizationally. Paramahansa (Maharashtra) delivered most explicit anti-caste and women-focused reform with stable regional network. Together they demonstrated Hindu reformation was multi-faceted: devotional (Swaminarayan), intellectual (Brahmo), and social-activist (Paramahansa). Regional bases (Gujarat, Bengal, Maharashtra) showed reformation emerging from different Indian contexts with distinct emphases, but all shared monotheism and social reform orientation opposing orthodox Brahminical practices."
+      }
+    ]
+  }
+}
