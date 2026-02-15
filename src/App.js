@@ -51,6 +51,7 @@ import workingClassMovementsData from './data/working-class-movements.json';
 import aitucEarlyOrientationData from './data/aituc-early-orientation.json';
 import tradeUnionAct1926Data from './data/trade-union-act-1926.json';
 import tradeUnionsCongressMinistriesData from './data/trade-unions-congress-ministries.json';
+import agricultureIrrigationCommitteesData from './data/agriculture-irrigation-committees.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -401,6 +402,19 @@ function App() {
           title: 'Trade Unions Under Congress Ministries (1937-1947)',
           description: '296 unions 1938, Kanpur Strike 1937, Rajendra Prasad committee, Communists rejoin 1935, Naval Ratings 1946',
           data: tradeUnionsCongressMinistriesData
+        }
+      ]
+    },
+    {
+      id: 'british-policies-economic',
+      title: 'British Policies and their Economic Impacts',
+      description: 'Committees, commissions, and policies affecting agriculture, irrigation, industry, and economy',
+      subtopics: [
+        {
+          id: 'agriculture-irrigation-committees',
+          title: 'Agriculture & Irrigation - Committees and Commissions',
+          description: 'Madras Agricultural (1890), Scott-Moncrieff (1901), Maclagan (1914-15), Linlithgow (1928)',
+          data: agricultureIrrigationCommitteesData
         }
       ]
     }

@@ -1,0 +1,155 @@
+{
+  "topic": "British Policies and their Economic Impacts",
+  "subtopic": "Agriculture & Irrigation - Committees and Commissions",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Agriculture & Irrigation Committees",
+      "front": "Madras Agricultural Committee (1890)?",
+      "back": "Chairman: Not specified. Objectives: To examine the necessity of abandoning attempts to teach the ryot until more is known about his practices and conditions. Governor General/Viceroy: Lord Lansdowne"
+    },
+    {
+      "id": "fc002",
+      "category": "Agriculture & Irrigation Committees",
+      "front": "Scott-Moncrieff Commission (1901)?",
+      "back": "Chairman: Sir Colin Scott Moncrieff. Objectives: To plan for the expenditure on irrigation. Governor General/Viceroy: Lord Curzon"
+    },
+    {
+      "id": "fc003",
+      "category": "Agriculture & Irrigation Committees",
+      "front": "Maclagan Committee (1914-15)?",
+      "back": "Chairman: Maclagan. Objectives: To advise on cooperative finances. Governor General/Viceroy: Lord Hardinge II"
+    },
+    {
+      "id": "fc004",
+      "category": "Agriculture & Irrigation Committees",
+      "front": "Linlithgow Commission (1928)?",
+      "back": "Chairman: Linlithgow. Objectives: To study the problems of agriculture. Governor General/Viceroy: Lord Irwin"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Madras Agricultural Committee (1890) objective?",
+        "options": [
+          "Plan irrigation",
+          "Examine necessity of abandoning attempts to teach ryot until more known about practices and conditions",
+          "Advise on finances",
+          "Study agriculture problems"
+        ],
+        "correct": 1,
+        "explanation": "Madras Agricultural Committee (1890) aimed to examine necessity of abandoning attempts to teach the ryot until more is known about his practices and conditions."
+      },
+      {
+        "id": "mcq002",
+        "question": "Madras Agricultural Committee (1890) - Viceroy?",
+        "options": [
+          "Lord Curzon",
+          "Lord Lansdowne",
+          "Lord Hardinge II",
+          "Lord Irwin"
+        ],
+        "correct": 1,
+        "explanation": "Madras Agricultural Committee (1890) during Lord Lansdowne's tenure."
+      },
+      {
+        "id": "mcq003",
+        "question": "Scott-Moncrieff Commission (1901) chairman?",
+        "options": [
+          "Scott Moncrieff",
+          "Sir Colin Scott Moncrieff",
+          "Maclagan",
+          "Linlithgow"
+        ],
+        "correct": 1,
+        "explanation": "Scott-Moncrieff Commission (1901) chaired by Sir Colin Scott Moncrieff."
+      },
+      {
+        "id": "mcq004",
+        "question": "Scott-Moncrieff Commission (1901) objective?",
+        "options": [
+          "Examine ryot practices",
+          "To plan for the expenditure on irrigation",
+          "Advise on finances",
+          "Study agriculture"
+        ],
+        "correct": 1,
+        "explanation": "Scott-Moncrieff Commission (1901) aimed to plan for the expenditure on irrigation."
+      },
+      {
+        "id": "mcq005",
+        "question": "Scott-Moncrieff Commission (1901) - Viceroy?",
+        "options": [
+          "Lord Lansdowne",
+          "Lord Curzon",
+          "Lord Hardinge II",
+          "Lord Irwin"
+        ],
+        "correct": 1,
+        "explanation": "Scott-Moncrieff Commission (1901) during Lord Curzon's tenure."
+      },
+      {
+        "id": "mcq006",
+        "question": "Maclagan Committee (1914-15) objective?",
+        "options": [
+          "Plan irrigation",
+          "Examine ryot practices",
+          "To advise on cooperative finances",
+          "Study agriculture"
+        ],
+        "correct": 2,
+        "explanation": "Maclagan Committee (1914-15) aimed to advise on cooperative finances."
+      },
+      {
+        "id": "mcq007",
+        "question": "Maclagan Committee (1914-15) - Viceroy?",
+        "options": [
+          "Lord Curzon",
+          "Lord Lansdowne",
+          "Lord Hardinge II",
+          "Lord Irwin"
+        ],
+        "correct": 2,
+        "explanation": "Maclagan Committee (1914-15) during Lord Hardinge II's tenure."
+      },
+      {
+        "id": "mcq008",
+        "question": "Linlithgow Commission (1928) objective?",
+        "options": [
+          "Plan irrigation",
+          "Advise on finances",
+          "To study the problems of agriculture",
+          "Examine ryot practices"
+        ],
+        "correct": 2,
+        "explanation": "Linlithgow Commission (1928) aimed to study the problems of agriculture."
+      },
+      {
+        "id": "mcq009",
+        "question": "Linlithgow Commission (1928) - Viceroy?",
+        "options": [
+          "Lord Curzon",
+          "Lord Hardinge II",
+          "Lord Irwin",
+          "Lord Lansdowne"
+        ],
+        "correct": 2,
+        "explanation": "Linlithgow Commission (1928) during Lord Irwin's tenure."
+      },
+      {
+        "id": "mcq010",
+        "question": "Which commission focused on irrigation expenditure planning?",
+        "options": [
+          "Madras Agricultural Committee",
+          "Scott-Moncrieff Commission (1901)",
+          "Maclagan Committee",
+          "Linlithgow Commission"
+        ],
+        "correct": 1,
+        "explanation": "Scott-Moncrieff Commission (1901) planned for expenditure on irrigation."
+      }
+    ],
+    "comprehensive": []
+  }
+}
