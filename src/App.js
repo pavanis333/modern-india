@@ -21,6 +21,7 @@ import marathasData from './data/marathas.json';
 import rohilkhandData from './data/rohilkhand-farrukhabad.json';
 import rajputsData from './data/rajputs.json';
 import jatsData from './data/jats.json';
+import artArchData from './data/art-architecture-literature.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -135,6 +136,12 @@ function App() {
           title: 'Rise of Jats (The New States)',
           description: 'Agricultural settlers, rebellion against Aurangzeb policies, significant uprisings',
           data: jatsData
+        },
+        {
+          id: 'art-arch-lit',
+          title: 'Art, Architecture, and Literature (18th Century)',
+          description: 'Bara Imambara, Jaipur observatories, regional literature (Urdu, Malayalam, Tamil, Punjabi, Sindhi)',
+          data: artArchData
         }
       ]
     }

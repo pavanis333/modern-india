@@ -1,0 +1,363 @@
+{
+  "topic": "Advent of Europeans and Consolidation of British Power",
+  "subtopic": "Art, Architecture, and Literature (18th Century)",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Architecture",
+      "front": "Bara Imambara?",
+      "back": "Built by Asaf-ud-Daula in Lucknow (1784), showcasing remarkable architectural design"
+    },
+    {
+      "id": "fc002",
+      "category": "Architecture",
+      "front": "Who built Bara Imambara?",
+      "back": "Asaf-ud-Daula built Bara Imambara in Lucknow (1784)"
+    },
+    {
+      "id": "fc003",
+      "category": "Architecture",
+      "front": "When was Bara Imambara built?",
+      "back": "1784 - by Asaf-ud-Daula in Lucknow"
+    },
+    {
+      "id": "fc004",
+      "category": "Architecture",
+      "front": "Bara Imambara location?",
+      "back": "Lucknow - built by Asaf-ud-Daula in 1784"
+    },
+    {
+      "id": "fc005",
+      "category": "Architecture",
+      "front": "Jaipur founder?",
+      "back": "Founded by Sawai Jai Singh"
+    },
+    {
+      "id": "fc006",
+      "category": "Architecture",
+      "front": "Sawai Jai Singh's astronomical work?",
+      "back": "Established five astronomical observatories and created Zij-i Muhammad Shahi timetables to promote astronomy"
+    },
+    {
+      "id": "fc007",
+      "category": "Architecture",
+      "front": "How many observatories did Sawai Jai Singh establish?",
+      "back": "Five astronomical observatories"
+    },
+    {
+      "id": "fc008",
+      "category": "Architecture",
+      "front": "What was Zij-i Muhammad Shahi?",
+      "back": "Timetables created by Sawai Jai Singh to promote astronomy"
+    },
+    {
+      "id": "fc009",
+      "category": "Architecture",
+      "front": "Padmanabhapuram Palace location?",
+      "back": "Kerala - a notable architectural gem"
+    },
+    {
+      "id": "fc010",
+      "category": "Urdu Poetry",
+      "front": "Urdu poetry flourishing period?",
+      "back": "18th century - with prominent poets like Mir, Sauda, Nazir, and Mirza Ghalib"
+    },
+    {
+      "id": "fc011",
+      "category": "Urdu Poetry",
+      "front": "Prominent Urdu poets (18th century)?",
+      "back": "Mir, Sauda, Nazir, and Mirza Ghalib"
+    },
+    {
+      "id": "fc012",
+      "category": "Regional Literature",
+      "front": "Malayalam literature support?",
+      "back": "Supported by Travancore rulers, featuring influential poets like Kunchan Nambiar"
+    },
+    {
+      "id": "fc013",
+      "category": "Regional Literature",
+      "front": "Who was Kunchan Nambiar?",
+      "back": "Influential Malayalam poet supported by Travancore rulers"
+    },
+    {
+      "id": "fc014",
+      "category": "Regional Literature",
+      "front": "Sittar poetry in Tamil?",
+      "back": "Emerged with critiques of temple rule and caste by Tayumanavar"
+    },
+    {
+      "id": "fc015",
+      "category": "Regional Literature",
+      "front": "Who wrote Sittar poetry?",
+      "back": "Tayumanavar - critiqued temple rule and caste in Tamil"
+    },
+    {
+      "id": "fc016",
+      "category": "Regional Literature",
+      "front": "Heer Ranjha author?",
+      "back": "Warris Shah authored Heer Ranjha, a celebrated romantic Punjabi epic"
+    },
+    {
+      "id": "fc017",
+      "category": "Regional Literature",
+      "front": "What is Heer Ranjha?",
+      "back": "Celebrated romantic Punjabi epic by Warris Shah"
+    },
+    {
+      "id": "fc018",
+      "category": "Regional Literature",
+      "front": "Who enriched Sindhi literature?",
+      "back": "Shah Abdul Latif wrote Risalo, enriching Sindhi literature"
+    },
+    {
+      "id": "fc019",
+      "category": "Regional Literature",
+      "front": "What is Risalo?",
+      "back": "Sindhi literary work by Shah Abdul Latif"
+    },
+    {
+      "id": "fc020",
+      "category": "Social Issues",
+      "front": "Widow remarriage in 18th century?",
+      "back": "Discouraged; efforts by Raja Sawai Jai Singh and Prashuram Bhau to promote widow remarriage failed"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Who built Bara Imambara?",
+        "options": [
+          "Sawai Jai Singh",
+          "Asaf-ud-Daula",
+          "Warris Shah",
+          "Tayumanavar"
+        ],
+        "correct": 1,
+        "explanation": "Asaf-ud-Daula built Bara Imambara in Lucknow (1784)."
+      },
+      {
+        "id": "mcq002",
+        "question": "Where is Bara Imambara located?",
+        "options": [
+          "Jaipur",
+          "Lucknow",
+          "Kerala",
+          "Delhi"
+        ],
+        "correct": 1,
+        "explanation": "Bara Imambara is located in Lucknow, built by Asaf-ud-Daula in 1784."
+      },
+      {
+        "id": "mcq003",
+        "question": "When was Bara Imambara built?",
+        "options": [
+          "1724",
+          "1757",
+          "1784",
+          "1809"
+        ],
+        "correct": 2,
+        "explanation": "Bara Imambara was built in 1784 by Asaf-ud-Daula in Lucknow."
+      },
+      {
+        "id": "mcq004",
+        "question": "Who founded Jaipur?",
+        "options": [
+          "Asaf-ud-Daula",
+          "Sawai Jai Singh",
+          "Martanda Varma",
+          "Shivaji"
+        ],
+        "correct": 1,
+        "explanation": "Jaipur was founded by Sawai Jai Singh, who also established astronomical observatories."
+      },
+      {
+        "id": "mcq005",
+        "question": "How many astronomical observatories did Sawai Jai Singh establish?",
+        "options": [
+          "Three",
+          "Five",
+          "Seven",
+          "Ten"
+        ],
+        "correct": 1,
+        "explanation": "Sawai Jai Singh established five astronomical observatories."
+      },
+      {
+        "id": "mcq006",
+        "question": "What were Zij-i Muhammad Shahi?",
+        "options": [
+          "Religious texts",
+          "Timetables to promote astronomy",
+          "Military strategies",
+          "Trade agreements"
+        ],
+        "correct": 1,
+        "explanation": "Zij-i Muhammad Shahi were timetables created by Sawai Jai Singh to promote astronomy."
+      },
+      {
+        "id": "mcq007",
+        "question": "Where is Padmanabhapuram Palace located?",
+        "options": [
+          "Jaipur",
+          "Lucknow",
+          "Kerala",
+          "Punjab"
+        ],
+        "correct": 2,
+        "explanation": "Padmanabhapuram Palace is a notable architectural gem in Kerala."
+      },
+      {
+        "id": "mcq008",
+        "question": "When did Urdu poetry flourish?",
+        "options": [
+          "16th century",
+          "17th century",
+          "18th century",
+          "19th century"
+        ],
+        "correct": 2,
+        "explanation": "Urdu poetry flourished in the 18th century with poets like Mir, Sauda, Nazir, and Mirza Ghalib."
+      },
+      {
+        "id": "mcq009",
+        "question": "Which poets were prominent in 18th century Urdu poetry?",
+        "options": [
+          "Kabir and Tulsidas",
+          "Mir, Sauda, Nazir, and Mirza Ghalib",
+          "Warris Shah and Tayumanavar",
+          "Kunchan Nambiar and Shah Abdul Latif"
+        ],
+        "correct": 1,
+        "explanation": "Prominent 18th century Urdu poets included Mir, Sauda, Nazir, and Mirza Ghalib."
+      },
+      {
+        "id": "mcq010",
+        "question": "Who supported Malayalam literature?",
+        "options": [
+          "Mughal emperors",
+          "Travancore rulers",
+          "British East India Company",
+          "Maratha Peshwas"
+        ],
+        "correct": 1,
+        "explanation": "Malayalam literature was supported by Travancore rulers, featuring poets like Kunchan Nambiar."
+      },
+      {
+        "id": "mcq011",
+        "question": "Who wrote Sittar poetry in Tamil?",
+        "options": [
+          "Kunchan Nambiar",
+          "Tayumanavar",
+          "Warris Shah",
+          "Shah Abdul Latif"
+        ],
+        "correct": 1,
+        "explanation": "Tayumanavar wrote Sittar poetry in Tamil, critiquing temple rule and caste."
+      },
+      {
+        "id": "mcq012",
+        "question": "What did Tayumanavar's Sittar poetry critique?",
+        "options": [
+          "British rule",
+          "Temple rule and caste",
+          "Mughal policies",
+          "Trade practices"
+        ],
+        "correct": 1,
+        "explanation": "Tayumanavar's Sittar poetry critiqued temple rule and caste in Tamil."
+      },
+      {
+        "id": "mcq013",
+        "question": "Who authored Heer Ranjha?",
+        "options": [
+          "Tayumanavar",
+          "Warris Shah",
+          "Kunchan Nambiar",
+          "Shah Abdul Latif"
+        ],
+        "correct": 1,
+        "explanation": "Warris Shah authored Heer Ranjha, a celebrated romantic Punjabi epic."
+      },
+      {
+        "id": "mcq014",
+        "question": "What is Heer Ranjha?",
+        "options": [
+          "Tamil Sittar poetry",
+          "Malayalam literature",
+          "Celebrated romantic Punjabi epic",
+          "Sindhi work"
+        ],
+        "correct": 2,
+        "explanation": "Heer Ranjha is a celebrated romantic Punjabi epic by Warris Shah."
+      },
+      {
+        "id": "mcq015",
+        "question": "Who wrote Risalo?",
+        "options": [
+          "Warris Shah",
+          "Tayumanavar",
+          "Shah Abdul Latif",
+          "Kunchan Nambiar"
+        ],
+        "correct": 2,
+        "explanation": "Shah Abdul Latif wrote Risalo, enriching Sindhi literature."
+      },
+      {
+        "id": "mcq016",
+        "question": "What is Risalo?",
+        "options": [
+          "Punjabi epic",
+          "Tamil poetry",
+          "Sindhi literary work by Shah Abdul Latif",
+          "Urdu poetry"
+        ],
+        "correct": 2,
+        "explanation": "Risalo is a Sindhi literary work written by Shah Abdul Latif."
+      },
+      {
+        "id": "mcq017",
+        "question": "What was the status of widow remarriage in 18th century?",
+        "options": [
+          "Widely promoted",
+          "Discouraged; reform efforts failed",
+          "Legally mandated",
+          "Not mentioned"
+        ],
+        "correct": 1,
+        "explanation": "Widow remarriage was discouraged; efforts by Raja Sawai Jai Singh and Prashuram Bhau to promote it failed."
+      },
+      {
+        "id": "mcq018",
+        "question": "Who tried to promote widow remarriage?",
+        "options": [
+          "Asaf-ud-Daula and Warris Shah",
+          "Raja Sawai Jai Singh and Prashuram Bhau",
+          "Mir and Sauda",
+          "Tayumanavar and Kunchan Nambiar"
+        ],
+        "correct": 1,
+        "explanation": "Raja Sawai Jai Singh and Prashuram Bhau tried to promote widow remarriage, but their efforts failed."
+      }
+    ],
+    "comprehensive": [
+      {
+        "id": "comp001",
+        "question": "Analyze the architectural achievements of the 18th century, focusing on Bara Imambara, Jaipur, and Padmanabhapuram Palace, and their regional significance.",
+        "answer": "Bara Imambara (Lucknow, 1784): Built by Asaf-ud-Daula in Lucknow (1784), showcasing remarkable architectural design. Context: Lucknow was capital of Awadh (Successor State). Asaf-ud-Daula was Nawab of Awadh. Construction during Awadh's autonomous period. Significance: Demonstrates regional state patronage of architecture, distinct architectural style, economic capacity to undertake major projects. Bara Imambara famous for its central hall without supporting beams - engineering marvel. Jaipur: Founded by Sawai Jai Singh. Established five astronomical observatories and created Zij-i Muhammad Shahi timetables to promote astronomy. Significance: Rajput resurgence (early 18th century) included not just political/military but also scientific/architectural achievements. Observatories (Jantar Mantar) show blend of architecture and astronomy. Sawai Jai Singh (Jay Singh II) was appointed Agra governor, expanded influence in Surat - his Jaipur foundation part of Rajput state-building. City planning and astronomical instruments demonstrate sophisticated knowledge. Padmanabhapuram Palace (Kerala): Notable architectural gem in Kerala. Context: Kerala saw Martanda Varma's expansion, establishment of Travancore. Palace represents Kerala architectural traditions during Independent Kingdom period. Regional Significance: All three represent different regional states/kingdoms: Awadh (Successor State) \u2192 Bara Imambara, Rajputs (Independent Kingdom) \u2192 Jaipur, Kerala (Independent Kingdom) \u2192 Padmanabhapuram. 18th century architectural achievements weren't centralized in Mughal capitals (Delhi/Agra) but distributed across regional states, each developing distinct architectural styles. Shows cultural vitality despite/because of political fragmentation. Architecture linked to state patronage - autonomous rulers invested in monuments establishing legitimacy and prestige."
+      },
+      {
+        "id": "comp002",
+        "question": "Examine the flourishing of regional literature in the 18th century across different languages: Urdu, Malayalam, Tamil, Punjabi, and Sindhi, highlighting key figures and themes.",
+        "answer": "Urdu Poetry: Flourished in 18th century with prominent poets like Mir, Sauda, Nazir, and Mirza Ghalib. Context: Urdu developed as court language (Muhammad Shah Rangeela promoted Urdu as court language). 18th century its golden age of poetry. Themes: Love, mysticism, court life, social commentary. These poets established Urdu poetic tradition. Malayalam Literature: Supported by Travancore rulers, featuring influential poets like Kunchan Nambiar. Context: Travancore established by Martanda Varma in Kerala (Independent Kingdom). State patronage enabled literary development. Shows regional rulers supporting vernacular literature. Tamil - Sittar Poetry: Emerged with critiques of temple rule and caste by Tayumanavar. Themes: Social critique - temple rule and caste system challenged. Progressive/reformist strand in Tamil literature. Sittar tradition (mystical saints) used for social commentary. Punjabi Epic: Warris Shah authored Heer Ranjha, a celebrated romantic work. Context: Punjab saw Sikh developments (though Heer Ranjha is folk romantic epic, not religious). Genre: Epic romance - folk tradition elevated to literary achievement. Still celebrated in Punjabi culture. Sindhi Literature: Enriched by Shah Abdul Latif, who wrote Risalo. Context: Sindh region. Risalo collection of poetry exploring themes of love, spirituality, folk traditions. Pattern Across Languages: Regional languages flourishing (Malayalam, Tamil, Punjabi, Sindhi) alongside Urdu. Each region had literary patrons (Travancore rulers for Malayalam) or emerged from folk/spiritual traditions. Themes: Romance (Heer Ranjha, Risalo), social critique (Tayumanavar), mysticism/love (Urdu poets), court life (Urdu). 18th Century Significance: Political fragmentation (regional states) enabled linguistic/cultural diversification. Regional rulers patronized vernacular literature vs Mughal Persian/Urdu centralization. Folk traditions (Punjabi, Sindhi) gained literary recognition. Social reform themes emerged (Tayumanavar's caste critique). Literary achievements paralleled political autonomy - cultural expression of regional identity."
+      },
+      {
+        "id": "comp003",
+        "question": "Discuss Sawai Jai Singh's contributions to astronomy and architecture, and assess the failed attempts at social reform regarding widow remarriage in the 18th century.",
+        "answer": "Sawai Jai Singh - Astronomy & Architecture: Founded Jaipur - planned city representing Rajput resurgence. Established five astronomical observatories - scientific institutions across regions. Created Zij-i Muhammad Shahi timetables to promote astronomy - practical astronomical tables for calendar/timekeeping. Significance: Blend of ruler, architect, astronomer roles. Observatories (Jantar Mantar) combined monumental architecture with scientific instruments - masonry instruments for celestial observation. Shows 18th century Indian rulers engaged with astronomy, mathematics, architecture simultaneously. Not just military/administrative but scientific patronage. Sawai Jai Singh appointed Agra governor, expanded influence in Surat (Jay Singh II identified as same figure) - combined political expansion with cultural/scientific achievements. Social Reform - Widow Remarriage: Widow remarriage discouraged in 18th century society. Reform Attempts: Raja Sawai Jai Singh (same figure as above) and Prashuram Bhau tried to promote widow remarriage. Both efforts failed. Significance: 1) Same Sawai Jai Singh who achieved success in astronomy/architecture failed in social reform - easier to build observatories than change social customs, 2) Prashuram Bhau (Maratha figure) also attempted reform - shows concern across different regional states, 3) Failure indicates deep-rooted social conservatism despite political changes. Widow remarriage restrictions part of patriarchal social structure resistant to reform. Comparison: Successful: Architecture (Bara Imambara, Jaipur, Padmanabhapuram), Literature (multiple languages/regions), Astronomy (observatories, timetables). Failed: Social reform (widow remarriage). Pattern: 18th century saw cultural/scientific achievements but social conservatism persisted. Rulers could patronize arts/sciences but faced limits changing social practices. Reform attempts notable for trying, but failure shows constraints on even powerful rulers when confronting entrenched social norms. Would require later reform movements (19th century) to make progress on widow remarriage."
+      }
+    ]
+  }
+}
