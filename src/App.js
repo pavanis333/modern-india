@@ -7,6 +7,7 @@ import QuizMode from './components/QuizMode';
 import europeansData from './data/europeans-in-india.json';
 import portugueseData from './data/portuguese-in-india.json';
 import dutchData from './data/dutch-in-india.json';
+import danishData from './data/danish-in-india.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -37,6 +38,12 @@ function App() {
           title: 'Dutch in India',
           description: 'VOC, Spice trade, Battle of Colachel, Amboyna Massacre, and Dutch withdrawal',
           data: dutchData
+        },
+        {
+          id: 'danish',
+          title: 'Danish (Danes) in India',
+          description: 'Tranquebar, Serampore, missionary activities, and sale to British (1845)',
+          data: danishData
         }
       ]
     }
