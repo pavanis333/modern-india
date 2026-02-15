@@ -25,6 +25,7 @@ import artArchData from './data/art-architecture-literature.json';
 import eduTradeData from './data/education-trade-shipbuilding.json';
 import britishBengalData from './data/british-conquest-bengal.json';
 import politicalAssocData from './data/political-associations-before-inc.json';
+import revolutionaryActData from './data/revolutionary-activities-1907-17.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -170,6 +171,19 @@ function App() {
           title: 'Political Associations Before INC (1836-1885)',
           description: 'Bangabhasha Prakasika Sabha to London Indian Society - evolution toward national movement',
           data: politicalAssocData
+        }
+      ]
+    },
+    {
+      id: 'national-movement-1905-18',
+      title: 'Indian National Movement: 1905-18',
+      description: 'Revolutionary activities, extremism, and the nationalist upsurge',
+      subtopics: [
+        {
+          id: 'revolutionary-activities',
+          title: 'Revolutionary Activities (Phase: 1907-17)',
+          description: 'Anushilan Samiti, Ghadar Party, Berlin Committee, and revolutionary movements',
+          data: revolutionaryActData
         }
       ]
     }
