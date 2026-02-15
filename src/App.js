@@ -28,6 +28,7 @@ import politicalAssocData from './data/political-associations-before-inc.json';
 import revolutionaryActData from './data/revolutionary-activities-1907-17.json';
 import nonCoopSevenData from './data/non-cooperation-seven-points.json';
 import revActPhase2Data from './data/revolutionary-activities-phase2-1920s.json';
+import elevenDemandsData from './data/gandhis-eleven-demands.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -212,6 +213,19 @@ function App() {
           title: 'Revolutionary Activities (Phase-II in 1920s)',
           description: 'HRA/HSRA, Kakori, Saunders Murder, Assembly Bombing, socialist ideology',
           data: revActPhase2Data
+        }
+      ]
+    },
+    {
+      id: 'national-movement-1929-42',
+      title: 'Indian National Movement: 1929-1942',
+      description: 'Civil Disobedience, Gandhi-Irwin Pact, and the Quit India Movement',
+      subtopics: [
+        {
+          id: 'gandhis-eleven-demands',
+          title: "Gandhi's Eleven Demands",
+          description: 'Three categories: General Interest (6), Bourgeois Demands (3), Peasant Demands (2)',
+          data: elevenDemandsData
         }
       ]
     }
