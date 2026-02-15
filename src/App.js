@@ -31,6 +31,7 @@ import revActPhase2Data from './data/revolutionary-activities-phase2-1920s.json'
 import elevenDemandsData from './data/gandhis-eleven-demands.json';
 import parallelGovtsData from './data/parallel-governments-quit-india.json';
 import twoNationData from './data/two-nation-theory-evolution.json';
+import womensIssuesData from './data/womens-issues-and-reforms.json';
 
 function App() {
   const [mode, setMode] = useState('topics'); // topics, subtopics, home, flashcard, quiz
@@ -247,6 +248,19 @@ function App() {
           title: 'Evolution of the Two-Nation Theory',
           description: 'From 1887 anti-Congress to Lahore Resolution 1940 and Partition 1947',
           data: twoNationData
+        }
+      ]
+    },
+    {
+      id: 'socio-religious-reform',
+      title: 'Socio Religious Reform Movement, Organisations and Personalities',
+      description: "Women's issues, reforms, education, and social organisations",
+      subtopics: [
+        {
+          id: 'womens-issues-reforms',
+          title: "Women's Issues and Reforms",
+          description: 'Sati, infanticide, widow remarriage, child marriage, education, organisations',
+          data: womensIssuesData
         }
       ]
     }
