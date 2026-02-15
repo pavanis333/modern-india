@@ -1,0 +1,197 @@
+{
+  "topic": "British Policies and their Economic Impacts",
+  "subtopic": "Education - Committees and Commissions",
+  "flashcards": [
+    {
+      "id": "fc001",
+      "category": "Education Committees and Commissions",
+      "front": "Hunter Commission (1882)?",
+      "back": "Chairman: William Hunter. Objectives: To study the development in education. Governor General/Viceroy: Lord Rippon"
+    },
+    {
+      "id": "fc002",
+      "category": "Education Committees and Commissions",
+      "front": "University Commission (1902)?",
+      "back": "Chairman: Thomas Raleigh. Objectives: To study the universities and introduce reforms. Governor General/Viceroy: Lord Curzon"
+    },
+    {
+      "id": "fc003",
+      "category": "Education Committees and Commissions",
+      "front": "Calcutta University Commission (1917)?",
+      "back": "Chairman: Michael Sadler. Objectives: To study the conditions of the university. Governor General/Viceroy: Lord Chelmsford"
+    },
+    {
+      "id": "fc004",
+      "category": "Education Committees and Commissions",
+      "front": "Hartog Committee (1929)?",
+      "back": "Chairman: Philip Hartog. Objectives: It focused on reviewing the state of education in India. It was a part of broader efforts to examine the results of educational reforms initiated after the Montagu-Chelmsford Reforms of 1919. Governor General/Viceroy: Irwin"
+    },
+    {
+      "id": "fc005",
+      "category": "Education Committees and Commissions",
+      "front": "Sargent Plan (1944)?",
+      "back": "Chairman: John Sargent. Objectives: To raise the standards of education to match those in Britain. Governor General/Viceroy: Lord Wavell"
+    }
+  ],
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "mcq001",
+        "question": "Hunter Commission (1882) chairman?",
+        "options": [
+          "Thomas Raleigh",
+          "William Hunter",
+          "Michael Sadler",
+          "Philip Hartog"
+        ],
+        "correct": 1,
+        "explanation": "Hunter Commission (1882) chaired by William Hunter."
+      },
+      {
+        "id": "mcq002",
+        "question": "Hunter Commission (1882) objective?",
+        "options": [
+          "Study universities",
+          "To study the development in education",
+          "Study university conditions",
+          "Review reforms"
+        ],
+        "correct": 1,
+        "explanation": "Hunter Commission (1882) aimed to study the development in education."
+      },
+      {
+        "id": "mcq003",
+        "question": "Hunter Commission (1882) - Viceroy?",
+        "options": [
+          "Lord Curzon",
+          "Lord Rippon",
+          "Lord Chelmsford",
+          "Lord Wavell"
+        ],
+        "correct": 1,
+        "explanation": "Hunter Commission (1882) during Lord Rippon's tenure."
+      },
+      {
+        "id": "mcq004",
+        "question": "University Commission (1902) chairman?",
+        "options": [
+          "William Hunter",
+          "Thomas Raleigh",
+          "Michael Sadler",
+          "John Sargent"
+        ],
+        "correct": 1,
+        "explanation": "University Commission (1902) chaired by Thomas Raleigh."
+      },
+      {
+        "id": "mcq005",
+        "question": "University Commission (1902) objective?",
+        "options": [
+          "Study development",
+          "To study the universities and introduce reforms",
+          "Study conditions",
+          "Raise standards"
+        ],
+        "correct": 1,
+        "explanation": "University Commission (1902) aimed to study the universities and introduce reforms."
+      },
+      {
+        "id": "mcq006",
+        "question": "University Commission (1902) - Viceroy?",
+        "options": [
+          "Lord Rippon",
+          "Lord Curzon",
+          "Lord Chelmsford",
+          "Irwin"
+        ],
+        "correct": 1,
+        "explanation": "University Commission (1902) during Lord Curzon's tenure."
+      },
+      {
+        "id": "mcq007",
+        "question": "Calcutta University Commission (1917) chairman?",
+        "options": [
+          "Thomas Raleigh",
+          "Michael Sadler",
+          "Philip Hartog",
+          "John Sargent"
+        ],
+        "correct": 1,
+        "explanation": "Calcutta University Commission (1917) chaired by Michael Sadler."
+      },
+      {
+        "id": "mcq008",
+        "question": "Calcutta University Commission (1917) - Viceroy?",
+        "options": [
+          "Lord Curzon",
+          "Lord Chelmsford",
+          "Irwin",
+          "Lord Wavell"
+        ],
+        "correct": 1,
+        "explanation": "Calcutta University Commission (1917) during Lord Chelmsford's tenure."
+      },
+      {
+        "id": "mcq009",
+        "question": "Hartog Committee (1929) chairman?",
+        "options": [
+          "William Hunter",
+          "Thomas Raleigh",
+          "Philip Hartog",
+          "John Sargent"
+        ],
+        "correct": 2,
+        "explanation": "Hartog Committee (1929) chaired by Philip Hartog."
+      },
+      {
+        "id": "mcq010",
+        "question": "Hartog Committee (1929) connection?",
+        "options": [
+          "Hunter Commission",
+          "Montagu-Chelmsford Reforms of 1919",
+          "Sargent Plan",
+          "Only agriculture"
+        ],
+        "correct": 1,
+        "explanation": "Hartog Committee (1929) was part of broader efforts to examine results of educational reforms initiated after Montagu-Chelmsford Reforms of 1919."
+      },
+      {
+        "id": "mcq011",
+        "question": "Sargent Plan (1944) chairman?",
+        "options": [
+          "Philip Hartog",
+          "John Sargent",
+          "Michael Sadler",
+          "William Hunter"
+        ],
+        "correct": 1,
+        "explanation": "Sargent Plan (1944) chaired by John Sargent."
+      },
+      {
+        "id": "mcq012",
+        "question": "Sargent Plan (1944) objective?",
+        "options": [
+          "Study development",
+          "Study universities",
+          "To raise the standards of education to match those in Britain",
+          "Review reforms"
+        ],
+        "correct": 2,
+        "explanation": "Sargent Plan (1944) aimed to raise the standards of education to match those in Britain."
+      },
+      {
+        "id": "mcq013",
+        "question": "Sargent Plan (1944) - Viceroy?",
+        "options": [
+          "Lord Chelmsford",
+          "Irwin",
+          "Lord Wavell",
+          "Lord Curzon"
+        ],
+        "correct": 2,
+        "explanation": "Sargent Plan (1944) during Lord Wavell's tenure."
+      }
+    ],
+    "comprehensive": []
+  }
+}
