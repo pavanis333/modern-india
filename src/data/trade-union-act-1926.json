@@ -3,40 +3,82 @@
   "subtopic": "Trade Union Act 1926 and Communist Influence",
   "flashcards": [
     {
-      "id": "fc001",
+      "id": "fc001_a",
       "category": "Trade Union Act of 1926",
-      "front": "Trade Union Act of 1926?",
-      "back": "The Trade Union Act of 1926 legalised trade unions, granting them recognition and regulating their activities. It required at least seven members for registration, provided immunity from civil and criminal liability for legitimate actions, and allowed unions to own property. However, the Act restricted unions from using funds for political purposes, limiting their activities to economic grievances only"
+      "front": "Trade Union Act of 1926? (Part 1/3)",
+      "back": "The Trade Union Act of 1926 legalised trade unions, granting them recognition and regulating their activities."
     },
     {
-      "id": "fc002",
+      "id": "fc001_b",
+      "category": "Trade Union Act of 1926",
+      "front": "Trade Union Act of 1926? (Part 2/3)",
+      "back": "It required at least seven members for registration, provided immunity from civil and criminal liability for legitimate actions, and allowed unions to own property."
+    },
+    {
+      "id": "fc001_c",
+      "category": "Trade Union Act of 1926",
+      "front": "Trade Union Act of 1926? (Part 3/3)",
+      "back": "However, the Act restricted unions from using funds for political purposes, limiting their activities to economic grievances only"
+    },
+    {
+      "id": "fc002_a",
       "category": "1928 Bombay Textile Strike",
-      "front": "1928 Bombay textile strike?",
-      "back": "Led by the Girni Kamgar Union (GKU), mobilized 1.5 lakh mill workers and lasted five months. This strike marked a decisive shift from scattered labour protests to a structured industrial movement, establishing early working-class solidarity in India"
+      "front": "1928 Bombay textile strike? (Part 1/2)",
+      "back": "Led by the Girni Kamgar Union (GKU), mobilized 1.5 lakh mill workers and lasted five months."
     },
     {
-      "id": "fc003",
+      "id": "fc002_b",
       "category": "1928 Bombay Textile Strike",
-      "front": "Communist influence on trade union movement (Late 1920s)?",
-      "back": "The rise of communism in the late 1920s significantly influenced the Indian trade union movement, giving it a more militant and revolutionary tone. The Girni Kamgar Union led a six-month strike at the Bombay Textile Mills in 1928, marking a period of intense industrial unrest driven by communist ideologies"
+      "front": "1928 Bombay textile strike? (Part 2/2)",
+      "back": "This strike marked a decisive shift from scattered labour protests to a structured industrial movement, establishing early working-class solidarity in India"
     },
     {
-      "id": "fc004",
-      "category": "Communist Influence (Late 1920s)",
-      "front": "Communist leaders in trade union movement?",
-      "back": "Key figures such as Sohan Singh Joshi, P.C. Joshi, Muzaffar Ahmed, and S.A. Dange played a central role in the communist-influenced trade union movement"
+      "id": "fc003_a",
+      "category": "1928 Bombay Textile Strike",
+      "front": "Communist influence on trade union movement (Late 1920s)? (Part 1/2)",
+      "back": "The rise of communism in the late 1920s significantly influenced the Indian trade union movement, giving it a more militant and revolutionary tone."
     },
     {
-      "id": "fc005",
-      "category": "Communist Influence (Late 1920s)",
-      "front": "4th Congress of Communist International and AITUC?",
-      "back": "The 4th Congress of the Communist International urged the AITUC to not just demand fair wages, but to focus on overthrowing capitalism and imperialism. AITUC later affiliated with the Pan-Pacific Secretariat and the Third International in Moscow"
+      "id": "fc003_b",
+      "category": "1928 Bombay Textile Strike",
+      "front": "Communist influence on trade union movement (Late 1920s)? (Part 2/2)",
+      "back": "The Girni Kamgar Union led a six-month strike at the Bombay Textile Mills in 1928, marking a period of intense industrial unrest driven by communist ideologies"
     },
     {
-      "id": "fc006",
+      "id": "fc004_a",
       "category": "Communist Influence (Late 1920s)",
-      "front": "Moderate response to communist influence?",
-      "back": "In response to the radical shift, moderates led by N.M. Joshi formed the All India Trade Union Federation (AITUF) in 1931, after withdrawing from the AITUC"
+      "front": "Communist leaders in trade union movement? (Part 1/2)",
+      "back": "Key figures such as Sohan Singh Joshi, P.C. Joshi, Muzaffar Ahmed, and S.A."
+    },
+    {
+      "id": "fc004_b",
+      "category": "Communist Influence (Late 1920s)",
+      "front": "Communist leaders in trade union movement? (Part 2/2)",
+      "back": "Dange played a central role in the communist-influenced trade union movement"
+    },
+    {
+      "id": "fc005_a",
+      "category": "Communist Influence (Late 1920s)",
+      "front": "4th Congress of Communist International and AITUC? (Part 1/2)",
+      "back": "The 4th Congress of the Communist International urged the AITUC to not just demand fair wages, but to focus on overthrowing capitalism and imperialism."
+    },
+    {
+      "id": "fc005_b",
+      "category": "Communist Influence (Late 1920s)",
+      "front": "4th Congress of Communist International and AITUC? (Part 2/2)",
+      "back": "AITUC later affiliated with the Pan-Pacific Secretariat and the Third International in Moscow"
+    },
+    {
+      "id": "fc006_a",
+      "category": "Communist Influence (Late 1920s)",
+      "front": "Moderate response to communist influence? (Part 1/2)",
+      "back": "In response to the radical shift, moderates led by N.M."
+    },
+    {
+      "id": "fc006_b",
+      "category": "Communist Influence (Late 1920s)",
+      "front": "Moderate response to communist influence? (Part 2/2)",
+      "back": "Joshi formed the All India Trade Union Federation (AITUF) in 1931, after withdrawing from the AITUC"
     },
     {
       "id": "fc007",
@@ -57,10 +99,16 @@
       "back": "The Act forbade coercive or purely political trade union activities, including sympathetic strikes [UPSC 2017]"
     },
     {
-      "id": "fc010",
+      "id": "fc010_a",
       "category": "Public Safety Ordinance (1929)",
-      "front": "Public Safety Ordinance (1929) [UPSC 2017]?",
-      "back": "This ordinance, introduced in the Legislative Assembly in 1928 and enacted in 1929, was aimed at regulating and limiting labour movements and public safety concerns. It provided for a system of tribunals and a ban on strikes [UPSC 2017]"
+      "front": "Public Safety Ordinance (1929) [UPSC 2017]? (Part 1/2)",
+      "back": "This ordinance, introduced in the Legislative Assembly in 1928 and enacted in 1929, was aimed at regulating and limiting labour movements and public safety concerns."
+    },
+    {
+      "id": "fc010_b",
+      "category": "Public Safety Ordinance (1929)",
+      "front": "Public Safety Ordinance (1929) [UPSC 2017]? (Part 2/2)",
+      "back": "It provided for a system of tribunals and a ban on strikes [UPSC 2017]"
     }
   ],
   "quizzes": {

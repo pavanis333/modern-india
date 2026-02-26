@@ -21,10 +21,16 @@
       "back": "Inspired by Abdul Wahab (Arabia) and Shah Waliullah (1702-63)"
     },
     {
-      "id": "fc004",
+      "id": "fc004_a",
       "category": "Wahabi Movement (1820s+)",
-      "front": "Wahabi Movement objectives?",
-      "back": "Sought to revive authentic Islam and Arabian culture as it existed during Prophet's time. Opposed Western influences on Islam, emphasised individual conscience in religious matters"
+      "front": "Wahabi Movement objectives? (Part 1/2)",
+      "back": "Sought to revive authentic Islam and Arabian culture as it existed during Prophet's time."
+    },
+    {
+      "id": "fc004_b",
+      "category": "Wahabi Movement (1820s+)",
+      "front": "Wahabi Movement objectives? (Part 2/2)",
+      "back": "Opposed Western influences on Islam, emphasised individual conscience in religious matters"
     },
     {
       "id": "fc005",
@@ -69,10 +75,16 @@
       "back": "Spread reinterpretation of Islam and eradicate un-Islamic practices, especially in East Bengal"
     },
     {
-      "id": "fc012",
+      "id": "fc012_a",
       "category": "Faraizi Movement (1818-19)",
-      "front": "Faraizi transformation 1840?",
-      "back": "After British conquest of region, transformed into revolutionary force. Dudu Mian organised paramilitary force to challenge Hindu landlords and Indigo planters who exploited poor peasants"
+      "front": "Faraizi transformation 1840? (Part 1/2)",
+      "back": "After British conquest of region, transformed into revolutionary force."
+    },
+    {
+      "id": "fc012_b",
+      "category": "Faraizi Movement (1818-19)",
+      "front": "Faraizi transformation 1840? (Part 2/2)",
+      "back": "Dudu Mian organised paramilitary force to challenge Hindu landlords and Indigo planters who exploited poor peasants"
     },
     {
       "id": "fc013",
@@ -99,10 +111,16 @@
       "back": "Founded on teachings of Shah Waliullah"
     },
     {
-      "id": "fc017",
+      "id": "fc017_a",
       "category": "Taayuuni Movement (1839, Dacca)",
-      "front": "Taayuuni vs Faraizi?",
-      "back": "Stood in opposition to Faraizi Movement, offering more traditionalist religious stance without revolutionary and social reform goals that Faraizi pursued"
+      "front": "Taayuuni vs Faraizi? (Part 1/2)",
+      "back": "Stood in opposition to Faraizi Movement, offering more traditionalist religious stance without revolutionary and social reform goals that"
+    },
+    {
+      "id": "fc017_b",
+      "category": "Taayuuni Movement (1839, Dacca)",
+      "front": "Taayuuni vs Faraizi? (Part 2/2)",
+      "back": "raizi pursued"
     },
     {
       "id": "fc018",
@@ -135,16 +153,28 @@
       "back": "Maulana Abul Kalam Azad, Mahmud-ul-Hasan, Shibli Numani"
     },
     {
-      "id": "fc023",
+      "id": "fc023_a",
       "category": "Deoband School (1866, Saharanpur UP)",
-      "front": "Deoband core ideals?",
-      "back": "Revivalist movement focusing on Quranic teachings, rejecting Western education, advocating liberal interpretation of Islam. Supported Indian National Congress, issued 1888 fatwa against Syed Ahmed Khan's associations"
+      "front": "Deoband core ideals? (Part 1/2)",
+      "back": "Revivalist movement focusing on Quranic teachings, rejecting Western education, advocating liberal interpretation of Islam."
     },
     {
-      "id": "fc024",
+      "id": "fc023_b",
       "category": "Deoband School (1866, Saharanpur UP)",
-      "front": "Deoband key contributions?",
-      "back": "Mahmud-ul-Hasan fused Islamic principles with nationalism. Jamiat-ul-Ulema upheld Muslim rights. Shibli Numani supported English, European sciences, and Hindu-Muslim unity"
+      "front": "Deoband core ideals? (Part 2/2)",
+      "back": "Supported Indian National Congress, issued 1888 fatwa against Syed Ahmed Khan's associations"
+    },
+    {
+      "id": "fc024_a",
+      "category": "Deoband School (1866, Saharanpur UP)",
+      "front": "Deoband key contributions? (Part 1/2)",
+      "back": "Mahmud-ul-Hasan fused Islamic principles with nationalism. Jamiat-ul-Ulema upheld Muslim rights."
+    },
+    {
+      "id": "fc024_b",
+      "category": "Deoband School (1866, Saharanpur UP)",
+      "front": "Deoband key contributions? (Part 2/2)",
+      "back": "Shibli Numani supported English, European sciences, and Hindu-Muslim unity"
     },
     {
       "id": "fc025",
@@ -153,10 +183,16 @@
       "back": "Syed Ahmed Khan (1817-98), 1875"
     },
     {
-      "id": "fc026",
+      "id": "fc026_a",
       "category": "Aligarh Movement (1875)",
-      "front": "Aligarh key contributions?",
-      "back": "Promoted religious reform through rational inquiry in religion, emphasising scientific and rational outlook. Recognized value of Western education, aimed to socially reform Muslims. Played pivotal role in founding Scientific Society in 1864"
+      "front": "Aligarh key contributions? (Part 1/2)",
+      "back": "Promoted religious reform through rational inquiry in religion, emphasising scientific and rational outlook."
+    },
+    {
+      "id": "fc026_b",
+      "category": "Aligarh Movement (1875)",
+      "front": "Aligarh key contributions? (Part 2/2)",
+      "back": "Recognized value of Western education, aimed to socially reform Muslims. Played pivotal role in founding Scientific Society in 1864"
     },
     {
       "id": "fc027",
@@ -171,10 +207,16 @@
       "back": "Mirza Ghulam Ahmad (1839-1908), 1889"
     },
     {
-      "id": "fc029",
+      "id": "fc029_a",
       "category": "Ahmadiyya Movement (1889)",
-      "front": "Ahmadiyya core beliefs?",
-      "back": "Promoted human rights, tolerance, separation of mosque and state, opposed jihad, favoured Western education. Mirza Ghulam Ahmad claimed to be Messiah, ending religious wars. Criticised for mystical elements, akin to Bahai faith"
+      "front": "Ahmadiyya core beliefs? (Part 1/2)",
+      "back": "Promoted human rights, tolerance, separation of mosque and state, opposed jihad, favoured Western education."
+    },
+    {
+      "id": "fc029_b",
+      "category": "Ahmadiyya Movement (1889)",
+      "front": "Ahmadiyya core beliefs? (Part 2/2)",
+      "back": "Mirza Ghulam Ahmad claimed to be Messiah, ending religious wars. Criticised for mystical elements, akin to Bahai faith"
     },
     {
       "id": "fc030",

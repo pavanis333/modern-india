@@ -9,16 +9,34 @@
       "back": "Chairman: John Woodhead. Objectives: To investigate the events of the Bengal famine of 1943. Governor General/Viceroy: Lord Wavell"
     },
     {
-      "id": "fc002",
+      "id": "fc002_a",
       "category": "Famine Commissions",
-      "front": "Campbell Commission (1866)?",
-      "back": "Chairman: Sir George Campbell. Objectives: To investigate the causes of famine in Odisha and suggest ways to prevent its recurrence. It blamed the government machinery for the tragedy and suggested relief measures. Governor General/Viceroy: Lord Lawrence"
+      "front": "Campbell Commission (1866)? (Part 1/2)",
+      "back": "Chairman: Sir George Campbell. Objectives: To investigate the causes of famine in Odisha and suggest ways to prevent its recurrence."
     },
     {
-      "id": "fc003",
+      "id": "fc002_b",
       "category": "Famine Commissions",
-      "front": "Strachey Commission (1880)?",
-      "back": "Chairman: Richard Strachey. Objectives: To provide recommendations, including the formulation of a Famine Code, development of irrigation facilities, suspension of land revenue collection during famines, collection of data about Indian agriculture and peasantry, and establishment of a Famine fund. Governor General/Viceroy: Lord Lytton"
+      "front": "Campbell Commission (1866)? (Part 2/2)",
+      "back": "It blamed the government machinery for the tragedy and suggested relief measures. Governor General/Viceroy: Lord Lawrence"
+    },
+    {
+      "id": "fc003_a",
+      "category": "Famine Commissions",
+      "front": "Strachey Commission (1880)? (Part 1/3)",
+      "back": "Chairman: Richard Strachey."
+    },
+    {
+      "id": "fc003_b",
+      "category": "Famine Commissions",
+      "front": "Strachey Commission (1880)? (Part 2/3)",
+      "back": "Objectives: To provide recommendations, including the formulation of a Famine Code, development of irrigation facilities, suspension of land revenue collection during famines, collection of data about Indian agriculture and peasantry, and establishment of a Famine fund."
+    },
+    {
+      "id": "fc003_c",
+      "category": "Famine Commissions",
+      "front": "Strachey Commission (1880)? (Part 3/3)",
+      "back": "Governor General/Viceroy: Lord Lytton"
     },
     {
       "id": "fc004",
@@ -27,10 +45,22 @@
       "back": "Chairman: James Lyall. Objectives: To recommend the development of irrigation facilities. Governor General/Viceroy: Lord Elgin"
     },
     {
-      "id": "fc005",
+      "id": "fc005_a",
       "category": "Famine Commissions",
-      "front": "MacDonnell Commission (1900)?",
-      "back": "Chairman: Anthony MacDonnell. Objectives: To recommend changes based on findings from recent famines, emphasising that the official machinery dealing with a famine must operate year-round to control food grain scarcity effectively. Governor General/Viceroy: Lord Curzon"
+      "front": "MacDonnell Commission (1900)? (Part 1/3)",
+      "back": "Chairman: Anthony MacDonnell."
+    },
+    {
+      "id": "fc005_b",
+      "category": "Famine Commissions",
+      "front": "MacDonnell Commission (1900)? (Part 2/3)",
+      "back": "Objectives: To recommend changes based on findings from recent famines, emphasising that the official machinery dealing with a famine must operate year-round to control food grain scarcity effectively."
+    },
+    {
+      "id": "fc005_c",
+      "category": "Famine Commissions",
+      "front": "MacDonnell Commission (1900)? (Part 3/3)",
+      "back": "Governor General/Viceroy: Lord Curzon"
     }
   ],
   "quizzes": {

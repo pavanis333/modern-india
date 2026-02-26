@@ -15,10 +15,16 @@
       "back": "Rasik Krishna Mullick, Tarachand Chucker-vati, Krishna Mohan Banerjee"
     },
     {
-      "id": "fc003",
+      "id": "fc003_a",
       "category": "Young Bengal Movement (1830s, Calcutta)",
-      "front": "Young Bengal ideology?",
-      "back": "Opposed societal vices, advocated truth, freedom, reason. Pushed for women's rights, education for women. Established Society for Acquisition of General Knowledge"
+      "front": "Young Bengal ideology? (Part 1/2)",
+      "back": "Opposed societal vices, advocated truth, freedom, reason. Pushed for women's rights, education for women."
+    },
+    {
+      "id": "fc003_b",
+      "category": "Young Bengal Movement (1830s, Calcutta)",
+      "front": "Young Bengal ideology? (Part 2/2)",
+      "back": "Established Society for Acquisition of General Knowledge"
     },
     {
       "id": "fc004",
@@ -27,10 +33,16 @@
       "back": "Janavesan, Hesperus, The Calcutta Library Gazette, India Gazette (edited by Derozio)"
     },
     {
-      "id": "fc005",
+      "id": "fc005_a",
       "category": "Young Bengal Movement (1830s, Calcutta)",
-      "front": "Young Bengal demands?",
-      "back": "Indian representation in higher services, protection for ryots, fair treatment of Indian labour abroad, revision of Company's charter, freedom of press, trial by jury"
+      "front": "Young Bengal demands? (Part 1/2)",
+      "back": "Indian representation in higher services, protection for ryots, fair treatment of Indian labour abroad, revision of Company's charter"
+    },
+    {
+      "id": "fc005_b",
+      "category": "Young Bengal Movement (1830s, Calcutta)",
+      "front": "Young Bengal demands? (Part 2/2)",
+      "back": "freedom of press, trial by jury"
     },
     {
       "id": "fc006",
@@ -39,10 +51,16 @@
       "back": "Radhakanta Deb (1794-1876), 1830, Calcutta"
     },
     {
-      "id": "fc007",
+      "id": "fc007_a",
       "category": "Dharma Sabha (1830, Calcutta)",
-      "front": "Dharma Sabha ideology?",
-      "back": "Countered Brahmo Samaj, supported orthodoxy, opposed radical and liberal reforms including abolition of sati, promoted Western education, celebrated Indian culture's importance and pride"
+      "front": "Dharma Sabha ideology? (Part 1/2)",
+      "back": "Countered Brahmo Samaj, supported orthodoxy, opposed radical and liberal reforms including abolition of sati, promoted Western education"
+    },
+    {
+      "id": "fc007_b",
+      "category": "Dharma Sabha (1830, Calcutta)",
+      "front": "Dharma Sabha ideology? (Part 2/2)",
+      "back": "celebrated Indian culture's importance and pride"
     },
     {
       "id": "fc008",
@@ -57,10 +75,16 @@
       "back": "Manage Hindu religious institutions, Promote Hindu education"
     },
     {
-      "id": "fc010",
+      "id": "fc010_a",
       "category": "Bharat Dharma Mahamandal (1902)",
-      "front": "Bharat Dharma Mahamandal formation?",
-      "back": "Evolved from coalition of organisations defending orthodox Hinduism (e.g., Sanatana Dharma Sabha, Dharma Maha Parishad, Dharma Mahamandali). Combined in 1902 to form Bharat Dharma Mahamandal with headquarters at Varanasi"
+      "front": "Bharat Dharma Mahamandal formation? (Part 1/2)",
+      "back": "Evolved from coalition of organisations defending orthodox Hinduism (e.g., Sanatana Dharma Sabha, Dharma Maha Parishad, Dharma Mahamandali)."
+    },
+    {
+      "id": "fc010_b",
+      "category": "Bharat Dharma Mahamandal (1902)",
+      "front": "Bharat Dharma Mahamandal formation? (Part 2/2)",
+      "back": "Combined in 1902 to form Bharat Dharma Mahamandal with headquarters at Varanasi"
     },
     {
       "id": "fc011",
@@ -75,10 +99,16 @@
       "back": "Debendranath Tagore, 1839, Calcutta"
     },
     {
-      "id": "fc013",
+      "id": "fc013_a",
       "category": "Tattvabodhini Sabha (1839, Calcutta)",
-      "front": "Tattvabodhini Sabha objectives?",
-      "back": "Response to expansion of Christianity in India, promote Vedantism and indigenous culture, focus on developing Bengali language and texts in various subjects"
+      "front": "Tattvabodhini Sabha objectives? (Part 1/2)",
+      "back": "Response to expansion of Christianity in India, promote Vedantism and indigenous culture"
+    },
+    {
+      "id": "fc013_b",
+      "category": "Tattvabodhini Sabha (1839, Calcutta)",
+      "front": "Tattvabodhini Sabha objectives? (Part 2/2)",
+      "back": "focus on developing Bengali language and texts in various subjects"
     },
     {
       "id": "fc014",
@@ -93,16 +123,28 @@
       "back": "Promoted study of India's past with rational approach"
     },
     {
-      "id": "fc016",
+      "id": "fc016_a",
       "category": "Students Literary Society (1848)",
-      "front": "Students Literary and Scientific Society?",
-      "back": "1848. Objectives: Debate on popular science and social issues, Promote study of literature and science, Advocate use of vernacular languages in education"
+      "front": "Students Literary and Scientific Society? (Part 1/2)",
+      "back": "1 8 4"
     },
     {
-      "id": "fc017",
+      "id": "fc016_b",
+      "category": "Students Literary Society (1848)",
+      "front": "Students Literary and Scientific Society? (Part 2/2)",
+      "back": "8. Objectives: Debate on popular science and social issues, Promote study of literature and science, Advocate use of vernacular languages in education"
+    },
+    {
+      "id": "fc017_a",
       "category": "Radhaswami Movement (1861, Agra)",
-      "front": "Radhaswami Movement?",
-      "back": "1861, Agra. Founder: Tulsi Ram (Shiv Dayal Saheb). Core beliefs: belief in one supreme being, guru supremacy, practice of Satsang (community of pious individuals)"
+      "front": "Radhaswami Movement? (Part 1/2)",
+      "back": "1861, Agra. Founder: Tulsi Ram (Shiv Dayal Saheb)."
+    },
+    {
+      "id": "fc017_b",
+      "category": "Radhaswami Movement (1861, Agra)",
+      "front": "Radhaswami Movement? (Part 2/2)",
+      "back": "Core beliefs: belief in one supreme being, guru supremacy, practice of Satsang (community of pious individuals)"
     },
     {
       "id": "fc018",
@@ -111,10 +153,16 @@
       "back": "Sridharalu Naidu and Keshab Chandra Sen, 1864, Madras"
     },
     {
-      "id": "fc019",
+      "id": "fc019_a",
       "category": "Veda Samaj (1864, Madras)",
-      "front": "Veda Samaj influence?",
-      "back": "Heavily influenced by Brahmo Samaj, particularly its theistic principles. Key beliefs: Viewing marriage and funeral rituals as routine, not religious, advocating elimination of sectarian beliefs, promoting gradual eradication of caste distinctions"
+      "front": "Veda Samaj influence? (Part 1/2)",
+      "back": "Heavily influenced by Brahmo Samaj, particularly its theistic principles."
+    },
+    {
+      "id": "fc019_b",
+      "category": "Veda Samaj (1864, Madras)",
+      "front": "Veda Samaj influence? (Part 2/2)",
+      "back": "Key beliefs: Viewing marriage and funeral rituals as routine, not religious, advocating elimination of sectarian beliefs, promoting gradual eradication of caste distinctions"
     },
     {
       "id": "fc020",
@@ -141,10 +189,16 @@
       "back": "Disapproval of caste system, women's education, Widow remarriage, raising age of marriage for both genders"
     },
     {
-      "id": "fc024",
+      "id": "fc024_a",
       "category": "Prarthana Samaj (1867, Bombay)",
-      "front": "Prarthana Samaj important figures?",
-      "back": "Mahadeo Govind Ranade joined 1870, boosting popularity. Dhondo Keshav Karve and Vishnu Shastri contributed to Widow Remarriage Movement and Widows' Home Association"
+      "front": "Prarthana Samaj important figures? (Part 1/2)",
+      "back": "Mahadeo Govind Ranade joined 1870, boosting popularity."
+    },
+    {
+      "id": "fc024_b",
+      "category": "Prarthana Samaj (1867, Bombay)",
+      "front": "Prarthana Samaj important figures? (Part 2/2)",
+      "back": "Dhondo Keshav Karve and Vishnu Shastri contributed to Widow Remarriage Movement and Widows' Home Association"
     },
     {
       "id": "fc025",
@@ -153,10 +207,16 @@
       "back": "Paramahansa Sabha, promoting liberal ideas and caste/community breakdown"
     },
     {
-      "id": "fc026",
+      "id": "fc026_a",
       "category": "Indian Reform Association (1870, Calcutta)",
-      "front": "Indian Reform Association?",
-      "back": "Keshub Chandra Sen, 1870, Calcutta. Objectives: Build public consensus against child marriages, Elevate social status of women, Advocate for legalisation of marriages following Brahmo tradition"
+      "front": "Indian Reform Association? (Part 1/2)",
+      "back": "Keshub Chandra Sen, 1870, Calcutta."
+    },
+    {
+      "id": "fc026_b",
+      "category": "Indian Reform Association (1870, Calcutta)",
+      "front": "Indian Reform Association? (Part 2/2)",
+      "back": "Objectives: Build public consensus against child marriages, Elevate social status of women, Advocate for legalisation of marriages following Brahmo tradition"
     },
     {
       "id": "fc027",
@@ -171,10 +231,22 @@
       "back": "'Back to the Vedas'"
     },
     {
-      "id": "fc029",
+      "id": "fc029_a",
       "category": "Arya Samaj (1875, Bombay)",
-      "front": "Arya Samaj key ideas?",
-      "back": "Rejected rituals, Brahminical dominance, idol worship, superstitions. Promoted social reform, women's rights, social equality, challenging untouchability and caste system. Used Hindi to reach Northern India, established Dayanand Anglo-Vedic (DAV) schools"
+      "front": "Arya Samaj key ideas? (Part 1/3)",
+      "back": "Rejected rituals, Brahminical dominance, idol worship, superstitions."
+    },
+    {
+      "id": "fc029_b",
+      "category": "Arya Samaj (1875, Bombay)",
+      "front": "Arya Samaj key ideas? (Part 2/3)",
+      "back": "Promoted social reform, women's rights, social equality, challenging untouchability and caste system."
+    },
+    {
+      "id": "fc029_c",
+      "category": "Arya Samaj (1875, Bombay)",
+      "front": "Arya Samaj key ideas? (Part 3/3)",
+      "back": "Used Hindi to reach Northern India, established Dayanand Anglo-Vedic (DAV) schools"
     },
     {
       "id": "fc030",
@@ -189,10 +261,22 @@
       "back": "Annie Besant (President) (UPSC 2013)"
     },
     {
-      "id": "fc032",
+      "id": "fc032_a",
       "category": "Theosophical Society (1875/1882)",
-      "front": "Theosophical Society key ideas?",
-      "back": "Inspired by Upanishads, Vedanta, ancient philosophies. Aimed at religious revival and social reform, advocating revival of Hinduism, Zoroastrianism, Buddhism. Recognized transmigration of soul, preached universal brotherhood, promoted women's advancement, fought against untouchability"
+      "front": "Theosophical Society key ideas? (Part 1/3)",
+      "back": "Inspired by Upanishads, Vedanta, ancient philosophies."
+    },
+    {
+      "id": "fc032_b",
+      "category": "Theosophical Society (1875/1882)",
+      "front": "Theosophical Society key ideas? (Part 2/3)",
+      "back": "Aimed at religious revival and social reform, advocating revival of Hinduism, Zoroastrianism, Buddhism."
+    },
+    {
+      "id": "fc032_c",
+      "category": "Theosophical Society (1875/1882)",
+      "front": "Theosophical Society key ideas? (Part 3/3)",
+      "back": "Recognized transmigration of soul, preached universal brotherhood, promoted women's advancement, fought against untouchability"
     },
     {
       "id": "fc033",
@@ -225,10 +309,16 @@
       "back": "Advocate against child marriage, promote widow remarriage, support women exploited and abandoned by society"
     },
     {
-      "id": "fc038",
+      "id": "fc038_a",
       "category": "Seva Sadan (1885, Bombay)",
-      "front": "Seva Sadan key contributions?",
-      "back": "Influenced enactment of Age of Consent Act. Focused on providing education, medical care, welfare services to women across all castes. Malabari edited Indian Spectator. Founded with Diwan Dayaram Gidumal"
+      "front": "Seva Sadan key contributions? (Part 1/2)",
+      "back": "Influenced enactment of Age of Consent Act. Focused on providing education, medical care, welfare services to women across all castes."
+    },
+    {
+      "id": "fc038_b",
+      "category": "Seva Sadan (1885, Bombay)",
+      "front": "Seva Sadan key contributions? (Part 2/2)",
+      "back": "Malabari edited Indian Spectator. Founded with Diwan Dayaram Gidumal"
     }
   ],
   "quizzes": {

@@ -9,22 +9,40 @@
       "back": "Chairman: William Hunter. Objectives: To investigate the Punjab disturbances. Governor General/Viceroy: Lord Chelmsford"
     },
     {
-      "id": "fc002",
+      "id": "fc002_a",
       "category": "Governance Committees and Commissions",
-      "front": "Muddiman Committee (1924)?",
-      "back": "Chairman: Sir Alexander Muddiman. Objectives: To examine the working of diarchy under the Montague-Chelmsford reforms. Governor General/Viceroy: Lord Reading"
+      "front": "Muddiman Committee (1924)? (Part 1/2)",
+      "back": "Chairman: Sir Alexander Muddiman. Objectives: To examine the working of diarchy under the Montague-Chelmsford reforms."
     },
     {
-      "id": "fc003",
+      "id": "fc002_b",
       "category": "Governance Committees and Commissions",
-      "front": "Butler Commission (1927)?",
-      "back": "Chairman: Sir Harcourt Butler. Objectives: To examine the relationship between Indian states and the British Crown. Governor General/Viceroy: Lord Irwin"
+      "front": "Muddiman Committee (1924)? (Part 2/2)",
+      "back": "Governor General/Viceroy: Lord Reading"
     },
     {
-      "id": "fc004",
+      "id": "fc003_a",
       "category": "Governance Committees and Commissions",
-      "front": "Simon Commission (1928)?",
-      "back": "Chairman: Sir John Simon. Objectives: To investigate the progress of the governance scheme and suggest new reforms. Governor General/Viceroy: Lord Irwin"
+      "front": "Butler Commission (1927)? (Part 1/2)",
+      "back": "Chairman: Sir Harcourt Butler. Objectives: To examine the relationship between Indian states and the British Crown."
+    },
+    {
+      "id": "fc003_b",
+      "category": "Governance Committees and Commissions",
+      "front": "Butler Commission (1927)? (Part 2/2)",
+      "back": "Governor General/Viceroy: Lord Irwin"
+    },
+    {
+      "id": "fc004_a",
+      "category": "Governance Committees and Commissions",
+      "front": "Simon Commission (1928)? (Part 1/2)",
+      "back": "Chairman: Sir John Simon. Objectives: To investigate the progress of the governance scheme and suggest new reforms."
+    },
+    {
+      "id": "fc004_b",
+      "category": "Governance Committees and Commissions",
+      "front": "Simon Commission (1928)? (Part 2/2)",
+      "back": "Governor General/Viceroy: Lord Irwin"
     }
   ],
   "quizzes": {

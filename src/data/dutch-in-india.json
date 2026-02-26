@@ -135,10 +135,16 @@
       "back": "Portuguese: Earlier, naval dominance, Cartaz, coastal enclaves. Dutch: Later, captured Portuguese bases (Cochin), superior organization, bulk trade"
     },
     {
-      "id": "fc023",
+      "id": "fc023_a",
       "category": "Comparisons",
-      "front": "Battle of Colachel vs other European battles?",
-      "back": "Unique: Asian naval victory over European fleet. Most battles Europeans won. Showed Europeans not invincible. De Lannoy's retention showed Indian pragmatism"
+      "front": "Battle of Colachel vs other European battles? (Part 1/2)",
+      "back": "Unique: Asian naval victory over European fleet. Most battles Europeans won. Showed Europeans not invincible."
+    },
+    {
+      "id": "fc023_b",
+      "category": "Comparisons",
+      "front": "Battle of Colachel vs other European battles? (Part 2/2)",
+      "back": "De Lannoy's retention showed Indian pragmatism"
     },
     {
       "id": "fc024",
@@ -147,10 +153,16 @@
       "back": "Dutch: Voluntary focus shift, sold territories. Portuguese: Forced out by Indian military, resisted until end. Dutch pragmatic; Portuguese emotional"
     },
     {
-      "id": "fc025",
+      "id": "fc025_a",
       "category": "Comparisons",
-      "front": "Dutch factories vs English expansion?",
-      "back": "Dutch: Remained coastal trading posts. English: Started coastal but expanded inland post-1757. Dutch avoided territorial costs; English pursued land revenue"
+      "front": "Dutch factories vs English expansion? (Part 1/2)",
+      "back": "Dutch: Remained coastal trading posts. English: Started coastal but expanded inland post- 1 7 5"
+    },
+    {
+      "id": "fc025_b",
+      "category": "Comparisons",
+      "front": "Dutch factories vs English expansion? (Part 2/2)",
+      "back": "7. Dutch avoided territorial costs; English pursued land revenue"
     },
     {
       "id": "fc026",
@@ -189,10 +201,16 @@
       "back": "Spice monopoly (1000%+ margins), small islands easy to control, no major empires. India: Lower margins, powerful kingdoms, more resources needed"
     },
     {
-      "id": "fc032",
+      "id": "fc032_a",
       "category": "Strategic Analysis",
-      "front": "Strategic significance of Amboyna (1623)?",
-      "back": "Eliminated English from spices short-term. Long-term: Anglo-Dutch hostility, English redirected to India (ultimately more valuable). Won battle, lost war"
+      "front": "Strategic significance of Amboyna (1623)? (Part 1/2)",
+      "back": "Eliminated English from spices short-term. Long-term: Anglo-Dutch hostility, English redirected to India (ultimately more valuable)."
+    },
+    {
+      "id": "fc032_b",
+      "category": "Strategic Analysis",
+      "front": "Strategic significance of Amboyna (1623)? (Part 2/2)",
+      "back": "Won battle, lost war"
     },
     {
       "id": "fc033",
@@ -219,10 +237,16 @@
       "back": "Focused on Indonesia, VOC optimized for trade not governance, small population, Mughal Empire stronger during Dutch peak, wrong timing"
     },
     {
-      "id": "fc037",
+      "id": "fc037_a",
       "category": "Strategic Analysis",
-      "front": "Why De Lannoy to Travancore mattered?",
-      "back": "European expertise without colonial domination. Modernized Travancore army, resisted British expansion. Alternative to colonization - selective learning"
+      "front": "Why De Lannoy to Travancore mattered? (Part 1/2)",
+      "back": "European expertise without colonial domination. Modernized Travancore army, resisted British expansion."
+    },
+    {
+      "id": "fc037_b",
+      "category": "Strategic Analysis",
+      "front": "Why De Lannoy to Travancore mattered? (Part 2/2)",
+      "back": "Alternative to colonization - selective learning"
     },
     {
       "id": "fc038",
@@ -430,42 +454,42 @@
       {
         "id": "comp001",
         "question": "Analyze why the 1667 Anglo-Dutch compromise proved strategically beneficial for England despite 'losing' Indonesia. What does this reveal about colonial value?",
-        "answer": "The 1667 compromise divided Asia: Dutch took Indonesia, English took India. Short-term, Dutch seemed winners - spices (nutmeg, cloves) had 1000%+ profit margins vs lower textile returns. Long-term, English 'won' decisively. India became vast empire with territorial control, land revenue, strategic global position. Indonesia's spice value declined as supply increased, substitutes found, profit margins fell. By 1800s, British India far more valuable. Why English Won: 1) Territorial base: Bengal (1757) provided revenues funding expansion. Indonesia remained trading posts. 2) Population: India's millions could be taxed, recruited as sepoys. Indonesia smaller. 3) Strategic depth: Vast Indian subcontinent vs scattered Indonesian islands. 4) Adaptability: English evolved from trade to territorial control. Dutch stayed commercial. 5) Industrial Revolution: India became market for British goods, raw material source. Perfect captive economy. Lesson: Immediate profitability (Dutch spices) doesn't guarantee long-term imperial value. English lost short-term battle but won long-term war. Territorial empires with large populations outlasted commercial monopolies. 1667 compromise forced English to focus on India - blessing in disguise."
+        "answer": "The 1667 compromise divided Asia: Dutch took Indonesia, English took India. Short-term, Dutch seemed winners - spices (nutmeg, cloves) had 1000%+ profit margins vs lower textile returns. Long-term, English 'won' decisively."
       },
       {
         "id": "comp002",
         "question": "Compare Dutch VOC corporate structure with English EIC. Why did EIC ultimately succeed while VOC failed?",
-        "answer": "VOC (1602): First true joint-stock corporation, tradable shares (Amsterdam stock exchange), limited liability, professional management. However, rigid monopoly - all Dutch Asian trade. Government-backed but remained corporate entity. Optimized for commercial efficiency. EIC (1600): Royal charter, initially faced 'interloper' competition, evolved from competitive to monopoly. Gradually became state-corporate hybrid. After 1757, quasi-state with Bengal revenue. Why EIC Succeeded: 1) Adaptability: Evolved from trade to territorial control. VOC stayed rigidly commercial. 2) State backing: Parliamentary support, Royal Navy, eventually Crown takeover (1858). VOC remained corporate, couldn't match state resources. 3) Revenue base: Bengal conquest provided massive funding. VOC had no equivalent territorial cash cow. 4) Strategic flexibility: EIC adjusted to Indian political realities. VOC maintained Indonesian focus, neglecting India. 5) Timing: EIC peak during Mughal decline, Industrial Revolution. VOC peak earlier, faced stronger Asian states. Why VOC Failed: Corruption, overextension, military defeats, rigidity. Dissolved 1799. Couldn't compete with state-backed rivals. Lesson: Pure corporate entity can pioneer (VOC first) but state-corporate hybrid (later EIC) wins long-term imperial competition. Commercial efficiency insufficient against state resources and territorial expansion strategy."
+        "answer": "VOC (1602): First true joint-stock corporation, tradable shares (Amsterdam stock exchange), limited liability, professional management. However, rigid monopoly - all Dutch Asian trade. Government-backed but remained corporate entity. Optimized for commercial efficiency."
       },
       {
         "id": "comp003",
         "question": "Evaluate the Battle of Colachel as an exception to European military dominance in 18th-century India. What made Travancore's victory possible?",
-        "answer": "Battle of Colachel (18th century): Travancore's Marthanda Varma decisively defeated Dutch VOC navy - rare Asian victory over European naval power. Most Asian-European engagements: European victories due to superior technology (cannons, ships, tactics). Why Travancore Won: 1) Home advantage: Fighting on/near own coast, terrain knowledge, supply lines. Dutch expeditionary force vulnerable. 2) Strong leadership: Marthanda Varma capable military ruler, unified Travancore effectively. 3) Combination warfare: Integrated land and naval forces. Not just traditional armies but adapted tactics. 4) Motivation: Defending sovereignty vs Dutch mercenary forces fighting for profit. 5) Dutch overconfidence: Underestimated Indian military capacity, expected easy victory like other European powers. Aftermath Significance: De Lannoy (captured Dutch commander) retained, became Travancore military reformer. Trained army in European tactics, artillery, fortifications. Travancore became militarily powerful, resisted British expansion (only annexed 1947). Broader Implications: Showed European victories not inevitable. Indian states with strong leadership, adapted tactics, European training could successfully resist. Presaged later resistance: Mysore (Hyder Ali, Tipu Sultan), Marathas gave British serious challenges. Colachel was exception but important one - demonstrated Asian capacity when conditions right. Not technological determinism but contingency. Lesson: European military superiority real but not insurmountable. Indian adaptation and determination could prevail."
+        "answer": "Battle of Colachel (18th century): Travancore's Marthanda Varma decisively defeated Dutch VOC navy - rare Asian victory over European naval power. Most Asian-European engagements: European victories due to superior technology (cannons, ships, tactics)."
       },
       {
         "id": "comp004",
         "question": "Explain the Amboyna Massacre (1623) and its long-term impact on Anglo-Dutch relations and colonial trajectories.",
-        "answer": "Amboyna Massacre (1623): Dutch VOC governor accused English merchants of conspiracy in Amboyna (Indonesia), tortured and executed ten Englishmen. Dutch Motivation: Eliminate English competition in lucrative spice islands (nutmeg, cloves from Moluccas). English posed commercial threat to Dutch monopoly. Brutal message: Stay out or face consequences. Immediate Impact: English largely abandoned Indonesian spice trade. Dutch achieved short-term goal - secured spice monopoly for decades. Massive profits for VOC. Long-Term Consequences: 1) Lasting Hostility: English never forgot/forgave. Became propaganda tool justifying later Anglo-Dutch Wars (1652-1674). 2) English Redirection: Forced to seek opportunities elsewhere - India became focus by default. 'Lost' Indonesia but 'gained' India. 3) 1667 Compromise: Formalized division - Dutch Indonesia, English India. Pragmatic recognition each had regional dominance. 4) Ultimate Irony: English 'lost' valuable spice islands but gained vastly more valuable Indian empire. Dutch 'won' spices but missed territorial empire. Strategic Assessment: Dutch won battle (Amboyna), lost war (Anglo-Dutch colonial competition). Short-term profit maximization (eliminate rival, secure monopoly) vs long-term strategic failure (pushed English to better opportunity). Amboyna's brutality also hurt Dutch reputation - seen as ruthlessly commercial, unlike English who portrayed themselves as 'civilizers' (though equally exploitative). Lesson: Corporate brutality in service of monopoly can backfire spectacularly. Amboyna forced English East, toward India - unintended consequence reshaping world. Violence achieving immediate goal while creating larger strategic problem."
+        "answer": "Amboyna Massacre (1623): Dutch VOC governor accused English merchants of conspiracy in Amboyna (Indonesia), tortured and executed ten Englishmen. Dutch Motivation: Eliminate English competition in lucrative spice islands (nutmeg, cloves from Moluccas)."
       },
       {
         "id": "comp005",
         "question": "Why did the Dutch maintain minimal presence in India (1605-1825) while building extensive empire in Indonesia? Analyze strategic priorities.",
-        "answer": "Dutch India (1605-1825): Limited to trading posts - Masulipatnam, Nagapattinam, Chinsurah, Cochin. No territorial expansion. Minimal settlement. Left 1825 voluntarily. Dutch Indonesia (1600s-1940s): Extensive territorial control, plantations, administrative structures, settlement (Batavia/Jakarta capital). Forced cultivation system. Lasted until WWII/independence. Why Differential Treatment: 1) Profit Margins: Indonesian spices (nutmeg, cloves, mace) had 1000%+ profit margins. Indian textiles/commodities lower returns. VOC profit-maximizing - focused where money was. 2) Control Feasibility: Indonesian islands small, fragmented, easier to conquer militarily. India: Vast territories, powerful empires (Mughals, Marathas, regional kingdoms). Cost-benefit favored Indonesia. 3) Population/Resistance: Indonesian kingdoms smaller, less organized resistance. India: Sophisticated states, large armies. Dutch small population couldn't sustain Indian conquest even if attempted. 4) Strategic Role: India was link in trade chain - source of textiles to trade in Indonesia for spices, ship to Europe. Means to end, not end itself. 5) Timing: Dutch arrived when Mughal Empire strong (1600s). By time Mughals declined (1700s), English already established dominance (Plassey 1757). Opportunity window closed. 6) VOC Priorities: Corporate entity optimizing profits. Territorial empire in India expensive, uncertain returns. Trading posts low-cost, sufficient for procurement role. Lesson: Colonial strategies varied by perceived value and feasibility. Not all regions treated equally. Dutch rational choice given resources, timing, opportunities. However, missed recognizing India's long-term potential (as English discovered). Indonesia profitable short-term; India transformative long-term. Different imperial philosophies: Dutch commercial extraction vs English territorial domination."
+        "answer": "Dutch India (1605-1825): Limited to trading posts - Masulipatnam, Nagapattinam, Chinsurah, Cochin. No territorial expansion. Minimal settlement. Left 1825 voluntarily."
       },
       {
         "id": "comp006",
         "question": "Analyze the Battle of Hooghly/Chinsurah (1759) in context of Seven Years' War. How did European conflicts translate to Asian colonization?",
-        "answer": "Battle of Hooghly (November 1759): British defeated Dutch in Bengal during Seven Years' War (1756-1763). Also called Battle of Chinsurah or Battle of Biderra. Context - Seven Years' War: Global conflict involving Britain, Prussia vs France, Austria, Russia. 'First world war' fought in Europe, Americas, India. Colonial competition inseparable from European geopolitics. Why Fought in India: Dutch allied with France (losing side). British allied with Prussia (winning side). European alliances extended to Asian colonies. British saw opportunity to eliminate Dutch competition in Bengal. Dutch Position: After British conquered Bengal (Plassey 1757), Dutch Chinsurah isolated - surrounded by British territory. Dutch reinforcements from Indonesia insufficient. British: Post-Plassey, controlled Bengal's vast resources. Could afford to eliminate rivals. Blockaded Dutch, superior forces. Outcome: Decisive British victory. Dutch eliminated from Bengal. Marked end of Dutch power in India. Confirmed British dominance post-Plassey. Broader Implications: 1) Global War: Shows colonial conflicts weren't isolated - European wars spread to Asia. Asian territories pawns in European power struggles. 2) Resource Advantage: British Bengal revenues crucial. Could fight Dutch while Dutch lacked equivalent funding. Territorial control gave British decisive edge. 3) Naval Supremacy: Royal Navy blocked Dutch reinforcements. Dutch couldn't sustain two-front presence (Indonesia priority). 4) Consolidation: Eliminating Dutch removed potential future threat. British faced no European rival in Bengal (French already defeated in Carnatic Wars). Legacy: By 1763 (Treaty of Paris ending Seven Years' War), British were uncontested European power in India. Dutch, French reduced to minor enclaves. Set stage for British territorial expansion 1760s-1857. Lesson: Colonial outcomes determined by European metropolitan conflicts as much as local factors. Imperial competition zero-sum - British rise required Dutch/French decline."
+        "answer": "Battle of Hooghly (November 1759): British defeated Dutch in Bengal during Seven Years' War (1756-1763). Also called Battle of Chinsurah or Battle of Biderra. Context - Seven Years' War: Global conflict involving Britain, Prussia vs France, Austria, Russia."
       },
       {
         "id": "comp007",
         "question": "Compare economic exploitation models: Dutch spice monopoly (Indonesia) vs British land revenue (India). Which was more profitable and sustainable?",
-        "answer": "Dutch Spice Monopoly (Indonesia): Strategy: Control production sources (Moluccas, Java), restrict supply artificially, raise prices in Europe. Monopoly on nutmeg, cloves, mace. Sometimes destroyed crops to maintain scarcity. Profitability: Enormous short-term - 1000%+ profit margins. VOC immensely profitable 1600s-1700s. Funded Dutch Golden Age. Sustainability Issues: 1) Supply expansion: Other regions (Caribbean, Zanzibar) started growing spices. Monopoly broken. 2) Substitutes: Cheaper alternatives found/developed. Demand shifted. 3) Price collapse: As supply increased, profit margins crashed. 4) Moral/political costs: Ruthless enforcement (destroying crops, violent suppression) hurt reputation. 5) One-crop risk: Dependent on single commodity with volatile value. British Land Revenue (India): Strategy: Conquer territories, collect land tax (25-50% of agricultural output). Permanent Settlement (Bengal 1793), Ryotwari system (South). Massive territorial control required. Profitability: Initially lower margins than spices but steady, reliable, growing over time. Funded entire British India administration, military, even British global empire. Sustainability: 1) Diversification: Revenue from agriculture, trade, opium, textiles, etc. Not one-crop dependent. 2) Growing base: Expanding territories meant more tax sources. 3) Industrial integration: India became market for British goods, raw material source. Integrated economy. 4) Long-term extraction: Lasted 190 years (1757-1947). Continuous wealth drain. 5) Structural: Built into governance system. Not dependent on monopoly enforcement. Comparison: Dutch: Higher profit margins initially but unsustainable as monopoly broke. British: Lower margins but stable, diversified, growing over time. British model more adaptable, resilient to market changes. Lesson: Spectacular short-term profits (Dutch spices) can be less valuable than steady long-term extraction (British land revenue). Territorial control with diversified revenue streams beats commercial monopoly vulnerable to market shifts. British wealth drain from India dwarfed Dutch spice profits over time. Different imperial models: Dutch maximized immediate returns; British maximized long-term structural exploitation. Latter more 'successful' colonially but more devastating for colonized."
+        "answer": "Dutch Spice Monopoly (Indonesia): Strategy: Control production sources (Moluccas, Java), restrict supply artificially, raise prices in Europe. Monopoly on nutmeg, cloves, mace. Sometimes destroyed crops to maintain scarcity. Profitability: Enormous short-term - 1000%+ profit margins."
       },
       {
         "id": "comp008",
         "question": "Why did Eustachius De Lannoy's service to Travancore after capture at Colachel represent an alternative colonial outcome? What lessons did it offer?",
-        "answer": "Conventional Colonial Pattern: European victory \u2192 Subjugation \u2192 Colonization. European military superiority led to territorial control. Colachel Exception: Travancore victory \u2192 Captured Dutch commander \u2192 Retained as military advisor \u2192 Trained Travancore army \u2192 Strengthened Indian kingdom. De Lannoy's Role: After capture, could have been executed/ransomed. Instead, Marthanda Varma pragmatically retained him. De Lannoy trained Travancore forces in European tactics: artillery use, fortifications, drill discipline, modern weapons. Outcome: Travancore became militarily powerful, modernized army. Successfully resisted further European encroachment. One of last princely states annexed by British (1947 after independence). Remained independent longer than most. Alternative Colonial Model: Defeat European force \u2192 Learn from them \u2192 Adapt technology/tactics \u2192 Build capacity \u2192 Resist colonization. Military modernization through selective adoption, not subjugation. Why Unique: Most Indian rulers who defeated Europeans (rare): Either killed/ransomed them OR Became overconfident, didn't systematically learn. Travancore combined victory with strategic learning. Humility in victory - recognized European military knowledge valuable despite defeating them. Lessons: 1) Military technology transferable: Not inherent European superiority but learned skills. 2) Pragmatic adaptation: Could selectively adopt useful elements without cultural submission. 3) Defeat doesn't require imitation: Win militarily, then learn to prevent future losses. 4) Leadership matters: Marthanda Varma's strategic vision to use De Lannoy effectively. 5) Resistance possible: With modernization, Indian states could resist colonization. Broader Implications: If more Indian rulers adopted Travancore model (defeat Europeans, learn from captives, modernize), colonization might have been prevented/delayed. However, required: Unified leadership, resources for military modernization, willingness to adapt, avoiding European divide-and-rule tactics. De Lannoy showed path not taken by most. Travancore's longevity (until 1947) validates strategy. Lesson: Colonial outcomes weren't predetermined. Indigenous agency, strategic adaptation could produce different results. Europeans had technological edge but not inevitability. Learning from adversaries without submitting possible with right leadership. De Lannoy represents road not taken - military modernization through selective European expertise without colonization."
+        "answer": "Conventional Colonial Pattern: European victory → Subjugation → Colonization. European military superiority led to territorial control. Colachel Exception: Travancore victory → Captured Dutch commander → Retained as military advisor → Trained Travancore army → Strengthened Indian kingdom."
       }
     ]
   }

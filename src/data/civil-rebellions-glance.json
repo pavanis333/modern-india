@@ -3,136 +3,310 @@
   "subtopic": "Important Civil Rebellions at a Glance",
   "flashcards": [
     {
-      "id": "fc001",
+      "id": "fc001_a",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Sanyasi Revolt (1763-1800)?",
-      "back": "Bengal & Bihar. Leaders: Majnum Shah, Chirag Ali, Musa Shah, Bhawani Pathak, Debi Chaudharani. Causes: 1770 Bengal famine, high revenue demands, dispossession of zamindars, widespread exploitation. Hindu and Muslim sanyasis united. Response: Suppressed by Warren Hastings. Significance: Inspired by Bankim Chandra Chatterjee's Anandamath, patriotic anthem 'Vande Mataram'"
+      "front": "Sanyasi Revolt (1763-1800)? (Part 1/3)",
+      "back": "Bengal & Bihar. Leaders: Majnum Shah, Chirag Ali, Musa Shah, Bhawani Pathak, Debi Chaudharani."
     },
     {
-      "id": "fc002",
+      "id": "fc001_b",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Moamarias Revolt (1769-1799)?",
-      "back": "Assam. Leader: Aniruddhadeva. Causes: Discontent with Ahom kingdom's policies, British interference destabilised region. Response: British assisted Ahoms in suppressing revolt but failed to prevent later Burmese invasion. Outcome: Ahom kingdom weakened, eventually leading to British annexation of Assam"
+      "front": "Sanyasi Revolt (1763-1800)? (Part 2/3)",
+      "back": "Causes: 1770 Bengal famine, high revenue demands, dispossession of zamindars, widespread exploitation. Hindu and Muslim sanyasis united."
     },
     {
-      "id": "fc003",
+      "id": "fc001_c",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Civil Uprisings in Gorakhpur, Basti (1781)?",
-      "back": "Uttar Pradesh. Leaders: Zamindars, cultivators with complaints against British agent Alexander Hannay. Cause: Excessive revenue demands by Hannay. Response: British military intervention led to Hannay's dismissal and end of Izara system. Outcome: Zamindars regained control, exposing flaws of British revenue farming"
+      "front": "Sanyasi Revolt (1763-1800)? (Part 3/3)",
+      "back": "Response: Suppressed by Warren Hastings. Significance: Inspired by Bankim Chandra Chatterjee's Anandamath, patriotic anthem 'Vande Mataram'"
     },
     {
-      "id": "fc004",
+      "id": "fc002_a",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Midnapore and Dhalbhum Revolt (1766-74)?",
-      "back": "Bengal. Leaders: Damodar Singh, Jagannath Dhal. Cause: Resentment against new revenue system imposed by British. Response: Suppressed by British forces. Outcome: Revolt consolidated British control, further marginalising local zamindars"
+      "front": "Moamarias Revolt (1769-1799)? (Part 1/3)",
+      "back": "Assam. Leader: Aniruddhadeva. Causes: Discontent with Ahom kingdom's policies, British interference destabilised region."
     },
     {
-      "id": "fc005",
+      "id": "fc002_b",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Poligars' Revolt (1795-1805)?",
-      "back": "Tamil Nadu. Leaders: Kattaboman Nayakan, Oomanthurai. Cause: British revenue policies and loss of autonomy by local chieftains or Poligars. Response: Revolt was suppressed, Kattaboman executed. Outcome: Kattaboman became regional hero symbolising resistance against British policies"
+      "front": "Moamarias Revolt (1769-1799)? (Part 2/3)",
+      "back": "Response: British assisted Ahoms in suppressing revolt but failed to prevent later Burmese invasion."
     },
     {
-      "id": "fc006",
+      "id": "fc002_c",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Ganjam and Gumsur Uprising (1800, 1835-37)?",
-      "back": "Orissa. Leaders: Local zamindars and peasants. Cause: Oppressive taxation and harsh revenue policies. Response: British suppression. Outcome: Established British authority in Ganjam and Gumsur"
+      "front": "Moamarias Revolt (1769-1799)? (Part 3/3)",
+      "back": "Outcome: Ahom kingdom weakened, eventually leading to British annexation of Assam"
     },
     {
-      "id": "fc007",
+      "id": "fc003_a",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Palamau Uprisings (1800-02)?",
-      "back": "Jharkhand. Leaders: Tribal chieftains and peasants Bhukhan Singh. Cause: Exploitation through revenue collection and loss of tribal autonomy. Response: Suppression by British forces. Outcome: British strengthened control over Chhotanagpur and weakened tribal resistance"
+      "front": "Civil Uprisings in Gorakhpur, Basti (1781)? (Part 1/3)",
+      "back": "Uttar Pradesh. Leaders: Zamindars, cultivators with complaints against British agent Alexander Hannay."
     },
     {
-      "id": "fc008",
+      "id": "fc003_b",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Kerala Varma Pazhassi Raja Revolt (1797-1805)?",
-      "back": "Kerala. Leader: Kerala Varma Pazhassi Raja, supported by Nairs, Mappilas, Pathans. Cause: Discontent with British tax policies and Wayanad dispute. Response: British suppression with Pazhassi Raja's eventual death. Significance: Symbol of resistance in Kerala and legacy of local resistance against British imperialism"
+      "front": "Civil Uprisings in Gorakhpur, Basti (1781)? (Part 2/3)",
+      "back": "Cause: Excessive revenue demands by Hannay. Response: British military intervention led to Hannay's dismissal and end of Izara system."
     },
     {
-      "id": "fc009",
+      "id": "fc003_c",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Vizianagaram Rebellion (1794)?",
-      "back": "Andhra Pradesh. Leader: Raja of Vizianagaram. Cause: British revenue demands, loss of autonomy, broken promises by British. Response: Raja was killed; British later reconciled with his son. Outcome: Vizianagaram was brought under direct British influence"
+      "front": "Civil Uprisings in Gorakhpur, Basti (1781)? (Part 3/3)",
+      "back": "Outcome: Zamindars regained control, exposing flaws of British revenue farming"
     },
     {
-      "id": "fc010",
+      "id": "fc004_a",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Awadh Civil Rebellion (1799)?",
-      "back": "Eastern UP. Leaders: Zamindars and peasants. Cause: British interference in Awadh's traditional administrative setup. Response: Suppressed by British military. Outcome: Awadh's local control diminished under British influence"
+      "front": "Midnapore and Dhalbhum Revolt (1766-74)? (Part 1/2)",
+      "back": "Bengal. Leaders: Damodar Singh, Jagannath Dhal. Cause: Resentment against new revenue system imposed by British."
     },
     {
-      "id": "fc011",
+      "id": "fc004_b",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Haryana Uprisings (Bhiwani) (1803 onwards)?",
-      "back": "Leaders: Local chieftains and peasants. Cause: Cession of Haryana to British following Treaty of Surji-Arjungaon. Response: Suppressed by British forces. Outcome: Haryana integrated into British India, establishing British administration"
+      "front": "Midnapore and Dhalbhum Revolt (1766-74)? (Part 2/2)",
+      "back": "Response: Suppressed by British forces. Outcome: Revolt consolidated British control, further marginalising local zamindars"
     },
     {
-      "id": "fc012",
+      "id": "fc005_a",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Vellore Mutiny (1806)?",
-      "back": "Tamil Nadu. Leaders: Indian sepoys. Cause: British military dress code perceived as religious insult, banning traditional attire. Response: Mutiny suppressed; British withdrew dress code. Outcome: Led to sensitivity in British policies regarding Indian religious practices"
+      "front": "Poligars' Revolt (1795-1805)? (Part 1/3)",
+      "back": "Tamil Nadu. Leaders: Kattaboman Nayakan, Oomanthurai. Cause: British revenue policies and loss of autonomy by local chieftains or Poligars."
     },
     {
-      "id": "fc013",
+      "id": "fc005_b",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Bundelkhand Disturbances (1808-12)?",
-      "back": "Leaders: Local chieftains and peasants. Cause: Resentment over contractual obligations (Ikarnamahs) imposed by British. Response: Suppressed by British forces. Outcome: Consolidated British power in Bundelkhand"
+      "front": "Poligars' Revolt (1795-1805)? (Part 2/3)",
+      "back": "Response: Revolt was suppressed, Kattaboman executed."
     },
     {
-      "id": "fc014",
+      "id": "fc005_c",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Dewan Velu Thambi Revolt (1808-1809)?",
-      "back": "Travancore. Leader: Dewan Velu Thambi, supported by Nair troops. Cause: Objections to British subsidiary alliance and tax burdens. Response: Suppression led to Thambi's death. Outcome: Marked significant local resistance, British dominance in Travancore reaffirmed"
+      "front": "Poligars' Revolt (1795-1805)? (Part 3/3)",
+      "back": "Outcome: Kattaboman became regional hero symbolising resistance against British policies"
     },
     {
-      "id": "fc015",
+      "id": "fc006_a",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Parlakimedi Uprising (1813-34)?",
-      "back": "Odisha. Leaders: Local tribal leaders and zamindars (Narayan Deo and Gajpati Deo). Cause: Excessive land and revenue taxes. Response: Suppression, administrative adjustments by British. Outcome: Parlakimedi formally integrated into British control"
+      "front": "Ganjam and Gumsur Uprising (1800, 1835-37)? (Part 1/2)",
+      "back": "Orissa. Leaders: Local zamindars and peasants. Cause: Oppressive taxation and harsh revenue policies. Response: British suppression."
     },
     {
-      "id": "fc016",
+      "id": "fc006_b",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Bareilly Rising (1816)?",
-      "back": "Uttar Pradesh. Leaders: Zamindars and peasants (Mufti muhammad Aiwaz). Cause: Discontent with British-imposed police tax. Response: Suppression, with leaders captured or executed. Outcome: Highlighted widespread discontent against colonial taxation policies"
+      "front": "Ganjam and Gumsur Uprising (1800, 1835-37)? (Part 2/2)",
+      "back": "Outcome: Established British authority in Ganjam and Gumsur"
     },
     {
-      "id": "fc017",
+      "id": "fc007_a",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Paika Rebellion (1817)?",
-      "back": "Odisha. Leader: Bakshi Jagabandhu Bidyadhar. Cause: Forced land dispossession, revenue demands, currency devaluation. Response: Suppression with leaders arrested or executed. Outcome: Demonstrated early anti-British sentiment; later led to minor tax and land reforms in region"
+      "front": "Palamau Uprisings (1800-02)? (Part 1/3)",
+      "back": "Jharkhand. Leaders: Tribal chieftains and peasants Bhukhan Singh."
     },
     {
-      "id": "fc018",
+      "id": "fc007_b",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Kutch Rebellion (1816-1832)?",
-      "back": "Gujarat. Leader: Maharaja Bharamal II. Cause: British interference in Kutch's administration. Response: Military action followed by reconciliation. Outcome: British influence limited, with some autonomy preserved for Kutch rulers"
+      "front": "Palamau Uprisings (1800-02)? (Part 2/3)",
+      "back": "Cause: Exploitation through revenue collection and loss of tribal autonomy. Response: Suppression by British forces."
     },
     {
-      "id": "fc019",
+      "id": "fc007_c",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Waghera Rising (1818-1820)?",
-      "back": "Gujarat. Leader: Waghera chieftains. Cause: Dispute over Baroda's fortification. Response: Ended with peace treaty. Outcome: Set precedent for negotiated solutions to conflicts involving local rulers"
+      "front": "Palamau Uprisings (1800-02)? (Part 3/3)",
+      "back": "Outcome: British strengthened control over Chhotanagpur and weakened tribal resistance"
     },
     {
-      "id": "fc020",
+      "id": "fc008_a",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Wahabi Movement (1830-1861)?",
-      "back": "Bengal, Bihar, NWFP, Punjab. Leaders: Syed Ahmed, Titar Mir. Cause: Islamic revivalism with anti-British objectives. Response: Military suppression of Wahabi cells. Outcome: Spread anti-colonial ideology, influencing future freedom movements"
+      "front": "Kerala Varma Pazhassi Raja Revolt (1797-1805)? (Part 1/3)",
+      "back": "Kerala. Leader: Kerala Varma Pazhassi Raja, supported by Nairs, Mappilas, Pathans."
     },
     {
-      "id": "fc021",
+      "id": "fc008_b",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Satara Revolt (1840)?",
-      "back": "Maharashtra. Leaders: Dhar Rao Pawan, Narasingh Petkar. Cause: Deposition of Chhatrapati Pratapsingh by British. Response: Suppression by British. Outcome: Fuelled Maratha resentment and resistance against British policies"
+      "front": "Kerala Varma Pazhassi Raja Revolt (1797-1805)? (Part 2/3)",
+      "back": "Cause: Discontent with British tax policies and Wayanad dispute. Response: British suppression with Pazhassi Raja's eventual death."
     },
     {
-      "id": "fc022",
+      "id": "fc008_c",
       "category": "Civil Rebellions (Chronological)",
-      "front": "Gadkari Revolt (1844)?",
-      "back": "Maharashtra. Leaders: Gadkari community. Cause: Loss of land, privileges under British revenue policies. Response: Suppressed by British. Outcome: Extended British control over Marathas; showcased resistance of traditional classes"
+      "front": "Kerala Varma Pazhassi Raja Revolt (1797-1805)? (Part 3/3)",
+      "back": "Significance: Symbol of resistance in Kerala and legacy of local resistance against British imperialism"
+    },
+    {
+      "id": "fc009_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Vizianagaram Rebellion (1794)? (Part 1/2)",
+      "back": "Andhra Pradesh. Leader: Raja of Vizianagaram. Cause: British revenue demands, loss of autonomy, broken promises by British. Response: Raja was killed"
+    },
+    {
+      "id": "fc009_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Vizianagaram Rebellion (1794)? (Part 2/2)",
+      "back": "British later reconciled with his son. Outcome: Vizianagaram was brought under direct British influence"
+    },
+    {
+      "id": "fc010_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Awadh Civil Rebellion (1799)? (Part 1/2)",
+      "back": "Eastern UP. Leaders: Zamindars and peasants. Cause: British interference in Awadh's traditional administrative setup."
+    },
+    {
+      "id": "fc010_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Awadh Civil Rebellion (1799)? (Part 2/2)",
+      "back": "Response: Suppressed by British military. Outcome: Awadh's local control diminished under British influence"
+    },
+    {
+      "id": "fc011_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Haryana Uprisings (Bhiwani) (1803 onwards)? (Part 1/2)",
+      "back": "Leaders: Local chieftains and peasants. Cause: Cession of Haryana to British following Treaty of Surji-Arjungaon."
+    },
+    {
+      "id": "fc011_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Haryana Uprisings (Bhiwani) (1803 onwards)? (Part 2/2)",
+      "back": "Response: Suppressed by British forces. Outcome: Haryana integrated into British India, establishing British administration"
+    },
+    {
+      "id": "fc012_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Vellore Mutiny (1806)? (Part 1/2)",
+      "back": "Tamil Nadu. Leaders: Indian sepoys. Cause: British military dress code perceived as religious insult, banning traditional attire. Response: Mutiny suppressed"
+    },
+    {
+      "id": "fc012_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Vellore Mutiny (1806)? (Part 2/2)",
+      "back": "British withdrew dress code. Outcome: Led to sensitivity in British policies regarding Indian religious practices"
+    },
+    {
+      "id": "fc013_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Bundelkhand Disturbances (1808-12)? (Part 1/2)",
+      "back": "Leaders: Local chieftains and peasants. Cause: Resentment over contractual obligations (Ikarnamahs) imposed by British."
+    },
+    {
+      "id": "fc013_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Bundelkhand Disturbances (1808-12)? (Part 2/2)",
+      "back": "Response: Suppressed by British forces. Outcome: Consolidated British power in Bundelkhand"
+    },
+    {
+      "id": "fc014_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Dewan Velu Thambi Revolt (1808-1809)? (Part 1/2)",
+      "back": "Travancore. Leader: Dewan Velu Thambi, supported by Nair troops. Cause: Objections to British subsidiary alliance and tax burdens."
+    },
+    {
+      "id": "fc014_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Dewan Velu Thambi Revolt (1808-1809)? (Part 2/2)",
+      "back": "Response: Suppression led to Thambi's death. Outcome: Marked significant local resistance, British dominance in Travancore reaffirmed"
+    },
+    {
+      "id": "fc015_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Parlakimedi Uprising (1813-34)? (Part 1/2)",
+      "back": "Odisha. Leaders: Local tribal leaders and zamindars (Narayan Deo and Gajpati Deo). Cause: Excessive land and revenue taxes."
+    },
+    {
+      "id": "fc015_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Parlakimedi Uprising (1813-34)? (Part 2/2)",
+      "back": "Response: Suppression, administrative adjustments by British. Outcome: Parlakimedi formally integrated into British control"
+    },
+    {
+      "id": "fc016_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Bareilly Rising (1816)? (Part 1/2)",
+      "back": "Uttar Pradesh. Leaders: Zamindars and peasants (Mufti muhammad Aiwaz). Cause: Discontent with British-imposed police tax."
+    },
+    {
+      "id": "fc016_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Bareilly Rising (1816)? (Part 2/2)",
+      "back": "Response: Suppression, with leaders captured or executed. Outcome: Highlighted widespread discontent against colonial taxation policies"
+    },
+    {
+      "id": "fc017_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Paika Rebellion (1817)? (Part 1/3)",
+      "back": "Odisha. Leader: Bakshi Jagabandhu Bidyadhar. Cause: Forced land dispossession, revenue demands, currency devaluation."
+    },
+    {
+      "id": "fc017_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Paika Rebellion (1817)? (Part 2/3)",
+      "back": "Response: Suppression with leaders arrested or executed."
+    },
+    {
+      "id": "fc017_c",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Paika Rebellion (1817)? (Part 3/3)",
+      "back": "Outcome: Demonstrated early anti-British sentiment; later led to minor tax and land reforms in region"
+    },
+    {
+      "id": "fc018_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Kutch Rebellion (1816-1832)? (Part 1/2)",
+      "back": "Gujarat. Leader: Maharaja Bharamal II. Cause: British interference in Kutch's administration."
+    },
+    {
+      "id": "fc018_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Kutch Rebellion (1816-1832)? (Part 2/2)",
+      "back": "Response: Military action followed by reconciliation. Outcome: British influence limited, with some autonomy preserved for Kutch rulers"
+    },
+    {
+      "id": "fc019_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Waghera Rising (1818-1820)? (Part 1/2)",
+      "back": "Gujarat. Leader: Waghera chieftains. Cause: Dispute over Baroda's fortification. Response: Ended with peace treaty."
+    },
+    {
+      "id": "fc019_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Waghera Rising (1818-1820)? (Part 2/2)",
+      "back": "Outcome: Set precedent for negotiated solutions to conflicts involving local rulers"
+    },
+    {
+      "id": "fc020_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Wahabi Movement (1830-1861)? (Part 1/2)",
+      "back": "Bengal, Bihar, NWFP, Punjab. Leaders: Syed Ahmed, Titar Mir. Cause: Islamic revivalism with anti-British objectives."
+    },
+    {
+      "id": "fc020_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Wahabi Movement (1830-1861)? (Part 2/2)",
+      "back": "Response: Military suppression of Wahabi cells. Outcome: Spread anti-colonial ideology, influencing future freedom movements"
+    },
+    {
+      "id": "fc021_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Satara Revolt (1840)? (Part 1/2)",
+      "back": "Maharashtra. Leaders: Dhar Rao Pawan, Narasingh Petkar. Cause: Deposition of Chhatrapati Pratapsingh by British."
+    },
+    {
+      "id": "fc021_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Satara Revolt (1840)? (Part 2/2)",
+      "back": "Response: Suppression by British. Outcome: Fuelled Maratha resentment and resistance against British policies"
+    },
+    {
+      "id": "fc022_a",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Gadkari Revolt (1844)? (Part 1/2)",
+      "back": "Maharashtra. Leaders: Gadkari community. Cause: Loss of land, privileges under British revenue policies. Response: Suppressed by British."
+    },
+    {
+      "id": "fc022_b",
+      "category": "Civil Rebellions (Chronological)",
+      "front": "Gadkari Revolt (1844)? (Part 2/2)",
+      "back": "Outcome: Extended British control over Marathas; showcased resistance of traditional classes"
     }
   ],
   "quizzes": {

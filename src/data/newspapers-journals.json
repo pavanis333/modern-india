@@ -3,10 +3,16 @@
   "subtopic": "Newspapers and Journals (1780-1936)",
   "flashcards": [
     {
-      "id": "fc001",
+      "id": "fc001_a",
       "category": "Newspapers and Journals",
-      "front": "Bengal Gazette / Original Calcutta General Advertiser (1780)?",
-      "back": "Founder: James Augustus Hickey. Place: Calcutta. Spread: Bengal, Bihar, Orissa. First newspaper published in India in English. Known for independent journalism and outspoken criticism of British East India Company"
+      "front": "Bengal Gazette / Original Calcutta General Advertiser (1780)? (Part 1/2)",
+      "back": "Founder: James Augustus Hickey. Place: Calcutta. Spread: Bengal, Bihar, Orissa. First newspaper published in India in English."
+    },
+    {
+      "id": "fc001_b",
+      "category": "Newspapers and Journals",
+      "front": "Bengal Gazette / Original Calcutta General Advertiser (1780)? (Part 2/2)",
+      "back": "Known for independent journalism and outspoken criticism of British East India Company"
     },
     {
       "id": "fc002",
@@ -63,10 +69,16 @@
       "back": "Founder: Bankim Chandra Chatterji. Place: Calcutta. In Bengali Language"
     },
     {
-      "id": "fc011",
+      "id": "fc011_a",
       "category": "Newspapers and Journals",
-      "front": "Bombay Times (1838)?",
-      "back": "Founder: Thomas Bennett. Place: Bombay. Later from 1861 came to be known as Times of India, published till date. Founded by Robert Knight but actual publication started by Thomas Bennett"
+      "front": "Bombay Times (1838)? (Part 1/2)",
+      "back": "Founder: Thomas Bennett. Place: Bombay. Later from 1861 came to be known as Times of India, published till date."
+    },
+    {
+      "id": "fc011_b",
+      "category": "Newspapers and Journals",
+      "front": "Bombay Times (1838)? (Part 2/2)",
+      "back": "Founded by Robert Knight but actual publication started by Thomas Bennett"
     },
     {
       "id": "fc012",
@@ -75,10 +87,22 @@
       "back": "Founder: Girishchandra Ghosh. Place: Calcutta. Later Harishchandra Mukherji became owner-cum-editor"
     },
     {
-      "id": "fc013",
+      "id": "fc013_a",
       "category": "Newspapers and Journals",
-      "front": "Rast Goftar (1851)?",
-      "back": "Founder: Dadabhai Naoroji. Place: Bombay. Spread: Bombay, Gujarat, Sindh. Gujarati fortnightly newspaper advocated for Indian economic and political rights. Naoroji used it to educate Indians about their rights and mobilise them against British rule"
+      "front": "Rast Goftar (1851)? (Part 1/3)",
+      "back": "Founder: Dadabhai Naoroji. Place: Bombay. Spread: Bombay, Gujarat, Sindh."
+    },
+    {
+      "id": "fc013_b",
+      "category": "Newspapers and Journals",
+      "front": "Rast Goftar (1851)? (Part 2/3)",
+      "back": "Gujarati fortnightly newspaper advocated for Indian economic and political rights."
+    },
+    {
+      "id": "fc013_c",
+      "category": "Newspapers and Journals",
+      "front": "Rast Goftar (1851)? (Part 3/3)",
+      "back": "Naoroji used it to educate Indians about their rights and mobilise them against British rule"
     },
     {
       "id": "fc014",
@@ -87,10 +111,22 @@
       "back": "Founder: Dadabhai Naoroji. Place: Bombay. Later incorporated into the Indian Spectator"
     },
     {
-      "id": "fc015",
+      "id": "fc015_a",
       "category": "Newspapers and Journals",
-      "front": "Som Prakash (1858)?",
-      "back": "Founder: Dwarkanath VidyaBhushan. Place: Calcutta. Spread: Bengal and Bihar. Bengali weekly newspaper promoted social, political and educational reforms. Used to advocate for women's rights, education, and widow remarriage"
+      "front": "Som Prakash (1858)? (Part 1/3)",
+      "back": "Founder: Dwarkanath VidyaBhushan. Place: Calcutta. Spread: Bengal and Bihar."
+    },
+    {
+      "id": "fc015_b",
+      "category": "Newspapers and Journals",
+      "front": "Som Prakash (1858)? (Part 2/3)",
+      "back": "Bengali weekly newspaper promoted social, political and educational reforms."
+    },
+    {
+      "id": "fc015_c",
+      "category": "Newspapers and Journals",
+      "front": "Som Prakash (1858)? (Part 3/3)",
+      "back": "Used to advocate for women's rights, education, and widow remarriage"
     },
     {
       "id": "fc016",
@@ -111,16 +147,28 @@
       "back": "Founder: George Allen. Place: Allahabad. Spread: United Provinces"
     },
     {
-      "id": "fc019",
+      "id": "fc019_a",
       "category": "Newspapers and Journals",
-      "front": "Amrita Bazar Patrika (1868)?",
-      "back": "Founder: Sisir Kumar ghosh and Motilal Ghosh. Place: Calcutta. Spread: Bengal and Bihar. Bengali in beginning, later became English. Leading voice for bengali middle class"
+      "front": "Amrita Bazar Patrika (1868)? (Part 1/2)",
+      "back": "Founder: Sisir Kumar ghosh and Motilal Ghosh. Place: Calcutta. Spread: Bengal and Bihar. Bengali in beginning, later became English."
     },
     {
-      "id": "fc020",
+      "id": "fc019_b",
       "category": "Newspapers and Journals",
-      "front": "Tahzib-ul-Akhlaq (1871)?",
-      "back": "Founder: Sir Syed Ahmed Khan. Place: Aligarh. Spread: North India. Urdu language journal advocating for women's education, reform in Muslim family law, modernization of Muslim society"
+      "front": "Amrita Bazar Patrika (1868)? (Part 2/2)",
+      "back": "Leading voice for bengali middle class"
+    },
+    {
+      "id": "fc020_a",
+      "category": "Newspapers and Journals",
+      "front": "Tahzib-ul-Akhlaq (1871)? (Part 1/2)",
+      "back": "Founder: Sir Syed Ahmed Khan. Place: Aligarh. Spread: North India."
+    },
+    {
+      "id": "fc020_b",
+      "category": "Newspapers and Journals",
+      "front": "Tahzib-ul-Akhlaq (1871)? (Part 2/2)",
+      "back": "Urdu language journal advocating for women's education, reform in Muslim family law, modernization of Muslim society"
     },
     {
       "id": "fc021",
@@ -129,10 +177,16 @@
       "back": "Founder: Robert Knight. Place: Calcutta. Later renamed as The Statesman"
     },
     {
-      "id": "fc022",
+      "id": "fc022_a",
       "category": "Newspapers and Journals",
-      "front": "The Hindu (1878)?",
-      "back": "Founder: G.S. Iyer, Vir Raghavacharya and Subba Rao Pandit. Place: Madras. Spread: Madras and Mysore. Initially weekly newspaper, known for moderate political view"
+      "front": "The Hindu (1878)? (Part 1/2)",
+      "back": "Founder: G.S. Iyer, Vir Raghavacharya and Subba Rao Pandit. Place: Madras. Spread: Madras and Mysore."
+    },
+    {
+      "id": "fc022_b",
+      "category": "Newspapers and Journals",
+      "front": "The Hindu (1878)? (Part 2/2)",
+      "back": "Initially weekly newspaper, known for moderate political view"
     },
     {
       "id": "fc023",
@@ -147,10 +201,16 @@
       "back": "Founder: G.P. Verma. Place: Lucknow. Spread: United Provinces"
     },
     {
-      "id": "fc025",
+      "id": "fc025_a",
       "category": "Newspapers and Journals",
-      "front": "Kesari (1881)?",
-      "back": "Founder: Bal Gangadhar Tilak. Place: Poona. Spread: Bombay and Central India. Marathi language newspaper advocated for Indian self-rule. Mahratta (1881): An English weekly"
+      "front": "Kesari (1881)? (Part 1/2)",
+      "back": "Founder: Bal Gangadhar Tilak. Place: Poona. Spread: Bombay and Central India. Marathi language newspaper advocated for Indian self-rule."
+    },
+    {
+      "id": "fc025_b",
+      "category": "Newspapers and Journals",
+      "front": "Kesari (1881)? (Part 2/2)",
+      "back": "Mahratta (1881): An English weekly"
     },
     {
       "id": "fc026",
@@ -201,10 +261,16 @@
       "back": "Founder: Madan Mohan Malviya. Place: Allahabad. Spread: United Provinces"
     },
     {
-      "id": "fc034",
+      "id": "fc034_a",
       "category": "Newspapers and Journals",
-      "front": "Prabuddha Bharat (1896)?",
-      "back": "Founder: P. Aiyasami, B. R. Rajam Iyer, G. G. Narasimhacharya, B. V. Kamesvara Iyer at behest of Swami Vivekananda. Place: Calcutta. Spread: India and the world. English language monthly journal promoted Hindu philosophy and culture"
+      "front": "Prabuddha Bharat (1896)? (Part 1/2)",
+      "back": "Founder: P. Aiyasami, B. R. Rajam Iyer, G. G. Narasimhacharya, B. V. Kamesvara Iyer at behest of Swami Vivekananda. Place: Calcutta."
+    },
+    {
+      "id": "fc034_b",
+      "category": "Newspapers and Journals",
+      "front": "Prabuddha Bharat (1896)? (Part 2/2)",
+      "back": "Spread: India and the world. English language monthly journal promoted Hindu philosophy and culture"
     },
     {
       "id": "fc035",
@@ -243,10 +309,16 @@
       "back": "Founder: Brahmabandhab Upadhyay. Place: Bengal"
     },
     {
-      "id": "fc041",
+      "id": "fc041_a",
       "category": "Newspapers and Journals",
-      "front": "Yugantar (1906)?",
-      "back": "Founder: Barindra Kumar Ghosh and Bhupendra Dutta. Place: Bengal. Political weekly served as propaganda organ for revolutionary organisation Anushilan Samiti"
+      "front": "Yugantar (1906)? (Part 1/2)",
+      "back": "Founder: Barindra Kumar Ghosh and Bhupendra Dutta. Place: Bengal."
+    },
+    {
+      "id": "fc041_b",
+      "category": "Newspapers and Journals",
+      "front": "Yugantar (1906)? (Part 2/2)",
+      "back": "Political weekly served as propaganda organ for revolutionary organisation Anushilan Samiti"
     },
     {
       "id": "fc042",
@@ -303,10 +375,16 @@
       "back": "Founder: Motilal Nehru. Place: Allahabad. Spread: United Provinces"
     },
     {
-      "id": "fc051",
+      "id": "fc051_a",
       "category": "Newspapers and Journals",
-      "front": "Hindustan Times (1920)?",
-      "back": "Founder: Sunder Singh Lyallpuri Later edited by K M Panikkar. Place: Delhi. Spread: All India. English language daily newspaper, used as part of the Akali Dal Movement"
+      "front": "Hindustan Times (1920)? (Part 1/2)",
+      "back": "Founder: Sunder Singh Lyallpuri Later edited by K M Panikkar. Place: Delhi. Spread: All India."
+    },
+    {
+      "id": "fc051_b",
+      "category": "Newspapers and Journals",
+      "front": "Hindustan Times (1920)? (Part 2/2)",
+      "back": "English language daily newspaper, used as part of the Akali Dal Movement"
     },
     {
       "id": "fc052",
@@ -327,10 +405,16 @@
       "back": "Founder: C. Rajagopalachari. Place: Madras. Spread: Madras and Mysore. Published in English"
     },
     {
-      "id": "fc055",
+      "id": "fc055_a",
       "category": "Newspapers and Journals",
-      "front": "Free Hindustan (1936)?",
-      "back": "Founder: Tarak Nath Das. Place: Canada and USA. Spread in India and the world. English language journal advocated for self-rule and international cooperation"
+      "front": "Free Hindustan (1936)? (Part 1/2)",
+      "back": "Founder: Tarak Nath Das. Place: Canada and USA. Spread in India and the world."
+    },
+    {
+      "id": "fc055_b",
+      "category": "Newspapers and Journals",
+      "front": "Free Hindustan (1936)? (Part 2/2)",
+      "back": "English language journal advocated for self-rule and international cooperation"
     },
     {
       "id": "fc056",
@@ -345,10 +429,16 @@
       "back": "Founder: Sachindranath Sanyal. Place: Bengal"
     },
     {
-      "id": "fc058",
+      "id": "fc058_a",
       "category": "Newspapers and Journals",
-      "front": "National Herald (1938)?",
-      "back": "Founder: Jawaharlal Nehru. Place: Established in Lucknow. Details: Founded as a tool to win independence. Banned by British government in 1942 during Quit India movement till 1945"
+      "front": "National Herald (1938)? (Part 1/2)",
+      "back": "Founder: Jawaharlal Nehru. Place: Established in Lucknow. Details: Founded as a tool to win independence."
+    },
+    {
+      "id": "fc058_b",
+      "category": "Newspapers and Journals",
+      "front": "National Herald (1938)? (Part 2/2)",
+      "back": "Banned by British government in 1942 during Quit India movement till 1945"
     },
     {
       "id": "fc059",
@@ -369,10 +459,22 @@
       "back": "Founder: Virendranath Chattopadhyaya. Place of Publication: Berlin"
     },
     {
-      "id": "fc062",
+      "id": "fc062_a",
       "category": "Newspapers and Journals",
-      "front": "Ghadar?",
-      "back": "Founder: Lala Hardayal. Place of Publication: San Francisco. Details: The Ghadar Party put out this weekly, meaning revolt, using a small hand press. It first came out in Urdu, then Gurumukhi. Later it was also published in Gujarati, Hindi, English, German etc"
+      "front": "Ghadar? (Part 1/3)",
+      "back": "Founder: Lala Hardayal. Place of Publication: San Francisco."
+    },
+    {
+      "id": "fc062_b",
+      "category": "Newspapers and Journals",
+      "front": "Ghadar? (Part 2/3)",
+      "back": "Details: The Ghadar Party put out this weekly, meaning revolt, using a small hand press. It first came out in Urdu, then Gurumukhi."
+    },
+    {
+      "id": "fc062_c",
+      "category": "Newspapers and Journals",
+      "front": "Ghadar? (Part 3/3)",
+      "back": "Later it was also published in Gujarati, Hindi, English, German etc"
     }
   ],
   "quizzes": {

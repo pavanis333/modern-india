@@ -3,34 +3,112 @@
   "subtopic": "Peasant Mobilization Across Indian Provinces",
   "flashcards": [
     {
-      "id": "fc001",
+      "id": "fc001_a",
       "category": "Kerala",
-      "front": "Kerala peasant mobilization (1938)?",
-      "back": "Organisation: Congress Socialist Party, Karshak Sanghams (peasants' organisations). Major Campaign: In 1938, peasants advocated for amendment to Malabar Tenancy Act (1929) for better rights and protections for tenant farmers. Impact: Mobilised for tenants' rights in Kerala"
+      "front": "Kerala peasant mobilization (1938)? (Part 1/3)",
+      "back": "Organisation: Congress Socialist Party, Karshak Sanghams (peasants' organisations)."
     },
     {
-      "id": "fc002",
+      "id": "fc001_b",
+      "category": "Kerala",
+      "front": "Kerala peasant mobilization (1938)? (Part 2/3)",
+      "back": "Major Campaign: In 1938, peasants advocated for amendment to Malabar Tenancy Act (1929) for better rights and protections for tenant farmers."
+    },
+    {
+      "id": "fc001_c",
+      "category": "Kerala",
+      "front": "Kerala peasant mobilization (1938)? (Part 3/3)",
+      "back": "Impact: Mobilised for tenants' rights in Kerala"
+    },
+    {
+      "id": "fc002_a",
       "category": "Andhra Pradesh",
-      "front": "Andhra Pradesh peasant mobilization?",
-      "back": "Organisation: India Peasants' Institute (founded by N.G. Ranga, 1933), Summer Schools (by P.C. Joshi, Ajoy Ghosh, R.D. Bhardwaj). Major Campaign: Summer Schools focused on economic and political education for peasants. Electoral defeats of zamindars helped facilitate peasant mobilisation. Impact: India Peasants' Institute worked to spread awareness"
+      "front": "Andhra Pradesh peasant mobilization? (Part 1/3)",
+      "back": "Organisation: India Peasants' Institute (founded by N.G. Ranga, 1933), Summer Schools (by P.C. Joshi, Ajoy Ghosh, R.D. Bhardwaj)."
     },
     {
-      "id": "fc003",
+      "id": "fc002_b",
+      "category": "Andhra Pradesh",
+      "front": "Andhra Pradesh peasant mobilization? (Part 2/3)",
+      "back": "Major Campaign: Summer Schools focused on economic and political education for peasants."
+    },
+    {
+      "id": "fc002_c",
+      "category": "Andhra Pradesh",
+      "front": "Andhra Pradesh peasant mobilization? (Part 3/3)",
+      "back": "Electoral defeats of zamindars helped facilitate peasant mobilisation. Impact: India Peasants' Institute worked to spread awareness"
+    },
+    {
+      "id": "fc003_a",
       "category": "Bihar",
-      "front": "Bihar peasant mobilization?",
-      "back": "Organisation: Bihar Kisan Sabha. Leaders: Swami Sahajanand Saraswati, Karyanand Sharma, Yadunandan Sharma, Rahul Sankritayan, Panchanan Sharma, Jamun Karjiti. Major Campaign: Provincial Kisan Conference (1935) adopted anti-zamindari slogans. Bakasht land issue created a rift with Congress. Impact: Played a significant role in shaping agrarian policies in Bihar. Lost momentum by August 1939, but laid the foundation for future struggles"
+      "front": "Bihar peasant mobilization? (Part 1/5)",
+      "back": "Organisation: Bihar Kisan Sabha."
     },
     {
-      "id": "fc004",
+      "id": "fc003_b",
+      "category": "Bihar",
+      "front": "Bihar peasant mobilization? (Part 2/5)",
+      "back": "Leaders: Swami Sahajanand Saraswati, Karyanand Sharma, Yadunandan Sharma, Rahul Sankritayan, Panchanan Sharma, Jamun Karjiti."
+    },
+    {
+      "id": "fc003_c",
+      "category": "Bihar",
+      "front": "Bihar peasant mobilization? (Part 3/5)",
+      "back": "Major Campaign: Provincial Kisan Conference (1935) adopted anti-zamindari slogans. Bakasht land issue created a rift with Congress."
+    },
+    {
+      "id": "fc003_d",
+      "category": "Bihar",
+      "front": "Bihar peasant mobilization? (Part 4/5)",
+      "back": "Impact: Played a significant role in shaping agrarian policies in Bihar."
+    },
+    {
+      "id": "fc003_e",
+      "category": "Bihar",
+      "front": "Bihar peasant mobilization? (Part 5/5)",
+      "back": "Lost momentum by August 1939, but laid the foundation for future struggles"
+    },
+    {
+      "id": "fc004_a",
       "category": "Punjab",
-      "front": "Punjab peasant mobilization?",
-      "back": "Organisation: Kirti Kisan Party, Punjab Naujawan Bharat Sabha, Akalis, Punjab Kisan Committee. Major Campaign: Focused on land revenue issues in Amritsar and Lahore. Protests against water rate hikes in canal colonies like Montgomery and Multan. Impact: Successful strikes led to concessions from authorities. Significant mobilisation in Shekhupur a, Jullundur, Amritsar, Hoshiarpur, and Lyallpur"
+      "front": "Punjab peasant mobilization? (Part 1/5)",
+      "back": "Organisation: Kirti Kisan Party, Punjab Naujawan Bharat Sabha, Akalis, Punjab Kisan Committee."
     },
     {
-      "id": "fc005",
+      "id": "fc004_b",
+      "category": "Punjab",
+      "front": "Punjab peasant mobilization? (Part 2/5)",
+      "back": "Major Campaign: Focused on land revenue issues in Amritsar and Lahore."
+    },
+    {
+      "id": "fc004_c",
+      "category": "Punjab",
+      "front": "Punjab peasant mobilization? (Part 3/5)",
+      "back": "Protests against water rate hikes in canal colonies like Montgomery and Multan."
+    },
+    {
+      "id": "fc004_d",
+      "category": "Punjab",
+      "front": "Punjab peasant mobilization? (Part 4/5)",
+      "back": "Impact: Successful strikes led to concessions from authorities."
+    },
+    {
+      "id": "fc004_e",
+      "category": "Punjab",
+      "front": "Punjab peasant mobilization? (Part 5/5)",
+      "back": "Significant mobilisation in Shekhupur a, Jullundur, Amritsar, Hoshiarpur, and Lyallpur"
+    },
+    {
+      "id": "fc005_a",
       "category": "AIKS Split",
-      "front": "AIKS Split during World War II?",
-      "back": "Leaders: Swami Sahajanand, Indulal Yagnik, N.G. Ranga. Event: The split occurred due to a pro-war stance during World War II. The Kisan Sabha continued despite the split. Impact: Kisan Sabha continued relief work during the 1943 famine"
+      "front": "AIKS Split during World War II? (Part 1/2)",
+      "back": "Leaders: Swami Sahajanand, Indulal Yagnik, N.G. Ranga. Event: The split occurred due to a pro-war stance during World War II."
+    },
+    {
+      "id": "fc005_b",
+      "category": "AIKS Split",
+      "front": "AIKS Split during World War II? (Part 2/2)",
+      "back": "The Kisan Sabha continued despite the split. Impact: Kisan Sabha continued relief work during the 1943 famine"
     }
   ],
   "quizzes": {

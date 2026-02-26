@@ -21,10 +21,22 @@
       "back": "Chairman: Michael Sadler. Objectives: To study the conditions of the university. Governor General/Viceroy: Lord Chelmsford"
     },
     {
-      "id": "fc004",
+      "id": "fc004_a",
       "category": "Education Committees and Commissions",
-      "front": "Hartog Committee (1929)?",
-      "back": "Chairman: Philip Hartog. Objectives: It focused on reviewing the state of education in India. It was a part of broader efforts to examine the results of educational reforms initiated after the Montagu-Chelmsford Reforms of 1919. Governor General/Viceroy: Irwin"
+      "front": "Hartog Committee (1929)? (Part 1/3)",
+      "back": "Chairman: Philip Hartog. Objectives: It focused on reviewing the state of education in India."
+    },
+    {
+      "id": "fc004_b",
+      "category": "Education Committees and Commissions",
+      "front": "Hartog Committee (1929)? (Part 2/3)",
+      "back": "It was a part of broader efforts to examine the results of educational reforms initiated after the Montagu-Chelmsford Reforms of 1919."
+    },
+    {
+      "id": "fc004_c",
+      "category": "Education Committees and Commissions",
+      "front": "Hartog Committee (1929)? (Part 3/3)",
+      "back": "Governor General/Viceroy: Irwin"
     },
     {
       "id": "fc005",

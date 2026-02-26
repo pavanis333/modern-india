@@ -3,28 +3,58 @@
   "subtopic": "Law - Commissions",
   "flashcards": [
     {
-      "id": "fc001",
+      "id": "fc001_a",
       "category": "Law Commissions",
-      "front": "First Law Commission (1834)?",
-      "back": "Chairman: Lord Macaulay. Objectives: To recommend the codification of the Penal Code, the Criminal Procedure Code, and other matters. Governor General/Viceroy: Lord William Bentinck"
+      "front": "First Law Commission (1834)? (Part 1/2)",
+      "back": "Chairman: Lord Macaulay. Objectives: To recommend the codification of the Penal Code, the Criminal Procedure Code, and other matters."
     },
     {
-      "id": "fc002",
+      "id": "fc001_b",
       "category": "Law Commissions",
-      "front": "Second Law Commission (1853)?",
-      "back": "Chairman: Sir John Romilly. Objectives: To recommend the Indian Code of Civil Procedure, the Indian Contract Act, etc. Governor General/Viceroy: Lord Dalhousie"
+      "front": "First Law Commission (1834)? (Part 2/2)",
+      "back": "Governor General/Viceroy: Lord William Bentinck"
     },
     {
-      "id": "fc003",
+      "id": "fc002_a",
       "category": "Law Commissions",
-      "front": "Third Law Commission (1861)?",
-      "back": "Chairman: Sir John Romilly. Objectives: To recommend the Indian Evidence Act, the Transfer of Property Act, etc. Governor General/Viceroy: Lord Canning"
+      "front": "Second Law Commission (1853)? (Part 1/2)",
+      "back": "Chairman: Sir John Romilly. Objectives: To recommend the Indian Code of Civil Procedure, the Indian Contract Act, etc."
     },
     {
-      "id": "fc004",
+      "id": "fc002_b",
       "category": "Law Commissions",
-      "front": "Fourth Law Commission (1879)?",
-      "back": "Chairman: Dr. Whitley Stokes. Objectives: To recommend codes on Negotiable Instruments, Trusts Law, Transfer of Property, Easements, Criminal Procedure, and Civil Procedure. Governor General/Viceroy: Lord Lytton"
+      "front": "Second Law Commission (1853)? (Part 2/2)",
+      "back": "Governor General/Viceroy: Lord Dalhousie"
+    },
+    {
+      "id": "fc003_a",
+      "category": "Law Commissions",
+      "front": "Third Law Commission (1861)? (Part 1/2)",
+      "back": "Chairman: Sir John Romilly. Objectives: To recommend the Indian Evidence Act, the Transfer of Property Act, etc."
+    },
+    {
+      "id": "fc003_b",
+      "category": "Law Commissions",
+      "front": "Third Law Commission (1861)? (Part 2/2)",
+      "back": "Governor General/Viceroy: Lord Canning"
+    },
+    {
+      "id": "fc004_a",
+      "category": "Law Commissions",
+      "front": "Fourth Law Commission (1879)? (Part 1/3)",
+      "back": "Chairman: Dr. Whitley Stokes."
+    },
+    {
+      "id": "fc004_b",
+      "category": "Law Commissions",
+      "front": "Fourth Law Commission (1879)? (Part 2/3)",
+      "back": "Objectives: To recommend codes on Negotiable Instruments, Trusts Law, Transfer of Property, Easements, Criminal Procedure, and Civil Procedure."
+    },
+    {
+      "id": "fc004_c",
+      "category": "Law Commissions",
+      "front": "Fourth Law Commission (1879)? (Part 3/3)",
+      "back": "Governor General/Viceroy: Lord Lytton"
     }
   ],
   "quizzes": {

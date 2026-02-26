@@ -27,10 +27,16 @@
       "back": "Founder: Raja Ram Mohan Roy. Year: 1825. Details: Aimed at synthesising Western learning with Vedantic ideals"
     },
     {
-      "id": "fc005",
+      "id": "fc005_a",
       "category": "Educational Institutions",
-      "front": "Bethune School (Calcutta) (1849)?",
-      "back": "Founder: Ishwar Chandra Vidyasagar (Established by J.E. Bethune). Year: 1849. Details: First school for girls in Calcutta, promoted by Ishwar Chandra Vidyasagar"
+      "front": "Bethune School (Calcutta) (1849)? (Part 1/2)",
+      "back": "Founder: Ishwar Chandra Vidyasagar (Established by J.E. Bethune). Year: 1 8 4"
+    },
+    {
+      "id": "fc005_b",
+      "category": "Educational Institutions",
+      "front": "Bethune School (Calcutta) (1849)? (Part 2/2)",
+      "back": "9. Details: First school for girls in Calcutta, promoted by Ishwar Chandra Vidyasagar"
     },
     {
       "id": "fc006",
@@ -45,10 +51,16 @@
       "back": "Founder: James Thomson. Year: 1847. Details: Renowned institution for engineering education, now part of IIT Roorkee"
     },
     {
-      "id": "fc008",
+      "id": "fc008_a",
       "category": "Educational Institutions",
-      "front": "Central Hindu School (Banaras)?",
-      "back": "Founder: Annie Besant (Established, converted to Banaras Hindu University by Madan Mohan Malviya). Year: Date not specified. Details: Initially set up as a school, later became part of Banaras Hindu University"
+      "front": "Central Hindu School (Banaras)? (Part 1/2)",
+      "back": "Founder: Annie Besant (Established, converted to Banaras Hindu University by Madan Mohan Malviya). Year: Date not specified."
+    },
+    {
+      "id": "fc008_b",
+      "category": "Educational Institutions",
+      "front": "Central Hindu School (Banaras)? (Part 2/2)",
+      "back": "Details: Initially set up as a school, later became part of Banaras Hindu University"
     },
     {
       "id": "fc009",
@@ -57,16 +69,28 @@
       "back": "Founder: Sayyid Ahmad Khan. Year: 1875. Details: Later became Aligarh Muslim University, pivotal in Muslim education"
     },
     {
-      "id": "fc010",
+      "id": "fc010_a",
       "category": "Educational Institutions",
-      "front": "National Muslim University?",
-      "back": "Founder: Sayyid Ahmed Barelvi (Later transferred to Delhi, became Jamia Millia Islamia). Year: Date not specified. Details: Initially founded in Aligarh, later moved to Delhi"
+      "front": "National Muslim University? (Part 1/2)",
+      "back": "Founder: Sayyid Ahmed Barelvi (Later transferred to Delhi, became Jamia Millia Islamia). Year: Date not specified."
     },
     {
-      "id": "fc011",
+      "id": "fc010_b",
       "category": "Educational Institutions",
-      "front": "New English School (Bombay) (1880s)?",
-      "back": "Founder: Vishnushastri Chiplunkar, Bal Gangadhar Tilak, M.B. Namjoshi, G.G. Agarkar. Year: 1880s. Details: Later became Fergusson College, a major institution in Pune"
+      "front": "National Muslim University? (Part 2/2)",
+      "back": "Details: Initially founded in Aligarh, later moved to Delhi"
+    },
+    {
+      "id": "fc011_a",
+      "category": "Educational Institutions",
+      "front": "New English School (Bombay) (1880s)? (Part 1/2)",
+      "back": "Founder: Vishnushastri Chiplunkar, Bal Gangadhar Tilak, M.B. Namjoshi, G.G. Agarkar. Year: 1880s."
+    },
+    {
+      "id": "fc011_b",
+      "category": "Educational Institutions",
+      "front": "New English School (Bombay) (1880s)? (Part 2/2)",
+      "back": "Details: Later became Fergusson College, a major institution in Pune"
     },
     {
       "id": "fc012",

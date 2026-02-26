@@ -9,10 +9,16 @@
       "back": "Calcutta - Associates of Raja Rammohan Roy; advocated administrative reforms, Indian participation in governance, educational advancement"
     },
     {
-      "id": "fc002",
+      "id": "fc002_a",
       "category": "Early Associations (1836-1852)",
-      "front": "Who founded Bangabhasha Prakasika Sabha?",
-      "back": "Associates of Raja Rammohan Roy including Prasanna Kumar Thakur, Kalisanth Chowdhury, Dwarkanath Tagore, Gouri Sankar Bhattacharya, Durga Prasad Tarka Panchanan"
+      "front": "Who founded Bangabhasha Prakasika Sabha? (Part 1/2)",
+      "back": "Associates of Raja Rammohan Roy including Prasanna Kumar Thakur, Kalisanth Chowdhury, Dwarkanath Tagore, Gouri Sankar Bhattacharya"
+    },
+    {
+      "id": "fc002_b",
+      "category": "Early Associations (1836-1852)",
+      "front": "Who founded Bangabhasha Prakasika Sabha? (Part 2/2)",
+      "back": "Durga Prasad Tarka Panchanan"
     },
     {
       "id": "fc003",
@@ -45,10 +51,22 @@
       "back": "Calcutta - President: Radhakant Deb; Gen. Secretary: Debendranath Tagore"
     },
     {
-      "id": "fc008",
+      "id": "fc008_a",
       "category": "Early Associations (1836-1852)",
-      "front": "British Indian Association achievements?",
-      "back": "Merged Landholders Society & Bengal British India Society; demanded legislative reforms, separate legislature, separation of executive-judicial functions, reduction of salaries and taxes; petitioned for Universities in three Presidencies (UPSC 2017)"
+      "front": "British Indian Association achievements? (Part 1/3)",
+      "back": "Merged Landholders Society & Bengal British India Society"
+    },
+    {
+      "id": "fc008_b",
+      "category": "Early Associations (1836-1852)",
+      "front": "British Indian Association achievements? (Part 2/3)",
+      "back": "demanded legislative reforms, separate legislature, separation of executive-judicial functions, reduction of salaries and taxes"
+    },
+    {
+      "id": "fc008_c",
+      "category": "Early Associations (1836-1852)",
+      "front": "British Indian Association achievements? (Part 3/3)",
+      "back": "petitioned for Universities in three Presidencies (UPSC 2017)"
     },
     {
       "id": "fc009",
@@ -117,10 +135,16 @@
       "back": "Calcutta - Surendranath Banerjee, Ananda Mohan Bose (UPSC 2017)"
     },
     {
-      "id": "fc020",
+      "id": "fc020_a",
       "category": "Pre-INC Period (1876-1885)",
-      "front": "Indian Association achievements?",
-      "back": "Led agitation for Indianisation of services and protests against repressive laws; organised All-India Conference (1883); published Indian Association's Journal"
+      "front": "Indian Association achievements? (Part 1/2)",
+      "back": "Led agitation for Indianisation of services and protests against repressive laws; organised All-India Conference (1883)"
+    },
+    {
+      "id": "fc020_b",
+      "category": "Pre-INC Period (1876-1885)",
+      "front": "Indian Association achievements? (Part 2/2)",
+      "back": "published Indian Association's Journal"
     },
     {
       "id": "fc021",
@@ -147,10 +171,16 @@
       "back": "Bombay - Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji"
     },
     {
-      "id": "fc025",
+      "id": "fc025_a",
       "category": "Pre-INC Period (1876-1885)",
-      "front": "Bombay Presidency Association origin?",
-      "back": "Formed in response to Lytton's policies and Ilbert Bill controversy; promoted political rights in Bombay; maintained strong ties with Poona Sarvajanik Sabha"
+      "front": "Bombay Presidency Association origin? (Part 1/2)",
+      "back": "Formed in response to Lytton's policies and Ilbert Bill controversy; promoted political rights in Bombay"
+    },
+    {
+      "id": "fc025_b",
+      "category": "Pre-INC Period (1876-1885)",
+      "front": "Bombay Presidency Association origin? (Part 2/2)",
+      "back": "maintained strong ties with Poona Sarvajanik Sabha"
     },
     {
       "id": "fc026",
@@ -243,10 +273,16 @@
       "back": "East India Association (1866), London Indian Society (1885) - both by Dadabhai Naoroji"
     },
     {
-      "id": "fc041",
+      "id": "fc041_a",
       "category": "Themes & Patterns",
-      "front": "Calcutta-based associations (chronological)?",
-      "back": "1836: Bangabhasha Prakasika Sabha, 1837: Zamindari, 1843: Bengal British India Society, 1851: British Indian Association, 1875: Indian League, 1876: Indian Association"
+      "front": "Calcutta-based associations (chronological)? (Part 1/2)",
+      "back": "1836: Bangabhasha Prakasika Sabha, 1837: Zamindari, 1843: Bengal British India Society, 1851: British Indian Association"
+    },
+    {
+      "id": "fc041_b",
+      "category": "Themes & Patterns",
+      "front": "Calcutta-based associations (chronological)? (Part 2/2)",
+      "back": "1875: Indian League, 1876: Indian Association"
     }
   ],
   "quizzes": {
@@ -556,17 +592,17 @@
       {
         "id": "comp001",
         "question": "Trace the evolution of political associations from early reform-focused groups (1836-1852) to more nationalist organizations (1876-1885), analyzing the shift in goals and methods.",
-        "answer": "Early Period (1836-1852) - Reform Focus: Bangabhasha Prakasika Sabha (1836): Associates of Raja Rammohan Roy advocated administrative reforms, Indian participation in governance, educational advancement. Reformist, within system. Zamindari Association (1837): Protected landlord interests; FIRST to initiate constitutional agitation in India. Class-specific but pioneering constitutional approach. Bengal British India Society (1843): Collected information on welfare issues, promoted responsible citizenship. Civic education focus. British Indian Association (1851): Demanded legislative reforms, separate legislature, separation of executive-judicial functions, reduction of salaries/taxes, Universities in three Presidencies (UPSC 2017). Most comprehensive early demands but still petition-based. Bombay (1852) and Madras (1852) Associations: Regional emergence, specific grievances (MNA opposed missionary activities & Lex Loci Act). Pattern: Elite-led, reformist, petition government, specific issues, regional. Mid-Period (1866-1876) - Broadening: East India Association London (1866): Dadabhai Naoroji influenced British public opinion, promoted Indian welfare. Taking cause to imperial metropole. Poona Sarvajanik Sabha (1867): Represented public opinion, mediated between government and people, promoted political participation and social reform. Public representation concept emerging. Indian League (1875): Sisir Kumar Ghosh promoted nationalism and political education, aimed to extend participation beyond elites. Explicit nationalist language, democratization goal. Pattern: Moving beyond elite petitions to public representation, nationalist rhetoric emerging, political education emphasized. Pre-INC Period (1876-1885) - Nationalist Coordination: Indian Association (1876): Surendranath Banerjee, Ananda Mohan Bose led agitation for Indianisation of services, protests against repressive laws, organised All-India Conference (1883), published Journal (UPSC 2017). Agitation (not just petition), all-India coordination attempt, systematic propaganda (Journal). All-India Conference (1883): FIRST attempt at all-India political coordination, later merged with INC (1886). Foundational for national movement. Madras Mahajan Sabha (1884): Advocated Indian representation in councils, coordinated regional activities, pushed for separation of judiciary and revenue. Regional coordination feeding into national. Bombay Presidency Association (1885): Formed responding to Lytton's policies and Ilbert Bill, promoted political rights, tied to Poona Sabha. Reactive to repressive policies, inter-regional links. Evolution: 1836-52: Reform petitions (administrative, educational, specific grievances) \u2192 1866-76: Public representation, nationalist education, British opinion \u2192 1876-85: Agitation, all-India coordination, systematic organization. Methods: Petition \u2192 Public opinion \u2192 Agitation + Coordination. Scope: Specific issues \u2192 Broad reforms \u2192 National political participation. Organization: Local elite groups \u2192 Regional representation \u2192 All-India coordination (1883 Conference merging with INC 1886). This evolution set stage for INC (1885) as umbrella national organization synthesizing decades of associational development."
+        "answer": "Early Period (1836-1852) - Reform Focus: Bangabhasha Prakasika Sabha (1836): Associates of Raja Rammohan Roy advocated administrative reforms, Indian participation in governance, educational advancement. Reformist, within system."
       },
       {
         "id": "comp002",
         "question": "Analyze the geographic distribution of political associations (Calcutta, Bombay, Madras, Poona, London) and what this pattern reveals about nationalist development in different regions.",
-        "answer": "Calcutta Dominance (1836-1876): 1836: Bangabhasha Prakasika Sabha, 1837: Zamindari Association, 1843: Bengal British India Society, 1851: British Indian Association, 1875: Indian League, 1876: Indian Association. Six major associations in 40 years. Why Calcutta? 1) British administrative capital, 2) Bengal Renaissance (Raja Rammohan Roy associates), 3) Educated middle class (bhadralok), 4) Early British university (1857), 5) Economic transformation creating new elite. Characteristics: Earliest political mobilization, most diverse (reform to nationalism), strongest organizational continuity (British Indian Association \u2192 Indian Association \u2192 INC merger 1886). Bombay Emergence (1852-1885): 1852: Bombay Association (Jagannath Shankarsheth), 1876: Revived by Dadabhai Naoroji, 1885: Bombay Presidency Association (Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji). Slower start but by 1885 organized, responding to Lytton/Ilbert Bill. Why later? Commercial city, diverse population (Parsi, Gujarati, Marathi communities), less homogeneous elite than Calcutta. Strong ties to Poona showing Maharashtra integration. Madras Pattern (1852-1884): 1852: Madras Native Association (MNA) - first Madras political association, opposed missionary activities & Lex Loci Act. 1884: Madras Mahajan Sabha - advocated councils representation, coordinated regional activities, separation of judiciary/revenue. Gap 1852-1884 suggests later political mobilization than Calcutta/Bombay but catching up by 1880s. Focus on regional coordination, landed classes grievances (MNA), administrative representation (Mahajan Sabha). Poona Significance (1867): Poona Sarvajanik Sabha (1867): G.V. Joshi, S.H. Sathe, S.H. Chipionkar; M.G. Ranade joined 1871. Represented public opinion, mediated government-people, promoted participation and social reform. Interior Maharashtra (not coastal Bombay), connected to Maratha political traditions, intellectual-reformist (Ranade), strong link to Bombay (1885 Association maintained ties). Shows nationalism penetrating beyond Presidency capitals. London Associations (1866, 1885): East India Association (1866): Dadabhai Naoroji influenced British public opinion, promoted Indian welfare, expanded to India branches. London Indian Society (1885): Platform for Indian students raising political issues, later absorbed into East India Association. Metropolitan strategy: Taking Indian case to imperial center, influencing British voters/Parliament, diaspora political organization. Dadabhai Naoroji key (both associations). Geographic Pattern: Chronology: Calcutta earliest/most (1836-), Bombay/Madras catching up (1850s), Poona interior penetration (1867), London metropolitan strategy (1866-85). Regional character: Bengal intellectual-reformist, Bombay commercial-diverse, Madras landed-administrative, Poona intellectual-reformist interior, London diaspora-imperial lobbying. Convergence by 1885: All three Presidencies organized (Calcutta Indian Association 1876, Madras Mahajan Sabha 1884, Bombay Presidency Association 1885), All-India Conference 1883 attempting coordination, INC 1885 bringing together regional streams. Pattern reveals: Political mobilization following British administrative/educational infrastructure (Presidency capitals first), Regional variations in timing/character based on social structure, elite formation, British policies, Nationalist movement becoming all-India by 1880s through: Calcutta's organizational leadership (All-India Conference 1883), Bombay's economic/diverse base, Madras coordination, Poona intellectual depth, London international dimension. INC (1885) synthesized these geographic streams into national movement."
+        "answer": "Calcutta Dominance (1836-1876): 1836: Bangabhasha Prakasika Sabha, 1837: Zamindari Association, 1843: Bengal British India Society, 1851: British Indian Association, 1875: Indian League, 1876: Indian Association. Six major associations in 40 years. Why Calcutta?"
       },
       {
         "id": "comp003",
         "question": "Examine the key figures across associations (Dwarkanath Tagore, Dadabhai Naoroji, Surendranath Banerjee) and analyze how individuals connected multiple organizations, creating networks that enabled eventual formation of INC.",
-        "answer": "Multi-Association Figures - Network Builders: Dwarkanath Tagore: Zamindari Association (1837), Bengal British India Society (1843). Span: Early period (1837-43), connecting landlord interests (Zamindari) with broader welfare (Bengal British India Society). Significance: Bengal elite bridging class-specific and public-interest associations. Radhakant Deb: Zamindari Association (1837), President of British Indian Association (1851). Span: 14 years, landlord interests to comprehensive legislative demands. Leadership: Presidential role showing elite continuity in organizational leadership. Debendranath Tagore: General Secretary of British Indian Association (1851). Family: Dwarkanath Tagore's son - dynastic participation in political associations. Role: Administrative leadership (Secretary) vs presidential (Radhakant Deb). Dadabhai Naoroji - Triple Connection: East India Association London (1866): Founded to influence British opinion. Bombay Association (1876): Revived Jagannath Shankarsheth's 1852 organization. London Indian Society (1885): Platform for Indian students. Span: 1866-1885, both London (metropolitan strategy) and Bombay (home base). Significance: Connecting diaspora (London) with Indian organization (Bombay), influencing both British public and Indian political mobilization. Later became INC President (1886, 1893, 1906) - direct link from pre-INC associations to Congress leadership. M.G. Ranade: Joined Poona Sarvajanik Sabha (1871). Significance: Major reformer-intellectual lending credibility to political association. Poona Sabha's mediation role (government-people) suited Ranade's reformist approach. Connected social reform with political organization. Surendranath Banerjee - Organizational Pioneer: Founded Indian Association (1876) with Ananda Mohan Bose. Agitation: Led Indianisation movement, protests against repressive laws (UPSC 2017). All-India Conference (1883): Organised first all-India political coordination. Journal: Published Indian Association's Journal - systematic propaganda. INC connection: Conference merged with INC 1886. Significance: Pioneering agitational politics (not just petition), all-India coordination, organizational infrastructure (Journal, Conference). Direct organizational line from Indian Association to INC. Network Mechanisms: Geographic Networks: Dadabhai Naoroji (London-Bombay), connecting imperial metropole with Indian city. Poona-Bombay link: Poona Sarvajanik Sabha ties with Bombay Presidency Association (1885). Cross-Generational: Dwarkanath \u2192 Debendranath Tagore (father-son). Raja Rammohan Roy associates (1836) \u2192 Radhakant Deb (1837, 1851) - first to second generation. Ideological Networks: Reformists: Raja Rammohan Roy circle (1836) \u2192 M.G. Ranade (Poona 1871) - social reform connecting with political organization. Agitationists: Surendranath Banerjee (1876) pioneering beyond petition politics. Leadership Migration: British Indian Association (1851) \u2192 Indian Association (1876) \u2192 INC (1886). Surendranath Banerjee, Dadabhai Naoroji moving from associations to Congress leadership. Organizational Learning: Each association learned from predecessors: Petition (1836-51) \u2192 Public representation (1867-75) \u2192 Agitation (1876) \u2192 All-India coordination (1883) \u2192 National Congress (1885-86). Figures carrying lessons across organizations. Formation of INC (1885): Built on: 40+ years of associational experience (1836-1885), Networks created by multi-association figures (Dadabhai Naoroji, Surendranath Banerjee), Geographic spread (Calcutta, Bombay, Madras, Poona, London all represented), Organizational innovations (Journal, Conference, agitation methods), Leadership pool trained in associations now available for national movement. INC succeeded because pre-existing networks (personal, organizational, geographic, ideological) created by figures like Dwarkanath Tagore, Dadabhai Naoroji, Surendranath Banerjee, M.G. Ranade provided foundation. Not creating movement from scratch but synthesizing decades of political organization into national umbrella (1885), with All-India Conference merger (1886) completing transition from associations to Congress."
+        "answer": "Multi-Association Figures - Network Builders: Dwarkanath Tagore: Zamindari Association (1837), Bengal British India Society (1843). Span: Early period (1837-43), connecting landlord interests (Zamindari) with broader welfare (Bengal British India Society)."
       }
     ]
   }

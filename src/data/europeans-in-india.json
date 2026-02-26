@@ -183,16 +183,28 @@
       "back": "1858 (after the 1857 Revolt)"
     },
     {
-      "id": "fc031",
+      "id": "fc031_a",
       "category": "Concepts & Reasons",
-      "front": "Why did Europeans seek sea route to India?",
-      "back": "To bypass Arab and Venetian monopoly on spice trade, reduce costs, and establish direct trade connections with the East. Fall of Constantinople (1453) blocked land routes."
+      "front": "Why did Europeans seek sea route to India? (Part 1/2)",
+      "back": "To bypass Arab and Venetian monopoly on spice trade, reduce costs, and establish direct trade connections with the East. Fall of Constantinople ("
     },
     {
-      "id": "fc032",
+      "id": "fc031_b",
       "category": "Concepts & Reasons",
-      "front": "What was Vasco da Gama's significance?",
-      "back": "Portuguese explorer who discovered the sea route to India via Cape of Good Hope in 1498, landing at Calicut. This opened direct maritime trade between Europe and India."
+      "front": "Why did Europeans seek sea route to India? (Part 2/2)",
+      "back": "1 4 5 3) blocked land routes."
+    },
+    {
+      "id": "fc032_a",
+      "category": "Concepts & Reasons",
+      "front": "What was Vasco da Gama's significance? (Part 1/2)",
+      "back": "Portuguese explorer who discovered the sea route to India via Cape of Good Hope in 1498, landing at Calicut."
+    },
+    {
+      "id": "fc032_b",
+      "category": "Concepts & Reasons",
+      "front": "What was Vasco da Gama's significance? (Part 2/2)",
+      "back": "This opened direct maritime trade between Europe and India."
     },
     {
       "id": "fc033",
@@ -201,28 +213,52 @@
       "back": "To control Arabian Sea trade routes, access spice-producing Malabar coast, and dominate Indian Ocean trade connecting East Africa, Arabia, and Asia."
     },
     {
-      "id": "fc034",
+      "id": "fc034_a",
       "category": "Concepts & Reasons",
-      "front": "What made Surat strategically important?",
-      "back": "Premier Mughal port, gateway to Gujarat's rich textile trade, access to inland markets, and connection to Red Sea trade routes. Drew English (1612), Dutch (1616), and French (1668)."
+      "front": "What made Surat strategically important? (Part 1/2)",
+      "back": "Premier Mughal port, gateway to Gujarat's rich textile trade, access to inland markets, and connection to Red Sea trade routes."
     },
     {
-      "id": "fc035",
+      "id": "fc034_b",
       "category": "Concepts & Reasons",
-      "front": "Why did English shift from Surat to Calcutta?",
-      "back": "Declining Mughal power around Surat, need for more defensible position, access to Bengal's rich resources and textile production, control of Ganges trade routes."
+      "front": "What made Surat strategically important? (Part 2/2)",
+      "back": "Drew English (1612), Dutch (1616), and French (1668)."
     },
     {
-      "id": "fc036",
+      "id": "fc035_a",
       "category": "Concepts & Reasons",
-      "front": "What were Portuguese 'Cartaz' system?",
-      "back": "Naval passes/licenses that Portuguese forced ships to buy for safe passage in Indian Ocean waters - a protection racket establishing Portuguese naval dominance from 1500s."
+      "front": "Why did English shift from Surat to Calcutta? (Part 1/2)",
+      "back": "Declining Mughal power around Surat, need for more defensible position, access to Bengal's rich resources and textile production"
     },
     {
-      "id": "fc037",
+      "id": "fc035_b",
       "category": "Concepts & Reasons",
-      "front": "Why did Dutch focus on spice islands?",
-      "back": "Enormous profit margins in spice trade (esp. nutmeg, cloves, pepper). They eventually prioritized Indonesia over India due to direct access to spice sources."
+      "front": "Why did English shift from Surat to Calcutta? (Part 2/2)",
+      "back": "control of Ganges trade routes."
+    },
+    {
+      "id": "fc036_a",
+      "category": "Concepts & Reasons",
+      "front": "What were Portuguese 'Cartaz' system? (Part 1/2)",
+      "back": "Naval passes/licenses that Portuguese forced ships to buy for safe passage in Indian Ocean waters - a protection racket establishing"
+    },
+    {
+      "id": "fc036_b",
+      "category": "Concepts & Reasons",
+      "front": "What were Portuguese 'Cartaz' system? (Part 2/2)",
+      "back": "ese naval dominance from 1500s."
+    },
+    {
+      "id": "fc037_a",
+      "category": "Concepts & Reasons",
+      "front": "Why did Dutch focus on spice islands? (Part 1/2)",
+      "back": "Enormous profit margins in spice trade (esp. nutmeg, cloves, pepper)."
+    },
+    {
+      "id": "fc037_b",
+      "category": "Concepts & Reasons",
+      "front": "Why did Dutch focus on spice islands? (Part 2/2)",
+      "back": "They eventually prioritized Indonesia over India due to direct access to spice sources."
     },
     {
       "id": "fc038",
@@ -231,406 +267,814 @@
       "back": "Purely commercial - trade in spices, textiles (calico, muslin), indigo, saltpeter. Territorial ambitions developed later as Mughal power declined."
     },
     {
-      "id": "fc039",
+      "id": "fc039_a",
       "category": "Concepts & Reasons",
-      "front": "Why did French arrive last among major powers?",
-      "back": "Late formation of centralized French state, internal religious conflicts (Huguenot wars), and maritime focus on Atlantic/Caribbean initially rather than Indian Ocean."
+      "front": "Why did French arrive last among major powers? (Part 1/2)",
+      "back": "Late formation of centralized French state, internal religious conflicts (Huguenot wars)"
     },
     {
-      "id": "fc040",
+      "id": "fc039_b",
       "category": "Concepts & Reasons",
-      "front": "What caused Danish limited presence?",
-      "back": "Smaller economy compared to England/France/Netherlands, late entry into saturated market (1616), limited naval power, focus on niche commodities like saltpeter."
+      "front": "Why did French arrive last among major powers? (Part 2/2)",
+      "back": "and maritime focus on Atlantic/Caribbean initially rather than Indian Ocean."
     },
     {
-      "id": "fc041",
+      "id": "fc040_a",
       "category": "Concepts & Reasons",
-      "front": "Why did Battle of Plassey (1757) matter?",
-      "back": "English East India Company defeated Siraj-ud-Daulah of Bengal. Marked transition from trading company to territorial power. Control of Bengal's vast wealth funded further expansion."
+      "front": "What caused Danish limited presence? (Part 1/2)",
+      "back": "Smaller economy compared to England/France/Netherlands, late entry into saturated market (1616), limited naval power"
     },
     {
-      "id": "fc042",
+      "id": "fc040_b",
       "category": "Concepts & Reasons",
-      "front": "Significance of Battle of Buxar (1764)?",
-      "back": "English defeated combined forces of Nawab of Awadh, Mughal Emperor, and Nawab of Bengal. Confirmed English as supreme power in northern India, led to Diwani rights."
+      "front": "What caused Danish limited presence? (Part 2/2)",
+      "back": "focus on niche commodities like saltpeter."
     },
     {
-      "id": "fc043",
+      "id": "fc041_a",
       "category": "Concepts & Reasons",
-      "front": "What were Diwani rights granted 1765?",
-      "back": "Right to collect revenue (tax) in Bengal, Bihar, and Orissa granted by Mughal Emperor Shah Alam II to English East India Company. Made Company a political power, not just trading entity."
+      "front": "Why did Battle of Plassey (1757) matter? (Part 1/2)",
+      "back": "English East India Company defeated Siraj-ud-Daulah of Bengal. Marked transition from trading company to territorial power."
     },
     {
-      "id": "fc044",
+      "id": "fc041_b",
       "category": "Concepts & Reasons",
-      "front": "Why did Anglo-French rivalry intensify?",
-      "back": "European conflicts (War of Austrian Succession, Seven Years War) spilled into India. Both sought Indian resources to fund European wars and establish colonial dominance."
+      "front": "Why did Battle of Plassey (1757) matter? (Part 2/2)",
+      "back": "Control of Bengal's vast wealth funded further expansion."
     },
     {
-      "id": "fc045",
+      "id": "fc042_a",
       "category": "Concepts & Reasons",
-      "front": "What was the 'Carnatic Wars' significance?",
-      "back": "Series of conflicts (1746-1763) between English and French, fought on Indian soil with local allies. English victory established them as dominant European power in India."
+      "front": "Significance of Battle of Buxar (1764)? (Part 1/2)",
+      "back": "English defeated combined forces of Nawab of Awadh, Mughal Emperor, and Nawab of Bengal."
     },
     {
-      "id": "fc046",
+      "id": "fc042_b",
       "category": "Concepts & Reasons",
-      "front": "Why did Portuguese decline after 1600s?",
-      "back": "Spanish occupation of Portugal (1580-1640) weakened them, rise of Dutch/English naval power, loss of monopolies, focus shifted to Brazil, and inability to adapt to changing trade dynamics."
+      "front": "Significance of Battle of Buxar (1764)? (Part 2/2)",
+      "back": "Confirmed English as supreme power in northern India, led to Diwani rights."
     },
     {
-      "id": "fc047",
+      "id": "fc043_a",
       "category": "Concepts & Reasons",
-      "front": "What role did Indian textile trade play?",
-      "back": "Cotton textiles (calico, muslin) were Europe's primary import. Generated massive profits, funded Company expansion, but later caused deindustrialization of Indian textile industry."
+      "front": "What were Diwani rights granted 1765? (Part 1/2)",
+      "back": "Right to collect revenue (tax) in Bengal, Bihar, and Orissa granted by Mughal Emperor Shah Alam II to English East India Company."
     },
     {
-      "id": "fc048",
+      "id": "fc043_b",
       "category": "Concepts & Reasons",
-      "front": "Why did British shift to territorial control?",
-      "back": "Declining Mughal power created power vacuum, revenue from land exceeded trade profits, and territorial control needed to secure trade monopolies and protect from rivals."
+      "front": "What were Diwani rights granted 1765? (Part 2/2)",
+      "back": "Made Company a political power, not just trading entity."
     },
     {
-      "id": "fc049",
+      "id": "fc044_a",
       "category": "Concepts & Reasons",
-      "front": "What was the Regulating Act of 1773?",
-      "back": "British Parliament's first intervention in Company affairs. Established Governor-General position, Supreme Court in Calcutta. Warren Hastings became first Governor-General."
+      "front": "Why did Anglo-French rivalry intensify? (Part 1/2)",
+      "back": "European conflicts (War of Austrian Succession, Seven Years War) spilled into India."
     },
     {
-      "id": "fc050",
+      "id": "fc044_b",
       "category": "Concepts & Reasons",
-      "front": "Significance of Pitt's India Act 1784?",
-      "back": "Established dual control: Court of Directors (commercial) and Board of Control (political). Brought Company's political activities under British government supervision."
+      "front": "Why did Anglo-French rivalry intensify? (Part 2/2)",
+      "back": "Both sought Indian resources to fund European wars and establish colonial dominance."
     },
     {
-      "id": "fc051",
+      "id": "fc045_a",
       "category": "Concepts & Reasons",
-      "front": "What caused the 1857 Revolt?",
-      "back": "Multiple factors: Doctrine of Lapse, cartridge controversy, economic exploitation, displacement of traditional elites, cultural insensitivity, annexation of princely states."
+      "front": "What was the 'Carnatic Wars' significance? (Part 1/2)",
+      "back": "Series of conflicts (1746- 1 7 6"
     },
     {
-      "id": "fc052",
+      "id": "fc045_b",
       "category": "Concepts & Reasons",
-      "front": "Why did Crown Rule replace Company Rule?",
-      "back": "After 1857 Revolt, British government found Company's administration inadequate. Government of India Act 1858 transferred power to British Crown for direct imperial control."
+      "front": "What was the 'Carnatic Wars' significance? (Part 2/2)",
+      "back": "3) between English and French, fought on Indian soil with local allies. English victory established them as dominant European power in India."
     },
     {
-      "id": "fc053",
+      "id": "fc046_a",
       "category": "Concepts & Reasons",
-      "front": "What was Doctrine of Lapse?",
-      "back": "Policy by Lord Dalhousie: Indian princely states without natural heirs would be annexed by Company. Led to annexation of Satara, Jhansi, Nagpur - major grievance causing 1857."
+      "front": "Why did Portuguese decline after 1600s? (Part 1/2)",
+      "back": "Spanish occupation of Portugal (1580- 1 6 4"
     },
     {
-      "id": "fc054",
+      "id": "fc046_b",
       "category": "Concepts & Reasons",
-      "front": "Economic impact of European trading companies?",
-      "back": "Deindustrialization of Indian crafts, drain of wealth to Europe, commercialization of agriculture, introduction of cash crops, destruction of traditional economy, integration into global capitalism."
+      "front": "Why did Portuguese decline after 1600s? (Part 2/2)",
+      "back": "0) weakened them, rise of Dutch/English naval power, loss of monopolies, focus shifted to Brazil, and inability to adapt to changing trade dynamics."
     },
     {
-      "id": "fc055",
+      "id": "fc047_a",
       "category": "Concepts & Reasons",
-      "front": "Social impact of European presence?",
-      "back": "Introduction of Western education, English language, Christian missions, social reforms (sati, widow remarriage), but also racism, cultural imperialism, and breakdown of traditional society."
+      "front": "What role did Indian textile trade play? (Part 1/2)",
+      "back": "Cotton textiles (calico, muslin) were Europe's primary import."
     },
     {
-      "id": "fc056",
+      "id": "fc047_b",
+      "category": "Concepts & Reasons",
+      "front": "What role did Indian textile trade play? (Part 2/2)",
+      "back": "Generated massive profits, funded Company expansion, but later caused deindustrialization of Indian textile industry."
+    },
+    {
+      "id": "fc048_a",
+      "category": "Concepts & Reasons",
+      "front": "Why did British shift to territorial control? (Part 1/2)",
+      "back": "Declining Mughal power created power vacuum, revenue from land exceeded trade profits"
+    },
+    {
+      "id": "fc048_b",
+      "category": "Concepts & Reasons",
+      "front": "Why did British shift to territorial control? (Part 2/2)",
+      "back": "and territorial control needed to secure trade monopolies and protect from rivals."
+    },
+    {
+      "id": "fc049_a",
+      "category": "Concepts & Reasons",
+      "front": "What was the Regulating Act of 1773? (Part 1/2)",
+      "back": "British Parliament's first intervention in Company affairs. Established Governor-General position, Supreme Court in Calcutta."
+    },
+    {
+      "id": "fc049_b",
+      "category": "Concepts & Reasons",
+      "front": "What was the Regulating Act of 1773? (Part 2/2)",
+      "back": "Warren Hastings became first Governor-General."
+    },
+    {
+      "id": "fc050_a",
+      "category": "Concepts & Reasons",
+      "front": "Significance of Pitt's India Act 1784? (Part 1/2)",
+      "back": "Established dual control: Court of Directors (commercial) and Board of Control (political)."
+    },
+    {
+      "id": "fc050_b",
+      "category": "Concepts & Reasons",
+      "front": "Significance of Pitt's India Act 1784? (Part 2/2)",
+      "back": "Brought Company's political activities under British government supervision."
+    },
+    {
+      "id": "fc051_a",
+      "category": "Concepts & Reasons",
+      "front": "What caused the 1857 Revolt? (Part 1/2)",
+      "back": "Multiple factors: Doctrine of Lapse, cartridge controversy, economic exploitation, displacement of traditional elites"
+    },
+    {
+      "id": "fc051_b",
+      "category": "Concepts & Reasons",
+      "front": "What caused the 1857 Revolt? (Part 2/2)",
+      "back": "cultural insensitivity, annexation of princely states."
+    },
+    {
+      "id": "fc052_a",
+      "category": "Concepts & Reasons",
+      "front": "Why did Crown Rule replace Company Rule? (Part 1/2)",
+      "back": "After 1857 Revolt, British government found Company's administration inadequate."
+    },
+    {
+      "id": "fc052_b",
+      "category": "Concepts & Reasons",
+      "front": "Why did Crown Rule replace Company Rule? (Part 2/2)",
+      "back": "Government of India Act 1858 transferred power to British Crown for direct imperial control."
+    },
+    {
+      "id": "fc053_a",
+      "category": "Concepts & Reasons",
+      "front": "What was Doctrine of Lapse? (Part 1/2)",
+      "back": "Policy by Lord Dalhousie: Indian princely states without natural heirs would be annexed by Company."
+    },
+    {
+      "id": "fc053_b",
+      "category": "Concepts & Reasons",
+      "front": "What was Doctrine of Lapse? (Part 2/2)",
+      "back": "Led to annexation of Satara, Jhansi, Nagpur - major grievance causing 1857."
+    },
+    {
+      "id": "fc054_a",
+      "category": "Concepts & Reasons",
+      "front": "Economic impact of European trading companies? (Part 1/2)",
+      "back": "Deindustrialization of Indian crafts, drain of wealth to Europe, commercialization of agriculture, introduction of cash crops"
+    },
+    {
+      "id": "fc054_b",
+      "category": "Concepts & Reasons",
+      "front": "Economic impact of European trading companies? (Part 2/2)",
+      "back": "destruction of traditional economy, integration into global capitalism."
+    },
+    {
+      "id": "fc055_a",
+      "category": "Concepts & Reasons",
+      "front": "Social impact of European presence? (Part 1/2)",
+      "back": "Introduction of Western education, English language, Christian missions, social reforms (sati, widow remarriage), but also racism"
+    },
+    {
+      "id": "fc055_b",
+      "category": "Concepts & Reasons",
+      "front": "Social impact of European presence? (Part 2/2)",
+      "back": "cultural imperialism, and breakdown of traditional society."
+    },
+    {
+      "id": "fc056_a",
       "category": "Comparisons",
-      "front": "Portuguese vs English naval strategy?",
-      "back": "Portuguese: Naval dominance through force, Cartaz system, focus on controlling sea routes. English: Initially trade-focused, evolved to territorial control, used naval power for projection inland."
+      "front": "Portuguese vs English naval strategy? (Part 1/2)",
+      "back": "Portuguese: Naval dominance through force, Cartaz system, focus on controlling sea routes."
     },
     {
-      "id": "fc057",
+      "id": "fc056_b",
       "category": "Comparisons",
-      "front": "Dutch vs English in India?",
-      "back": "Dutch: Prioritized spice trade, focused on Indonesia, withdrew early from India (1825). English: Focused on textiles, diversified across regions, pursued territorial expansion, stayed until 1947."
+      "front": "Portuguese vs English naval strategy? (Part 2/2)",
+      "back": "English: Initially trade-focused, evolved to territorial control, used naval power for projection inland."
     },
     {
-      "id": "fc058",
+      "id": "fc057_a",
       "category": "Comparisons",
-      "front": "French vs English rivalry outcome?",
-      "back": "French had superior military tactics (Dupleix's strategy of allying with local rulers). English had better resources, naval supply lines, and won Carnatic Wars (1746-63), establishing dominance."
+      "front": "Dutch vs English in India? (Part 1/2)",
+      "back": "Dutch: Prioritized spice trade, focused on Indonesia, withdrew early from India (1825)."
     },
     {
-      "id": "fc059",
+      "id": "fc057_b",
       "category": "Comparisons",
-      "front": "Compare Portuguese and Danish tenure length?",
-      "back": "Portuguese: 463 years (1498-1961), longest presence, colonial ambitions. Danish: 229 years (1616-1845), purely commercial, sold to British due to non-viability."
+      "front": "Dutch vs English in India? (Part 2/2)",
+      "back": "English: Focused on textiles, diversified across regions, pursued territorial expansion, stayed until 1947."
     },
     {
-      "id": "fc060",
+      "id": "fc058_a",
       "category": "Comparisons",
-      "front": "English East India Company vs French Compagnie?",
-      "back": "English: Private joint-stock company, profit-driven, strong Parliamentary support. French: State-controlled, often bankrupt, dependent on Crown funding, collapsed after Seven Years War."
+      "front": "French vs English rivalry outcome? (Part 1/2)",
+      "back": "French had superior military tactics (Dupleix's strategy of allying with local rulers)."
     },
     {
-      "id": "fc061",
+      "id": "fc058_b",
       "category": "Comparisons",
-      "front": "Portuguese Goa vs English Calcutta as HQs?",
-      "back": "Goa: Coastal enclave, religious/cultural center, limited hinterland control. Calcutta: Strategic riverine position, access to Bengal plains, gateway to northern India, became administrative capital."
+      "front": "French vs English rivalry outcome? (Part 2/2)",
+      "back": "English had better resources, naval supply lines, and won Carnatic Wars (1746-63), establishing dominance."
     },
     {
-      "id": "fc062",
+      "id": "fc059_a",
       "category": "Comparisons",
-      "front": "Dutch trade focus vs English trade focus?",
-      "back": "Dutch: Spices (pepper, nutmeg, cloves), concentrated in Indonesia. English: Textiles (cotton, silk), tea, opium, indigo - diversified portfolio across India."
+      "front": "Compare Portuguese and Danish tenure length? (Part 1/2)",
+      "back": "Portuguese: 463 years (1498-1961), longest presence, colonial ambitions."
+    },
+    {
+      "id": "fc059_b",
+      "category": "Comparisons",
+      "front": "Compare Portuguese and Danish tenure length? (Part 2/2)",
+      "back": "Danish: 229 years (1616-1845), purely commercial, sold to British due to non-viability."
+    },
+    {
+      "id": "fc060_a",
+      "category": "Comparisons",
+      "front": "English East India Company vs French Compagnie? (Part 1/2)",
+      "back": "English: Private joint-stock company, profit-driven, strong Parliamentary support."
+    },
+    {
+      "id": "fc060_b",
+      "category": "Comparisons",
+      "front": "English East India Company vs French Compagnie? (Part 2/2)",
+      "back": "French: State-controlled, often bankrupt, dependent on Crown funding, collapsed after Seven Years War."
+    },
+    {
+      "id": "fc061_a",
+      "category": "Comparisons",
+      "front": "Portuguese Goa vs English Calcutta as HQs? (Part 1/2)",
+      "back": "Goa: Coastal enclave, religious/cultural center, limited hinterland control."
+    },
+    {
+      "id": "fc061_b",
+      "category": "Comparisons",
+      "front": "Portuguese Goa vs English Calcutta as HQs? (Part 2/2)",
+      "back": "Calcutta: Strategic riverine position, access to Bengal plains, gateway to northern India, became administrative capital."
+    },
+    {
+      "id": "fc062_a",
+      "category": "Comparisons",
+      "front": "Dutch trade focus vs English trade focus? (Part 1/2)",
+      "back": "Dutch: Spices (pepper, nutmeg, cloves), concentrated in Indonesia."
+    },
+    {
+      "id": "fc062_b",
+      "category": "Comparisons",
+      "front": "Dutch trade focus vs English trade focus? (Part 2/2)",
+      "back": "English: Textiles (cotton, silk), tea, opium, indigo - diversified portfolio across India."
     },
     {
       "id": "fc063",
       "category": "Comparisons",
       "front": "Compare establishment sequence?",
-      "back": "Portuguese (1498) \u2192 English (1600) \u2192 Dutch (1602) \u2192 Danish (1616) \u2192 French (1664). 166-year span showing gradual European expansion into Asian trade."
+      "back": "Portuguese (1498) → English (1600) → Dutch (1602) → Danish (1616) → French (1664). 166-year span showing gradual European expansion into Asian trade."
     },
     {
-      "id": "fc064",
+      "id": "fc064_a",
       "category": "Comparisons",
-      "front": "Compare departure sequence?",
-      "back": "Dutch (1825) \u2192 Danish (1845) \u2192 English (1947) \u2192 French (1954) \u2192 Portuguese (1961). Later departures (French, Portuguese) indicates colonial rather than purely commercial interest."
+      "front": "Compare departure sequence? (Part 1/2)",
+      "back": "Dutch ( 1 8 2 5) → Danish ( 1 8 4 5) → English ( 1 9 4 7) → French ( 1 9 5"
     },
     {
-      "id": "fc065",
+      "id": "fc064_b",
       "category": "Comparisons",
-      "front": "Factory vs Fort settlements?",
-      "back": "Factories: Early trading posts (English Surat 1613, Dutch Pulicat 1609). Forts: Fortified settlements for defense (Fort St. George-Madras, Fort William-Calcutta) - transition to territorial control."
+      "front": "Compare departure sequence? (Part 2/2)",
+      "back": "4) → Portuguese (1961). Later departures (French, Portuguese) indicates colonial rather than purely commercial interest."
     },
     {
-      "id": "fc066",
+      "id": "fc065_a",
       "category": "Comparisons",
-      "front": "Anglo-French proxy wars vs direct warfare?",
-      "back": "Proxy: Using Indian allies (e.g., supporting rival claimants in Carnatic/Hyderabad succession disputes). Direct: Naval battles, siege of Madras (1746), Pondicherry (1761) - extension of European conflicts."
+      "front": "Factory vs Fort settlements? (Part 1/2)",
+      "back": "Factories: Early trading posts (English Surat 1613, Dutch Pulicat 1609). Forts: Fortified settlements for defense (Fort St."
     },
     {
-      "id": "fc067",
+      "id": "fc065_b",
       "category": "Comparisons",
-      "front": "Portuguese 'Estado da India' vs English EIC structure?",
-      "back": "Portuguese: Royal administration, Viceroy appointed by King, religious (Catholic) mission integrated. English: Joint-stock company, Court of Directors, profit-maximization primary goal."
+      "front": "Factory vs Fort settlements? (Part 2/2)",
+      "back": "George-Madras, Fort William-Calcutta) - transition to territorial control."
     },
     {
-      "id": "fc068",
+      "id": "fc066_a",
       "category": "Comparisons",
-      "front": "Who controlled most territory by 1800?",
-      "back": "English East India Company dominated Bengal, Bihar, Orissa, Carnatic, parts of North India. French reduced to 5 enclaves. Portuguese/Danish/Dutch had minimal holdings."
+      "front": "Anglo-French proxy wars vs direct warfare? (Part 1/2)",
+      "back": "Proxy: Using Indian allies (e.g., supporting rival claimants in Carnatic/Hyderabad succession disputes)."
     },
     {
-      "id": "fc069",
+      "id": "fc066_b",
       "category": "Comparisons",
-      "front": "Trade vs Territorial models?",
-      "back": "Trade model: Dutch, Danish - focused on commerce, limited forts. Territorial model: English - evolved from trade to land revenue collection to full political control. Portuguese: Hybrid - controlled ports but not hinterland."
+      "front": "Anglo-French proxy wars vs direct warfare? (Part 2/2)",
+      "back": "Direct: Naval battles, siege of Madras (1746), Pondicherry (1761) - extension of European conflicts."
     },
     {
-      "id": "fc070",
+      "id": "fc067_a",
       "category": "Comparisons",
-      "front": "Compare military strategies?",
-      "back": "Portuguese: Naval superiority. French: Alliance with Indian rulers, superior land tactics. English: Combined naval-land power, 'divide and rule', use of Indian sepoys, superior logistics."
+      "front": "Portuguese 'Estado da India' vs English EIC structure? (Part 1/2)",
+      "back": "Portuguese: Royal administration, Viceroy appointed by King, religious (Catholic) mission integrated."
     },
     {
-      "id": "fc071",
+      "id": "fc067_b",
       "category": "Comparisons",
-      "front": "Impact on Indian economy - Portuguese vs English?",
-      "back": "Portuguese: Disrupted traditional Indian Ocean trade, introduced new crops (tobacco, cashew). English: Deindustrialization, commercialization of agriculture, drain of wealth, integrated India into British imperial economy."
+      "front": "Portuguese 'Estado da India' vs English EIC structure? (Part 2/2)",
+      "back": "English: Joint-stock company, Court of Directors, profit-maximization primary goal."
     },
     {
-      "id": "fc072",
+      "id": "fc068_a",
       "category": "Comparisons",
-      "front": "Religious motivations?",
-      "back": "Portuguese: Strong Catholic missionary zeal, Goa Inquisition, conversion efforts. English/Dutch/Danish: Minimal religious agenda initially, Protestant missions came later. Focus was commercial."
+      "front": "Who controlled most territory by 1800? (Part 1/2)",
+      "back": "English East India Company dominated Bengal, Bihar, Orissa, Carnatic, parts of North India. French reduced to 5 enclaves."
     },
     {
-      "id": "fc073",
+      "id": "fc068_b",
       "category": "Comparisons",
-      "front": "Settlement patterns?",
-      "back": "Portuguese: Coastal enclaves (Goa, Daman, Diu). English: Strategic ports evolving to Presidencies with hinterland control. Dutch: Limited to factories. French: Scattered coastal settlements."
+      "front": "Who controlled most territory by 1800? (Part 2/2)",
+      "back": "Portuguese/Danish/Dutch had minimal holdings."
     },
     {
-      "id": "fc074",
+      "id": "fc069_a",
       "category": "Comparisons",
-      "front": "Who adapted best to Indian politics?",
-      "back": "English: Mastered Indian statecraft, exploited succession disputes, used subsidiary alliances effectively. French (Dupleix) attempted similar but lacked resources. Portuguese/Dutch remained outsiders."
+      "front": "Trade vs Territorial models? (Part 1/3)",
+      "back": "Trade model: Dutch, Danish - focused on commerce, limited forts."
     },
     {
-      "id": "fc075",
+      "id": "fc069_b",
       "category": "Comparisons",
-      "front": "Compare Anglo-Dutch relations in India?",
-      "back": "Initially competitive (trade rivalry in spices/textiles). After Amboyna Massacre (1623) and Anglo-Dutch Wars in Europe, partitioned spheres: Dutch focused on Indonesia, English on India - peaceful coexistence."
+      "front": "Trade vs Territorial models? (Part 2/3)",
+      "back": "Territorial model: English - evolved from trade to land revenue collection to full political control."
     },
     {
-      "id": "fc076",
+      "id": "fc069_c",
+      "category": "Comparisons",
+      "front": "Trade vs Territorial models? (Part 3/3)",
+      "back": "Portuguese: Hybrid - controlled ports but not hinterland."
+    },
+    {
+      "id": "fc070_a",
+      "category": "Comparisons",
+      "front": "Compare military strategies? (Part 1/2)",
+      "back": "Portuguese: Naval superiority. French: Alliance with Indian rulers, superior land tactics."
+    },
+    {
+      "id": "fc070_b",
+      "category": "Comparisons",
+      "front": "Compare military strategies? (Part 2/2)",
+      "back": "English: Combined naval-land power, 'divide and rule', use of Indian sepoys, superior logistics."
+    },
+    {
+      "id": "fc071_a",
+      "category": "Comparisons",
+      "front": "Impact on Indian economy - Portuguese vs English? (Part 1/2)",
+      "back": "Portuguese: Disrupted traditional Indian Ocean trade, introduced new crops (tobacco, cashew)."
+    },
+    {
+      "id": "fc071_b",
+      "category": "Comparisons",
+      "front": "Impact on Indian economy - Portuguese vs English? (Part 2/2)",
+      "back": "English: Deindustrialization, commercialization of agriculture, drain of wealth, integrated India into British imperial economy."
+    },
+    {
+      "id": "fc072_a",
+      "category": "Comparisons",
+      "front": "Religious motivations? (Part 1/2)",
+      "back": "Portuguese: Strong Catholic missionary zeal, Goa Inquisition, conversion efforts."
+    },
+    {
+      "id": "fc072_b",
+      "category": "Comparisons",
+      "front": "Religious motivations? (Part 2/2)",
+      "back": "English/Dutch/Danish: Minimal religious agenda initially, Protestant missions came later. Focus was commercial."
+    },
+    {
+      "id": "fc073_a",
+      "category": "Comparisons",
+      "front": "Settlement patterns? (Part 1/2)",
+      "back": "Portuguese: Coastal enclaves (Goa, Daman, Diu). English: Strategic ports evolving to Presidencies with hinterland control."
+    },
+    {
+      "id": "fc073_b",
+      "category": "Comparisons",
+      "front": "Settlement patterns? (Part 2/2)",
+      "back": "Dutch: Limited to factories. French: Scattered coastal settlements."
+    },
+    {
+      "id": "fc074_a",
+      "category": "Comparisons",
+      "front": "Who adapted best to Indian politics? (Part 1/2)",
+      "back": "English: Mastered Indian statecraft, exploited succession disputes, used subsidiary alliances effectively."
+    },
+    {
+      "id": "fc074_b",
+      "category": "Comparisons",
+      "front": "Who adapted best to Indian politics? (Part 2/2)",
+      "back": "French (Dupleix) attempted similar but lacked resources. Portuguese/Dutch remained outsiders."
+    },
+    {
+      "id": "fc075_a",
+      "category": "Comparisons",
+      "front": "Compare Anglo-Dutch relations in India? (Part 1/2)",
+      "back": "Initially competitive (trade rivalry in spices/textiles). After Amboyna Massacre ( 1 6 2"
+    },
+    {
+      "id": "fc075_b",
+      "category": "Comparisons",
+      "front": "Compare Anglo-Dutch relations in India? (Part 2/2)",
+      "back": "3) and Anglo-Dutch Wars in Europe, partitioned spheres: Dutch focused on Indonesia, English on India - peaceful coexistence."
+    },
+    {
+      "id": "fc076_a",
       "category": "Strategic Analysis",
-      "front": "Why was control of Bengal crucial?",
-      "back": "Richest province in Mughal Empire, vast agricultural surplus, leading textile producer (muslin, silk), large population for revenue, strategic position controlling Ganges trade. Post-Plassey (1757), Bengal wealth funded English expansion across India."
+      "front": "Why was control of Bengal crucial? (Part 1/2)",
+      "back": "Richest province in Mughal Empire, vast agricultural surplus, leading textile producer (muslin, silk), large population for revenue, strategic position controlling Ganges trade."
     },
     {
-      "id": "fc077",
+      "id": "fc076_b",
       "category": "Strategic Analysis",
-      "front": "Significance of the Three Presidencies?",
-      "back": "Madras (1639), Bombay (1668), Calcutta (1690) became administrative centers with own armies and governors. Allowed decentralized control of vast territories, different strategic focuses (Madras-south, Bombay-west, Calcutta-north)."
+      "front": "Why was control of Bengal crucial? (Part 2/2)",
+      "back": "Post-Plassey (1757), Bengal wealth funded English expansion across India."
     },
     {
-      "id": "fc078",
+      "id": "fc077_a",
       "category": "Strategic Analysis",
-      "front": "What was 'Ring Fence Policy'?",
-      "back": "Warren Hastings's strategy (1772-85): Secure Company territories with buffer states (Awadh, Hyderabad) as allies, avoid costly wars, focus on consolidating Bengal. Later abandoned for aggressive expansion under Wellesley."
+      "front": "Significance of the Three Presidencies? (Part 1/2)",
+      "back": "Madras (1639), Bombay (1668), Calcutta (1690) became administrative centers with own armies and governors."
     },
     {
-      "id": "fc079",
+      "id": "fc077_b",
       "category": "Strategic Analysis",
-      "front": "What was Wellesley's Subsidiary Alliance?",
-      "back": "System (1798-1805) forcing Indian rulers to: maintain British troops at their expense, accept British Resident, surrender foreign policy, give territory if unable to pay. Made states British protectorates, extended control without direct rule."
+      "front": "Significance of the Three Presidencies? (Part 2/2)",
+      "back": "Allowed decentralized control of vast territories, different strategic focuses (Madras-south, Bombay-west, Calcutta-north)."
     },
     {
-      "id": "fc080",
+      "id": "fc078_a",
       "category": "Strategic Analysis",
-      "front": "Why did Marathas resist longest?",
-      "back": "Decentralized confederacy structure made conquest difficult, strong cavalry tradition, controlled central India heartland, only fully defeated in Third Anglo-Maratha War (1817-18) after exploiting internal rivalries."
+      "front": "What was 'Ring Fence Policy'? (Part 1/2)",
+      "back": "Warren Hastings's strategy (1772-85): Secure Company territories with buffer states (Awadh, Hyderabad) as allies, avoid costly wars, focus on consolidating Bengal."
     },
     {
-      "id": "fc081",
+      "id": "fc078_b",
       "category": "Strategic Analysis",
-      "front": "Strategic importance of Bombay?",
-      "back": "Natural harbor, gateway to western India, base for controlling Arabian Sea trade, access to Gujarat's cotton, later became commercial capital and shipbuilding center."
+      "front": "What was 'Ring Fence Policy'? (Part 2/2)",
+      "back": "Later abandoned for aggressive expansion under Wellesley."
     },
     {
-      "id": "fc082",
+      "id": "fc079_a",
       "category": "Strategic Analysis",
-      "front": "Why was Madras strategically positioned?",
-      "back": "Access to Coromandel Coast textile trade, counterweight to French Pondicherry, base for expansion into Carnatic and later Mysore, controlled southeastern India."
+      "front": "What was Wellesley's Subsidiary Alliance? (Part 1/2)",
+      "back": "System (1798-1805) forcing Indian rulers to: maintain British troops at their expense, accept British Resident, surrender foreign policy, give territory if unable to pay."
     },
     {
-      "id": "fc083",
+      "id": "fc079_b",
       "category": "Strategic Analysis",
-      "front": "Role of Indian sepoys in English success?",
-      "back": "Large, disciplined armies recruited locally (cheaper than European troops), knowledge of terrain and languages, modern drill/weaponry gave advantage over traditional Indian armies. By 1857, 230,000 sepoys vs 40,000 British troops."
+      "front": "What was Wellesley's Subsidiary Alliance? (Part 2/2)",
+      "back": "Made states British protectorates, extended control without direct rule."
     },
     {
-      "id": "fc084",
+      "id": "fc080_a",
       "category": "Strategic Analysis",
-      "front": "What was the 'Drain of Wealth' theory?",
-      "back": "Economic nationalist argument (Dadabhai Naoroji, R.C. Dutt): Britain systematically drained Indian wealth through unfair trade, land revenue, salaries to British officials, and 'Home Charges' - estimated billions of pounds over two centuries."
+      "front": "Why did Marathas resist longest? (Part 1/2)",
+      "back": "Decentralized confederacy structure made conquest difficult, strong cavalry tradition, controlled central India heartland"
     },
     {
-      "id": "fc085",
+      "id": "fc080_b",
       "category": "Strategic Analysis",
-      "front": "How did railroads serve British strategic interests?",
-      "back": "Built primarily for: troop movement (post-1857), raw material extraction to ports, administrative control, opening interior markets. Economic benefit to India was incidental to military-commercial goals."
+      "front": "Why did Marathas resist longest? (Part 2/2)",
+      "back": "only fully defeated in Third Anglo-Maratha War (1817-18) after exploiting internal rivalries."
     },
     {
-      "id": "fc086",
+      "id": "fc081_a",
       "category": "Strategic Analysis",
-      "front": "Significance of Charter Acts?",
-      "back": "Series of Acts (1813, 1833, 1853) progressively reduced Company's trade monopoly, opened India to private traders and missionaries, separated commercial from political functions, paved way for Crown Rule."
+      "front": "Strategic importance of Bombay? (Part 1/2)",
+      "back": "Natural harbor, gateway to western India, base for controlling Arabian Sea trade, access to Gujarat's cotton"
     },
     {
-      "id": "fc087",
+      "id": "fc081_b",
       "category": "Strategic Analysis",
-      "front": "What was Permanent Settlement (1793)?",
-      "back": "Lord Cornwallis's land revenue system in Bengal: fixed zamindars' tax permanently, made them landlords. Created loyal class but harmed peasants and reduced government revenue flexibility."
+      "front": "Strategic importance of Bombay? (Part 2/2)",
+      "back": "later became commercial capital and shipbuilding center."
     },
     {
-      "id": "fc088",
+      "id": "fc082_a",
       "category": "Strategic Analysis",
-      "front": "Why did English succeed where others failed?",
-      "back": "Multiple factors: superior navy, financial strength of joint-stock model, parliamentary backing, adaptation to Indian politics, timing (coincided with Mughal decline), effective use of Indian troops and allies, industrial revolution backing."
+      "front": "Why was Madras strategically positioned? (Part 1/2)",
+      "back": "Access to Coromandel Coast textile trade, counterweight to French Pondicherry, base for expansion into Carnatic and later Mysore"
     },
     {
-      "id": "fc089",
+      "id": "fc082_b",
       "category": "Strategic Analysis",
-      "front": "Role of Mughal decline in English rise?",
-      "back": "Aurangzeb's death (1707) led to fragmenting empire, succession wars, regional powers asserting independence - created power vacuum. English exploited chaos, posed as stabilizers, gradually replaced Mughals."
+      "front": "Why was Madras strategically positioned? (Part 2/2)",
+      "back": "controlled southeastern India."
     },
     {
-      "id": "fc090",
+      "id": "fc083_a",
       "category": "Strategic Analysis",
-      "front": "What was 'Divide and Rule' policy?",
-      "back": "Strategic exploitation of India's religious, caste, and regional divisions. Pit communities against each other to prevent unified resistance. Used succession disputes, played Hindu-Muslim tensions, favored certain groups to create dependence."
+      "front": "Role of Indian sepoys in English success? (Part 1/2)",
+      "back": "Large, disciplined armies recruited locally (cheaper than European troops), knowledge of terrain and languages, modern drill/weaponry gave advantage over traditional Indian armies."
     },
     {
-      "id": "fc091",
+      "id": "fc083_b",
       "category": "Strategic Analysis",
-      "front": "Impact of Industrial Revolution on India?",
-      "back": "Britain's industrialization made Indian textiles non-competitive, turned India into raw material source (cotton, indigo) and captive market for British manufactured goods - reversed historical trade balance."
+      "front": "Role of Indian sepoys in English success? (Part 2/2)",
+      "back": "By 1857, 230,000 sepoys vs 40,000 British troops."
     },
     {
-      "id": "fc092",
+      "id": "fc084_a",
       "category": "Strategic Analysis",
-      "front": "Strategic purpose of British Residents?",
-      "back": "Agents stationed at Indian courts ostensibly as advisors but actually controlled foreign policy, monitored rulers, interfered in internal affairs, paved way for annexation when rulers 'misruled'."
+      "front": "What was the 'Drain of Wealth' theory? (Part 1/2)",
+      "back": "Economic nationalist argument (Dadabhai Naoroji, R.C."
     },
     {
-      "id": "fc093",
+      "id": "fc084_b",
       "category": "Strategic Analysis",
-      "front": "Why did English avoid direct rule initially?",
-      "back": "Cheaper to rule through puppet nawabs/rajas, maintained fa\u00e7ade of Mughal sovereignty, avoided administration costs, less resistance than outright conquest. Changed when land revenue proved more profitable than trade."
+      "front": "What was the 'Drain of Wealth' theory? (Part 2/2)",
+      "back": "Dutt): Britain systematically drained Indian wealth through unfair trade, land revenue, salaries to British officials, and 'Home Charges' - estimated billions of pounds over two centuries."
     },
     {
-      "id": "fc094",
+      "id": "fc085_a",
       "category": "Strategic Analysis",
-      "front": "Geopolitical context: Anglo-Russian rivalry?",
-      "back": "'Great Game' (19th century): British feared Russian expansion into Central Asia threatening India. Led to Afghan Wars, annexation of Punjab, Sindh, Burma - creating buffer zones on India's borders."
+      "front": "How did railroads serve British strategic interests? (Part 1/2)",
+      "back": "Built primarily for: troop movement (post-1857), raw material extraction to ports, administrative control, opening interior markets."
     },
     {
-      "id": "fc095",
+      "id": "fc085_b",
       "category": "Strategic Analysis",
-      "front": "Why shift HQ from Calcutta to Delhi 1911?",
-      "back": "Symbolic: Delhi's Mughal legacy conferred legitimacy. Strategic: central location for governing entire subcontinent. Political: Response to growing nationalism in Bengal, administrative capital away from revolutionary activity."
+      "front": "How did railroads serve British strategic interests? (Part 2/2)",
+      "back": "Economic benefit to India was incidental to military-commercial goals."
     },
     {
-      "id": "fc096",
+      "id": "fc086_a",
+      "category": "Strategic Analysis",
+      "front": "Significance of Charter Acts? (Part 1/2)",
+      "back": "Series of Acts (1813, 1833, 1853) progressively reduced Company's trade monopoly, opened India to private traders and missionaries"
+    },
+    {
+      "id": "fc086_b",
+      "category": "Strategic Analysis",
+      "front": "Significance of Charter Acts? (Part 2/2)",
+      "back": "separated commercial from political functions, paved way for Crown Rule."
+    },
+    {
+      "id": "fc087_a",
+      "category": "Strategic Analysis",
+      "front": "What was Permanent Settlement (1793)? (Part 1/2)",
+      "back": "Lord Cornwallis's land revenue system in Bengal: fixed zamindars' tax permanently, made them landlords."
+    },
+    {
+      "id": "fc087_b",
+      "category": "Strategic Analysis",
+      "front": "What was Permanent Settlement (1793)? (Part 2/2)",
+      "back": "Created loyal class but harmed peasants and reduced government revenue flexibility."
+    },
+    {
+      "id": "fc088_a",
+      "category": "Strategic Analysis",
+      "front": "Why did English succeed where others failed? (Part 1/2)",
+      "back": "Multiple factors: superior navy, financial strength of joint-stock model, parliamentary backing, adaptation to Indian politics"
+    },
+    {
+      "id": "fc088_b",
+      "category": "Strategic Analysis",
+      "front": "Why did English succeed where others failed? (Part 2/2)",
+      "back": "timing (coincided with Mughal decline), effective use of Indian troops and allies, industrial revolution backing."
+    },
+    {
+      "id": "fc089_a",
+      "category": "Strategic Analysis",
+      "front": "Role of Mughal decline in English rise? (Part 1/2)",
+      "back": "Aurangzeb's death (1707) led to fragmenting empire, succession wars, regional powers asserting independence - created power vacuum."
+    },
+    {
+      "id": "fc089_b",
+      "category": "Strategic Analysis",
+      "front": "Role of Mughal decline in English rise? (Part 2/2)",
+      "back": "English exploited chaos, posed as stabilizers, gradually replaced Mughals."
+    },
+    {
+      "id": "fc090_a",
+      "category": "Strategic Analysis",
+      "front": "What was 'Divide and Rule' policy? (Part 1/3)",
+      "back": "Strategic exploitation of India's religious, caste, and regional divisions."
+    },
+    {
+      "id": "fc090_b",
+      "category": "Strategic Analysis",
+      "front": "What was 'Divide and Rule' policy? (Part 2/3)",
+      "back": "Pit communities against each other to prevent unified resistance."
+    },
+    {
+      "id": "fc090_c",
+      "category": "Strategic Analysis",
+      "front": "What was 'Divide and Rule' policy? (Part 3/3)",
+      "back": "Used succession disputes, played Hindu-Muslim tensions, favored certain groups to create dependence."
+    },
+    {
+      "id": "fc091_a",
+      "category": "Strategic Analysis",
+      "front": "Impact of Industrial Revolution on India? (Part 1/2)",
+      "back": "Britain's industrialization made Indian textiles non-competitive, turned India into raw material source (cotton"
+    },
+    {
+      "id": "fc091_b",
+      "category": "Strategic Analysis",
+      "front": "Impact of Industrial Revolution on India? (Part 2/2)",
+      "back": "indigo) and captive market for British manufactured goods - reversed historical trade balance."
+    },
+    {
+      "id": "fc092_a",
+      "category": "Strategic Analysis",
+      "front": "Strategic purpose of British Residents? (Part 1/2)",
+      "back": "Agents stationed at Indian courts ostensibly as advisors but actually controlled foreign policy, monitored rulers"
+    },
+    {
+      "id": "fc092_b",
+      "category": "Strategic Analysis",
+      "front": "Strategic purpose of British Residents? (Part 2/2)",
+      "back": "interfered in internal affairs, paved way for annexation when rulers 'misruled'."
+    },
+    {
+      "id": "fc093_a",
+      "category": "Strategic Analysis",
+      "front": "Why did English avoid direct rule initially? (Part 1/2)",
+      "back": "Cheaper to rule through puppet nawabs/rajas, maintained façade of Mughal sovereignty, avoided administration costs, less resistance than outright conquest."
+    },
+    {
+      "id": "fc093_b",
+      "category": "Strategic Analysis",
+      "front": "Why did English avoid direct rule initially? (Part 2/2)",
+      "back": "Changed when land revenue proved more profitable than trade."
+    },
+    {
+      "id": "fc094_a",
+      "category": "Strategic Analysis",
+      "front": "Geopolitical context: Anglo-Russian rivalry? (Part 1/2)",
+      "back": "'Great Game' (19th century): British feared Russian expansion into Central Asia threatening India."
+    },
+    {
+      "id": "fc094_b",
+      "category": "Strategic Analysis",
+      "front": "Geopolitical context: Anglo-Russian rivalry? (Part 2/2)",
+      "back": "Led to Afghan Wars, annexation of Punjab, Sindh, Burma - creating buffer zones on India's borders."
+    },
+    {
+      "id": "fc095_a",
+      "category": "Strategic Analysis",
+      "front": "Why shift HQ from Calcutta to Delhi 1911? (Part 1/2)",
+      "back": "Symbolic: Delhi's Mughal legacy conferred legitimacy. Strategic: central location for governing entire subcontinent."
+    },
+    {
+      "id": "fc095_b",
+      "category": "Strategic Analysis",
+      "front": "Why shift HQ from Calcutta to Delhi 1911? (Part 2/2)",
+      "back": "Political: Response to growing nationalism in Bengal, administrative capital away from revolutionary activity."
+    },
+    {
+      "id": "fc096_a",
       "category": "UPSC Focus Areas",
-      "front": "Why does UPSC focus on Madras (1639)?",
-      "back": "Fort St. George became first major English fortress-settlement on Coromandel Coast, evolved into Madras Presidency, represented shift from factories to fortified territorial bases - model replicated elsewhere."
+      "front": "Why does UPSC focus on Madras (1639)? (Part 1/2)",
+      "back": "Fort St."
     },
     {
-      "id": "fc097",
+      "id": "fc096_b",
       "category": "UPSC Focus Areas",
-      "front": "Significance of Hugli (1651) in UPSC context?",
-      "back": "Gateway to Bengal via Hooghly River, access to interior Bengal trade, predecessor to Calcutta's importance, shows English strategy of riverine penetration for hinterland control."
+      "front": "Why does UPSC focus on Madras (1639)? (Part 2/2)",
+      "back": "George became first major English fortress-settlement on Coromandel Coast, evolved into Madras Presidency, represented shift from factories to fortified territorial bases - model replicated elsewhere."
     },
     {
-      "id": "fc098",
+      "id": "fc097_a",
       "category": "UPSC Focus Areas",
-      "front": "Why is Bombay (1668) repeatedly asked?",
-      "back": "Unique: came via dowry (Portuguese Catherine of Braganza to Charles II), then given to Company. Natural harbor made it crucial naval base and later commercial capital - different path than Madras/Calcutta."
+      "front": "Significance of Hugli (1651) in UPSC context? (Part 1/2)",
+      "back": "Gateway to Bengal via Hooghly River, access to interior Bengal trade, predecessor to Calcutta's importance"
     },
     {
-      "id": "fc099",
+      "id": "fc097_b",
       "category": "UPSC Focus Areas",
-      "front": "UPSC emphasis on Calcutta (1690)?",
-      "back": "Job Charnock's controversial founding, became Bengal Presidency capital, Fort William base, site of Black Hole incident (1756), Plassey's impact, center of colonial administration until 1911 - most significant English settlement."
+      "front": "Significance of Hugli (1651) in UPSC context? (Part 2/2)",
+      "back": "shows English strategy of riverine penetration for hinterland control."
     },
     {
-      "id": "fc100",
+      "id": "fc098_a",
       "category": "UPSC Focus Areas",
-      "front": "Why Cochin (1663) in UPSC 2022?",
-      "back": "Dutch takeover from Portuguese marked shift in European power balance in India, shows inter-European conflict on Indian soil, strategic Malabar coast location for spice trade."
+      "front": "Why is Bombay (1668) repeatedly asked? (Part 1/2)",
+      "back": "Unique: came via dowry (Portuguese Catherine of Braganza to Charles II), then given to Company."
     },
     {
-      "id": "fc101",
+      "id": "fc098_b",
       "category": "UPSC Focus Areas",
-      "front": "UPSC pattern: Carnatic Wars questions?",
-      "back": "Tests understanding of: Anglo-French rivalry, role of Indian politics (Hyderabad/Carnatic succession), concepts like subsidiary alliance origins, impact on English territorial expansion - frequently asked."
+      "front": "Why is Bombay (1668) repeatedly asked? (Part 2/2)",
+      "back": "Natural harbor made it crucial naval base and later commercial capital - different path than Madras/Calcutta."
     },
     {
-      "id": "fc102",
+      "id": "fc099_a",
       "category": "UPSC Focus Areas",
-      "front": "Battle of Plassey (1757) in UPSC?",
-      "back": "Watershed moment - tests grasp of: Company's transformation to territorial power, role of conspiracy (Mir Jafar), significance of Bengal's wealth in funding expansion. Almost guaranteed in every prelims."
+      "front": "UPSC emphasis on Calcutta (1690)? (Part 1/2)",
+      "back": "Job Charnock's controversial founding, became Bengal Presidency capital, Fort William base, site of Black Hole incident (1756)"
     },
     {
-      "id": "fc103",
+      "id": "fc099_b",
       "category": "UPSC Focus Areas",
-      "front": "Diwani Rights (1765) questions?",
-      "back": "Critical transition: Company becomes revenue collector, tests understanding of dual government (Company collects, Nizam administers justice), exploitation of Mughal legitimacy - common in both prelims and mains."
+      "front": "UPSC emphasis on Calcutta (1690)? (Part 2/2)",
+      "back": "Plassey's impact, center of colonial administration until 1911 - most significant English settlement."
     },
     {
-      "id": "fc104",
+      "id": "fc100_a",
       "category": "UPSC Focus Areas",
-      "front": "Why focus on Governor-Generals?",
-      "back": "Tests chronology and policies: Warren Hastings (administrative reforms), Cornwallis (Permanent Settlement), Wellesley (Subsidiary Alliance), Dalhousie (annexations), Canning (1857 revolt) - each represented policy shifts."
+      "front": "Why Cochin (1663) in UPSC 2022? (Part 1/2)",
+      "back": "Dutch takeover from Portuguese marked shift in European power balance in India, shows inter-European conflict on Indian soil"
     },
     {
-      "id": "fc105",
+      "id": "fc100_b",
       "category": "UPSC Focus Areas",
-      "front": "UPSC emphasis on economic impact?",
-      "back": "Questions on deindustrialization, commercialization of agriculture, drain theory, land revenue systems test understanding of colonial economic exploitation - major theme connecting history with economy."
+      "front": "Why Cochin (1663) in UPSC 2022? (Part 2/2)",
+      "back": "strategic Malabar coast location for spice trade."
+    },
+    {
+      "id": "fc101_a",
+      "category": "UPSC Focus Areas",
+      "front": "UPSC pattern: Carnatic Wars questions? (Part 1/2)",
+      "back": "Tests understanding of: Anglo-French rivalry, role of Indian politics (Hyderabad/Carnatic succession)"
+    },
+    {
+      "id": "fc101_b",
+      "category": "UPSC Focus Areas",
+      "front": "UPSC pattern: Carnatic Wars questions? (Part 2/2)",
+      "back": "concepts like subsidiary alliance origins, impact on English territorial expansion - frequently asked."
+    },
+    {
+      "id": "fc102_a",
+      "category": "UPSC Focus Areas",
+      "front": "Battle of Plassey (1757) in UPSC? (Part 1/2)",
+      "back": "Watershed moment - tests grasp of: Company's transformation to territorial power, role of conspiracy (Mir Jafar), significance of Bengal's wealth in funding expansion."
+    },
+    {
+      "id": "fc102_b",
+      "category": "UPSC Focus Areas",
+      "front": "Battle of Plassey (1757) in UPSC? (Part 2/2)",
+      "back": "Almost guaranteed in every prelims."
+    },
+    {
+      "id": "fc103_a",
+      "category": "UPSC Focus Areas",
+      "front": "Diwani Rights (1765) questions? (Part 1/2)",
+      "back": "Critical transition: Company becomes revenue collector, tests understanding of dual government (Company collects, Nizam administers justice)"
+    },
+    {
+      "id": "fc103_b",
+      "category": "UPSC Focus Areas",
+      "front": "Diwani Rights (1765) questions? (Part 2/2)",
+      "back": "exploitation of Mughal legitimacy - common in both prelims and mains."
+    },
+    {
+      "id": "fc104_a",
+      "category": "UPSC Focus Areas",
+      "front": "Why focus on Governor-Generals? (Part 1/2)",
+      "back": "Tests chronology and policies: Warren Hastings (administrative reforms), Cornwallis (Permanent Settlement), Wellesley (Subsidiary Alliance)"
+    },
+    {
+      "id": "fc104_b",
+      "category": "UPSC Focus Areas",
+      "front": "Why focus on Governor-Generals? (Part 2/2)",
+      "back": "Dalhousie (annexations), Canning (1857 revolt) - each represented policy shifts."
+    },
+    {
+      "id": "fc105_a",
+      "category": "UPSC Focus Areas",
+      "front": "UPSC emphasis on economic impact? (Part 1/2)",
+      "back": "Questions on deindustrialization, commercialization of agriculture, drain theory"
+    },
+    {
+      "id": "fc105_b",
+      "category": "UPSC Focus Areas",
+      "front": "UPSC emphasis on economic impact? (Part 2/2)",
+      "back": "land revenue systems test understanding of colonial economic exploitation - major theme connecting history with economy."
     }
   ],
   "quizzes": {
@@ -940,77 +1384,77 @@
       {
         "id": "comp001",
         "question": "Compare and contrast the establishment timelines of all five European trading companies in India. Which company arrived first and which arrived last? What was the gap between them?",
-        "answer": "The Portuguese were the first to establish their East India Company in 1498. Following them were the English (1600), Dutch (1602), Danish (1616), and finally the French (1664). The gap between the first (Portuguese) and last (French) was 166 years, showing a gradual European expansion into Indian trade over nearly two centuries."
+        "answer": "The Portuguese were the first to establish their East India Company in 1498. Following them were the English (1600), Dutch (1602), Danish (1616), and finally the French (1664)."
       },
       {
         "id": "comp002",
         "question": "Analyze the departure patterns of European powers from India. Which powers left earliest and which stayed the longest? What does this tell us about their colonial ambitions?",
-        "answer": "The Dutch left earliest in 1825, followed by the Danish in 1845 (who sold to British), the English in 1947 (after Crown Rule 1858-1947), the French in 1954, and finally the Portuguese in 1961. The Portuguese stayed for 463 years and the French for 290 years, both significantly longer than trading-focused Dutch (223 years) and Danish (229 years). This suggests Portugal and France had stronger territorial/colonial ambitions beyond pure trade, while the Dutch and Danish focused primarily on commerce."
+        "answer": "The Dutch left earliest in 1825, followed by the Danish in 1845 (who sold to British), the English in 1947 (after Crown Rule 1858-1947), the French in 1954, and finally the Portuguese in 1961."
       },
       {
         "id": "comp003",
         "question": "The table mentions specific UPSC exam years (2021 and 2022) for certain trading centers. Why are Cochin (1663) for Dutch and Madras, Hugli, Bombay, Calcutta for English particularly significant for UPSC preparation?",
-        "answer": "These centers appearing in recent UPSC exams (2021, 2022) indicate examiner focus on: 1) Major English presidency towns (Madras, Bombay, Calcutta) that became administrative centers, 2) Strategic ports like Hugli for inland trade, 3) Dutch competition points like Cochin. Their repeated appearance suggests UPSC emphasizes understanding regional dominance patterns, competition between European powers, and the evolution of key colonial administrative centers."
+        "answer": "These centers appearing in recent UPSC exams (2021, 2022) indicate examiner focus on: 1) Major English presidency towns (Madras, Bombay, Calcutta) that became administrative centers, 2) Strategic ports like Hugli for inland trade, 3) Dutch competition points like Cochin."
       },
       {
         "id": "comp004",
         "question": "Trace the evolution of Portuguese trading centers from 1500 to 1535. What geographical pattern do you observe?",
-        "answer": "Portuguese centers expanded along the western coast of India: Calicut (1500) and Cannanore (1501) in Kerala, followed by Cochin (1503) also in Kerala, then Goa (1510) establishing their main headquarters further north, and finally reaching Bassein (1534) and Diu (1535) in the northwest (Gujarat region). This shows a strategic coastal expansion from south to north, securing key ports along the Arabian Sea trade routes."
+        "answer": "Portuguese centers expanded along the western coast of India: Calicut (1500) and Cannanore (1501) in Kerala, followed by Cochin (1503) also in Kerala, then Goa (1510) establishing their main headquarters further north, and finally reaching Bassein (1534) and Diu (1535) in the northwest (Gujarat..."
       },
       {
         "id": "comp005",
         "question": "Why did the English East India Company shift its headquarters from Calcutta to Delhi under Crown Rule? What historical significance does this hold?",
-        "answer": "The shift from Calcutta to Delhi under Crown Rule (1858-1947) marked the transition from trade-focused colonial rule to direct imperial governance after the 1857 Revolt. Delhi, as the historic Mughal capital, provided symbolic legitimacy and central strategic control over the entire subcontinent. This move represented Britain's transformation from a trading company to a sovereign imperial power, claiming succession to Mughal authority."
+        "answer": "The shift from Calcutta to Delhi under Crown Rule (1858-1947) marked the transition from trade-focused colonial rule to direct imperial governance after the 1857 Revolt. Delhi, as the historic Mughal capital, provided symbolic legitimacy and central strategic control over the entire subcontinent."
       },
       {
         "id": "comp006",
         "question": "Compare the number and spread of trading centers established by the Portuguese versus the English. What does this reveal about their strategies?",
-        "answer": "The Portuguese established 6 centers focused on western coastal areas (Calicut, Cannanore, Cochin, Goa, Bassein, Diu) between 1500-1535. The English established 7 centers spread across all coasts (Masulipatnam-east, Surat-west, Madras-east, Hugli-east, Bombay-west, Calcutta-east) between 1611-1690. This reveals the Portuguese pursued a concentrated western coastal strategy for Arabian Sea trade control, while the English pursued a diversified pan-India strategy securing access to multiple regions and hinterlands, enabling greater territorial expansion."
+        "answer": "The Portuguese established 6 centers focused on western coastal areas (Calicut, Cannanore, Cochin, Goa, Bassein, Diu) between 1500-1535. The English established 7 centers spread across all coasts (Masulipatnam-east, Surat-west, Madras-east, Hugli-east, Bombay-west, Calcutta-east) between 1611-1690."
       },
       {
         "id": "comp007",
         "question": "Analyze why the French established their first factory at Surat (1668) rather than Pondicherry, which became their eventual headquarters.",
-        "answer": "Surat was India's premier port and commercial hub in the 17th century, already hosting English (1612) and Dutch (1616) factories. The French chose Surat for immediate market access and to compete directly with rival European powers. Pondicherry (1674) was developed later as a strategic alternative on the southeastern coast, offering: 1) Distance from intense Anglo-Dutch competition, 2) Access to the Coromandel Coast and Bay of Bengal trade, 3) Better defensive positioning. This two-phase strategy balanced immediate commercial entry with long-term territorial ambitions."
+        "answer": "Surat was India's premier port and commercial hub in the 17th century, already hosting English (1612) and Dutch (1616) factories. The French chose Surat for immediate market access and to compete directly with rival European powers."
       },
       {
         "id": "comp008",
         "question": "The Danish established only two trading centers (Tranquebar 1620, Serampore 1755) compared to other European powers. What factors might explain their limited footprint?",
-        "answer": "Denmark's limited presence (just 2 centers over 135 years) reflected: 1) Smaller national economy and resources compared to England, France, or Netherlands, 2) Late entry (1616) into an already competitive market, 3) Focus on niche trades rather than territorial expansion, 4) Lack of naval power to defend extensive networks, 5) Geographic focus on specific regions (Tranquebar near Tamil coast, Serampore near Calcutta). Eventually, commercial viability issues led them to sell to the British in 1845, confirming their trading-only rather than colonial approach."
+        "answer": "Denmark's limited presence (just 2 centers over 135 years) reflected: 1) Smaller national economy and resources compared to England, France, or Netherlands, 2) Late entry (1616) into an already competitive market, 3) Focus on niche trades rather than territorial expansion, 4) Lack of naval power to..."
       },
       {
         "id": "comp009",
         "question": "Examine the clustering of European factories in certain regions like Surat. What made these locations attractive to multiple European powers?",
-        "answer": "Surat attracted Portuguese, Dutch (1616), English (1612), and French (1668) because it was: 1) The Mughal Empire's primary western port with established trade infrastructure, 2) Gateway to rich hinterlands of Gujarat and access to inland markets, 3) Hub for textile exports (cotton, silk) highly desired in Europe, 4) Strategic location for Arabian Sea and Red Sea trade routes, 5) Relatively stable political environment under Mughal authority. Multiple European presence created competitive but also parasitic relationships - they could share infrastructure, intelligence, and protection while competing for trade share."
+        "answer": "Surat attracted Portuguese, Dutch (1616), English (1612), and French (1668) because it was: 1) The Mughal Empire's primary western port with established trade infrastructure, 2) Gateway to rich hinterlands of Gujarat and access to inland markets, 3) Hub for textile exports (cotton, silk) highly..."
       },
       {
         "id": "comp010",
         "question": "How did the establishment of Crown Rule in 1858 fundamentally change the nature of British presence in India compared to the earlier East India Company period?",
-        "answer": "Crown Rule (1858-1947) transformed British presence from commercial to sovereign: 1) Direct governance by British monarch/Parliament replaced Company profit-driven administration, 2) Shift in goals from trade maximization to territorial control and strategic imperial interests, 3) Headquarters move from Calcutta to Delhi symbolized claiming Mughal succession, 4) Introduction of 'civilizing mission' ideology versus pure mercantilism, 5) Formal integration into British Empire with India as 'Crown Jewel', 6) Establishment of Indian Civil Service and modern administrative apparatus. This marked evolution from merchant-colonialism to full imperial control."
+        "answer": "Crown Rule (1858-1947) transformed British presence from commercial to sovereign: 1) Direct governance by British monarch/Parliament replaced Company profit-driven administration, 2) Shift in goals from trade maximization to territorial control and strategic imperial interests, 3) Headquarters move..."
       },
       {
         "id": "comp011",
         "question": "Compare the territorial strategies of Portuguese (coastal enclaves) vs English (pan-India expansion). Why did English succeed in territorial conquest while Portuguese remained confined to coasts?",
-        "answer": "Portuguese Strategy (Coastal Enclaves): Established fortified ports (Goa, Daman, Diu, Cochin) along coast. Focused on controlling maritime trade routes, not inland territories. Naval power was their advantage - useless on land. Avoided costly land wars with powerful Indian kingdoms. Small Portuguese population couldn't sustain large-scale territorial control. Strategy: Control sea lanes and ports, levy fees through Cartaz system, maintain naval monopoly. English Strategy (Pan-India Expansion): Started similarly with coastal factories (Surat 1613, Madras 1639, Bombay 1668, Calcutta 1690). Transitioned to territorial control after Battle of Plassey (1757). Expanded systematically across Bengal, then northern, southern, western India. Used combination of military force, diplomacy, and 'divide and rule' tactics. Why English Succeeded Where Portuguese Failed: 1) Timing: English arrived when Mughal Empire declining (post-Aurangzeb 1707). Portuguese faced strong Vijayanagara, stable Gujarat, powerful Mughals. 2) Resources: Joint-stock company model gave English more capital. Parliamentary backing. Industrial Revolution provided economic base. Portuguese small economy, Spanish union (1580-1640) drained resources. 3) Military Adaptation: English raised large sepoy armies - Indian soldiers with European drill and discipline. Cheap, effective land forces. Portuguese relied on small European garrisons, unsuitable for inland campaigns. 4) Indian Politics: English mastered Indian statecraft - exploited succession disputes, used subsidiary alliances, played kingdoms against each other. Portuguese remained outsiders. 5) Goals Evolution: Portuguese content with trade monopoly. English discovered land revenue more profitable than trade - incentivized territorial conquest. 6) Competition: Portuguese faced Dutch/English naval challenges, lost sea control. English eliminated French competition (Carnatic Wars), faced no European rival. Result: Portuguese maintained small coastal territories for 463 years but never expanded inland. English transformed from traders (1600-1757) to territorial empire (1757-1947) controlling entire subcontinent. Lesson: Naval power alone insufficient for territorial empire. English combination of naval strength, land armies, financial resources, political manipulation, and favorable timing enabled unprecedented expansion."
+        "answer": "Portuguese Strategy (Coastal Enclaves): Established fortified ports (Goa, Daman, Diu, Cochin) along coast. Focused on controlling maritime trade routes, not inland territories. Naval power was their advantage - useless on land. Avoided costly land wars with powerful Indian kingdoms."
       },
       {
         "id": "comp012",
         "question": "Analyze why the French, despite superior military tactics (Dupleix's strategy), ultimately lost to the English in India. What non-military factors determined the outcome?",
-        "answer": "French Military Advantages: Dupleix (French Governor 1742-1754) pioneered strategy of allying with Indian rulers, interfering in succession disputes, using Indian politics for European advantage. French troops under European officers achieved impressive victories. Quality of French military leadership often superior. First Carnatic War (1746-1748): French captured Madras, demonstrated military capability. Why French Still Lost: 1) Financial Weakness: French Compagnie des Indes state-controlled, dependent on Crown funding. Often bankrupt, couldn't sustain prolonged conflicts. English East India Company private joint-stock, better capitalized, self-financing through Bengal revenues. 2) Naval Inferiority: English Royal Navy dominated seas. Could reinforce/resupply Indian bases reliably. French fleet weaker, vulnerable to blockade. Supply lines to France tenuous. Maritime dominance proved decisive. 3) No Revenue Base: French controlled small territories (Pondicherry, Chandernagore, few enclaves). Limited revenue. English conquered Bengal (1757) - richest province. Bengal wealth funded further English expansion. French had no equivalent cash cow. 4) Institutional Stability: English Company had consistent policy, long-term planning, institutional memory. French Company plagued by Crown interference, frequent policy changes, recalled successful governors (Dupleix recalled 1754 despite success). 5) European Conflicts Spillover: Seven Years War (1756-1763) in Europe drained French resources. France prioritized European theater over India. English could focus more on India. 6) Sepoy Armies: English raised larger, better-paid sepoy armies. French smaller forces, financial constraints limited recruitment. Numbers mattered in prolonged conflicts. 7) Diplomatic Skill: English built alliances with key Indian powers. French allies often unreliable or defeated. English better at maintaining coalition. 8) Home Support: English Parliament/merchants supported Company expansion - economic interests aligned. French Crown ambivalent - Company drain on treasury, colonial lobby weaker. Turning Points: Battle of Plassey (1757): English gained Bengal, transforming financial position. Third Carnatic War (1758-1763): English defeated French decisively. Treaty of Paris (1763): France lost most Indian territories, keeping only 5 small enclaves. Lesson: Military skill insufficient without financial resources, naval superiority, stable institutional backing, and revenue base. Dupleix's tactical brilliance couldn't overcome English structural advantages. French failure shows colonialism required sustained economic/military power, not just battlefield victories. English succeeded because they combined military, financial, naval, and political advantages into coherent imperial project. French had one piece (military tactics) but lacked others."
+        "answer": "French Military Advantages: Dupleix (French Governor 1742-1754) pioneered strategy of allying with Indian rulers, interfering in succession disputes, using Indian politics for European advantage. French troops under European officers achieved impressive victories."
       },
       {
         "id": "comp013",
         "question": "Examine the significance of the three English Presidencies (Madras, Bombay, Calcutta). How did this decentralized structure enable effective control of vast territories?",
-        "answer": "Three Presidencies Established: Madras (Fort St. George, 1639): Gateway to Coromandel Coast, southern India. Base for expanding into Carnatic, later Mysore. Bombay (1668): Natural harbor, western India gateway. Access to Gujarat, later expanded to Maharashtra, Sindh. Calcutta (Fort William, 1690): Bengal Presidency, eastern India. Became most important after Plassey (1757), controlled richest provinces. Decentralized Structure: Each Presidency had own Governor, council, administrative apparatus, military forces (presidency armies). Operated semi-autonomously under overall Court of Directors supervision. Could respond to regional situations without waiting for distant London approval. Benefits of Decentralization: 1) Regional Focus: Each Presidency specialized in its region. Madras dealt with Mysore, Marathas in south. Bombay with Gujarat, western powers. Calcutta with Bengal, Bihar, Orissa, northern expansion. Tailored policies to local conditions. 2) Military Efficiency: Three separate armies (Bengal, Madras, Bombay) could operate simultaneously in different regions. Prevented overextension of single army. Regional recruitment built forces understanding local terrain, languages. 3) Administrative Capacity: Dividing India into three manageable units made governance feasible. Full centralization from London impractical given communication delays (months). 4) Competition/Innovation: Presidencies somewhat competed, drove administrative improvements. Best practices from one adopted by others. 5) Risk Diversification: If one Presidency faced crisis, others could continue. Not all eggs in one basket. 6) Local Expertise: Presidency officials developed deep regional knowledge. Long tenures in same Presidency built experience. Challenges: 1) Coordination Problems: Presidencies sometimes pursued conflicting policies. Internal rivalries, turf battles. 2) Inequality: Bengal Presidency vastly richer, more powerful than others after 1757. Created imbalances. 3) Excessive Independence: Presidencies occasionally acted against Company/Crown directives. Needed periodic centralization efforts. Evolution: Initially equal (pre-1757). Bengal dominance post-Plassey. First Governor-General (Warren Hastings 1773) attempted coordination. Gradual centralization 19th century but Presidencies retained significance until 1947. Why It Worked: India too vast, diverse for completely centralized rule from single point. Three regional centers balanced central control with local responsiveness. Model influenced later British Empire governance (regional viceroyalties, dominions). Lesson: Effective imperial control required balancing centralization (overall policy coherence) with decentralization (regional adaptation). Three Presidencies achieved this balance, enabling English to govern subcontinent with relatively small European presence. Local administration, military recruitment, regional expertise made difference between sustainable empire and overstretched occupation."
+        "answer": "Three Presidencies Established: Madras (Fort St. George, 1639): Gateway to Coromandel Coast, southern India. Base for expanding into Carnatic, later Mysore. Bombay (1668): Natural harbor, western India gateway. Access to Gujarat, later expanded to Maharashtra, Sindh."
       },
       {
         "id": "comp014",
         "question": "Why did Crown Rule (1858-1947) fundamentally change British presence compared to Company Rule (1757-1858)? Analyze the shift from commercial to sovereign imperialism.",
-        "answer": "Company Rule (1757-1858) Characteristics: East India Company private corporation theoretically focused on profit. Revenue collection (land tax) primary goal. Trade monopolies (tea, opium, textiles). Administered territories to maximize shareholder returns. Minimal investment in infrastructure/welfare unless profitable. Used Mughal legal/administrative frameworks (Diwani rights 1765). Governor-General reported to Court of Directors (merchants). Trigger for Change: 1857 Revolt demonstrated Company couldn't maintain control. Causes: Doctrine of Lapse, cartridge controversy, economic exploitation, cultural insensitivity. British government concluded Company administration failed. Government of India Act 1858 transferred power to British Crown. Crown Rule (1858-1947) Transformation: 1) From Profit to Power: Company aimed at dividends for shareholders. Crown pursued strategic imperial interests - India as 'Crown Jewel' of Empire. Less concerned with immediate profitability, more with long-term control and global strategic position. 2) Ideological Shift: Company: Mercantile exploitation, extractive economics. Crown: 'Civilizing mission' rhetoric, claimed to bring progress, order, British values. Paternalistic imperialism - 'white man's burden'. Justified rule as moral duty, not just profit. 3) Administrative Modernization: Established Indian Civil Service (ICS) - professional bureaucracy replacing Company patronage. Modern legal codes, court systems beyond Mughal-era frameworks. Infrastructure investment: railways (25,000 miles by 1900), telegraphs, canals. Standardized administration across India. 4) Political Integration: India formally integrated into British Empire, no longer Company possession. Viceroy reported to British Parliament/Crown, not merchants. Queen Victoria proclaimed Empress of India (1877). 5) Military Reorganization: Post-1857, army restructured - more European troops, careful ethnic balance in regiments. 'Martial races' theory, divide-and-rule in military recruitment. Army became imperial tool for global deployments (WWI, WWII). 6) Economic Exploitation Evolved: Shifted from direct plunder to systematic structural exploitation. Deindustrialization of Indian textiles, forced cash crop cultivation. India as market for British manufactured goods, supplier of raw materials. Drain of wealth (Dadabhai Naoroji's thesis) but through economic mechanisms, not company looting. 7) Political Symbolism: Headquarters moved Calcutta to Delhi (1911) - claiming Mughal succession. Grand durbars, imperial pageantry emphasized British sovereign authority. Why It Mattered: Company Rule was transitional phase - merchant-colonialists becoming territorial power. Unstable hybrid. Crown Rule formalized full imperialism - sovereign control without commercial pretense. Queen ruled India directly, not through corporate intermediary. Indian subjects of British Crown, not East India Company. Set stage for eventual nationalism - Indians demanded rights as British subjects, exposure to British political traditions (Parliament, democracy) fueled independence movement. Paradox: Crown Rule more 'modern', 'progressive' (railways, education, legal systems) but also more totalizing. Company exploited for profit; Crown dominated for power. One sought wealth, other sought permanent subjection. Both exploitative but Crown Rule more sophisticated, institutionalized. 1858 marked end of mercantile colonialism, beginning of full imperial sovereignty. Made eventual independence harder (decolonization required dismantling entire imperial structure) but also inevitable (modern imperialism contained seeds of its own destruction through education, political consciousness)."
+        "answer": "Company Rule (1757-1858) Characteristics: East India Company private corporation theoretically focused on profit. Revenue collection (land tax) primary goal. Trade monopolies (tea, opium, textiles). Administered territories to maximize shareholder returns."
       },
       {
         "id": "comp015",
         "question": "Compare Danish (minimal presence) and Portuguese (extensive presence) trajectories in India. What factors explain why one persisted 463 years while the other left after 229 years?",
-        "answer": "Danish Presence (1616-1845: 229 years): Established: Danish East India Company 1616, late entry. Territories: Only Tranquebar (1620) and Serampore (1755) - 2 trading centers total. Approach: Purely commercial, no territorial ambitions. Small scale reflecting Denmark's limited resources. Portuguese Presence (1498-1961: 463 years): Established: 1498 with Vasco da Gama, first European power. Territories: Goa (capital), Daman, Diu, initially Cochin, Bassein, multiple coastal bases. Approach: Naval dominance, Cartaz monopoly system, territorial control, religious missions. Factors Explaining Danish Brevity: 1) Late Entry: Arrived 1616 when Portuguese, Dutch, English already established. Market saturated, best locations taken. No first-mover advantage. 2) Limited Resources: Small Danish economy couldn't sustain extensive colonial empire. No naval power to challenge established players. Population too small for significant settlement. 3) Purely Commercial: Focused on niche trades (saltpeter, textiles) without military/territorial strategy. No deep investment creating hard-to-reverse presence. 4) No Cultural Roots: Minimal settlement, no intermarriage program, no religious missions. Remained foreign, temporary. Easy to abandon when unprofitable. 5) Economic Viability: Never very profitable. Couldn't compete with larger, better-resourced companies. Easy decision to sell to British (1845) when losses mounted. Factors Explaining Portuguese Longevity: 1) First-Mover: Arrived 1498, 100+ years before competitors. Established bases, relationships, monopolies before competition emerged. 2) Territorial Investment: Conquered Goa (1510), built forts, created permanent settlements. Physical infrastructure hard to abandon. 3) Cultural Integration: Intermarriage created mesti\u00e7o communities with Portuguese identity. Catholic population loyal to Portugal. Indo-Portuguese hybrid culture developed deep roots. 4) Religious Mission: Church invested heavily. Goa Archbishop, Inquisition (1560), extensive missionary activity. Religious institutions created permanence beyond economic calculation. 5) Symbolic Value: Goa represented Portuguese imperial pride. Last Asian possession, emotionally significant beyond profit. National prestige kept them long after economic logic said leave. 6) Defensive Position: Goa highly defensible - surrounded by water, fortified for centuries. Would require major military campaign to conquer. Not worth effort for minimal strategic value. 7) No Existential Threat: After Dutch/English eliminated Portuguese from valuable territories (Indonesia, Ceylon), small Goa posed no threat. British comfortable with tiny Portuguese enclave. Not worth diplomatic incident to remove. Why Danish Left: Sold territories to British 1845 when commercial viability evaporated. Rational economic decision. No cultural roots, strategic value, or emotional attachment to justify staying. Why Portuguese Stayed: Even when economically irrational, cultural/religious/symbolic factors kept Portugal in Goa. Community genuinely attached to Portuguese identity. Only ended 1961 when independent India forcibly liberated Goa (Operation Vijay). Portuguese couldn't defend but also wouldn't voluntarily leave. Lesson: Colonial persistence requires more than economic profit. Danish approach (pure commerce) led to quick exit when unprofitable. Portuguese deep cultural roots, intermarriage, religious investment, symbolic attachment created presence surviving centuries beyond economic logic. However, longevity not inherently better - Portuguese survived partly because small enough to ignore. Major powers (English) with exploitative territorial empires faced inevitable decolonization. Different trajectories reflected different colonial models: Danish mercantile minimalism vs Portuguese cultural-territorial integration."
+        "answer": "Danish Presence (1616-1845: 229 years): Established: Danish East India Company 1616, late entry. Territories: Only Tranquebar (1620) and Serampore (1755) - 2 trading centers total. Approach: Purely commercial, no territorial ambitions. Small scale reflecting Denmark's limited resources."
       }
     ]
   }

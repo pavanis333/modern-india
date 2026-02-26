@@ -3,28 +3,130 @@
   "subtopic": "Tribal Revolts - Third Phase (1920-1947)",
   "flashcards": [
     {
-      "id": "fc001",
+      "id": "fc001_a",
       "category": "Third Phase (1920-1947)",
-      "front": "Rampa Rebellion/Manyam Rebellion (1922-1924)?",
-      "back": "Koyas of Godavari Agency, Andhra Pradesh. Leader: Alluri Sitarama Raju. Response to British imposition of forced labour, restrictions on gathering minor forest produce, prohibition of traditional agricultural practices. Legacy: His resistance continued until capture and execution in 1924, cementing his role as martyr in fight against British colonial rule"
+      "front": "Rampa Rebellion/Manyam Rebellion (1922-1924)? (Part 1/3)",
+      "back": "Koyas of Godavari Agency, Andhra Pradesh. Leader: Alluri Sitarama Raju."
     },
     {
-      "id": "fc002",
+      "id": "fc001_b",
       "category": "Third Phase (1920-1947)",
-      "front": "Chenchu Tribal Movement (1921-1922)?",
-      "back": "Nallamalai Forests, Andhra Pradesh. Leaders: Venkattappaya, K. Hanumanthu. Movement driven by tribal opposition to British control over forests. Venkattappaya and K. Hanumanthu connected with Gandhi's Non-Cooperation Movement, leading to forest satyagraha. Chenchus engaged in non-violent resistance, allowing their cattle to graze freely in forest in defiance of British fees. Movement spread to Palnad, where people declared Swaraj and confronted police. This was part of larger tribal response to British impositions during 1920s, aligning with broader nationalist movements. Movement showcased tribal resistance and their role in Indian independence struggle"
+      "front": "Rampa Rebellion/Manyam Rebellion (1922-1924)? (Part 2/3)",
+      "back": "Response to British imposition of forced labour, restrictions on gathering minor forest produce, prohibition of traditional agricultural practices."
     },
     {
-      "id": "fc003",
+      "id": "fc001_c",
       "category": "Third Phase (1920-1947)",
-      "front": "Rani Gaidinliu's Naga Movement (1930s)?",
-      "back": "Zeliangrong Territory, Manipur. Leader: Rani Gaidinliu. Heraka movement, led by Haipou Jadonang, was socio-religious movement advocating for Naga self-(Naga Raj) and resistance against British missionaries and their efforts to convert tribes to Christianity. Rani Gaidinliu, after embracing Gandhian principles, initiated open rebellion against British rule at age 17. Naga tribes refused to pay taxes and cooperate with British. Movement had reformist religious objectives but also strong political undertones challenging British rule. British authorities, fearful of movement's growing influence, arrested and executed Jadonang in 1931. Gaidinliu captured in 1932 and sentenced to life imprisonment. Despite repression, movement had lasting cultural and political impacts on Naga resistance"
+      "front": "Rampa Rebellion/Manyam Rebellion (1922-1924)? (Part 3/3)",
+      "back": "Legacy: His resistance continued until capture and execution in 1924, cementing his role as martyr in fight against British colonial rule"
     },
     {
-      "id": "fc004",
+      "id": "fc002_a",
       "category": "Third Phase (1920-1947)",
-      "front": "Gond Uprising (1940s)?",
-      "back": "Leader: Unspecified. Gond Uprising focused on uniting followers of Gond Dharmma against British rule. Movement emphasised tribal unity and religious identity as tools to oppose British oppression. Uprising was part of broader tribal resistance in central India against colonial authority"
+      "front": "Chenchu Tribal Movement (1921-1922)? (Part 1/7)",
+      "back": "Nallamalai Forests, Andhra Pradesh. Leaders: Venkattappaya, K. Hanumanthu."
+    },
+    {
+      "id": "fc002_b",
+      "category": "Third Phase (1920-1947)",
+      "front": "Chenchu Tribal Movement (1921-1922)? (Part 2/7)",
+      "back": "Movement driven by tribal opposition to British control over forests. Venkattappaya and K."
+    },
+    {
+      "id": "fc002_c",
+      "category": "Third Phase (1920-1947)",
+      "front": "Chenchu Tribal Movement (1921-1922)? (Part 3/7)",
+      "back": "Hanumanthu connected with Gandhi's Non-Cooperation Movement, leading to forest satyagraha."
+    },
+    {
+      "id": "fc002_d",
+      "category": "Third Phase (1920-1947)",
+      "front": "Chenchu Tribal Movement (1921-1922)? (Part 4/7)",
+      "back": "Chenchus engaged in non-violent resistance, allowing their cattle to graze freely in forest in defiance of British fees."
+    },
+    {
+      "id": "fc002_e",
+      "category": "Third Phase (1920-1947)",
+      "front": "Chenchu Tribal Movement (1921-1922)? (Part 5/7)",
+      "back": "Movement spread to Palnad, where people declared Swaraj and confronted police."
+    },
+    {
+      "id": "fc002_f",
+      "category": "Third Phase (1920-1947)",
+      "front": "Chenchu Tribal Movement (1921-1922)? (Part 6/7)",
+      "back": "This was part of larger tribal response to British impositions during 1920s, aligning with broader nationalist movements."
+    },
+    {
+      "id": "fc002_g",
+      "category": "Third Phase (1920-1947)",
+      "front": "Chenchu Tribal Movement (1921-1922)? (Part 7/7)",
+      "back": "Movement showcased tribal resistance and their role in Indian independence struggle"
+    },
+    {
+      "id": "fc003_a",
+      "category": "Third Phase (1920-1947)",
+      "front": "Rani Gaidinliu's Naga Movement (1930s)? (Part 1/8)",
+      "back": "Zeliangrong Territory, Manipur. Leader: Rani Gaidinliu."
+    },
+    {
+      "id": "fc003_b",
+      "category": "Third Phase (1920-1947)",
+      "front": "Rani Gaidinliu's Naga Movement (1930s)? (Part 2/8)",
+      "back": "Heraka movement, led by Haipou Jadonang, was socio-religious movement advocating for Naga self-(Naga Raj) and resistance against British missionaries and their efforts to convert tribes to Christianity."
+    },
+    {
+      "id": "fc003_c",
+      "category": "Third Phase (1920-1947)",
+      "front": "Rani Gaidinliu's Naga Movement (1930s)? (Part 3/8)",
+      "back": "Rani Gaidinliu, after embracing Gandhian principles, initiated open rebellion against British rule at age 17."
+    },
+    {
+      "id": "fc003_d",
+      "category": "Third Phase (1920-1947)",
+      "front": "Rani Gaidinliu's Naga Movement (1930s)? (Part 4/8)",
+      "back": "Naga tribes refused to pay taxes and cooperate with British."
+    },
+    {
+      "id": "fc003_e",
+      "category": "Third Phase (1920-1947)",
+      "front": "Rani Gaidinliu's Naga Movement (1930s)? (Part 5/8)",
+      "back": "Movement had reformist religious objectives but also strong political undertones challenging British rule."
+    },
+    {
+      "id": "fc003_f",
+      "category": "Third Phase (1920-1947)",
+      "front": "Rani Gaidinliu's Naga Movement (1930s)? (Part 6/8)",
+      "back": "British authorities, fearful of movement's growing influence, arrested and executed Jadonang in 1931."
+    },
+    {
+      "id": "fc003_g",
+      "category": "Third Phase (1920-1947)",
+      "front": "Rani Gaidinliu's Naga Movement (1930s)? (Part 7/8)",
+      "back": "Gaidinliu captured in 1932 and sentenced to life imprisonment."
+    },
+    {
+      "id": "fc003_h",
+      "category": "Third Phase (1920-1947)",
+      "front": "Rani Gaidinliu's Naga Movement (1930s)? (Part 8/8)",
+      "back": "Despite repression, movement had lasting cultural and political impacts on Naga resistance"
+    },
+    {
+      "id": "fc004_a",
+      "category": "Third Phase (1920-1947)",
+      "front": "Gond Uprising (1940s)? (Part 1/3)",
+      "back": "Leader: Unspecified. Gond Uprising focused on uniting followers of Gond Dharmma against British rule."
+    },
+    {
+      "id": "fc004_b",
+      "category": "Third Phase (1920-1947)",
+      "front": "Gond Uprising (1940s)? (Part 2/3)",
+      "back": "Movement emphasised tribal unity and religious identity as tools to oppose British oppression."
+    },
+    {
+      "id": "fc004_c",
+      "category": "Third Phase (1920-1947)",
+      "front": "Gond Uprising (1940s)? (Part 3/3)",
+      "back": "Uprising was part of broader tribal resistance in central India against colonial authority"
     }
   ],
   "quizzes": {

@@ -9,10 +9,16 @@
       "back": "1841-71, NWFP, Bhaini. Founders: Bhai Balak Singh and Baba Ram Singh"
     },
     {
-      "id": "fc002",
+      "id": "fc002_a",
       "category": "Namdhari/Kuka Movement (1841-71, Sikh)",
-      "front": "Namdhari core ideals?",
-      "back": "Religio-political revival within Sikh community, emphasising worship of one God through prayer and meditation as outlined in Rehatmanas. Opposed social issues like caste system, infanticide, early marriage, while promoting Anand Marriage ceremonies for egalitarian practices"
+      "front": "Namdhari core ideals? (Part 1/2)",
+      "back": "Religio-political revival within Sikh community, emphasising worship of one God through prayer and meditation as outlined in Rehatmanas."
+    },
+    {
+      "id": "fc002_b",
+      "category": "Namdhari/Kuka Movement (1841-71, Sikh)",
+      "front": "Namdhari core ideals? (Part 2/2)",
+      "back": "Opposed social issues like caste system, infanticide, early marriage, while promoting Anand Marriage ceremonies for egalitarian practices"
     },
     {
       "id": "fc003",
@@ -27,10 +33,22 @@
       "back": "1873. Founders: Thakur Singh Sandhawalia and Giani Gian Singh"
     },
     {
-      "id": "fc005",
+      "id": "fc005_a",
       "category": "Singh Sabha Movement (1873, Sikh)",
-      "front": "Singh Sabha core objectives?",
-      "back": "Re-establish Sikhism in original form by publishing religious literature, promoting use of Punjabi, reintegrating Sikh apostates. Sought to involve Englishmen in Sikh educational efforts and establish network of Khalsa schools across Punjab to provide modern education and counter external influences, including Christian missionaries, Brahmo Samaj, Arya Samaj, Muslim maulvis. Significance lies in advancing Sikh education and defending Sikhism from external threats"
+      "front": "Singh Sabha core objectives? (Part 1/3)",
+      "back": "Re-establish Sikhism in original form by publishing religious literature, promoting use of Punjabi, reintegrating Sikh apostates."
+    },
+    {
+      "id": "fc005_b",
+      "category": "Singh Sabha Movement (1873, Sikh)",
+      "front": "Singh Sabha core objectives? (Part 2/3)",
+      "back": "Sought to involve Englishmen in Sikh educational efforts and establish network of Khalsa schools across Punjab to provide modern education and counter external influences, including Christian missionaries, Brahmo Samaj, Arya Samaj, Muslim maulvis."
+    },
+    {
+      "id": "fc005_c",
+      "category": "Singh Sabha Movement (1873, Sikh)",
+      "front": "Singh Sabha core objectives? (Part 3/3)",
+      "back": "Significance lies in advancing Sikh education and defending Sikhism from external threats"
     },
     {
       "id": "fc006",
@@ -45,10 +63,16 @@
       "back": "Aimed to liberate Sikh gurudwaras from control of corrupt Udasi mahants, whose positions had become hereditary"
     },
     {
-      "id": "fc008",
+      "id": "fc008_a",
       "category": "Akali Movement (1920-25, Sikh)",
-      "front": "Akali key achievements?",
-      "back": "1922: Passed Sikh Gurdwaras Act (amended 1925), granting control of gurudwaras to Sikh masses and empowering Shiromani Gurudwara Prabandhak Committee (SGPC) as apex governing body for gurudwara administration"
+      "front": "Akali key achievements? (Part 1/2)",
+      "back": "1922: Passed Sikh Gurdwaras Act (amended 1925), granting control of gurudwaras to Sikh masses and empowering Shiromani Gurudwara Prabandhak"
+    },
+    {
+      "id": "fc008_b",
+      "category": "Akali Movement (1920-25, Sikh)",
+      "front": "Akali key achievements? (Part 2/2)",
+      "back": "Committee (SGPC) as apex governing body for gurudwara administration"
     },
     {
       "id": "fc009",
@@ -63,10 +87,16 @@
       "back": "1851. Founder: Baba Dayal Das"
     },
     {
-      "id": "fc011",
+      "id": "fc011_a",
       "category": "Nirankari Movement (1851, Sikh)",
-      "front": "Nirankari core ideals?",
-      "back": "Opposed idol-worship and veneration of tombs, rejected militant Khalsa brotherhood, accepted living Gurus as spiritual leaders. Also simplified and standardised rituals for birth, health, marriage"
+      "front": "Nirankari core ideals? (Part 1/2)",
+      "back": "Opposed idol-worship and veneration of tombs, rejected militant Khalsa brotherhood, accepted living Gurus as spiritual leaders."
+    },
+    {
+      "id": "fc011_b",
+      "category": "Nirankari Movement (1851, Sikh)",
+      "front": "Nirankari core ideals? (Part 2/2)",
+      "back": "Also simplified and standardised rituals for birth, health, marriage"
     },
     {
       "id": "fc012",
@@ -81,10 +111,16 @@
       "back": "1851. Founders: Dadabhai Naoroji, Nauroji Furdonji, S.S. Bengalee"
     },
     {
-      "id": "fc014",
+      "id": "fc014_a",
       "category": "Rehnumai Mazdayasnan Sabha (1851, Parsi)",
-      "front": "Rehnumai core objectives?",
-      "back": "Movement aimed to reform orthodox Parsi practices, focusing on modernising social customs, improving women's education, reforming marriage practices. Advocated for restoring Zoroastrianism's purity and implementing uniform laws on inheritance and marriage within Parsi community"
+      "front": "Rehnumai core objectives? (Part 1/2)",
+      "back": "Movement aimed to reform orthodox Parsi practices, focusing on modernising social customs, improving women's education, reforming marriage practices."
+    },
+    {
+      "id": "fc014_b",
+      "category": "Rehnumai Mazdayasnan Sabha (1851, Parsi)",
+      "front": "Rehnumai core objectives? (Part 2/2)",
+      "back": "Advocated for restoring Zoroastrianism's purity and implementing uniform laws on inheritance and marriage within Parsi community"
     }
   ],
   "quizzes": {

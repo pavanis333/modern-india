@@ -3,10 +3,16 @@
   "subtopic": "Other Committees and Commissions",
   "flashcards": [
     {
-      "id": "fc001",
+      "id": "fc001_a",
       "category": "Other Committees and Commissions",
-      "front": "Shore Committee (1914)?",
-      "back": "Objectives: To fight for the rights of the passengers of the Komagata Maru Incident of 1914. Leaders/Members: Hussain Rahim, Sohan Lal Pathak, and Balwant Singh"
+      "front": "Shore Committee (1914)? (Part 1/2)",
+      "back": "Objectives: To fight for the rights of the passengers of the Komagata Maru Incident of 1 9 1"
+    },
+    {
+      "id": "fc001_b",
+      "category": "Other Committees and Commissions",
+      "front": "Shore Committee (1914)? (Part 2/2)",
+      "back": "4. Leaders/Members: Hussain Rahim, Sohan Lal Pathak, and Balwant Singh"
     },
     {
       "id": "fc002",
@@ -21,10 +27,22 @@
       "back": "Objectives: To investigate the effects of opium on health. Governor General/Viceroy: Lord Lansdowne"
     },
     {
-      "id": "fc004",
+      "id": "fc004_a",
       "category": "Other Committees and Commissions",
-      "front": "Rowlatt Committee (1917)?",
-      "back": "Chairman: Sydney Rowlatt. Objectives: A Sedition Committee which authorised the arrest, for 2 years without trial, of any person suspected of terrorism living in British India. Governor General/Viceroy: Lord Chelmsford"
+      "front": "Rowlatt Committee (1917)? (Part 1/3)",
+      "back": "Chairman: Sydney Rowlatt."
+    },
+    {
+      "id": "fc004_b",
+      "category": "Other Committees and Commissions",
+      "front": "Rowlatt Committee (1917)? (Part 2/3)",
+      "back": "Objectives: A Sedition Committee which authorised the arrest, for 2 years without trial, of any person suspected of terrorism living in British India."
+    },
+    {
+      "id": "fc004_c",
+      "category": "Other Committees and Commissions",
+      "front": "Rowlatt Committee (1917)? (Part 3/3)",
+      "back": "Governor General/Viceroy: Lord Chelmsford"
     },
     {
       "id": "fc005",
@@ -33,10 +51,22 @@
       "back": "Chairman: Francis Hopwood. Objectives: To decide on the issue of franchise. Governor General/Viceroy: Lord Chelmsford"
     },
     {
-      "id": "fc006",
+      "id": "fc006_a",
       "category": "Other Committees and Commissions",
-      "front": "Feetham Function Committee (1918-19)?",
-      "back": "Chairman: Richard Feetham. Objectives: It proposed a suggested allocation of subjects between the Center and the Provinces, addressing the division of provincial subjects into Reserved and Transferred categories as well. Governor General/Viceroy: Lord Chelmsford"
+      "front": "Feetham Function Committee (1918-19)? (Part 1/3)",
+      "back": "Chairman: Richard Feetham."
+    },
+    {
+      "id": "fc006_b",
+      "category": "Other Committees and Commissions",
+      "front": "Feetham Function Committee (1918-19)? (Part 2/3)",
+      "back": "Objectives: It proposed a suggested allocation of subjects between the Center and the Provinces, addressing the division of provincial subjects into Reserved and Transferred categories as well."
+    },
+    {
+      "id": "fc006_c",
+      "category": "Other Committees and Commissions",
+      "front": "Feetham Function Committee (1918-19)? (Part 3/3)",
+      "back": "Governor General/Viceroy: Lord Chelmsford"
     },
     {
       "id": "fc007",
@@ -51,10 +81,22 @@
       "back": "Chairman: Andrew Skeen. Objectives: To suggest Indianization of the Indian Army. Governor General/Viceroy: Lord Reading"
     },
     {
-      "id": "fc009",
+      "id": "fc009_a",
       "category": "Other Committees and Commissions",
-      "front": "Indian Franchise Committee OR Lothian Committee (1932)?",
-      "back": "Chairman: Lothian. Objectives: The Communal Award of 1932, rooted in the conclusions of the Lothian Committee, instituted distinct electorates and allocated reserved seats for minorities. Notably, the depressed classes were accorded seventy-eight reserved seats. Governor General/Viceroy: Lord Willingdon"
+      "front": "Indian Franchise Committee OR Lothian Committee (1932)? (Part 1/3)",
+      "back": "Chairman: Lothian."
+    },
+    {
+      "id": "fc009_b",
+      "category": "Other Committees and Commissions",
+      "front": "Indian Franchise Committee OR Lothian Committee (1932)? (Part 2/3)",
+      "back": "Objectives: The Communal Award of 1932, rooted in the conclusions of the Lothian Committee, instituted distinct electorates and allocated reserved seats for minorities."
+    },
+    {
+      "id": "fc009_c",
+      "category": "Other Committees and Commissions",
+      "front": "Indian Franchise Committee OR Lothian Committee (1932)? (Part 3/3)",
+      "back": "Notably, the depressed classes were accorded seventy-eight reserved seats. Governor General/Viceroy: Lord Willingdon"
     }
   ],
   "quizzes": {

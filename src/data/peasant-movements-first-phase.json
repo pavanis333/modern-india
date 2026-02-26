@@ -81,10 +81,16 @@
       "back": "Semi-religious peasant uprising led by religious mendicants, the Pagal Panthis"
     },
     {
-      "id": "fc014",
+      "id": "fc014_a",
       "category": "Pagal Panthis (1825-1833, Mymensingh)",
-      "front": "Pagal Panthis outcome?",
-      "back": "Government responded with rent reduction and other concessions. Movement divided, leading to return of peace. Tipu Shah and insurgents were apprehended and tried by British"
+      "front": "Pagal Panthis outcome? (Part 1/2)",
+      "back": "Government responded with rent reduction and other concessions. Movement divided, leading to return of peace."
+    },
+    {
+      "id": "fc014_b",
+      "category": "Pagal Panthis (1825-1833, Mymensingh)",
+      "front": "Pagal Panthis outcome? (Part 2/2)",
+      "back": "Tipu Shah and insurgents were apprehended and tried by British"
     }
   ],
   "quizzes": {

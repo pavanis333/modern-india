@@ -9,70 +9,190 @@
       "back": "Complete disruption of old agrarian order of tribal communities (UPSC 2011)"
     },
     {
-      "id": "fc002",
+      "id": "fc002_a",
       "category": "First Phase (1795-1860)",
-      "front": "Pahariya Rebellion (1778)?",
-      "back": "Rajmahal Hills. Leader: Raja Jagannath. Reasons: Resistance to British-imposed settled agriculture. Disruption of traditional raiding practices and tribute collection. British intervention and concessions to local chiefs"
+      "front": "Pahariya Rebellion (1778)? (Part 1/2)",
+      "back": "Rajmahal Hills. Leader: Raja Jagannath. Reasons: Resistance to British-imposed settled agriculture."
     },
     {
-      "id": "fc003",
+      "id": "fc002_b",
       "category": "First Phase (1795-1860)",
-      "front": "Revolt of Tilka Manjhi (1778-1785)?",
-      "back": "Santhal Pargana. Leader: Tilka Manjhi (Jabra Paharia). Reasons: Opposed British efforts to undermine tribal traditions. Tilka Manjhi led guerrilla attacks, looting British treasury. Defeated in 1785; symbolised resistance against colonial rule"
+      "front": "Pahariya Rebellion (1778)? (Part 2/2)",
+      "back": "Disruption of traditional raiding practices and tribute collection. British intervention and concessions to local chiefs"
     },
     {
-      "id": "fc004",
+      "id": "fc003_a",
       "category": "First Phase (1795-1860)",
-      "front": "Chuar Uprising (1766-72, 1795-1816)?",
-      "back": "Jungle Mahal Rebellion, Bengal. Leaders: Durjan Singh, Madhab Singh, Raja Mohan Singh, Lachman Singh, Jagannath Singh. Reasons: Caused by increased taxes and Permanent Settlement. Local tribals like Chuar resisted British economic control. Rebellions across Bankura, Midnapore, Manbhum. Suppressed by British forces"
+      "front": "Revolt of Tilka Manjhi (1778-1785)? (Part 1/2)",
+      "back": "Santhal Pargana. Leader: Tilka Manjhi (Jabra Paharia). Reasons: Opposed British efforts to undermine tribal traditions."
     },
     {
-      "id": "fc005",
+      "id": "fc003_b",
       "category": "First Phase (1795-1860)",
-      "front": "Tamar Revolts (1798, 1914-15)?",
-      "back": "Oraon and Munda, Tamar, Chhota Nagpur. Leaders: Bholanath Sahay (1798-1832); Jatra Bhagat, Balram Bhagat (1914-15). Reasons: Caused by economic exploitation of tribals, loss of tribal lands to landlords and moneylenders, interference and undermining of tribal cultural practices. Violent clashes between Mundas and British forces. Tamar region became center of resistance, tribal warriors attacking revenue officials, zamindars, police posts. British crushed revolt with military force, arresting and executing key leaders"
+      "front": "Revolt of Tilka Manjhi (1778-1785)? (Part 2/2)",
+      "back": "Tilka Manjhi led guerrilla attacks, looting British treasury. Defeated in 1785; symbolised resistance against colonial rule"
     },
     {
-      "id": "fc006",
-      "category": "Continuing Tribal Revolts",
-      "front": "Bhil Uprising (1817-19)?",
-      "back": "Western Ghats, Khandesh, South Rajasthan. Leader: Govind Guru (1913 Mangarh Massacre). Reasons: Bhils resisted British control over mountain routes and tribute systems. Grievances over economic hardship from colonial policies. Rebellions spread across Gujarat, Maharashtra, Madhya Pradesh. Suppressed by British forces"
+      "id": "fc004_a",
+      "category": "First Phase (1795-1860)",
+      "front": "Chuar Uprising (1766-72, 1795-1816)? (Part 1/3)",
+      "back": "Jungle Mahal Rebellion, Bengal. Leaders: Durjan Singh, Madhab Singh, Raja Mohan Singh, Lachman Singh, Jagannath Singh."
     },
     {
-      "id": "fc007",
-      "category": "Continuing Tribal Revolts",
-      "front": "Ramosi Uprising (1822-1829)?",
-      "back": "Western Ghats, Karnataka, Maharashtra, Madhya Pradesh. Leaders: Chittur Singh, Umaji Naik, Bapu Trimbakji Sawant. Reasons: Former Maratha soldiers led revolts after loss of power post-Maratha defeat. Resistance to British annexation of Satara. Rebellions in Western Ghats and Maharashtra. British forces eventually quelled uprisings"
+      "id": "fc004_b",
+      "category": "First Phase (1795-1860)",
+      "front": "Chuar Uprising (1766-72, 1795-1816)? (Part 2/3)",
+      "back": "Reasons: Caused by increased taxes and Permanent Settlement. Local tribals like Chuar resisted British economic control."
     },
     {
-      "id": "fc008",
-      "category": "Continuing Tribal Revolts",
-      "front": "Ahom Revolt (1828-1833)?",
-      "back": "Assam. Leaders: Gomadhar Konwar, Dhanjay Borgohain, Jairam Khargharia Phukan. Reasons: Ahom nobility's demand for restoration of Ahom rule; resistance to British administrative integration. Uprisings aimed at regaining sovereignty. Suppressed by British military"
+      "id": "fc004_c",
+      "category": "First Phase (1795-1860)",
+      "front": "Chuar Uprising (1766-72, 1795-1816)? (Part 3/3)",
+      "back": "Rebellions across Bankura, Midnapore, Manbhum. Suppressed by British forces"
     },
     {
-      "id": "fc009",
-      "category": "Continuing Tribal Revolts",
-      "front": "Kol Mutiny (1831-32)?",
-      "back": "Chotanagpur region. Leader: Buddho Bhagat. Reasons: Resistance to British revenue policies and exploitation. Grievances centred on land rights and British interference. Rebellions ultimately suppressed by British forces"
+      "id": "fc005_a",
+      "category": "First Phase (1795-1860)",
+      "front": "Tamar Revolts (1798, 1914-15)? (Part 1/5)",
+      "back": "Oraon and Munda, Tamar, Chhota Nagpur. Leaders: Bholanath Sahay (1798-1832); Jatra Bhagat, Balram Bhagat (1914-15)."
     },
     {
-      "id": "fc010",
-      "category": "Continuing Tribal Revolts",
-      "front": "Santhal Rebellion (1855-56)?",
-      "back": "Rajmahal Hills. Leaders: Sidhu Murmu, Kanhu Murmu. Reasons: Resistance to British land revenue policies and exploitation by zamindars. Initial successes in capturing territory. Suppressed by British forces but marked as symbol of tribal resistance"
+      "id": "fc005_b",
+      "category": "First Phase (1795-1860)",
+      "front": "Tamar Revolts (1798, 1914-15)? (Part 2/5)",
+      "back": "Reasons: Caused by economic exploitation of tribals, loss of tribal lands to landlords and moneylenders, interference and undermining of tribal cultural practices."
     },
     {
-      "id": "fc011",
-      "category": "Continuing Tribal Revolts",
-      "front": "Khond Uprising (1837-56)?",
-      "back": "Orissa, Andhra Pradesh. Leader: Chakra Bisoi. Reasons: Opposition to British efforts to abolish tribal customs. Resistance to British intrusion in local governance and social practices. Guerrilla warfare tactics used. Subdued by British but important in highlighting tribal discontent"
+      "id": "fc005_c",
+      "category": "First Phase (1795-1860)",
+      "front": "Tamar Revolts (1798, 1914-15)? (Part 3/5)",
+      "back": "Violent clashes between Mundas and British forces."
     },
     {
-      "id": "fc012",
+      "id": "fc005_d",
+      "category": "First Phase (1795-1860)",
+      "front": "Tamar Revolts (1798, 1914-15)? (Part 4/5)",
+      "back": "Tamar region became center of resistance, tribal warriors attacking revenue officials, zamindars, police posts."
+    },
+    {
+      "id": "fc005_e",
+      "category": "First Phase (1795-1860)",
+      "front": "Tamar Revolts (1798, 1914-15)? (Part 5/5)",
+      "back": "British crushed revolt with military force, arresting and executing key leaders"
+    },
+    {
+      "id": "fc006_a",
       "category": "Continuing Tribal Revolts",
-      "front": "Koli Uprising (1822-29, 1857)?",
-      "back": "Maharashtra; 1857 Gujarat. Leaders: Ramji Bhangre (1822-29), Maganlal Bhukhan, Dwarakadas, Jetha Madhavji (1857). Reasons: Grievances over taxation, land loss, and British economic control. Uprisings in Maharashtra and Gujarat, including during 1857 revolt. Crushed by British military forces but an important moment in tribal discontent"
+      "front": "Bhil Uprising (1817-19)? (Part 1/3)",
+      "back": "Western Ghats, Khandesh, South Rajasthan. Leader: Govind Guru (1913 Mangarh Massacre)."
+    },
+    {
+      "id": "fc006_b",
+      "category": "Continuing Tribal Revolts",
+      "front": "Bhil Uprising (1817-19)? (Part 2/3)",
+      "back": "Reasons: Bhils resisted British control over mountain routes and tribute systems. Grievances over economic hardship from colonial policies."
+    },
+    {
+      "id": "fc006_c",
+      "category": "Continuing Tribal Revolts",
+      "front": "Bhil Uprising (1817-19)? (Part 3/3)",
+      "back": "Rebellions spread across Gujarat, Maharashtra, Madhya Pradesh. Suppressed by British forces"
+    },
+    {
+      "id": "fc007_a",
+      "category": "Continuing Tribal Revolts",
+      "front": "Ramosi Uprising (1822-1829)? (Part 1/3)",
+      "back": "Western Ghats, Karnataka, Maharashtra, Madhya Pradesh. Leaders: Chittur Singh, Umaji Naik, Bapu Trimbakji Sawant."
+    },
+    {
+      "id": "fc007_b",
+      "category": "Continuing Tribal Revolts",
+      "front": "Ramosi Uprising (1822-1829)? (Part 2/3)",
+      "back": "Reasons: Former Maratha soldiers led revolts after loss of power post-Maratha defeat. Resistance to British annexation of Satara."
+    },
+    {
+      "id": "fc007_c",
+      "category": "Continuing Tribal Revolts",
+      "front": "Ramosi Uprising (1822-1829)? (Part 3/3)",
+      "back": "Rebellions in Western Ghats and Maharashtra. British forces eventually quelled uprisings"
+    },
+    {
+      "id": "fc008_a",
+      "category": "Continuing Tribal Revolts",
+      "front": "Ahom Revolt (1828-1833)? (Part 1/2)",
+      "back": "Assam. Leaders: Gomadhar Konwar, Dhanjay Borgohain, Jairam Khargharia Phukan. Reasons: Ahom nobility's demand for restoration of Ahom rule"
+    },
+    {
+      "id": "fc008_b",
+      "category": "Continuing Tribal Revolts",
+      "front": "Ahom Revolt (1828-1833)? (Part 2/2)",
+      "back": "resistance to British administrative integration. Uprisings aimed at regaining sovereignty. Suppressed by British military"
+    },
+    {
+      "id": "fc009_a",
+      "category": "Continuing Tribal Revolts",
+      "front": "Kol Mutiny (1831-32)? (Part 1/2)",
+      "back": "Chotanagpur region. Leader: Buddho Bhagat. Reasons: Resistance to British revenue policies and exploitation."
+    },
+    {
+      "id": "fc009_b",
+      "category": "Continuing Tribal Revolts",
+      "front": "Kol Mutiny (1831-32)? (Part 2/2)",
+      "back": "Grievances centred on land rights and British interference. Rebellions ultimately suppressed by British forces"
+    },
+    {
+      "id": "fc010_a",
+      "category": "Continuing Tribal Revolts",
+      "front": "Santhal Rebellion (1855-56)? (Part 1/2)",
+      "back": "Rajmahal Hills. Leaders: Sidhu Murmu, Kanhu Murmu. Reasons: Resistance to British land revenue policies and exploitation by zamindars."
+    },
+    {
+      "id": "fc010_b",
+      "category": "Continuing Tribal Revolts",
+      "front": "Santhal Rebellion (1855-56)? (Part 2/2)",
+      "back": "Initial successes in capturing territory. Suppressed by British forces but marked as symbol of tribal resistance"
+    },
+    {
+      "id": "fc011_a",
+      "category": "Continuing Tribal Revolts",
+      "front": "Khond Uprising (1837-56)? (Part 1/3)",
+      "back": "Orissa, Andhra Pradesh. Leader: Chakra Bisoi. Reasons: Opposition to British efforts to abolish tribal customs."
+    },
+    {
+      "id": "fc011_b",
+      "category": "Continuing Tribal Revolts",
+      "front": "Khond Uprising (1837-56)? (Part 2/3)",
+      "back": "Resistance to British intrusion in local governance and social practices. Guerrilla warfare tactics used."
+    },
+    {
+      "id": "fc011_c",
+      "category": "Continuing Tribal Revolts",
+      "front": "Khond Uprising (1837-56)? (Part 3/3)",
+      "back": "Subdued by British but important in highlighting tribal discontent"
+    },
+    {
+      "id": "fc012_a",
+      "category": "Continuing Tribal Revolts",
+      "front": "Koli Uprising (1822-29, 1857)? (Part 1/4)",
+      "back": "Maharashtra; 1857 Gujarat. Leaders: Ramji Bhangre (1822-29), Maganlal Bhukhan, Dwarakadas, Jetha Madhavji (1857)."
+    },
+    {
+      "id": "fc012_b",
+      "category": "Continuing Tribal Revolts",
+      "front": "Koli Uprising (1822-29, 1857)? (Part 2/4)",
+      "back": "Reasons: Grievances over taxation, land loss, and British economic control."
+    },
+    {
+      "id": "fc012_c",
+      "category": "Continuing Tribal Revolts",
+      "front": "Koli Uprising (1822-29, 1857)? (Part 3/4)",
+      "back": "Uprisings in Maharashtra and Gujarat, including during 1857 revolt."
+    },
+    {
+      "id": "fc012_d",
+      "category": "Continuing Tribal Revolts",
+      "front": "Koli Uprising (1822-29, 1857)? (Part 4/4)",
+      "back": "Crushed by British military forces but an important moment in tribal discontent"
     }
   ],
   "quizzes": {

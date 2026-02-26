@@ -9,16 +9,28 @@
       "back": "1887, Bombay. Founders: M.G. Ranade, Raghunath Rao"
     },
     {
-      "id": "fc002",
+      "id": "fc002_a",
       "category": "Indian National Social Conference (1887)",
-      "front": "INSC objective?",
-      "back": "Unite progressive Indian thought on social issues; similar to Indian National Congress' role in politics. INC didn't want to include social reforms in deliberations, decided to form separate body (UPSC 2012)"
+      "front": "INSC objective? (Part 1/2)",
+      "back": "Unite progressive Indian thought on social issues"
     },
     {
-      "id": "fc003",
+      "id": "fc002_b",
       "category": "Indian National Social Conference (1887)",
-      "front": "INSC key contributions?",
-      "back": "Served as social reform wing of Indian National Congress, launched 'Pledge Movement' against child marriage, advocated for inter-caste marriages, opposed polygamy and kulinism (old men marrying young girls)"
+      "front": "INSC objective? (Part 2/2)",
+      "back": "similar to Indian National Congress' role in politics. INC didn't want to include social reforms in deliberations, decided to form separate body (UPSC 2012)"
+    },
+    {
+      "id": "fc003_a",
+      "category": "Indian National Social Conference (1887)",
+      "front": "INSC key contributions? (Part 1/2)",
+      "back": "Served as social reform wing of Indian National Congress, launched 'Pledge Movement' against child marriage"
+    },
+    {
+      "id": "fc003_b",
+      "category": "Indian National Social Conference (1887)",
+      "front": "INSC key contributions? (Part 2/2)",
+      "back": "advocated for inter-caste marriages, opposed polygamy and kulinism (old men marrying young girls)"
     },
     {
       "id": "fc004",
@@ -75,10 +87,22 @@
       "back": "Ramakrishna Paramahansa (Gadadhar Chattopadhyay)"
     },
     {
-      "id": "fc013",
+      "id": "fc013_a",
       "category": "Ramakrishna Mission (1897, Bengal)",
-      "front": "Ramakrishna Mission key objectives?",
-      "back": "Rejuvenation of Hinduism through Vedanta and ancient texts. Opposed caste restrictions, oppression, superstitions. Focused on uplifting women and restructuring education system. Promoted renunciation and practical spirituality through Ramakrishna Math and Mission. Advocated service of humanity as devotion to God"
+      "front": "Ramakrishna Mission key objectives? (Part 1/3)",
+      "back": "Rejuvenation of Hinduism through Vedanta and ancient texts. Opposed caste restrictions, oppression, superstitions."
+    },
+    {
+      "id": "fc013_b",
+      "category": "Ramakrishna Mission (1897, Bengal)",
+      "front": "Ramakrishna Mission key objectives? (Part 2/3)",
+      "back": "Focused on uplifting women and restructuring education system."
+    },
+    {
+      "id": "fc013_c",
+      "category": "Ramakrishna Mission (1897, Bengal)",
+      "front": "Ramakrishna Mission key objectives? (Part 3/3)",
+      "back": "Promoted renunciation and practical spirituality through Ramakrishna Math and Mission. Advocated service of humanity as devotion to God"
     },
     {
       "id": "fc014",
@@ -105,10 +129,16 @@
       "back": "Gopal Krishna Gokhale, with support from M.G. Ranade, 1905, Bombay"
     },
     {
-      "id": "fc018",
+      "id": "fc018_a",
       "category": "Servants of India Society (1905, Bombay)",
-      "front": "Servants of India key objectives?",
-      "back": "Focused on famine relief and improving welfare of tribals, with strong emphasis on economic upliftment and employment for women. Trained national missionaries to promote true interests of Indian people, using constitutional means and preparing selfless workers dedicated to India's cause"
+      "front": "Servants of India key objectives? (Part 1/2)",
+      "back": "Focused on famine relief and improving welfare of tribals, with strong emphasis on economic upliftment and employment for women."
+    },
+    {
+      "id": "fc018_b",
+      "category": "Servants of India Society (1905, Bombay)",
+      "front": "Servants of India key objectives? (Part 2/2)",
+      "back": "Trained national missionaries to promote true interests of Indian people, using constitutional means and preparing selfless workers dedicated to India's cause"
     },
     {
       "id": "fc019",
@@ -129,10 +159,16 @@
       "back": "1909, Pune. Founders: G.K. Devadhar and Ramabai Ranade (wife of M.G. Ranade)"
     },
     {
-      "id": "fc022",
+      "id": "fc022_a",
       "category": "Poona Seva Sadan (1909, Pune)",
-      "front": "Poona Seva Sadan objectives?",
-      "back": "Focused on educational advancements for women and betterment of widows' conditions. Worked towards empowering women and improving their societal status"
+      "front": "Poona Seva Sadan objectives? (Part 1/2)",
+      "back": "Focused on educational advancements for women and betterment of widows' conditions."
+    },
+    {
+      "id": "fc022_b",
+      "category": "Poona Seva Sadan (1909, Pune)",
+      "front": "Poona Seva Sadan objectives? (Part 2/2)",
+      "back": "Worked towards empowering women and improving their societal status"
     },
     {
       "id": "fc023",
@@ -153,10 +189,16 @@
       "back": "1911, Bombay. Founder: Narayan Malhar Joshi"
     },
     {
-      "id": "fc026",
+      "id": "fc026_a",
       "category": "Social Service League (1911, Bombay)",
-      "front": "Social Service League objectives?",
-      "back": "Improved conditions for common masses through social welfare activities like schools, libraries, cooperative societies. Supported legal aid, excursions for slums, medical relief, boys' clubs. Key role in founding All India Trade Union Congress in 1920"
+      "front": "Social Service League objectives? (Part 1/2)",
+      "back": "Improved conditions for common masses through social welfare activities like schools, libraries, cooperative societies."
+    },
+    {
+      "id": "fc026_b",
+      "category": "Social Service League (1911, Bombay)",
+      "front": "Social Service League objectives? (Part 2/2)",
+      "back": "Supported legal aid, excursions for slums, medical relief, boys' clubs. Key role in founding All India Trade Union Congress in 1920"
     },
     {
       "id": "fc027",
@@ -177,10 +219,16 @@
       "back": "1917, Madras. Founder: Annie Besant"
     },
     {
-      "id": "fc030",
+      "id": "fc030_a",
       "category": "Indian Women's Association (1917, Madras)",
-      "front": "Indian Women's Association objectives?",
-      "back": "Worked towards upliftment of Indian women by organising annual conferences, such as All India Women's Conferences. Advocated for women's rights and social reforms across India"
+      "front": "Indian Women's Association objectives? (Part 1/2)",
+      "back": "Worked towards upliftment of Indian women by organising annual conferences, such as All India Women's Conferences."
+    },
+    {
+      "id": "fc030_b",
+      "category": "Indian Women's Association (1917, Madras)",
+      "front": "Indian Women's Association objectives? (Part 2/2)",
+      "back": "Advocated for women's rights and social reforms across India"
     }
   ],
   "quizzes": {

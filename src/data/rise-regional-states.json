@@ -33,10 +33,16 @@
       "back": "Former Mughal provinces that transitioned into individual states after governors asserted autonomy"
     },
     {
-      "id": "fc006",
+      "id": "fc006_a",
       "category": "Successor States",
-      "front": "Successor States key characteristic?",
-      "back": "While they didn't contest Mughal ruler's supremacy, creation of nearly independent and hereditary powers by governors indicated rise of self-governing provinces"
+      "front": "Successor States key characteristic? (Part 1/2)",
+      "back": "While they didn't contest Mughal ruler's supremacy, creation of nearly independent and hereditary powers by governors indicated rise of"
+    },
+    {
+      "id": "fc006_b",
+      "category": "Successor States",
+      "front": "Successor States key characteristic? (Part 2/2)",
+      "back": "-governing provinces"
     },
     {
       "id": "fc007",
@@ -292,17 +298,17 @@
       {
         "id": "comp001",
         "question": "Explain the three categories of Regional States and how they differed in their relationship with the Mughal Empire.",
-        "answer": "Three Categories of Regional States: 1) Successor States: Former Mughal provinces that transitioned into individual states after governors asserted autonomy. Key characteristic: While they didn't contest the Mughal ruler's supremacy, creation of nearly independent and hereditary powers by their governors indicated the rise of self-governing provinces in these regions. Examples: Awadh, Bengal, and Hyderabad. 2) Independent Kingdoms: Such states materialized mainly due to the weakening grip of the Mughals over their provinces. Not former Mughal provinces but territories that asserted independence as central control waned. Examples: Mysore and the Rajput territories. 3) The New States: These states were established by factions that rebelled against the Mughal rule. Unlike Successor States (governors asserting autonomy) or Independent Kingdoms (taking advantage of weakness), these actively rebelled. Examples: Maratha, Sikh and Jat territories. Key Differences: Origin (provincial/existing/rebellion), relationship with Mughals (nominal allegiance/independence/rebellion), and formation process (internal autonomy/external assertion/active resistance)."
+        "answer": "Three Categories of Regional States: 1) Successor States: Former Mughal provinces that transitioned into individual states after governors asserted autonomy."
       },
       {
         "id": "comp002",
         "question": "Analyze how regional factions during Aurangzeb's reign contributed to the weakening of Mughal control, despite their failure to establish independent kingdoms.",
-        "answer": "During Aurangzeb's reign, regional factions like the Jats, Sikhs, and Marathas rose against Mughal dominance, striving for autonomy. Despite their failure to establish independent kingdoms, they weakened Mughal control significantly. How They Weakened Control: 1) Military Resources: Continuous rebellions drained Mughal military resources and attention. 2) Authority Erosion: Challenges to central authority emboldened others to seek autonomy. 3) Provincial Governors: Fighting regional factions gave governors military experience and power bases, enabling later autonomy (Successor States). 4) Alliance Difficulties: Post-Aurangzeb, Bahadur Shah I's attempts to curb Rajput power led to unrest, making future alliances difficult - the rebellions had created an environment where traditional allies (Rajputs) could no longer be relied upon. 5) Psychological Impact: Demonstration that Mughal power could be successfully resisted encouraged others. Even without establishing independent kingdoms, these factions fundamentally altered the power dynamics, creating conditions for Successor States, Independent Kingdoms, and The New States to emerge in the 18th century. Their 'failure' was actually a successful weakening of the empire that enabled later regional autonomy."
+        "answer": "During Aurangzeb's reign, regional factions like the Jats, Sikhs, and Marathas rose against Mughal dominance, striving for autonomy. Despite their failure to establish independent kingdoms, they weakened Mughal control significantly."
       },
       {
         "id": "comp003",
         "question": "Compare Successor States with The New States in terms of their formation, relationship with Mughal authority, and political character.",
-        "answer": "Successor States: Formation: Former Mughal provinces that transitioned into individual states after governors asserted autonomy. Evolved from within the Mughal administrative structure. Relationship with Mughals: Didn't contest the Mughal ruler's supremacy. Maintained nominal allegiance while exercising nearly independent and hereditary power. Political Character: Self-governing provinces with hereditary governors. Gradual autonomy without open rebellion. Examples: Awadh, Bengal, Hyderabad - all former Mughal provinces. The New States: Formation: Established by factions that rebelled against Mughal rule. Created through active resistance and rejection of Mughal authority. Relationship with Mughals: Open rebellion and rejection. Did not maintain even nominal allegiance. Political Character: Revolutionary new political entities formed outside Mughal framework. Based on ethnic/religious identity (Maratha, Sikh, Jat). Examples: Maratha, Sikh, Jat territories - none were Mughal provinces. Key Comparison: Successor States worked within system (governors becoming kings), The New States worked against system (rebels becoming rulers). Successor States preserved some Mughal legitimacy, The New States created entirely new legitimacy. Successor States were evolutionary, The New States were revolutionary. Both weakened Mughals but through different mechanisms - internal autonomy vs external rebellion."
+        "answer": "Successor States: Formation: Former Mughal provinces that transitioned into individual states after governors asserted autonomy. Evolved from within the Mughal administrative structure. Relationship with Mughals: Didn't contest the Mughal ruler's supremacy."
       }
     ]
   }

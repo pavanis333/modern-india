@@ -3,10 +3,16 @@
   "subtopic": "Working Class Movements",
   "flashcards": [
     {
-      "id": "fc001",
+      "id": "fc001_a",
       "category": "Working Class Context",
-      "front": "Working class in late 19th century India?",
-      "back": "Late 19th century saw rise of modern industry in India, particularly in coal, cotton, and jute, forming backbone of Indian working class. Labourers, factory workers, and miners faced harsh exploitation, with poor wages, long hours, and unsafe conditions, while their struggle was intertwined with fight for independence"
+      "front": "Working class in late 19th century India? (Part 1/2)",
+      "back": "Late 19th century saw rise of modern industry in India, particularly in coal, cotton, and jute, forming backbone of Indian working class."
+    },
+    {
+      "id": "fc001_b",
+      "category": "Working Class Context",
+      "front": "Working class in late 19th century India? (Part 2/2)",
+      "back": "Labourers, factory workers, and miners faced harsh exploitation, with poor wages, long hours, and unsafe conditions, while their struggle was intertwined with fight for independence"
     },
     {
       "id": "fc002",
@@ -45,10 +51,16 @@
       "back": "Proposed a bill in the Bombay Legislative Council to improve working conditions for labourers"
     },
     {
-      "id": "fc008",
+      "id": "fc008_a",
       "category": "Early Initiatives to Improve Working Conditions",
-      "front": "Narayan Meghajee Lokhande (1880) [UPSC 2018]?",
-      "back": "Played a pivotal role in founding the Deenbandhu newspaper and establishing the Bombay Mill and Millhands Association, which advocated for workers' rights [UPSC 2018]"
+      "front": "Narayan Meghajee Lokhande (1880) [UPSC 2018]? (Part 1/2)",
+      "back": "Played a pivotal role in founding the Deenbandhu newspaper and establishing the Bombay Mill and Millhands Association, which advocated for"
+    },
+    {
+      "id": "fc008_b",
+      "category": "Early Initiatives to Improve Working Conditions",
+      "front": "Narayan Meghajee Lokhande (1880) [UPSC 2018]? (Part 2/2)",
+      "back": "orkers' rights [UPSC 2018]"
     },
     {
       "id": "fc009",

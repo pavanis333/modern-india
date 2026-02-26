@@ -3,10 +3,22 @@
   "subtopic": "Agriculture & Irrigation - Committees and Commissions",
   "flashcards": [
     {
-      "id": "fc001",
+      "id": "fc001_a",
       "category": "Agriculture & Irrigation Committees",
-      "front": "Madras Agricultural Committee (1890)?",
-      "back": "Chairman: Not specified. Objectives: To examine the necessity of abandoning attempts to teach the ryot until more is known about his practices and conditions. Governor General/Viceroy: Lord Lansdowne"
+      "front": "Madras Agricultural Committee (1890)? (Part 1/3)",
+      "back": "Chairman: Not specified."
+    },
+    {
+      "id": "fc001_b",
+      "category": "Agriculture & Irrigation Committees",
+      "front": "Madras Agricultural Committee (1890)? (Part 2/3)",
+      "back": "Objectives: To examine the necessity of abandoning attempts to teach the ryot until more is known about his practices and conditions."
+    },
+    {
+      "id": "fc001_c",
+      "category": "Agriculture & Irrigation Committees",
+      "front": "Madras Agricultural Committee (1890)? (Part 3/3)",
+      "back": "Governor General/Viceroy: Lord Lansdowne"
     },
     {
       "id": "fc002",

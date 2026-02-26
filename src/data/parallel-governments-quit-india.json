@@ -15,10 +15,16 @@
       "back": "Midnapore | Leader: Jatiya Sarkar | Engaged in cyclone relief, allocated grants to schools, provided paddy to needy, organised Vidyut Vahinis"
     },
     {
-      "id": "fc003",
+      "id": "fc003_a",
       "category": "Parallel Governments",
-      "front": "Satara Parallel Government (Mid-1943 - 1945)?",
-      "back": "Leader: Y.B.Chavan, Nana Patil | Known as 'Prati Sarkar' | Established village libraries, created Nyayadan Mandals, conducted prohibition campaigns, arranged 'Gandhi marriages'"
+      "front": "Satara Parallel Government (Mid-1943 - 1945)? (Part 1/2)",
+      "back": "Leader: Y.B.Chavan, Nana Patil; Known as 'Prati Sarkar'"
+    },
+    {
+      "id": "fc003_b",
+      "category": "Parallel Governments",
+      "front": "Satara Parallel Government (Mid-1943 - 1945)? (Part 2/2)",
+      "back": "Established village libraries, created Nyayadan Mandals, conducted prohibition campaigns, arranged 'Gandhi marriages'"
     },
     {
       "id": "fc004",
@@ -214,7 +220,7 @@
       {
         "id": "comp001",
         "question": "Compare the three parallel governments (Ballia, Tamluk, Satara) during Quit India Movement in terms of duration, leadership, geographic location, and activities, analyzing their significance in demonstrating nationalist self-governance capacity.",
-        "answer": "Ballia (August 1942): Duration: Shortest - emerged for only a week. Location: Ballia (UP). Leader: Chittu Pandey. Activities: Secured release of numerous Congress leaders; emerged as parallel government. Significance: First/earliest (August 1942), immediate response to Quit India call, demonstrated rapid nationalist mobilization but brief (week only), focused on political prisoners release, symbolic challenge to British authority. Tamluk (December 1942 - September 1944): Duration: Medium - 21 months (Dec 1942 - Sep 1944). Location: Midnapore (Bengal). Leader: Jatiya Sarkar (National Government). Activities: Cyclone relief efforts, allocated grants to schools, provided paddy to needy, organised Vidyut Vahinis. Significance: Longest-lasting (21 months), comprehensive governance (relief, education, food security), Vidyut Vahinis (volunteer corps), Jatiya Sarkar name showing national consciousness, sustained challenge despite British attempts to suppress, Bengal nationalist tradition continuing (Bengal revolutionary history). Satara (Mid-1943 - 1945): Duration: Long - about 2 years (1943-1945). Location: Satara (Maharashtra). Leaders: Y.B.Chavan, Nana Patil, etc. Name: 'Prati Sarkar' (Parallel Government). Activities: Established village libraries (education), created Nyayadan Mandals (justice/dispute resolution), conducted prohibition campaigns (social reform), arranged 'Gandhi marriages' (social reform). Significance: Most comprehensive governance, explicitly 'parallel' (Prati Sarkar), Maharashtra/Maratha tradition (independent governance), social reform emphasis (prohibition, Gandhi marriages), justice system (Nyayadan Mandals), education (libraries), Y.B.Chavan later prominent (Chief Minister Maharashtra, Defense Minister India). Comparison: Duration: Ballia (1 week) < Tamluk (21 months) < Satara (2 years). Geography: UP (Ballia), Bengal (Tamluk), Maharashtra (Satara) - three different regions showing pan-Indian Quit India impact. Activities: Ballia: Political (prisoner release), Tamluk: Welfare (cyclone relief, food, education), Satara: Comprehensive (education, justice, social reform). Leadership: Ballia: Single leader (Chittu Pandey), Tamluk: Collective (Jatiya Sarkar), Satara: Multiple (Y.B.Chavan, Nana Patil). Significance of Parallel Governments: Demonstrating Self-Governance: All three showed Indians could govern themselves without British. Tamluk/Satara especially (1-2 years) proving sustained governance capacity. Comprehensive Administration: Beyond just resistance, providing actual governance: Justice (Nyayadan Mandals), Education (schools, libraries), Welfare (cyclone relief, food), Social reform (prohibition, Gandhi marriages), Volunteer organization (Vidyut Vahinis). British Authority Challenge: Parallel governments directly challenging British sovereignty. Showing British government irrelevant/unnecessary in liberated zones. Mass Participation: Not just elite Congress but mass involvement in self-governance. Regional Variations: Different regions expressing nationalism through local governance traditions: Bengal (revolutionary/relief), Maharashtra (Maratha independence tradition), UP (direct political challenge). Quit India Movement: Parallel governments showing Quit India wasn't just protest but attempt at alternative governance. Gandhi's constructive program in liberated zones. Limitations: All eventually suppressed by British, Relatively brief (longest 2 years), Localized (couldn't expand beyond specific districts), British military force ultimately reasserting control. Nevertheless: Demonstrated nationalist capacity for self-governance, Provided model for post-independence panchayati raj, Kept nationalist flame alive during WWII British repression, Showed mass support for independence through actual governance participation."
+        "answer": "Ballia (August 1942): Duration: Shortest - emerged for only a week. Location: Ballia (UP). Leader: Chittu Pandey. Activities: Secured release of numerous Congress leaders; emerged as parallel government."
       }
     ]
   }

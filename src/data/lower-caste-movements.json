@@ -105,10 +105,16 @@
       "back": "'No dividing walls of caste or race, live in brotherhood'"
     },
     {
-      "id": "fc018",
+      "id": "fc018_a",
       "category": "SNDP Movement (1903, Kerala)",
-      "front": "SNDP contributions summary?",
-      "back": "Promoted social mobility for Ezhavas in education, government jobs, temple entry, political representation. Key role in social justice coalitions for backward castes in Kerala"
+      "front": "SNDP contributions summary? (Part 1/2)",
+      "back": "Promoted social mobility for Ezhavas in education, government jobs, temple entry, political representation."
+    },
+    {
+      "id": "fc018_b",
+      "category": "SNDP Movement (1903, Kerala)",
+      "front": "SNDP contributions summary? (Part 2/2)",
+      "back": "Key role in social justice coalitions for backward castes in Kerala"
     },
     {
       "id": "fc019",
@@ -183,10 +189,16 @@
       "back": "Emerged in response to Brahmin dominance in Kerala"
     },
     {
-      "id": "fc031",
+      "id": "fc031_a",
       "category": "Nair Movement (1891, Kerala)",
-      "front": "Nair Movement contributions?",
-      "back": "C.V. Raman Pillai: Established Nair Memorial to challenge Brahminical authority. M. Padmanabha Pillai: Founded Nair Service Society (NSS) to uplift Nair community, ensure rights and social mobility"
+      "front": "Nair Movement contributions? (Part 1/2)",
+      "back": "C.V. Raman Pillai: Established Nair Memorial to challenge Brahminical authority. M."
+    },
+    {
+      "id": "fc031_b",
+      "category": "Nair Movement (1891, Kerala)",
+      "front": "Nair Movement contributions? (Part 2/2)",
+      "back": "Padmanabha Pillai: Founded Nair Service Society (NSS) to uplift Nair community, ensure rights and social mobility"
     },
     {
       "id": "fc032",
@@ -207,10 +219,16 @@
       "back": "Reject Brahminical customs, challenge caste hierarchy, promote rationalism"
     },
     {
-      "id": "fc035",
+      "id": "fc035_a",
       "category": "Self-Respect Movement (1925)",
-      "front": "Self-Respect Movement actions?",
-      "back": "Criticised Brahmanism as agents of oppression. Advocated alternative wedding ceremonies, women's liberation. Mobilised marginalised communities against caste injustice"
+      "front": "Self-Respect Movement actions? (Part 1/2)",
+      "back": "Criticised Brahmanism as agents of oppression. Advocated alternative wedding ceremonies, women's liberation."
+    },
+    {
+      "id": "fc035_b",
+      "category": "Self-Respect Movement (1925)",
+      "front": "Self-Respect Movement actions? (Part 2/2)",
+      "back": "Mobilised marginalised communities against caste injustice"
     },
     {
       "id": "fc036",
@@ -321,10 +339,16 @@
       "back": "1897 onwards, Midnapore, Bengal"
     },
     {
-      "id": "fc054",
+      "id": "fc054_a",
       "category": "Kaivartas' Movement (1897, Bengal)",
-      "front": "Kaivartas' Movement significance?",
-      "back": "Establishment of Jati Nirdharsan Sabha 1897, Mahishya Samiti 1901 - Initial steps toward evolution of Kaivartas' identity, forming cohesive identity of Mahishyas"
+      "front": "Kaivartas' Movement significance? (Part 1/2)",
+      "back": "Establishment of Jati Nirdharsan Sabha 1897, Mahishya Samiti 1901 - Initial steps toward evolution of Kaivartas' identity"
+    },
+    {
+      "id": "fc054_b",
+      "category": "Kaivartas' Movement (1897, Bengal)",
+      "front": "Kaivartas' Movement significance? (Part 2/2)",
+      "back": "forming cohesive identity of Mahishyas"
     },
     {
       "id": "fc055",
@@ -351,16 +375,28 @@
       "back": "National attention, Jathas (processions) from Punjab and Madurai. Mahatma Gandhi visited Kerala to show solidarity"
     },
     {
-      "id": "fc059",
+      "id": "fc059_a",
       "category": "Temple Entry Movement (1924-1938)",
-      "front": "Temple Entry Movement 1924-1938?",
-      "back": "Vaikom Satyagraha 1924: K.P. Kesava. Objective: Demand opening of Hindu temples and public roads to untouchables. Support: Reinforced by Jathas from Punjab and Madurai. Gandhi visited Kerala"
+      "front": "Temple Entry Movement 1924-1938? (Part 1/2)",
+      "back": "Vaikom Satyagraha 1924: K.P. Kesava. Objective: Demand opening of Hindu temples and public roads to untouchables."
     },
     {
-      "id": "fc060",
+      "id": "fc059_b",
       "category": "Temple Entry Movement (1924-1938)",
-      "front": "Guruvayur Satyagraha 1931?",
-      "back": "Leaders: K. Kelappan and poet Subramaniyam Tirumambu ('singing sword of Kerala'). Event: 16 volunteers led by Tirumambu marched to Guruvayur to challenge temple entry restrictions"
+      "front": "Temple Entry Movement 1924-1938? (Part 2/2)",
+      "back": "Support: Reinforced by Jathas from Punjab and Madurai. Gandhi visited Kerala"
+    },
+    {
+      "id": "fc060_a",
+      "category": "Temple Entry Movement (1924-1938)",
+      "front": "Guruvayur Satyagraha 1931? (Part 1/2)",
+      "back": "Leaders: K. Kelappan and poet Subramaniyam Tirumambu ('singing sword of Kerala')."
+    },
+    {
+      "id": "fc060_b",
+      "category": "Temple Entry Movement (1924-1938)",
+      "front": "Guruvayur Satyagraha 1931? (Part 2/2)",
+      "back": "Event: 16 volunteers led by Tirumambu marched to Guruvayur to challenge temple entry restrictions"
     },
     {
       "id": "fc061",
@@ -399,10 +435,22 @@
       "back": "Lower-caste members consecrated Shiva idol in temple, challenging caste restrictions. Sri Narayana Guru played key role"
     },
     {
-      "id": "fc067",
+      "id": "fc067_a",
       "category": "Other Movements",
-      "front": "Vokkaliga Sangha 1905?",
-      "back": "Anti-Brahmin movement in Mysore, challenging prevailing social hierarchy. B'Byanna was Sangha's first president, Maharaja of Mysore, Krishnaraja Wodeyar IV and Diwan V.P. Madhava Rao were association's patron and vice-patron"
+      "front": "Vokkaliga Sangha 1905? (Part 1/3)",
+      "back": "Anti-Brahmin movement in Mysore, challenging prevailing social hierarchy."
+    },
+    {
+      "id": "fc067_b",
+      "category": "Other Movements",
+      "front": "Vokkaliga Sangha 1905? (Part 2/3)",
+      "back": "B'Byanna was Sangha's first president, Maharaja of Mysore, Krishnaraja Wodeyar IV and Diwan V.P."
+    },
+    {
+      "id": "fc067_c",
+      "category": "Other Movements",
+      "front": "Vokkaliga Sangha 1905? (Part 3/3)",
+      "back": "Madhava Rao were association's patron and vice-patron"
     }
   ],
   "quizzes": {
@@ -592,7 +640,7 @@
       {
         "id": "comp001",
         "question": "Compare regional lower caste movements (Maharashtra - Satyashodhak Samaj, Kerala - SNDP/Nair, Tamil Nadu - Justice/Self-Respect, Bengal - Kaivartas) analyzing their distinct strategies, leadership, and impact on challenging Brahminical hegemony in their respective contexts.",
-        "answer": "Maharashtra - Satyashodhak Samaj (1873): Founder: Jyotirao Phule. Leadership: Mailis, Telis, Kunbis (OBC communities). Objective: Social justice, education for lower castes and women. Strategy: Critique of Brahmanical Tyranny (exploitation through religion), Rejection of Hindu symbols (Lord Rama) while promoting Rajah Bali, Abolition of caste, equality, human dignity vision, Women's empowerment: Savitribai Phule (girls' school, widow remarriage, widow shelter 1854), Political engagement: Poona Municipal Committee 1876. Impact: Social justice, inclusivity in Western India. Significance: First systematic critique of Brahminical religion from lower caste perspective. Kerala - SNDP Movement (1903): Founder: Sree Narayana Guru (1854-1928). Community: Ezhavas (faced untouchability, denied education, temple entry). Strategy: 1888 symbolic act: Installed Sivalinga at Aruvippuram challenging caste practices, Inscription: 'No dividing walls of caste or race, live in brotherhood', Formation: 1889 Aruvippuram Kshetra Yogam, 1903 SNDP registration. Ideology: 'One religion, one caste, one god for mankind', Religious equality, caste abolition, human unity, Criticized Congress and Gandhi for not addressing caste discrimination. Impact: Social mobility for Ezhavas (education, government jobs, temple entry, political representation), Structural changes in Kerala's power dynamics, Social justice coalitions for backward castes. Kerala - Nair Movement (1891): Leaders: C.V. Raman Pillai, K. Rama Krishna Pillai, M. Padmanabha Pillai. Context: Response to Brahmin dominance in Kerala. Strategy: C.V. Raman Pillai established Nair Memorial to challenge Brahminical authority, M. Padmanabha Pillai founded Nair Service Society (NSS) to uplift Nair community. Significance: Securing social equality for non-Brahmin communities (particularly Nairs) against Brahminical hegemony. Comparison: SNDP (Ezhavas - untouchables) vs Nair (intermediate caste) - different caste locations, different strategies. SNDP religious/ideological, Nair organizational/service society. Tamil Nadu - Justice Movement (1916): Founders: Dr. T.M. Nair, P. Tyagaraja Chetti, C.N. Mudaliar (Indian Liberation Federation - SILF). Objective: Challenge Brahmin dominance in government service, education, politics. Strategy: First non-Brahmin political organisation in South India, Represented non-Brahmin interests and social justice, Led to reservations for various communities through government orders. Periyar's Leadership (1937-1944): Spearheaded anti-Brahmanism and social reform, Criticised Hinduism, Laws of Manu, Puranas, Iconic actions: Removed caste name-boards, desecrated Hindu idols, cut sacred threads, advocated end of Brahmanical Hinduism, Motto: 'Some things cannot be mended, only ended', Evolution: 1944 Dravida Kazhagam, 1949 DMK under C.N. Annadurai. Impact: Political power for non-Brahmins, reservations policy, anti-Brahmin ideology dominating Tamil Nadu politics. Tamil Nadu - Self-Respect Movement (1925): Founder: E.V. Ramaswami Naicker (Periyar). Goal: Reject Brahminical customs, challenge caste hierarchy, promote rationalism. Strategy: Criticised Brahmanism as agents of oppression, Advocated alternative wedding ceremonies, women's liberation, Mobilised marginalised communities against caste injustice, Journal: Kudi (1910). Impact: Reshaped social fabric, formed Justice Party, pushed egalitarianism and social justice. Bengal - Kaivartas' Movement (1897): Community: Kaivartas (Mahishyas). Strategy: Jati Nirdharsan Sabha 1897, Mahishya Samiti 1901. Significance: Initial steps toward identity evolution, forming cohesive identity of Mahishyas. Impact: Identity assertion rather than direct Brahminical challenge. Comparative Analysis: Regional Variations: Maharashtra: Ideological critique (Phule's anti-Brahmanical theology), Kerala: Dual strategy - SNDP (religious reform, untouchables) + Nair (organizational, intermediate caste), Tamil Nadu: Political strategy (Justice Party), most radical rhetoric (Periyar), Bengal: Identity formation (Kaivartas). Leadership: Maharashtra: Phule couple (husband-wife partnership, women's empowerment), Kerala: Sree Narayana Guru (spiritual/religious authority) vs Nair leaders (service society model), Tamil Nadu: Political leaders (T.M. Nair, Periyar) - non-religious, rationalist, Bengal: Community elders/organizers. Strategy Spectrum: Religious reform (Narayana Guru) \u2192 Ideological critique (Phule) \u2192 Rationalist rejection (Periyar) \u2192 Political mobilization (Justice Party) \u2192 Identity formation (Kaivartas). Impact Comparison: Kerala: Most comprehensive (SNDP structural changes + Nair organizational success), Tamil Nadu: Most politically successful (Justice Party power, reservations, DMK dominance), Maharashtra: Most enduring ideological influence (Phule's thought foundation for later Ambedkar), Bengal: Modest (identity assertion, limited broader impact). Common Elements: All challenged Brahminical hegemony, All emphasized education and social mobility, All formed organizations/movements (not just individual protests), All linked caste with economic exploitation. Distinct Contributions: Maharashtra: Women's empowerment integration (Savitribai), Kerala: Dual-track (untouchables + intermediate caste both mobilizing), Tamil Nadu: Most radical anti-religious stance, political power achievement, Bengal: Identity politics model. Conclusion: Lower caste movements weren't uniform - regional contexts shaped strategies. Kerala's caste complexity (SNDP vs Nair) differed from Tamil Nadu's unified non-Brahmin front (Justice Party). Maharashtra's early ideological foundation (Phule 1873) influenced later movements. Bengal's modest movement showed challenges where Brahminical hegemony was deeply entrenched. Tamil Nadu achieved most political success (Justice Party, DMK), Kerala most structural change (SNDP reforms), Maharashtra most enduring ideological legacy (Phule-Ambedkar lineage). All contributed to undermining Brahminical monopoly on education, administration, and social prestige, paving way for post-independence reservations policy and social justice movements."
+        "answer": "Maharashtra - Satyashodhak Samaj (1873): Founder: Jyotirao Phule. Leadership: Mailis, Telis, Kunbis (OBC communities). Objective: Social justice, education for lower castes and women."
       }
     ]
   }

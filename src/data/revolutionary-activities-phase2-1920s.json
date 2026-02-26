@@ -69,16 +69,28 @@
       "back": "Bismil, Ashfaqullah, Roshan Singh, and Rajendra Lahiri executed after several revolutionaries arrested"
     },
     {
-      "id": "fc012",
+      "id": "fc012_a",
       "category": "Major Cases (1920s)",
-      "front": "Saunders' Murder (Dec 1928)?",
-      "back": "Lahore - Bhagat Singh, Chandrashekhar Azad, and Rajguru shot dead Saunders, police official responsible for lathicharge leading to Lala Lajpat Rai's death"
+      "front": "Saunders' Murder (Dec 1928)? (Part 1/2)",
+      "back": "Lahore - Bhagat Singh, Chandrashekhar Azad, and Rajguru shot dead Saunders"
     },
     {
-      "id": "fc013",
+      "id": "fc012_b",
       "category": "Major Cases (1920s)",
-      "front": "Saunders Murder motive?",
-      "back": "Retaliation for Lala Lajpat Rai's death during anti-Simon Commission protest; mistakenly assassinated John P. Saunders instead of intended target James Scott"
+      "front": "Saunders' Murder (Dec 1928)? (Part 2/2)",
+      "back": "police official responsible for lathicharge leading to Lala Lajpat Rai's death"
+    },
+    {
+      "id": "fc013_a",
+      "category": "Major Cases (1920s)",
+      "front": "Saunders Murder motive? (Part 1/2)",
+      "back": "Retaliation for Lala Lajpat Rai's death during anti-Simon Commission protest"
+    },
+    {
+      "id": "fc013_b",
+      "category": "Major Cases (1920s)",
+      "front": "Saunders Murder motive? (Part 2/2)",
+      "back": "mistakenly assassinated John P. Saunders instead of intended target James Scott"
     },
     {
       "id": "fc014",
@@ -171,10 +183,16 @@
       "back": "Bengal - Organised by Surya Sen with Anant Singh, Ganesh Ghosh, and Lokenath Baul"
     },
     {
-      "id": "fc029",
+      "id": "fc029_a",
       "category": "Later Cases (1922-1940)",
-      "front": "Chittagong Raid aim?",
-      "back": "Show it was possible to challenge armed might of British Empire; became powerful symbol of resistance and commitment to social justice alongside political freedom"
+      "front": "Chittagong Raid aim? (Part 1/2)",
+      "back": "Show it was possible to challenge armed might of British Empire"
+    },
+    {
+      "id": "fc029_b",
+      "category": "Later Cases (1922-1940)",
+      "front": "Chittagong Raid aim? (Part 2/2)",
+      "back": "became powerful symbol of resistance and commitment to social justice alongside political freedom"
     },
     {
       "id": "fc030",
@@ -496,17 +514,17 @@
       {
         "id": "comp001",
         "question": "Trace the evolution from HRA (1924) to HSRA (1928), analyzing the shift from armed revolution to socialist ideology and key figures involved.",
-        "answer": "HRA Formation (1924): Hindustan Republican Association founded in Kanpur by Ramprasad Bismil, Jogesh Chandra Chatterjee, and Sachin Sanyal. Aim: Overthrow colonial government through armed revolution and establish Federal Republic of United States of India. Significance: 'Federal Republic' showing constitutional vision, not just anti-British terrorism. Geographic base: Punjab, Uttar Pradesh, Bihar. HSRA Reorganisation (September 1928): HRA rebranded as Hindustan Socialist Republican Association under Chandrashekhar Azad. Shift: Initially overthrow British rule; now explicitly socialist ideology. Key Participants: Bhagat Singh, Sukhdev, Bhagwaticharan Vohra (Punjab); Bejoy Kumar Sinha, Shiv Verma, Jaidev Kapur (United Provinces). Socialist Vision: Under Chandrashekhar Azad, Ram Prasad Bismil, and Bhagat Singh, HSRA continued revolutionary activities while advocating socialist vision for post-independence India. Evolution: 1924 HRA: Anti-colonial, Federal Republic (political structure focus). 1928 HSRA: Anti-colonial + Socialist (economic ideology added). Why Shift: 1) Russian Revolution (1917) influence - socialist model inspiring revolutionaries, 2) Growing working-class consciousness (labour strikes, communist activities), 3) Realization independence needed economic transformation, not just political, 4) Influence of communist ideology (Meerut Conspiracy 1929, Kanpur Conspiracy 1924 showing communist presence). Key Figures: Ramprasad Bismil: HRA founder, executed after Kakori (1925). Chandrashekhar Azad: HSRA reorganiser, leader until 1931. Bhagat Singh: HSRA icon, socialist writings, executed 1931. Pattern: Revolutionary movement evolving from purely nationalist (overthrow British) to ideological (socialist post-independence vision). Distinguished HSRA from earlier revolutionaries (Anushilan, Ghadar) who lacked clear post-independence economic ideology."
+        "answer": "HRA Formation (1924): Hindustan Republican Association founded in Kanpur by Ramprasad Bismil, Jogesh Chandra Chatterjee, and Sachin Sanyal. Aim: Overthrow colonial government through armed revolution and establish Federal Republic of United States of India."
       },
       {
         "id": "comp002",
         "question": "Analyze major HSRA/HRA actions in 1920s: Kakori Robbery (1925), Saunders' Murder (1928), and Assembly Bombing (1929), examining methods, motives, and British responses.",
-        "answer": "Kakori Robbery (1925): Action: HRA revolutionaries looted 8-Down train at Kakori railway station near Lucknow. Motive: Funding revolutionary activities (similar to earlier Barrah Dacoity 1908). Method: Armed train robbery showing organizational capacity. British Response: Severe - Bismil, Ashfaqullah, Roshan Singh, Rajendra Lahiri executed. Several revolutionaries arrested. Outcome: Major crackdown but martyrdom inspiring future (Bhagat Singh generation). Saunders' Murder (December 1928): Action: Bhagat Singh, Chandrashekhar Azad, and Rajguru shot dead Saunders, police official in Lahore. Motive: Retaliation for Lala Lajpat Rai's death during anti-Simon Commission protest. Mistake: Intended target was James Scott (responsible for lathicharge), mistakenly killed John P. Saunders. Method: Targeted political assassination, carefully planned (though target misidentified). Significance: Linking revolutionary violence with mass movement (Lala Lajpat Rai was mass leader, not revolutionary). Bhagat Singh emerging as key figure. Assembly Bombing (April 1929): Action: Bhagat Singh and Batukeshwar Dutt bombed Central Legislative Assembly in Delhi. Target: Protesting Public Safety Bill and Trade Disputes Bill (repressive legislation). Method: Low-intensity bombs - intended as statement rather than cause harm. Motive: Use trial as opportunity to spread revolutionary ideology. No escape attempt: Bhagat Singh and Dutt stayed, courted arrest. Outcome: Trial platform: Bhagat Singh's courtroom speeches, writings spreading socialist revolutionary ideology. Massive publicity: Trial making Bhagat Singh household name. Execution (March 23, 1931) creating martyrdom. Comparison: Kakori (1925): Economic (funding) \u2192 Executions suppressing HRA. Saunders (1928): Political retaliation \u2192 Linking revolution with mass movement. Assembly (1929): Ideological propaganda \u2192 Using trial as platform (inspired by earlier Russian revolutionaries' trial tactics). British Responses: Kakori \u2192 Executions (terror). Saunders \u2192 Manhunt (Chandrashekhar Azad evading). Assembly \u2192 Trial but giving platform inadvertently. Pattern: Revolutionaries learning: Kakori funding failed (leaders caught), Saunders targeted assassination succeeded tactically, Assembly propaganda most successful (trial spreading ideology despite execution). 1929 marked shift: Violence less for damage, more for publicity/ideology spreading. Bhagat Singh's execution (1931) made him more powerful dead than alive - ultimate propaganda victory despite movement's suppression."
+        "answer": "Kakori Robbery (1925): Action: HRA revolutionaries looted 8-Down train at Kakori railway station near Lucknow. Motive: Funding revolutionary activities (similar to earlier Barrah Dacoity 1908). Method: Armed train robbery showing organizational capacity."
       },
       {
         "id": "comp003",
         "question": "Examine communist influence on revolutionary movement through Kanpur Conspiracy (1924), Meerut Conspiracy (1929), and HSRA's socialist shift, analyzing British concerns and movement fragmentation.",
-        "answer": "Kanpur Conspiracy Case (1924): Accused: Muzaffar Ahmed, Shaukat Usmani, Nalini Gupta, S.A. Dange, Gopal Basak. Charge: Communist ideology in Indian freedom movement. Outcome: Rigorous imprisonment, reflecting growing influence of communist ideology. Significance: Same year as HRA formation (1924) - parallel communist and revolutionary nationalist streams. Meerut Conspiracy Case (1929): Accused: Various labour leaders and three Englishmen (showing international communist connections). Charge: Conspiring to organise railway strike. Context: British concerned about: 1) Communist Party of India formation, 2) Labour militancy (strikes), 3) International communist support (Comintern). Outcome: Various sentences but leading to widespread protest. British concern: Increasing communist influences in India. Significance: 1929 - same year as Bhagat Singh's Assembly Bombing. Communist labour organizing and revolutionary terrorism both intensifying. HSRA Socialist Shift (1928): HRA \u2192 HSRA transformation reflecting socialist ideology adoption. Chandrashekhar Azad, Bhagat Singh advocating socialist vision for post-independence. Bhagat Singh's writings: Explicitly socialist, influenced by Russian Revolution, criticized both British and Indian capitalists. Distinguishing: HSRA socialism vs Communist Party: HSRA: Revolutionary armed struggle + socialist ideology. CPI: Working-class organizing, strikes, following Comintern directives. Overlap: Both anti-imperialist, pro-labour, socialist. Difference: Methods (armed terrorism vs mass organizing). British Concerns: Two-front challenge: Revolutionary terrorism (HSRA) + Communist organizing (CPI/labour). Communist international connections: Russian support, Comintern guidance. Ideological: Not just anti-British nationalism but anti-capitalist socialism threatening post-independence British economic interests. Working-class militancy: Strikes threatening economic order (railways, mills). Response: Kanpur (1924) and Meerut (1929) conspiracy cases suppressing communist organizing. Anti-terrorist operations against HSRA (Kakori executions, Bhagat Singh hanging). Public Safety Bill and Trade Disputes Bill (1929) - repressive legislation Bhagat Singh protested. Movement Fragmentation: 1920s seeing three streams: 1) Congress mass movement (Gandhian non-violence), 2) Revolutionary terrorism (HSRA), 3) Communist organizing (CPI/labour). All anti-British but different methods/ideologies: Congress: Non-violent, political independence, bourgeois leadership. HSRA: Armed revolution, socialist vision, radical youth. CPI: Working-class organizing, communist ideology, international support. Fragmentation weakening united front but also making movement multi-dimensional. British exploiting divisions (communist repression, revolutionary executions, Congress negotiations). Post-1930: Civil Disobedience (Gandhi) overshadowing both revolutionary and communist streams but HSRA martyrdom (Bhagat Singh 1931) and communist persistence ensuring radical tradition survived into post-independence era."
+        "answer": "Kanpur Conspiracy Case (1924): Accused: Muzaffar Ahmed, Shaukat Usmani, Nalini Gupta, S.A. Dange, Gopal Basak. Charge: Communist ideology in Indian freedom movement. Outcome: Rigorous imprisonment, reflecting growing influence of communist ideology."
       }
     ]
   }
