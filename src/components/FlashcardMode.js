@@ -184,7 +184,7 @@ function FlashcardMode({ flashcards, onBack }) {
         {currentSR && currentSR.interval >= 21 && (
           <div className="mastered-badge">✓ Mastered</div>
         )}
-        <div className="flashcard-content">
+        <div className={`flashcard-content ${(isFlipped ? currentCard.back : currentCard.front).length > 200 ? 'compact' : ''}`}>
           {isFlipped ? currentCard.back : currentCard.front}
         </div>
         <div className="card-flip-hint">
