@@ -4,6 +4,7 @@ import TopicSelector from './components/TopicSelector';
 import SubtopicSelector from './components/SubtopicSelector';
 import FlashcardMode from './components/FlashcardMode';
 import QuizMode from './components/QuizMode';
+import { clearAllSR, clearAllQuizProgress } from './utils/spacedRepetition';
 import europeansData from './data/europeans-in-india.json';
 import portugueseData from './data/portuguese-in-india.json';
 import dutchData from './data/dutch-in-india.json';
@@ -522,20 +523,37 @@ function App() {
     setMode('home');
   };
 
+  const handleGlobalReset = () => {
+    if (window.confirm('⚠️ This will reset ALL your progress — flashcards and quizzes. Are you sure?')) {
+      clearAllSR();
+      clearAllQuizProgress();
+      localStorage.removeItem('masteredCards');
+      localStorage.removeItem('masteredQuestions');
+      alert('All progress has been reset.');
+    }
+  };
+
   return (
     <div className="App">
       <header className="App-header">
-        <h1>🇮🇳 Modern India - UPSC Prelims Prep</h1>
+        <h1>🇮🇳 Modern India — UPSC Prelims</h1>
         {currentTopic && (
           <p className="topic-title">
             {currentTopic.title}
-            {currentSubtopic && ` • ${currentSubtopic.title}`}
+            {currentSubtopic && ` · ${currentSubtopic.title}`}
           </p>
         )}
       </header>
 
       {mode === 'topics' && (
-        <TopicSelector topics={topics} onSelect={selectTopic} />
+        <>
+          <TopicSelector topics={topics} onSelect={selectTopic} />
+          <div className="global-reset">
+            <button className="reset-btn" onClick={handleGlobalReset}>
+              🗑 Reset All Progress
+            </button>
+          </div>
+        </>
       )}
 
       {mode === 'subtopics' && currentTopic && (
@@ -551,18 +569,17 @@ function App() {
           <div className="mode-card" onClick={() => setMode('flashcard')}>
             <div className="mode-icon">🃏</div>
             <h2>Flashcards</h2>
-            <p>{currentSubtopic.data.flashcards.length} cards • 5 categories</p>
+            <p>{currentSubtopic.data.flashcards.length} cards · Spaced Repetition</p>
           </div>
           <div className="mode-card" onClick={() => setMode('quiz')}>
             <div className="mode-icon">📝</div>
             <h2>Quiz Mode</h2>
             <p>
-              {currentSubtopic.data.quizzes.mcq.length} MCQs + {' '}
-              {currentSubtopic.data.quizzes.comprehensive.length} Comprehensive
+              {currentSubtopic.data.quizzes.mcq.length} MCQs · {currentSubtopic.data.quizzes.comprehensive.length} Comprehensive
             </p>
           </div>
           <div className="mode-card back-card" onClick={goToSubtopics}>
-            <div className="mode-icon">⬅️</div>
+            <div className="mode-icon">←</div>
             <h2>Back to Subtopics</h2>
           </div>
         </div>
@@ -577,7 +594,8 @@ function App() {
 
       {mode === 'quiz' && currentSubtopic && (
         <QuizMode 
-          quizzes={currentSubtopic.data.quizzes} 
+          quizzes={currentSubtopic.data.quizzes}
+          subtopicId={currentSubtopic.id}
           onBack={goToSubtopicHome}
         />
       )}
